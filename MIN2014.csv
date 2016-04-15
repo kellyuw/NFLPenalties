@@ -1,0 +1,125 @@
+team,penalty,game,opponent,player,position,week,year,penaltyindex
+MIN,Offensive Holding,09/07/2014,St. Louis,G.Hodges,OLB,1,2014,MIN-2014-0
+MIN,False Start,09/07/2014,St. Louis,M.Kalil,T,1,2014,MIN-2014-1
+MIN,Unnecessary Roughness,09/07/2014,St. Louis,C.Munnerlyn,CB,1,2014,MIN-2014-2
+MIN,Offensive Holding,09/07/2014,St. Louis,C.Patterson,WR,1,2014,MIN-2014-3
+MIN,False Start,09/07/2014,St. Louis,M.Kalil,T,1,2014,MIN-2014-4
+MIN,False Start,09/07/2014,St. Louis,M.Asiata,RB,1,2014,MIN-2014-5
+MIN,Illegal Contact,09/07/2014,St. Louis,J.Brinkley,LB,1,2014,MIN-2014-6
+MIN,Defensive Pass Interference,09/07/2014,St. Louis,R.Blanton,SS,1,2014,MIN-2014-7
+MIN,Offensive Holding,09/07/2014,St. Louis,P.Loadholt,T,1,2014,MIN-2014-8
+MIN,Illegal Contact,09/07/2014,St. Louis,J.Price,CB,1,2014,MIN-2014-9
+MIN,False Start,09/14/2014,New England,B.Fusco,G,2,2014,MIN-2014-10
+MIN,False Start,09/14/2014,New England,J.Sullivan,C,2,2014,MIN-2014-11
+MIN,Offensive Pass Interference,09/14/2014,New England,G.Jennings,WR,2,2014,MIN-2014-12
+MIN,Defensive Pass Interference,09/14/2014,New England,X.Rhodes,CB,2,2014,MIN-2014-13
+MIN,Defensive Offside,09/14/2014,New England,E.Griffen,DE,2,2014,MIN-2014-14
+MIN,Defensive Holding,09/14/2014,New England,X.Rhodes,CB,2,2014,MIN-2014-15
+MIN,Defensive Pass Interference,09/14/2014,New England,X.Rhodes,CB,2,2014,MIN-2014-16
+MIN,False Start,09/14/2014,New England,G.Jennings,WR,2,2014,MIN-2014-17
+MIN,Defensive Offside,09/21/2014,New Orleans,E.Griffen,DE,3,2014,MIN-2014-18
+MIN,Illegal Block Above the Waist,09/21/2014,New Orleans,J.Robinson,CB,3,2014,MIN-2014-19
+MIN,Unnecessary Roughness,09/21/2014,New Orleans,C.Munnerlyn,CB,3,2014,MIN-2014-20
+MIN,Offensive Holding,09/21/2014,New Orleans,V.Ducasse,T,3,2014,MIN-2014-21
+MIN,False Start,09/21/2014,New Orleans,V.Ducasse,T,3,2014,MIN-2014-22
+MIN,Neutral Zone Infraction,09/21/2014,New Orleans,E.Griffen,DE,3,2014,MIN-2014-23
+MIN,Illegal Contact,09/28/2014,Atlanta,X.Rhodes,CB,4,2014,MIN-2014-24
+MIN,Illegal Use of Hands,09/28/2014,Atlanta,E.Griffen,DE,4,2014,MIN-2014-25
+MIN,False Start,09/28/2014,Atlanta,C.Johnson,WR,4,2014,MIN-2014-26
+MIN,False Start,09/28/2014,Atlanta,M.Gray,TE,4,2014,MIN-2014-27
+MIN,Offensive Holding,09/28/2014,Atlanta,V.Ducasse,T,4,2014,MIN-2014-28
+MIN,Offensive Holding,09/28/2014,Atlanta,H.Smith,FS,4,2014,MIN-2014-29
+MIN,False Start,09/28/2014,Atlanta,J.Sullivan,C,4,2014,MIN-2014-30
+MIN,Offensive Holding,10/02/2014,Green Bay,P.Loadholt,T,5,2014,MIN-2014-31
+MIN,Offensive Holding,10/02/2014,Green Bay,J.Price,CB,5,2014,MIN-2014-32
+MIN,Neutral Zone Infraction,10/02/2014,Green Bay,E.Griffen,DE,5,2014,MIN-2014-33
+MIN,Neutral Zone Infraction,10/02/2014,Green Bay,E.Griffen,DE,5,2014,MIN-2014-34
+MIN,Illegal Blindside Block,10/02/2014,Green Bay,A.Exum,CB,5,2014,MIN-2014-35
+MIN,Defensive Pass Interference,10/02/2014,Green Bay,J.Robinson,CB,5,2014,MIN-2014-36
+MIN,Unsportsmanlike Conduct,10/02/2014,Green Bay,A.Thielen,WR,5,2014,MIN-2014-37
+MIN,Offensive Holding,10/02/2014,Green Bay,M.Asiata,RB,5,2014,MIN-2014-38
+MIN,Delay of Game,10/02/2014,Green Bay,C.Ponder,QB,5,2014,MIN-2014-39
+MIN,Illegal Use of Hands,10/12/2014,Detroit,C.Munnerlyn,CB,6,2014,MIN-2014-40
+MIN,Offensive Holding,10/12/2014,Detroit,A.Exum,CB,6,2014,MIN-2014-41
+MIN,Offensive Holding,10/12/2014,Detroit,V.Ducasse,T,6,2014,MIN-2014-42
+MIN,Offensive Holding,10/12/2014,Detroit,S.Prater,CB,6,2014,MIN-2014-43
+MIN,False Start,10/12/2014,Detroit,A.Cole,MLB,6,2014,MIN-2014-44
+MIN,Defensive Holding,10/12/2014,Detroit,H.Smith,FS,6,2014,MIN-2014-45
+MIN,Defensive Holding,10/12/2014,Detroit,X.Rhodes,CB,6,2014,MIN-2014-46
+MIN,Illegal Use of Hands,10/12/2014,Detroit,J.Sullivan,C,6,2014,MIN-2014-47
+MIN,False Start,10/12/2014,Detroit,C.Patterson,WR,6,2014,MIN-2014-48
+MIN,Illegal Use of Hands,10/12/2014,Detroit,M.Kalil,T,6,2014,MIN-2014-49
+MIN,Roughing the Passer,10/19/2014,Buffalo,A.Barr,OLB,7,2014,MIN-2014-50
+MIN,False Start,10/19/2014,Buffalo,M.Kalil,T,7,2014,MIN-2014-51
+MIN,Delay of Game,10/19/2014,Buffalo,T.Bridgewater,QB,7,2014,MIN-2014-52
+MIN,Defensive Holding,10/19/2014,Buffalo,X.Rhodes,CB,7,2014,MIN-2014-53
+MIN,Illegal Touch Kick,10/19/2014,Buffalo,M.Sherels,CB,7,2014,MIN-2014-54
+MIN,Illegal Use of Hands,10/19/2014,Buffalo,M.Kalil,T,7,2014,MIN-2014-55
+MIN,Defensive Holding,10/19/2014,Buffalo,E.Griffen,DE,7,2014,MIN-2014-56
+MIN,Delay of Game,10/19/2014,Buffalo,T.Bridgewater,QB,7,2014,MIN-2014-57
+MIN,Offensive Holding,10/26/2014,Tampa Bay,J.Price,CB,8,2014,MIN-2014-58
+MIN,Offensive Holding,10/26/2014,Tampa Bay,A.Exum,CB,8,2014,MIN-2014-59
+MIN,Illegal Contact,10/26/2014,Tampa Bay,X.Rhodes,CB,8,2014,MIN-2014-60
+MIN,Offensive Pass Interference,10/26/2014,Tampa Bay,C.Ford,TE,8,2014,MIN-2014-61
+MIN,Illegal Use of Hands,10/26/2014,Tampa Bay,L.Joseph,DT,8,2014,MIN-2014-62
+MIN,Defensive Holding,10/26/2014,Tampa Bay,X.Rhodes,CB,8,2014,MIN-2014-63
+MIN,Defensive Pass Interference,10/26/2014,Tampa Bay,J.Robinson,CB,8,2014,MIN-2014-64
+MIN,Illegal Contact,11/02/2014,Washington,M.Sherels,CB,9,2014,MIN-2014-65
+MIN,Offensive Holding,11/02/2014,Washington,P.Loadholt,T,9,2014,MIN-2014-66
+MIN,Encroachment,11/02/2014,Washington,S.Floyd,DT,9,2014,MIN-2014-67
+MIN,Illegal Block Above the Waist,11/02/2014,Washington,R.Blanton,SS,9,2014,MIN-2014-68
+MIN,False Start,11/02/2014,Washington,C.Johnson,WR,9,2014,MIN-2014-69
+MIN,Ineligible Downfield Pass,11/02/2014,Washington,M.Kalil,T,9,2014,MIN-2014-70
+MIN,Unnecessary Roughness,11/02/2014,Washington,H.Smith,FS,9,2014,MIN-2014-71
+MIN,Illegal Use of Hands,11/02/2014,Washington,C.Wootton,DE,9,2014,MIN-2014-72
+MIN,Roughing the Passer,11/02/2014,Washington,L.Joseph,DT,9,2014,MIN-2014-73
+MIN,Illegal Contact,11/02/2014,Washington,C.Munnerlyn,CB,9,2014,MIN-2014-74
+MIN,Defensive Holding,11/02/2014,Washington,H.Smith,FS,9,2014,MIN-2014-75
+MIN,Defensive Pass Interference,11/16/2014,Chicago,J.Robinson,CB,11,2014,MIN-2014-76
+MIN,Offensive Holding,11/16/2014,Chicago,X.Rhodes,CB,11,2014,MIN-2014-77
+MIN,Defensive Offside,11/16/2014,Chicago,B.Robison,DE,11,2014,MIN-2014-78
+MIN,Offensive Holding,11/16/2014,Chicago,K.Rudolph,TE,11,2014,MIN-2014-79
+MIN,Intentional Grounding,11/23/2014,Green Bay,T.Bridgewater,QB,12,2014,MIN-2014-80
+MIN,Defensive Pass Interference,11/23/2014,Green Bay,H.Smith,FS,12,2014,MIN-2014-81
+MIN,Defensive Holding,11/23/2014,Green Bay,J.Brinkley,LB,12,2014,MIN-2014-82
+MIN,Face Mask (15 Yards),11/23/2014,Green Bay,M.Kalil,T,12,2014,MIN-2014-83
+MIN,Offensive Holding,11/23/2014,Green Bay,M.Kalil,T,12,2014,MIN-2014-84
+MIN,Roughing the Passer,11/23/2014,Green Bay,L.Joseph,DT,12,2014,MIN-2014-85
+MIN,Defensive Holding,11/23/2014,Green Bay,C.Munnerlyn,CB,12,2014,MIN-2014-86
+MIN,Offensive Holding,11/23/2014,Green Bay,M.Kalil,T,12,2014,MIN-2014-87
+MIN,Neutral Zone Infraction,11/30/2014,Carolina,E.Griffen,DE,13,2014,MIN-2014-88
+MIN,Illegal Contact,11/30/2014,Carolina,R.Blanton,SS,13,2014,MIN-2014-89
+MIN,False Start,11/30/2014,Carolina,K.Rudolph,TE,13,2014,MIN-2014-90
+MIN,Delay of Game,11/30/2014,Carolina,T.Bridgewater,QB,13,2014,MIN-2014-91
+MIN,Delay of Game,11/30/2014,Carolina,J.Locke,P,13,2014,MIN-2014-92
+MIN,False Start,12/07/2014,N.Y. Jets,J.Berger,C,14,2014,MIN-2014-93
+MIN,Defensive Pass Interference,12/07/2014,N.Y. Jets,C.Munnerlyn,CB,14,2014,MIN-2014-94
+MIN,Unsportsmanlike Conduct,12/07/2014,N.Y. Jets,M.Kalil,T,14,2014,MIN-2014-95
+MIN,Defensive Holding,12/07/2014,N.Y. Jets,G.Hodges,OLB,14,2014,MIN-2014-96
+MIN,Neutral Zone Infraction,12/07/2014,N.Y. Jets,E.Griffen,DE,14,2014,MIN-2014-97
+MIN,Defensive Holding,12/07/2014,N.Y. Jets,X.Rhodes,CB,14,2014,MIN-2014-98
+MIN,Defensive Pass Interference,12/07/2014,N.Y. Jets,C.Munnerlyn,CB,14,2014,MIN-2014-99
+MIN,Illegal Block Above the Waist,12/07/2014,N.Y. Jets,A.Cole,MLB,14,2014,MIN-2014-100
+MIN,Offensive Holding,12/07/2014,N.Y. Jets,M.Kalil,T,14,2014,MIN-2014-101
+MIN,Offensive Holding,12/14/2014,Detroit,M.Kalil,T,15,2014,MIN-2014-102
+MIN,Offensive Holding,12/14/2014,Detroit,V.Ducasse,T,15,2014,MIN-2014-103
+MIN,Delay of Game,12/14/2014,Detroit,T.Bridgewater,QB,15,2014,MIN-2014-104
+MIN,Defensive Offside,12/21/2014,Miami,S.Floyd,DT,16,2014,MIN-2014-105
+MIN,Illegal Use of Hands,12/21/2014,Miami,T.Johnson,DT,16,2014,MIN-2014-106
+MIN,Defensive Holding,12/21/2014,Miami,C.Greenway,OLB,16,2014,MIN-2014-107
+MIN,Offensive Holding,12/21/2014,Miami,M.Harris,G,16,2014,MIN-2014-108
+MIN,Defensive Offside,12/21/2014,Miami,E.Griffen,DE,16,2014,MIN-2014-109
+MIN,Personal Foul,12/21/2014,Miami,S.Floyd,DT,16,2014,MIN-2014-110
+MIN,Roughing the Passer,12/21/2014,Miami,S.Floyd,DT,16,2014,MIN-2014-111
+MIN,Offensive Pass Interference,12/21/2014,Miami,C.Johnson,WR,16,2014,MIN-2014-112
+MIN,Defensive Holding,12/21/2014,Miami,X.Rhodes,CB,16,2014,MIN-2014-113
+MIN,Defensive Offside,12/21/2014,Miami,E.Griffen,DE,16,2014,MIN-2014-114
+MIN,Unnecessary Roughness,12/21/2014,Miami,G.Hodges,OLB,16,2014,MIN-2014-115
+MIN,Defensive Holding,12/21/2014,Miami,C.Munnerlyn,CB,16,2014,MIN-2014-116
+MIN,Defensive Pass Interference,12/21/2014,Miami,J.Robinson,CB,16,2014,MIN-2014-117
+MIN,Defensive Pass Interference,12/21/2014,Miami,X.Rhodes,CB,16,2014,MIN-2014-118
+MIN,False Start,12/28/2014,Chicago,R.Ellison,TE,17,2014,MIN-2014-119
+MIN,Offensive Pass Interference,12/28/2014,Chicago,C.Johnson,WR,17,2014,MIN-2014-120
+MIN,Offensive Holding,12/28/2014,Chicago,J.Sullivan,C,17,2014,MIN-2014-121
+MIN,False Start,12/28/2014,Chicago,K.Rudolph,TE,17,2014,MIN-2014-122
+MIN,Defensive Offside,12/28/2014,Chicago,C.Wootton,DE,17,2014,MIN-2014-123

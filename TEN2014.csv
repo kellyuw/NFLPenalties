@@ -1,0 +1,136 @@
+team,penalty,game,opponent,player,position,week,year,penaltyindex
+TEN,False Start,09/07/2014,Kansas City,M.Roos,T,1,2014,TEN-2014-0
+TEN,Ineligible Downfield Kick,09/07/2014,Kansas City,B.Brinkley,LS,1,2014,TEN-2014-1
+TEN,Illegal Contact,09/07/2014,Kansas City,B.Pollard,SS,1,2014,TEN-2014-2
+TEN,Delay of Game,09/07/2014,Kansas City,J.Locker,QB,1,2014,TEN-2014-3
+TEN,Defensive Holding,09/07/2014,Kansas City,D.Morgan,OLB,1,2014,TEN-2014-4
+TEN,Unnecessary Roughness,09/07/2014,Kansas City,S.Phillips,OLB,1,2014,TEN-2014-5
+TEN,Offensive Holding,09/07/2014,Kansas City,T.Thompson,TE,1,2014,TEN-2014-6
+TEN,Offensive Holding,09/07/2014,Kansas City,C.Warmack,G,1,2014,TEN-2014-7
+TEN,Offensive Holding,09/07/2014,Kansas City,M.Roos,T,1,2014,TEN-2014-8
+TEN,Unnecessary Roughness,09/07/2014,Kansas City,G.Wilson,SS,1,2014,TEN-2014-9
+TEN,Taunting,09/07/2014,Kansas City,B.Wreh-Wilson,CB,1,2014,TEN-2014-10
+TEN,False Start,09/07/2014,Kansas City,C.Warmack,G,1,2014,TEN-2014-11
+TEN,Offensive Holding,09/07/2014,Kansas City,M.Oher,T,1,2014,TEN-2014-12
+TEN,Face Mask (15 Yards),09/07/2014,Kansas City,T.Lewan,T,1,2014,TEN-2014-13
+TEN,Personal Foul,09/14/2014,Dallas,B.Pollard,SS,2,2014,TEN-2014-14
+TEN,False Start,09/14/2014,Dallas,T.Thompson,TE,2,2014,TEN-2014-15
+TEN,Defensive Pass Interference,09/14/2014,Dallas,B.Wreh-Wilson,CB,2,2014,TEN-2014-16
+TEN,Defensive Offside,09/14/2014,Dallas,M.Martin,FS,2,2014,TEN-2014-17
+TEN,False Start,09/21/2014,Cincinnati,A.Levitre,G,3,2014,TEN-2014-18
+TEN,Defensive Pass Interference,09/21/2014,Cincinnati,B.Wreh-Wilson,CB,3,2014,TEN-2014-19
+TEN,Offensive Holding,09/21/2014,Cincinnati,Q.Groves,LB,3,2014,TEN-2014-20
+TEN,Face Mask (15 Yards),09/21/2014,Cincinnati,B.Wreh-Wilson,CB,3,2014,TEN-2014-21
+TEN,Defensive Pass Interference,09/21/2014,Cincinnati,B.Wreh-Wilson,CB,3,2014,TEN-2014-22
+TEN,False Start,09/21/2014,Cincinnati,M.Roos,T,3,2014,TEN-2014-23
+TEN,Unnecessary Roughness,09/21/2014,Cincinnati,M.Oher,T,3,2014,TEN-2014-24
+TEN,Offensive Holding,09/21/2014,Cincinnati,A.Levitre,G,3,2014,TEN-2014-25
+TEN,Illegal Use of Hands,09/21/2014,Cincinnati,B.Wreh-Wilson,CB,3,2014,TEN-2014-26
+TEN,Neutral Zone Infraction,09/21/2014,Cincinnati,W.Woodyard,ILB,3,2014,TEN-2014-27
+TEN,Offensive Holding,09/21/2014,Cincinnati,A.Levitre,G,3,2014,TEN-2014-28
+TEN,Unnecessary Roughness,09/21/2014,Cincinnati,W.Woodyard,ILB,3,2014,TEN-2014-29
+TEN,Defensive Pass Interference,09/28/2014,Indianapolis,B.Wreh-Wilson,CB,4,2014,TEN-2014-30
+TEN,Defensive Offside,09/28/2014,Indianapolis,D.Morgan,OLB,4,2014,TEN-2014-31
+TEN,Roughing the Passer,09/28/2014,Indianapolis,J.Casey,DT,4,2014,TEN-2014-32
+TEN,False Start,09/28/2014,Indianapolis,B.Schwenke,C,4,2014,TEN-2014-33
+TEN,Defensive 12 On-field,09/28/2014,Indianapolis,A.Williamson,ILB,4,2014,TEN-2014-34
+TEN,Offensive Holding,09/28/2014,Indianapolis,L.Washington,RB,4,2014,TEN-2014-35
+TEN,Defensive Pass Interference,09/28/2014,Indianapolis,B.Wreh-Wilson,CB,4,2014,TEN-2014-36
+TEN,Defensive Holding,09/28/2014,Indianapolis,Q.Groves,LB,4,2014,TEN-2014-37
+TEN,False Start,09/28/2014,Indianapolis,A.Levitre,G,4,2014,TEN-2014-38
+TEN,Offensive Holding,10/05/2014,Cleveland,D.Walker,TE,5,2014,TEN-2014-39
+TEN,False Start,10/05/2014,Cleveland,C.Warmack,G,5,2014,TEN-2014-40
+TEN,Unnecessary Roughness,10/05/2014,Cleveland,M.Oher,T,5,2014,TEN-2014-41
+TEN,Unnecessary Roughness,10/05/2014,Cleveland,T.Lewan,T,5,2014,TEN-2014-42
+TEN,Defensive Pass Interference,10/05/2014,Cleveland,B.Harris,DB,5,2014,TEN-2014-43
+TEN,Unnecessary Roughness,10/05/2014,Cleveland,A.Levitre,G,5,2014,TEN-2014-44
+TEN,Personal Foul,10/05/2014,Cleveland,B.Brinkley,LS,5,2014,TEN-2014-45
+TEN,False Start,10/05/2014,Cleveland,A.Levitre,G,5,2014,TEN-2014-46
+TEN,Unsportsmanlike Conduct,10/05/2014,Cleveland,M.Huff,FS,5,2014,TEN-2014-47
+TEN,Defensive Pass Interference,10/05/2014,Cleveland,B.Harris,DB,5,2014,TEN-2014-48
+TEN,Disqualification,10/05/2014,Cleveland,D.Morgan,OLB,5,2014,TEN-2014-49
+TEN,Illegal Contact,10/05/2014,Cleveland,B.Harris,DB,5,2014,TEN-2014-50
+TEN,Illegal Contact,10/05/2014,Cleveland,A.Williamson,ILB,5,2014,TEN-2014-51
+TEN,Defensive Holding,10/05/2014,Cleveland,S.Phillips,OLB,5,2014,TEN-2014-52
+TEN,Defensive Pass Interference,10/12/2014,Jacksonville,D.Stafford,SS,6,2014,TEN-2014-53
+TEN,Intentional Grounding,10/12/2014,Jacksonville,C.Whitehurst,QB,6,2014,TEN-2014-54
+TEN,Offensive Holding,10/12/2014,Jacksonville,C.Warmack,G,6,2014,TEN-2014-55
+TEN,Illegal Block Above the Waist,10/12/2014,Jacksonville,Z.Gooden,ILB,6,2014,TEN-2014-56
+TEN,Offensive Pass Interference,10/12/2014,Jacksonville,K.Wright,WR,6,2014,TEN-2014-57
+TEN,Defensive Pass Interference,10/12/2014,Jacksonville,M.Griffin,FS,6,2014,TEN-2014-58
+TEN,Illegal Use of Hands,10/19/2014,Washington,B.Schwenke,C,7,2014,TEN-2014-59
+TEN,Illegal Use of Hands,10/19/2014,Washington,SamL.Hill,NT,7,2014,TEN-2014-60
+TEN,Offensive Holding,10/19/2014,Washington,C.Warmack,G,7,2014,TEN-2014-61
+TEN,Illegal Use of Hands,10/19/2014,Washington,M.Griffin,FS,7,2014,TEN-2014-62
+TEN,Offensive Holding,10/19/2014,Washington,C.Spencer,C,7,2014,TEN-2014-63
+TEN,Offside on Free Kick,10/19/2014,Washington,M.Huff,FS,7,2014,TEN-2014-64
+TEN,False Start,10/19/2014,Washington,M.Oher,T,7,2014,TEN-2014-65
+TEN,Offensive Holding,10/19/2014,Washington,A.Levitre,G,7,2014,TEN-2014-66
+TEN,Neutral Zone Infraction,10/19/2014,Washington,J.Casey,DT,7,2014,TEN-2014-67
+TEN,Illegal Use of Hands,10/19/2014,Washington,B.Schwenke,C,7,2014,TEN-2014-68
+TEN,Illegal Use of Hands,10/19/2014,Washington,S.Phillips,OLB,7,2014,TEN-2014-69
+TEN,Defensive Pass Interference,10/19/2014,Washington,J.McCourty,CB,7,2014,TEN-2014-70
+TEN,Defensive Offside,10/19/2014,Washington,M.Griffin,FS,7,2014,TEN-2014-71
+TEN,Defensive Pass Interference,10/26/2014,Houston,B.Wreh-Wilson,CB,8,2014,TEN-2014-72
+TEN,Face Mask (15 Yards),10/26/2014,Houston,T.Lewan,T,8,2014,TEN-2014-73
+TEN,Offensive Holding,10/26/2014,Houston,R.Gordon,TE,8,2014,TEN-2014-74
+TEN,Offensive Holding,10/26/2014,Houston,M.Oher,T,8,2014,TEN-2014-75
+TEN,Offensive Holding,10/26/2014,Houston,Q.Groves,LB,8,2014,TEN-2014-76
+TEN,Illegal Formation,10/26/2014,Houston,T.Lewan,T,8,2014,TEN-2014-77
+TEN,Defensive Offside,10/26/2014,Houston,J.Casey,DT,8,2014,TEN-2014-78
+TEN,False Start,11/09/2014,Baltimore,R.Gordon,TE,10,2014,TEN-2014-79
+TEN,Offensive Pass Interference,11/09/2014,Baltimore,J.Hunter,WR,10,2014,TEN-2014-80
+TEN,Illegal Block Above the Waist,11/09/2014,Baltimore,Z.Gooden,ILB,10,2014,TEN-2014-81
+TEN,Personal Foul,11/09/2014,Baltimore,L.Washington,RB,10,2014,TEN-2014-82
+TEN,False Start,11/09/2014,Baltimore,C.Warmack,G,10,2014,TEN-2014-83
+TEN,Illegal Block Above the Waist,11/09/2014,Baltimore,C.Sensabaugh,CB,10,2014,TEN-2014-84
+TEN,Illegal Block Above the Waist,11/09/2014,Baltimore,J.Anderson,LB,10,2014,TEN-2014-85
+TEN,Illegal Formation,11/09/2014,Baltimore,Q.Groves,LB,10,2014,TEN-2014-86
+TEN,Delay of Game,11/09/2014,Baltimore,Z.Mettenberger,QB,10,2014,TEN-2014-87
+TEN,Defensive Holding,11/09/2014,Baltimore,B.Wreh-Wilson,CB,10,2014,TEN-2014-88
+TEN,Offensive Holding,11/17/2014,Pittsburgh,C.Warmack,G,11,2014,TEN-2014-89
+TEN,Offensive Pass Interference,11/23/2014,Philadelphia,K.Wright,WR,12,2014,TEN-2014-90
+TEN,Defensive Pass Interference,11/23/2014,Philadelphia,M.Griffin,FS,12,2014,TEN-2014-91
+TEN,Offensive Holding,11/23/2014,Philadelphia,D.Walker,TE,12,2014,TEN-2014-92
+TEN,Offensive Holding,11/23/2014,Philadelphia,T.Lewan,T,12,2014,TEN-2014-93
+TEN,Offensive Holding,11/23/2014,Philadelphia,M.Oher,T,12,2014,TEN-2014-94
+TEN,Delay of Game,11/23/2014,Philadelphia,T.Lewan,T,12,2014,TEN-2014-95
+TEN,Offensive Pass Interference,11/23/2014,Philadelphia,N.Washington,WR,12,2014,TEN-2014-96
+TEN,False Start,11/23/2014,Philadelphia,B.Stingily,T,12,2014,TEN-2014-97
+TEN,Defensive Holding,11/30/2014,Houston,A.Williamson,ILB,13,2014,TEN-2014-98
+TEN,Offensive Holding,11/30/2014,Houston,E.Olsen,G,13,2014,TEN-2014-99
+TEN,Offensive Holding,11/30/2014,Houston,J.Staples,LB,13,2014,TEN-2014-100
+TEN,Offensive Holding,11/30/2014,Houston,D.Walker,TE,13,2014,TEN-2014-101
+TEN,Unsportsmanlike Conduct,11/30/2014,Houston,K.Wright,WR,13,2014,TEN-2014-102
+TEN,Defensive Pass Interference,11/30/2014,Houston,B.Wreh-Wilson,CB,13,2014,TEN-2014-103
+TEN,Unsportsmanlike Conduct,11/30/2014,Houston,J.Staples,LB,13,2014,TEN-2014-104
+TEN,Offensive Pass Interference,11/30/2014,Houston,D.Hagan,WR,13,2014,TEN-2014-105
+TEN,False Start,11/30/2014,Houston,A.Levitre,G,13,2014,TEN-2014-106
+TEN,Illegal Use of Hands,12/07/2014,N.Y. Giants,T.Jones,T,14,2014,TEN-2014-107
+TEN,Neutral Zone Infraction,12/07/2014,N.Y. Giants,K.Klug,DE,14,2014,TEN-2014-108
+TEN,Illegal Use of Hands,12/07/2014,N.Y. Giants,B.Stingily,T,14,2014,TEN-2014-109
+TEN,False Start,12/07/2014,N.Y. Giants,C.Spencer,C,14,2014,TEN-2014-110
+TEN,Face Mask (15 Yards),12/07/2014,N.Y. Giants,M.Huff,FS,14,2014,TEN-2014-111
+TEN,False Start,12/07/2014,N.Y. Giants,C.Spencer,C,14,2014,TEN-2014-112
+TEN,Illegal Formation,12/14/2014,N.Y. Jets,J.Meredith,T,15,2014,TEN-2014-113
+TEN,Illegal Block Above the Waist,12/14/2014,N.Y. Jets,K.Wooten,CB,15,2014,TEN-2014-114
+TEN,Running Into the Kicker,12/14/2014,N.Y. Jets,K.Burnett,LB,15,2014,TEN-2014-115
+TEN,Offensive Holding,12/14/2014,N.Y. Jets,J.Staples,LB,15,2014,TEN-2014-116
+TEN,Unnecessary Roughness,12/14/2014,N.Y. Jets,J.Casey,DT,15,2014,TEN-2014-117
+TEN,Offensive Holding,12/14/2014,N.Y. Jets,A.Levitre,G,15,2014,TEN-2014-118
+TEN,Unsportsmanlike Conduct,12/14/2014,N.Y. Jets,W.Woodyard,ILB,15,2014,TEN-2014-119
+TEN,Defensive Pass Interference,12/14/2014,N.Y. Jets,C.Sensabaugh,CB,15,2014,TEN-2014-120
+TEN,Defensive Offside,12/14/2014,N.Y. Jets,D.Morgan,OLB,15,2014,TEN-2014-121
+TEN,False Start,12/18/2014,Jacksonville,C.Warmack,G,16,2014,TEN-2014-122
+TEN,Delay of Game,12/18/2014,Jacksonville,C.Whitehurst,QB,16,2014,TEN-2014-123
+TEN,Illegal Block Above the Waist,12/18/2014,Jacksonville,M.Huff,FS,16,2014,TEN-2014-124
+TEN,Defensive Offside,12/18/2014,Jacksonville,Q.Groves,LB,16,2014,TEN-2014-125
+TEN,Face Mask (15 Yards),12/18/2014,Jacksonville,G.Wilson,SS,16,2014,TEN-2014-126
+TEN,Defensive Offside,12/18/2014,Jacksonville,M.Griffin,FS,16,2014,TEN-2014-127
+TEN,Defensive Holding,12/18/2014,Jacksonville,A.Williamson,ILB,16,2014,TEN-2014-128
+TEN,Neutral Zone Infraction,12/18/2014,Jacksonville,M.Griffin,FS,16,2014,TEN-2014-129
+TEN,Defensive Pass Interference,12/18/2014,Jacksonville,C.Sensabaugh,CB,16,2014,TEN-2014-130
+TEN,Neutral Zone Infraction,12/28/2014,Indianapolis,Q.Groves,LB,17,2014,TEN-2014-131
+TEN,Encroachment,12/28/2014,Indianapolis,A.Woods,NT,17,2014,TEN-2014-132
+TEN,Ineligible Downfield Kick,12/28/2014,Indianapolis,W.Woodyard,ILB,17,2014,TEN-2014-133
+TEN,Delay of Game,12/28/2014,Indianapolis,C.Whitehurst,QB,17,2014,TEN-2014-134

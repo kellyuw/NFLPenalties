@@ -1,0 +1,116 @@
+team,penalty,game,opponent,player,position,week,year,penaltyindex
+NYG,Illegal Use of Hands,09/13/2015,Dallas,R.Ayers Jr.,DE,1,2015,NYG-2015-0
+NYG,Offensive Holding,09/13/2015,Dallas,D.Moore,DE,1,2015,NYG-2015-1
+NYG,Unnecessary Roughness,09/13/2015,Dallas,C.Jenkins,DT,1,2015,NYG-2015-2
+NYG,False Start,09/13/2015,Dallas,E.Flowers,T,1,2015,NYG-2015-3
+NYG,Defensive Pass Interference,09/13/2015,Dallas,D.Rodgers-Cromartie,CB,1,2015,NYG-2015-4
+NYG,Illegal Formation,09/13/2015,Dallas,E.Flowers,T,1,2015,NYG-2015-5
+NYG,False Start,09/20/2015,Atlanta,E.Flowers,T,2,2015,NYG-2015-6
+NYG,False Start,09/20/2015,Atlanta,N.Whitlock,RB,2,2015,NYG-2015-7
+NYG,Illegal Motion,09/20/2015,Atlanta,D.Harris,WR,2,2015,NYG-2015-8
+NYG,Defensive Holding,09/20/2015,Atlanta,T.McBride,CB,2,2015,NYG-2015-9
+NYG,Offensive Holding,09/20/2015,Atlanta,E.Flowers,T,2,2015,NYG-2015-10
+NYG,Delay of Game,09/20/2015,Atlanta,E.Manning,QB,2,2015,NYG-2015-11
+NYG,Defensive Holding,09/20/2015,Atlanta,J.Casillas,LB,2,2015,NYG-2015-12
+NYG,Defensive Holding,09/20/2015,Atlanta,J.Casillas,LB,2,2015,NYG-2015-13
+NYG,Illegal Touch Pass,09/20/2015,Atlanta,G.Schwartz,G,2,2015,NYG-2015-14
+NYG,Running Into the Kicker,09/24/2015,Washington,R.Jennings,RB,3,2015,NYG-2015-15
+NYG,Offensive Holding,09/24/2015,Washington,M.Herzlich,OLB,3,2015,NYG-2015-16
+NYG,Offensive Holding,09/24/2015,Washington,W.Richburg,C,3,2015,NYG-2015-17
+NYG,Offensive Pass Interference,09/24/2015,Washington,D.Harris,WR,3,2015,NYG-2015-18
+NYG,False Start,09/24/2015,Washington,J.Pugh,G,3,2015,NYG-2015-19
+NYG,Offensive Holding,09/24/2015,Washington,M.Newhouse,G,3,2015,NYG-2015-20
+NYG,Illegal Use of Hands,09/24/2015,Washington,J.Hosley,CB,3,2015,NYG-2015-21
+NYG,Illegal Contact,09/24/2015,Washington,L.Collins,SS,3,2015,NYG-2015-22
+NYG,Defensive Pass Interference,09/24/2015,Washington,P.Amukamara,CB,3,2015,NYG-2015-23
+NYG,Defensive Pass Interference,09/24/2015,Washington,J.Casillas,LB,3,2015,NYG-2015-24
+NYG,False Start,10/04/2015,Buffalo,L.Donnell,TE,4,2015,NYG-2015-25
+NYG,Offensive Pass Interference,10/04/2015,Buffalo,S.Vereen,RB,4,2015,NYG-2015-26
+NYG,Delay of Game,10/04/2015,Buffalo,E.Manning,QB,4,2015,NYG-2015-27
+NYG,False Start,10/04/2015,Buffalo,G.Schwartz,G,4,2015,NYG-2015-28
+NYG,Ineligible Downfield Pass,10/04/2015,Buffalo,G.Schwartz,G,4,2015,NYG-2015-29
+NYG,Delay of Game,10/04/2015,Buffalo,E.Manning,QB,4,2015,NYG-2015-30
+NYG,Defensive Pass Interference,10/04/2015,Buffalo,J.Hosley,CB,4,2015,NYG-2015-31
+NYG,False Start,10/04/2015,Buffalo,E.Flowers,T,4,2015,NYG-2015-32
+NYG,Offensive Holding,10/04/2015,Buffalo,M.Newhouse,G,4,2015,NYG-2015-33
+NYG,Defensive Offside,10/04/2015,Buffalo,D.Moore,DE,4,2015,NYG-2015-34
+NYG,Illegal Block Above the Waist,10/11/2015,San Francisco,G.Davis,WR,5,2015,NYG-2015-35
+NYG,Defensive Holding,10/11/2015,San Francisco,P.Amukamara,CB,5,2015,NYG-2015-36
+NYG,Offensive Holding,10/11/2015,San Francisco,M.Newhouse,G,5,2015,NYG-2015-37
+NYG,Defensive Pass Interference,10/11/2015,San Francisco,L.Collins,SS,5,2015,NYG-2015-38
+NYG,Offensive Holding,10/11/2015,San Francisco,M.Newhouse,G,5,2015,NYG-2015-39
+NYG,Defensive Holding,10/11/2015,San Francisco,D.Rodgers-Cromartie,CB,5,2015,NYG-2015-40
+NYG,False Start,10/19/2015,Philadelphia,J.Brown,K,6,2015,NYG-2015-41
+NYG,Roughing the Passer,10/19/2015,Philadelphia,D.Moore,DE,6,2015,NYG-2015-42
+NYG,Defensive Holding,10/19/2015,Philadelphia,R.Jennings,RB,6,2015,NYG-2015-43
+NYG,Intentional Grounding,10/19/2015,Philadelphia,E.Manning,QB,6,2015,NYG-2015-44
+NYG,Neutral Zone Infraction,10/19/2015,Philadelphia,G.Selvie,DE,6,2015,NYG-2015-45
+NYG,Roughing the Passer,10/19/2015,Philadelphia,C.Jenkins,DT,6,2015,NYG-2015-46
+NYG,Running Into the Kicker,10/19/2015,Philadelphia,N.Whitlock,RB,6,2015,NYG-2015-47
+NYG,Offensive Holding,10/19/2015,Philadelphia,J.Casillas,LB,6,2015,NYG-2015-48
+NYG,Intentional Grounding,10/19/2015,Philadelphia,E.Manning,QB,6,2015,NYG-2015-49
+NYG,False Start,10/19/2015,Philadelphia,M.Newhouse,G,6,2015,NYG-2015-50
+NYG,Offensive Pass Interference,10/19/2015,Philadelphia,L.Donnell,TE,6,2015,NYG-2015-51
+NYG,Illegal Touch Pass,10/19/2015,Philadelphia,M.Newhouse,G,6,2015,NYG-2015-52
+NYG,Defensive Holding,10/25/2015,Dallas,D.Rodgers,CB,7,2015,NYG-2015-53
+NYG,Defensive Holding,10/25/2015,Dallas,D.Kennard,OLB,7,2015,NYG-2015-54
+NYG,Unnecessary Roughness,10/25/2015,Dallas,J.Thomas,OLB,7,2015,NYG-2015-55
+NYG,False Start,11/01/2015,New Orleans,Z.DeOssie,LS,8,2015,NYG-2015-56
+NYG,Neutral Zone Infraction,11/01/2015,New Orleans,J.Hankins,DT,8,2015,NYG-2015-57
+NYG,Roughing the Passer,11/01/2015,New Orleans,D.Moore,DE,8,2015,NYG-2015-58
+NYG,Offensive Holding,11/01/2015,New Orleans,J.Pugh,G,8,2015,NYG-2015-59
+NYG,Offensive Holding,11/01/2015,New Orleans,G.Schwartz,G,8,2015,NYG-2015-60
+NYG,Ineligible Downfield Pass,11/01/2015,New Orleans,W.Richburg,C,8,2015,NYG-2015-61
+NYG,Offensive Holding,11/01/2015,New Orleans,J.Jerry,G,8,2015,NYG-2015-62
+NYG,Face Mask (15 Yards),11/01/2015,New Orleans,B.Wing,P,8,2015,NYG-2015-63
+NYG,Defensive Holding,11/08/2015,Tampa Bay,J.Hosley,CB,9,2015,NYG-2015-64
+NYG,Offensive Holding,11/08/2015,Tampa Bay,E.Flowers,T,9,2015,NYG-2015-65
+NYG,Unnecessary Roughness,11/08/2015,Tampa Bay,B.Meriweather,SS,9,2015,NYG-2015-66
+NYG,Neutral Zone Infraction,11/08/2015,Tampa Bay,J.Pierre-Paul,DE,9,2015,NYG-2015-67
+NYG,Roughing the Passer,11/08/2015,Tampa Bay,D.Moore,DE,9,2015,NYG-2015-68
+NYG,Delay of Game,11/08/2015,Tampa Bay,B.Wing,P,9,2015,NYG-2015-69
+NYG,Defensive Holding,11/08/2015,Tampa Bay,T.Wade,DB,9,2015,NYG-2015-70
+NYG,Offensive Holding,11/15/2015,New England,O.Darkwa,RB,10,2015,NYG-2015-71
+NYG,Illegal Block Above the Waist,11/15/2015,New England,J.Morris,LB,10,2015,NYG-2015-72
+NYG,Illegal Use of Hands,11/15/2015,New England,E.Flowers,T,10,2015,NYG-2015-73
+NYG,False Start,11/15/2015,New England,W.Richburg,C,10,2015,NYG-2015-74
+NYG,Defensive Pass Interference,11/15/2015,New England,T.McBride,CB,10,2015,NYG-2015-75
+NYG,False Start,11/15/2015,New England,D.Reynolds,G,10,2015,NYG-2015-76
+NYG,Offensive Pass Interference,11/15/2015,New England,R.Randle,WR,10,2015,NYG-2015-77
+NYG,Delay of Game,11/29/2015,Washington,E.Manning,QB,12,2015,NYG-2015-78
+NYG,Offensive Holding,11/29/2015,Washington,J.Jerry,G,12,2015,NYG-2015-79
+NYG,Offensive Holding,11/29/2015,Washington,M.Newhouse,G,12,2015,NYG-2015-80
+NYG,Roughing the Passer,11/29/2015,Washington,J.Bromley,DT,12,2015,NYG-2015-81
+NYG,False Start,11/29/2015,Washington,M.Hughes,DT,12,2015,NYG-2015-82
+NYG,Illegal Use of Hands,12/06/2015,N.Y. Jets,T.McBride,CB,13,2015,NYG-2015-83
+NYG,False Start,12/06/2015,N.Y. Jets,W.Tye,TE,13,2015,NYG-2015-84
+NYG,Offensive Holding,12/06/2015,N.Y. Jets,E.Flowers,T,13,2015,NYG-2015-85
+NYG,Neutral Zone Infraction,12/06/2015,N.Y. Jets,J.Pierre-Paul,DE,13,2015,NYG-2015-86
+NYG,False Start,12/06/2015,N.Y. Jets,J.Pugh,G,13,2015,NYG-2015-87
+NYG,Unnecessary Roughness,12/06/2015,N.Y. Jets,J.Pugh,G,13,2015,NYG-2015-88
+NYG,Offensive Holding,12/06/2015,N.Y. Jets,W.Richburg,C,13,2015,NYG-2015-89
+NYG,Delay of Game,12/06/2015,N.Y. Jets,O.Beckham Jr.,WR,13,2015,NYG-2015-90
+NYG,Encroachment,12/14/2015,Miami,C.Jenkins,DT,14,2015,NYG-2015-91
+NYG,Offensive Pass Interference,12/14/2015,Miami,O.Beckham Jr.,WR,14,2015,NYG-2015-92
+NYG,Unsportsmanlike Conduct,12/14/2015,Miami,M.Newhouse,G,14,2015,NYG-2015-93
+NYG,Offensive Holding,12/20/2015,Carolina,T.Jacobs,DB,15,2015,NYG-2015-94
+NYG,Unnecessary Roughness,12/20/2015,Carolina,L.Collins,SS,15,2015,NYG-2015-95
+NYG,Illegal Block Above the Waist,12/20/2015,Carolina,P.Amukamara,CB,15,2015,NYG-2015-96
+NYG,Unnecessary Roughness,12/20/2015,Carolina,O.Beckham Jr.,WR,15,2015,NYG-2015-97
+NYG,Offensive Pass Interference,12/20/2015,Carolina,W.Tye,TE,15,2015,NYG-2015-98
+NYG,Offensive Pass Interference,12/20/2015,Carolina,O.Beckham Jr.,WR,15,2015,NYG-2015-99
+NYG,Unnecessary Roughness,12/20/2015,Carolina,O.Beckham Jr.,WR,15,2015,NYG-2015-100
+NYG,False Start,12/20/2015,Carolina,M.White,WR,15,2015,NYG-2015-101
+NYG,Unnecessary Roughness,12/20/2015,Carolina,O.Beckham Jr.,WR,15,2015,NYG-2015-102
+NYG,Defensive Offside,12/27/2015,Minnesota,J.Bromley,DT,16,2015,NYG-2015-103
+NYG,Delay of Game,12/27/2015,Minnesota,E.Manning,QB,16,2015,NYG-2015-104
+NYG,Defensive Offside,12/27/2015,Minnesota,R.Ayers Jr.,DE,16,2015,NYG-2015-105
+NYG,False Start,12/27/2015,Minnesota,M.Newhouse,G,16,2015,NYG-2015-106
+NYG,Unnecessary Roughness,12/27/2015,Minnesota,E.Flowers,T,16,2015,NYG-2015-107
+NYG,Offensive Holding,12/27/2015,Minnesota,E.Flowers,T,16,2015,NYG-2015-108
+NYG,Illegal Use of Hands,12/27/2015,Minnesota,J.Pugh,G,16,2015,NYG-2015-109
+NYG,Disqualification,12/27/2015,Minnesota,J.Thomas,OLB,16,2015,NYG-2015-110
+NYG,Illegal Shift,12/27/2015,Minnesota,W.Tye,TE,16,2015,NYG-2015-111
+NYG,Offensive Holding,01/03/2016,Philadelphia,J.Jerry,G,17,2015,NYG-2015-112
+NYG,Neutral Zone Infraction,01/03/2016,Philadelphia,G.Selvie,DE,17,2015,NYG-2015-113
+NYG,False Start,01/03/2016,Philadelphia,O.Beckham Jr.,WR,17,2015,NYG-2015-114

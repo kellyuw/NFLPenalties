@@ -1,0 +1,114 @@
+team,penalty,game,opponent,player,position,week,year,penaltyindex
+NO,Unnecessary Roughness,09/08/2013,Atlanta,K.Vaccaro,SS,1,2013,NO-2013-0
+NO,Offensive Holding,09/08/2013,Atlanta,J.Evans,G,1,2013,NO-2013-1
+NO,Offensive Holding,09/08/2013,Atlanta,J.Evans,G,1,2013,NO-2013-2
+NO,Offensive Holding,09/08/2013,Atlanta,W.Herring,LB,1,2013,NO-2013-3
+NO,Offensive Holding,09/08/2013,Atlanta,C.Brown,T,1,2013,NO-2013-4
+NO,Illegal Block Above the Waist,09/08/2013,Atlanta,J.Greer,CB,1,2013,NO-2013-5
+NO,Defensive Holding,09/15/2013,Tampa Bay,W.Herring,LB,2,2013,NO-2013-6
+NO,False Start,09/15/2013,Tampa Bay,M.Ingram,RB,2,2013,NO-2013-7
+NO,Offensive Holding,09/15/2013,Tampa Bay,Z.Strief,T,2,2013,NO-2013-8
+NO,Offensive Holding,09/15/2013,Tampa Bay,J.Evans,G,2,2013,NO-2013-9
+NO,False Start,09/15/2013,Tampa Bay,B.Grubbs,G,2,2013,NO-2013-10
+NO,Defensive Pass Interference,09/22/2013,Arizona,C.Lofton,LB,3,2013,NO-2013-11
+NO,Illegal Block Above the Waist,09/22/2013,Arizona,T.Cadet,RB,3,2013,NO-2013-12
+NO,Illegal Use of Hands,09/22/2013,Arizona,K.Lewis,CB,3,2013,NO-2013-13
+NO,Offensive Holding,09/22/2013,Arizona,C.Brown,T,3,2013,NO-2013-14
+NO,Illegal Block Above the Waist,09/22/2013,Arizona,M.Jenkins,FS,3,2013,NO-2013-15
+NO,Defensive Offside,09/22/2013,Arizona,M.Jenkins,FS,3,2013,NO-2013-16
+NO,Offensive Holding,09/30/2013,Miami,B.Grubbs,G,4,2013,NO-2013-17
+NO,False Start,09/30/2013,Miami,B.Harris,T,4,2013,NO-2013-18
+NO,Illegal Use of Hands,09/30/2013,Miami,K.Vaccaro,SS,4,2013,NO-2013-19
+NO,Delay of Game,09/30/2013,Miami,D.Brees,QB,4,2013,NO-2013-20
+NO,Offensive Holding,09/30/2013,Miami,J.Graham,TE,4,2013,NO-2013-21
+NO,Offensive Holding,09/30/2013,Miami,C.Brown,T,4,2013,NO-2013-22
+NO,Offensive Holding,10/06/2013,Chicago,C.Brown,T,5,2013,NO-2013-23
+NO,Delay of Game,10/06/2013,Chicago,D.Brees,QB,5,2013,NO-2013-24
+NO,Offensive Holding,10/13/2013,New England,C.Brown,T,6,2013,NO-2013-25
+NO,Defensive Pass Interference,10/13/2013,New England,K.Lewis,CB,6,2013,NO-2013-26
+NO,Defensive Holding,10/13/2013,New England,K.Lewis,CB,6,2013,NO-2013-27
+NO,Unnecessary Roughness,10/13/2013,New England,M.Jenkins,FS,6,2013,NO-2013-28
+NO,Offensive Holding,10/13/2013,New England,B.De La Puente,C,6,2013,NO-2013-29
+NO,Offensive Holding,10/27/2013,Buffalo,B.De La Puente,C,8,2013,NO-2013-30
+NO,False Start,10/27/2013,Buffalo,D.Brees,QB,8,2013,NO-2013-31
+NO,False Start,10/27/2013,Buffalo,D.Brees,QB,8,2013,NO-2013-32
+NO,Encroachment,10/27/2013,Buffalo,T.Johnson,DT,8,2013,NO-2013-33
+NO,Roughing the Passer,10/27/2013,Buffalo,C.White,DB,8,2013,NO-2013-34
+NO,Roughing the Passer,10/27/2013,Buffalo,C.White,DB,8,2013,NO-2013-35
+NO,Offensive Holding,10/27/2013,Buffalo,J.Collins,FB,8,2013,NO-2013-36
+NO,Delay of Game,11/03/2013,N.Y. Jets,D.Brees,QB,9,2013,NO-2013-37
+NO,False Start,11/03/2013,N.Y. Jets,C.Brown,T,9,2013,NO-2013-38
+NO,Running Into the Kicker,11/03/2013,N.Y. Jets,K.Dawson,DE,9,2013,NO-2013-39
+NO,Delay of Game,11/03/2013,N.Y. Jets,D.Brees,QB,9,2013,NO-2013-40
+NO,Defensive Offside,11/03/2013,N.Y. Jets,J.Galette,DE,9,2013,NO-2013-41
+NO,Offensive Holding,11/03/2013,N.Y. Jets,J.Evans,G,9,2013,NO-2013-42
+NO,Illegal Use of Hands,11/03/2013,N.Y. Jets,B.Grubbs,G,9,2013,NO-2013-43
+NO,False Start,11/03/2013,N.Y. Jets,C.Brown,T,9,2013,NO-2013-44
+NO,Offensive Holding,11/03/2013,N.Y. Jets,B.De La Puente,C,9,2013,NO-2013-45
+NO,Offensive Holding,11/10/2013,Dallas,B.De La Puente,C,10,2013,NO-2013-46
+NO,Delay of Game,11/10/2013,Dallas,M.Ingram,RB,10,2013,NO-2013-47
+NO,Illegal Use of Hands,11/10/2013,Dallas,K.Vaccaro,SS,10,2013,NO-2013-48
+NO,Illegal Use of Hands,11/10/2013,Dallas,C.Brown,T,10,2013,NO-2013-49
+NO,Unsportsmanlike Conduct,11/10/2013,Dallas,C.Carr,DB,10,2013,NO-2013-50
+NO,Defensive Offside,11/10/2013,Dallas,K.Lewis,CB,10,2013,NO-2013-51
+NO,Interference with Opportunity to Catch,11/17/2013,San Francisco,C.White,DB,11,2013,NO-2013-52
+NO,Defensive Pass Interference,11/17/2013,San Francisco,C.White,DB,11,2013,NO-2013-53
+NO,Offensive Holding,11/17/2013,San Francisco,B.Grubbs,G,11,2013,NO-2013-54
+NO,Intentional Grounding,11/17/2013,San Francisco,D.Brees,QB,11,2013,NO-2013-55
+NO,Roughing the Passer,11/21/2013,Atlanta,C.Jordan,DE,12,2013,NO-2013-56
+NO,Defensive Pass Interference,11/21/2013,Atlanta,C.White,DB,12,2013,NO-2013-57
+NO,Offensive Holding,11/21/2013,Atlanta,T.Lelito,C,12,2013,NO-2013-58
+NO,Delay of Game,11/21/2013,Atlanta,D.Brees,QB,12,2013,NO-2013-59
+NO,False Start,11/21/2013,Atlanta,B.Watson,TE,12,2013,NO-2013-60
+NO,Offensive Holding,11/21/2013,Atlanta,B.Harris,T,12,2013,NO-2013-61
+NO,Delay of Game,12/02/2013,Seattle,D.Brees,QB,13,2013,NO-2013-62
+NO,Defensive Offside,12/02/2013,Seattle,J.Galette,DE,13,2013,NO-2013-63
+NO,Unnecessary Roughness,12/02/2013,Seattle,R.Sweeting,DB,13,2013,NO-2013-64
+NO,Illegal Use of Hands,12/02/2013,Seattle,C.Brown,T,13,2013,NO-2013-65
+NO,Offensive Holding,12/02/2013,Seattle,J.Evans,G,13,2013,NO-2013-66
+NO,Roughing the Passer,12/02/2013,Seattle,A.Hicks,DE,13,2013,NO-2013-67
+NO,Neutral Zone Infraction,12/02/2013,Seattle,C.Jordan,DE,13,2013,NO-2013-68
+NO,Face Mask (15 Yards),12/08/2013,Carolina,T.Morstead,P,14,2013,NO-2013-69
+NO,Offensive Holding,12/08/2013,Carolina,B.Grubbs,G,14,2013,NO-2013-70
+NO,Offensive Holding,12/08/2013,Carolina,K.Robinson,RB,14,2013,NO-2013-71
+NO,False Start,12/08/2013,Carolina,J.Graham,TE,14,2013,NO-2013-72
+NO,Delay of Game,12/08/2013,Carolina,D.Brees,QB,14,2013,NO-2013-73
+NO,Unnecessary Roughness,12/15/2013,St. Louis,C.Lofton,LB,15,2013,NO-2013-74
+NO,Unnecessary Roughness,12/15/2013,St. Louis,M.Jenkins,FS,15,2013,NO-2013-75
+NO,Unnecessary Roughness,12/15/2013,St. Louis,M.Jenkins,FS,15,2013,NO-2013-76
+NO,Offensive Holding,12/15/2013,St. Louis,C.Brown,T,15,2013,NO-2013-77
+NO,Illegal Use of Hands,12/15/2013,St. Louis,C.Brown,T,15,2013,NO-2013-78
+NO,Offensive Holding,12/15/2013,St. Louis,Z.Strief,T,15,2013,NO-2013-79
+NO,False Start,12/15/2013,St. Louis,Z.Strief,T,15,2013,NO-2013-80
+NO,Unnecessary Roughness,12/15/2013,St. Louis,K.Reddick,LB,15,2013,NO-2013-81
+NO,Defensive Offside,12/15/2013,St. Louis,R.Sweeting,DB,15,2013,NO-2013-82
+NO,Personal Foul,12/22/2013,Carolina,K.Vaccaro,SS,16,2013,NO-2013-83
+NO,Taunting,12/22/2013,Carolina,K.Vaccaro,SS,16,2013,NO-2013-84
+NO,False Start,12/22/2013,Carolina,T.Armstead,T,16,2013,NO-2013-85
+NO,False Start,12/22/2013,Carolina,T.Armstead,T,16,2013,NO-2013-86
+NO,Unnecessary Roughness,12/22/2013,Carolina,Z.Strief,T,16,2013,NO-2013-87
+NO,Offensive Holding,12/22/2013,Carolina,J.Drescher,LS,16,2013,NO-2013-88
+NO,Unsportsmanlike Conduct,12/29/2013,Tampa Bay,K.Stills,WR,17,2013,NO-2013-89
+NO,False Start,12/29/2013,Tampa Bay,J.Graham,TE,17,2013,NO-2013-90
+NO,Illegal Block Above the Waist,12/29/2013,Tampa Bay,B.Grubbs,G,17,2013,NO-2013-91
+NO,Roughing the Passer,12/29/2013,Tampa Bay,T.Walker,DE,17,2013,NO-2013-92
+NO,Defensive Pass Interference,12/29/2013,Tampa Bay,K.Lewis,CB,17,2013,NO-2013-93
+NO,Offensive Holding,12/29/2013,Tampa Bay,W.Herring,LB,17,2013,NO-2013-94
+NO,Roughing the Passer,12/29/2013,Tampa Bay,A.Hicks,DE,17,2013,NO-2013-95
+NO,Offensive Holding,12/29/2013,Tampa Bay,R.Harper,SS,17,2013,NO-2013-96
+NO,Offensive Holding,12/29/2013,Tampa Bay,J.Collins,FB,17,2013,NO-2013-97
+NO,False Start,01/04/2014,Philadelphia,D.Brees,QB,18,2013,NO-2013-98
+NO,False Start,01/04/2014,Philadelphia,B.Watson,TE,18,2013,NO-2013-99
+NO,Offensive Holding,01/04/2014,Philadelphia,J.Hill,TE,18,2013,NO-2013-100
+NO,Offensive Holding,01/04/2014,Philadelphia,T.Armstead,T,18,2013,NO-2013-101
+NO,Neutral Zone Infraction,01/04/2014,Philadelphia,J.Galette,DE,18,2013,NO-2013-102
+NO,Offensive Holding,01/04/2014,Philadelphia,B.De La Puente,C,18,2013,NO-2013-103
+NO,Defensive Pass Interference,01/04/2014,Philadelphia,C.White,DB,18,2013,NO-2013-104
+NO,Unnecessary Roughness,01/11/2014,Seattle,R.Bush,FS,19,2013,NO-2013-105
+NO,Defensive Holding,01/11/2014,Seattle,K.Lewis,CB,19,2013,NO-2013-106
+NO,Unnecessary Roughness,01/11/2014,Seattle,R.Humber,ILB,19,2013,NO-2013-107
+NO,Offensive Holding,01/11/2014,Seattle,Z.Strief,T,19,2013,NO-2013-108
+NO,Offensive Holding,01/11/2014,Seattle,J.Hill,TE,19,2013,NO-2013-109
+NO,Delay of Game,01/11/2014,Seattle,D.Brees,QB,19,2013,NO-2013-110
+NO,Offensive Pass Interference,01/11/2014,Seattle,L.Moore,WR,19,2013,NO-2013-111
+NO,Illegal Forward Pass,01/11/2014,Seattle,M.Colston,WR,19,2013,NO-2013-112

@@ -1,0 +1,133 @@
+team,penalty,game,opponent,player,position,week,year,penaltyindex
+KC,Illegal Use of Hands,09/13/2015,Houston,J.Reid,T,1,2015,KC-2015-0
+KC,Offensive Holding,09/13/2015,Houston,J.Reid,T,1,2015,KC-2015-1
+KC,Defensive Pass Interference,09/13/2015,Houston,J.Fleming,CB,1,2015,KC-2015-2
+KC,False Start,09/17/2015,Denver,J.Reid,T,2,2015,KC-2015-3
+KC,Illegal Blindside Block,09/17/2015,Denver,C.West,RB,2,2015,KC-2015-4
+KC,False Start,09/17/2015,Denver,T.Kelce,TE,2,2015,KC-2015-5
+KC,Offensive Holding,09/17/2015,Denver,B.Grubbs,G,2,2015,KC-2015-6
+KC,Defensive Holding,09/17/2015,Denver,J.Houston,OLB,2,2015,KC-2015-7
+KC,Illegal Block Above the Waist,09/17/2015,Denver,J.O'Shaughnessy,TE,2,2015,KC-2015-8
+KC,Defensive Holding,09/17/2015,Denver,M.Peters,CB,2,2015,KC-2015-9
+KC,Illegal Use of Hands,09/17/2015,Denver,D.Sorensen,DB,2,2015,KC-2015-10
+KC,False Start,09/17/2015,Denver,T.Kelce,TE,2,2015,KC-2015-11
+KC,Offensive Holding,09/17/2015,Denver,F.Zombo,OLB,2,2015,KC-2015-12
+KC,Illegal Use of Hands,09/17/2015,Denver,D.Stephenson,T,2,2015,KC-2015-13
+KC,Defensive Holding,09/17/2015,Denver,J.Fleming,CB,2,2015,KC-2015-14
+KC,Defensive Holding,09/28/2015,Green Bay,M.Cooper,CB,3,2015,KC-2015-15
+KC,Defensive 12 On-field,09/28/2015,Green Bay,J.Howard,DT,3,2015,KC-2015-16
+KC,Illegal Contact,09/28/2015,Green Bay,E.Berry,SS,3,2015,KC-2015-17
+KC,Illegal Contact,09/28/2015,Green Bay,M.Cooper,CB,3,2015,KC-2015-18
+KC,Defensive Holding,09/28/2015,Green Bay,R.Parker,SS,3,2015,KC-2015-19
+KC,Defensive 12 On-field,09/28/2015,Green Bay,J.Howard,DT,3,2015,KC-2015-20
+KC,Defensive Offside,09/28/2015,Green Bay,T.Hali,OLB,3,2015,KC-2015-21
+KC,Offensive Holding,09/28/2015,Green Bay,T.Branch,DB,3,2015,KC-2015-22
+KC,Unnecessary Roughness,09/28/2015,Green Bay,D.Stephenson,T,3,2015,KC-2015-23
+KC,Offensive Holding,09/28/2015,Green Bay,B.Grubbs,G,3,2015,KC-2015-24
+KC,Offensive Holding,09/28/2015,Green Bay,L.Duvernay,T,3,2015,KC-2015-25
+KC,Defensive Offside,09/28/2015,Green Bay,D.Ford,LB,3,2015,KC-2015-26
+KC,Offensive Pass Interference,10/04/2015,Cincinnati,J.Maclin,WR,4,2015,KC-2015-27
+KC,Delay of Game,10/04/2015,Cincinnati,A.Smith,QB,4,2015,KC-2015-28
+KC,Offensive Holding,10/04/2015,Cincinnati,D.Alexander,LB,4,2015,KC-2015-29
+KC,Intentional Grounding,10/04/2015,Cincinnati,A.Smith,QB,4,2015,KC-2015-30
+KC,Defensive Holding,10/04/2015,Cincinnati,D.Johnson,ILB,4,2015,KC-2015-31
+KC,False Start,10/04/2015,Cincinnati,D.Stephenson,T,4,2015,KC-2015-32
+KC,Illegal Formation,10/04/2015,Cincinnati,E.Fisher,T,4,2015,KC-2015-33
+KC,Illegal Block Above the Waist,10/11/2015,Chicago,H.Abdullah,FS,5,2015,KC-2015-34
+KC,Defensive Pass Interference,10/11/2015,Chicago,S.Smith,CB,5,2015,KC-2015-35
+KC,Offensive Holding,10/11/2015,Chicago,E.Fisher,T,5,2015,KC-2015-36
+KC,Roughing the Passer,10/11/2015,Chicago,J.Howard,DT,5,2015,KC-2015-37
+KC,Defensive Pass Interference,10/11/2015,Chicago,M.Peters,CB,5,2015,KC-2015-38
+KC,Offensive Holding,10/18/2015,Minnesota,B.Grubbs,G,6,2015,KC-2015-39
+KC,Offensive Holding,10/18/2015,Minnesota,M.Morse,C,6,2015,KC-2015-40
+KC,Offensive Holding,10/18/2015,Minnesota,D.Stephenson,T,6,2015,KC-2015-41
+KC,Offensive Pass Interference,10/18/2015,Minnesota,J.Maclin,WR,6,2015,KC-2015-42
+KC,Illegal Contact,10/18/2015,Minnesota,H.Abdullah,FS,6,2015,KC-2015-43
+KC,Roughing the Passer,10/18/2015,Minnesota,S.Nelson,CB,6,2015,KC-2015-44
+KC,Offensive Holding,10/18/2015,Minnesota,S.Nelson,CB,6,2015,KC-2015-45
+KC,Roughing the Passer,10/18/2015,Minnesota,J.Howard,DT,6,2015,KC-2015-46
+KC,Defensive Offside,10/18/2015,Minnesota,D.Harris,TE,6,2015,KC-2015-47
+KC,Chop Block,10/18/2015,Minnesota,C.West,RB,6,2015,KC-2015-48
+KC,Unsportsmanlike Conduct,10/18/2015,Minnesota,T.Kelce,TE,6,2015,KC-2015-49
+KC,Unnecessary Roughness,10/25/2015,Pittsburgh,C.West,RB,7,2015,KC-2015-50
+KC,Illegal Use of Hands,10/25/2015,Pittsburgh,D.Ford,LB,7,2015,KC-2015-51
+KC,False Start,10/25/2015,Pittsburgh,E.Fisher,T,7,2015,KC-2015-52
+KC,Offensive Holding,10/25/2015,Pittsburgh,T.Branch,DB,7,2015,KC-2015-53
+KC,Taunting,10/25/2015,Pittsburgh,E.Fisher,T,7,2015,KC-2015-54
+KC,Defensive Pass Interference,10/25/2015,Pittsburgh,S.Smith,CB,7,2015,KC-2015-55
+KC,Illegal Use of Hands,11/01/2015,Detroit,H.Abdullah,FS,8,2015,KC-2015-56
+KC,Unsportsmanlike Conduct,11/01/2015,Detroit,J.Allen,T,8,2015,KC-2015-57
+KC,False Start,11/01/2015,Detroit,L.Duvernay,T,8,2015,KC-2015-58
+KC,False Start,11/15/2015,Denver,E.Fisher,T,10,2015,KC-2015-59
+KC,Unnecessary Roughness,11/15/2015,Denver,J.Reid,T,10,2015,KC-2015-60
+KC,Delay of Game,11/15/2015,Denver,A.Smith,QB,10,2015,KC-2015-61
+KC,Offside on Free Kick,11/15/2015,Denver,D.Sorensen,DB,10,2015,KC-2015-62
+KC,Defensive Offside,11/15/2015,Denver,J.Howard,DT,10,2015,KC-2015-63
+KC,Offensive Holding,11/15/2015,Denver,D.Harris,TE,10,2015,KC-2015-64
+KC,Defensive Offside,11/15/2015,Denver,D.Poe,NT,10,2015,KC-2015-65
+KC,Illegal Use of Hands,11/15/2015,Denver,M.Peters,CB,10,2015,KC-2015-66
+KC,Defensive Pass Interference,11/15/2015,Denver,M.Peters,CB,10,2015,KC-2015-67
+KC,Defensive Pass Interference,11/15/2015,Denver,M.Peters,CB,10,2015,KC-2015-68
+KC,Illegal Use of Hands,11/22/2015,San Diego,D.Poe,NT,11,2015,KC-2015-69
+KC,Illegal Use of Hands,11/22/2015,San Diego,T.Kelce,TE,11,2015,KC-2015-70
+KC,Offensive Holding,11/22/2015,San Diego,S.Nelson,CB,11,2015,KC-2015-71
+KC,Offensive Pass Interference,11/22/2015,San Diego,J.Maclin,WR,11,2015,KC-2015-72
+KC,Illegal Contact,11/22/2015,San Diego,S.Smith,CB,11,2015,KC-2015-73
+KC,Offensive Holding,11/29/2015,Buffalo,D.Harris,TE,12,2015,KC-2015-74
+KC,Defensive Holding,11/29/2015,Buffalo,M.Peters,CB,12,2015,KC-2015-75
+KC,Defensive Offside,11/29/2015,Buffalo,J.Howard,DT,12,2015,KC-2015-76
+KC,Offensive Holding,11/29/2015,Buffalo,L.Duvernay,T,12,2015,KC-2015-77
+KC,Offside on Free Kick,11/29/2015,Buffalo,D.Moses,LB,12,2015,KC-2015-78
+KC,Neutral Zone Infraction,11/29/2015,Buffalo,D.Harris,TE,12,2015,KC-2015-79
+KC,Defensive Holding,11/29/2015,Buffalo,M.Peters,CB,12,2015,KC-2015-80
+KC,Roughing the Passer,11/29/2015,Buffalo,J.Howard,DT,12,2015,KC-2015-81
+KC,Offensive Holding,11/29/2015,Buffalo,L.Duvernay,T,12,2015,KC-2015-82
+KC,Unnecessary Roughness,12/06/2015,Oakland,J.Howard,DT,13,2015,KC-2015-83
+KC,False Start,12/06/2015,Oakland,E.Fisher,T,13,2015,KC-2015-84
+KC,Defensive Pass Interference,12/06/2015,Oakland,M.Peters,CB,13,2015,KC-2015-85
+KC,Offensive Holding,12/06/2015,Oakland,R.Wilson,ILB,13,2015,KC-2015-86
+KC,Face Mask (15 Yards),12/06/2015,Oakland,D.Moses,LB,13,2015,KC-2015-87
+KC,Illegal Shift,12/06/2015,Oakland,J.Maclin,WR,13,2015,KC-2015-88
+KC,False Start,12/06/2015,Oakland,A.Smith,QB,13,2015,KC-2015-89
+KC,Roughing the Passer,12/06/2015,Oakland,D.Johnson,ILB,13,2015,KC-2015-90
+KC,Unsportsmanlike Conduct,12/06/2015,Oakland,M.Peters,CB,13,2015,KC-2015-91
+KC,Defensive Holding,12/06/2015,Oakland,N.Williams,DT,13,2015,KC-2015-92
+KC,Illegal Block Above the Waist,12/13/2015,San Diego,S.Nelson,CB,14,2015,KC-2015-93
+KC,Offensive Holding,12/13/2015,San Diego,B.Parker,TE,14,2015,KC-2015-94
+KC,False Start,12/13/2015,San Diego,A.Wilson,WR,14,2015,KC-2015-95
+KC,False Start,12/13/2015,San Diego,Z.Fulton,G,14,2015,KC-2015-96
+KC,Neutral Zone Infraction,12/13/2015,San Diego,J.Howard,DT,14,2015,KC-2015-97
+KC,Offensive Holding,12/13/2015,San Diego,Z.Fulton,G,14,2015,KC-2015-98
+KC,Offensive Pass Interference,12/13/2015,San Diego,T.Kelce,TE,14,2015,KC-2015-99
+KC,Offensive Holding,12/13/2015,San Diego,J.Reid,T,14,2015,KC-2015-100
+KC,Defensive Offside,12/13/2015,San Diego,D.Ford,LB,14,2015,KC-2015-101
+KC,Unsportsmanlike Conduct,12/20/2015,Baltimore,C.West,RB,15,2015,KC-2015-102
+KC,Delay of Game,12/20/2015,Baltimore,A.Smith,QB,15,2015,KC-2015-103
+KC,Running Into the Kicker,12/20/2015,Baltimore,D.Harris,TE,15,2015,KC-2015-104
+KC,Illegal Block Above the Waist,12/20/2015,Baltimore,T.Branch,DB,15,2015,KC-2015-105
+KC,Unnecessary Roughness,12/20/2015,Baltimore,D.Sorensen,DB,15,2015,KC-2015-106
+KC,Offensive Pass Interference,12/20/2015,Baltimore,J.Maclin,WR,15,2015,KC-2015-107
+KC,False Start,12/20/2015,Baltimore,L.Duvernay,T,15,2015,KC-2015-108
+KC,Offensive Holding,12/27/2015,Cleveland,J.Avant,WR,16,2015,KC-2015-109
+KC,Defensive Offside,12/27/2015,Cleveland,D.Ford,LB,16,2015,KC-2015-110
+KC,False Start,12/27/2015,Cleveland,T.Kelce,TE,16,2015,KC-2015-111
+KC,Offensive Holding,12/27/2015,Cleveland,J.Allen,T,16,2015,KC-2015-112
+KC,Illegal Block Above the Waist,12/27/2015,Cleveland,D.Sorensen,DB,16,2015,KC-2015-113
+KC,False Start,01/03/2016,Oakland,D.Stephenson,T,17,2015,KC-2015-114
+KC,Offensive Holding,01/03/2016,Oakland,L.Duvernay,T,17,2015,KC-2015-115
+KC,Offensive Holding,01/03/2016,Oakland,T.Kelce,TE,17,2015,KC-2015-116
+KC,Taunting,01/03/2016,Oakland,R.Parker,SS,17,2015,KC-2015-117
+KC,Defensive Pass Interference,01/03/2016,Oakland,R.Parker,SS,17,2015,KC-2015-118
+KC,Defensive Pass Interference,01/03/2016,Oakland,D.Johnson,ILB,17,2015,KC-2015-119
+KC,Offensive Holding,01/09/2016,Houston,J.Fleming,CB,18,2015,KC-2015-120
+KC,Defensive Pass Interference,01/09/2016,Houston,M.Peters,CB,18,2015,KC-2015-121
+KC,Illegal Contact,01/09/2016,Houston,S.Smith,CB,18,2015,KC-2015-122
+KC,Defensive Holding,01/09/2016,Houston,S.Smith,CB,18,2015,KC-2015-123
+KC,Offensive Holding,01/09/2016,Houston,A.Wilson,WR,18,2015,KC-2015-124
+KC,Illegal Block Above the Waist,01/09/2016,Houston,K.Davis,RB,18,2015,KC-2015-125
+KC,Illegal Use of Hands,01/16/2016,New England,D.Stephenson,T,19,2015,KC-2015-126
+KC,Roughing the Passer,01/16/2016,New England,D.Moses,LB,19,2015,KC-2015-127
+KC,Delay of Game,01/16/2016,New England,A.Smith,QB,19,2015,KC-2015-128
+KC,Offensive Holding,01/16/2016,New England,J.Reid,T,19,2015,KC-2015-129
+KC,Delay of Game,01/16/2016,New England,D.Colquitt,P,19,2015,KC-2015-130
+KC,False Start,01/16/2016,New England,E.Fisher,T,19,2015,KC-2015-131

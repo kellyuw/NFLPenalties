@@ -1,0 +1,118 @@
+team,penalty,game,opponent,player,position,week,year,penaltyindex
+PHI,Offensive Pass Interference,09/09/2012,Cleveland,J.Maclin,WR,1,2012,PHI-2012-0
+PHI,Offensive Holding,09/09/2012,Cleveland,E.Mathis,G,1,2012,PHI-2012-1
+PHI,Offensive Holding,09/09/2012,Cleveland,K.Dunlap,T,1,2012,PHI-2012-2
+PHI,Neutral Zone Infraction,09/09/2012,Cleveland,J.Babin,DE,1,2012,PHI-2012-3
+PHI,Offensive Holding,09/09/2012,Cleveland,J.Kelce,C,1,2012,PHI-2012-4
+PHI,Encroachment,09/09/2012,Cleveland,F.Cox,DE,1,2012,PHI-2012-5
+PHI,Offensive Holding,09/09/2012,Cleveland,J.Maclin,WR,1,2012,PHI-2012-6
+PHI,Illegal Block Above the Waist,09/09/2012,Cleveland,B.Rolle,LB,1,2012,PHI-2012-7
+PHI,Offensive Holding,09/09/2012,Cleveland,D.Watkins,G,1,2012,PHI-2012-8
+PHI,Unnecessary Roughness,09/09/2012,Cleveland,P.Hunt,DE,1,2012,PHI-2012-9
+PHI,False Start,09/09/2012,Cleveland,E.Mathis,G,1,2012,PHI-2012-10
+PHI,Offensive Holding,09/16/2012,Baltimore,K.Dunlap,T,2,2012,PHI-2012-11
+PHI,Personal Foul,09/16/2012,Baltimore,C.Jenkins,DT,2,2012,PHI-2012-12
+PHI,Personal Foul,09/16/2012,Baltimore,D.Jackson,WR,2,2012,PHI-2012-13
+PHI,False Start,09/16/2012,Baltimore,E.Mathis,G,2,2012,PHI-2012-14
+PHI,Offensive Holding,09/16/2012,Baltimore,D.Bell,T,2,2012,PHI-2012-15
+PHI,Illegal Contact,09/16/2012,Baltimore,D.Rodgers-Cromartie,CB,2,2012,PHI-2012-16
+PHI,Personal Foul,09/16/2012,Baltimore,J.Babin,DE,2,2012,PHI-2012-17
+PHI,Illegal Contact,09/16/2012,Baltimore,N.Asomugha,CB,2,2012,PHI-2012-18
+PHI,Offensive Holding,09/16/2012,Baltimore,E.Mathis,G,2,2012,PHI-2012-19
+PHI,Illegal Contact,09/16/2012,Baltimore,N.Asomugha,CB,2,2012,PHI-2012-20
+PHI,False Start,09/23/2012,Arizona,D.Bell,T,3,2012,PHI-2012-21
+PHI,Offensive Holding,09/23/2012,Arizona,D.Bell,T,3,2012,PHI-2012-22
+PHI,Unsportsmanlike Conduct,09/23/2012,Arizona,T.Cole,LB,3,2012,PHI-2012-23
+PHI,Intentional Grounding,09/23/2012,Arizona,M.Vick,QB,3,2012,PHI-2012-24
+PHI,Unnecessary Roughness,09/23/2012,Arizona,D.Rodgers-Cromartie,CB,3,2012,PHI-2012-25
+PHI,Offensive Holding,09/30/2012,N.Y. Giants,T.Herremans,G,4,2012,PHI-2012-26
+PHI,Offensive Holding,09/30/2012,N.Y. Giants,T.Herremans,G,4,2012,PHI-2012-27
+PHI,Illegal Contact,09/30/2012,N.Y. Giants,D.Rodgers-Cromartie,CB,4,2012,PHI-2012-28
+PHI,Illegal Use of Hands,09/30/2012,N.Y. Giants,J.Babin,DE,4,2012,PHI-2012-29
+PHI,Defensive Pass Interference,09/30/2012,N.Y. Giants,D.Rodgers-Cromartie,CB,4,2012,PHI-2012-30
+PHI,Defensive Pass Interference,09/30/2012,N.Y. Giants,N.Asomugha,CB,4,2012,PHI-2012-31
+PHI,False Start,10/07/2012,Pittsburgh,D.Bell,T,5,2012,PHI-2012-32
+PHI,Unnecessary Roughness,10/07/2012,Pittsburgh,D.Tapp,DE,5,2012,PHI-2012-33
+PHI,False Start,10/07/2012,Pittsburgh,C.Harbor,TE,5,2012,PHI-2012-34
+PHI,Player Out of Bounds on Punt,10/07/2012,Pittsburgh,M.Gilyard,WR,5,2012,PHI-2012-35
+PHI,Defensive Holding,10/07/2012,Pittsburgh,N.Asomugha,CB,5,2012,PHI-2012-36
+PHI,Illegal Contact,10/07/2012,Pittsburgh,N.Allen,DB,5,2012,PHI-2012-37
+PHI,False Start,10/14/2012,Detroit,D.Bell,T,6,2012,PHI-2012-38
+PHI,Defensive Holding,10/14/2012,Detroit,C.Marsh,DB,6,2012,PHI-2012-39
+PHI,Defensive Holding,10/14/2012,Detroit,D.Rodgers-Cromartie,CB,6,2012,PHI-2012-40
+PHI,Encroachment,10/14/2012,Detroit,C.Thornton,DE,6,2012,PHI-2012-41
+PHI,Defensive Holding,10/14/2012,Detroit,D.Ryans,ILB,6,2012,PHI-2012-42
+PHI,Illegal Use of Hands,10/14/2012,Detroit,F.Cox,DE,6,2012,PHI-2012-43
+PHI,Offensive Pass Interference,10/14/2012,Detroit,B.Celek,TE,6,2012,PHI-2012-44
+PHI,Defensive Offside,10/14/2012,Detroit,J.Babin,DE,6,2012,PHI-2012-45
+PHI,Neutral Zone Infraction,10/14/2012,Detroit,F.Cox,DE,6,2012,PHI-2012-46
+PHI,Disqualification,10/14/2012,Detroit,F.Cox,DE,6,2012,PHI-2012-47
+PHI,Defensive Holding,10/14/2012,Detroit,N.Asomugha,CB,6,2012,PHI-2012-48
+PHI,Defensive Pass Interference,10/14/2012,Detroit,C.Anderson,FS,6,2012,PHI-2012-49
+PHI,Defensive Holding,10/28/2012,Atlanta,J.Babin,DE,8,2012,PHI-2012-50
+PHI,Defensive Pass Interference,10/28/2012,Atlanta,D.Rodgers-Cromartie,CB,8,2012,PHI-2012-51
+PHI,Defensive Holding,10/28/2012,Atlanta,D.Rodgers-Cromartie,CB,8,2012,PHI-2012-52
+PHI,Defensive Pass Interference,10/28/2012,Atlanta,M.Kendricks,ILB,8,2012,PHI-2012-53
+PHI,Defensive Holding,10/28/2012,Atlanta,M.Kendricks,ILB,8,2012,PHI-2012-54
+PHI,Defensive Pass Interference,10/28/2012,Atlanta,M.Kendricks,ILB,8,2012,PHI-2012-55
+PHI,Offensive Holding,10/28/2012,Atlanta,T.Herremans,G,8,2012,PHI-2012-56
+PHI,Defensive Offside,10/28/2012,Atlanta,T.Cole,LB,8,2012,PHI-2012-57
+PHI,Personal Foul,10/28/2012,Atlanta,T.Cole,LB,8,2012,PHI-2012-58
+PHI,Defensive Pass Interference,11/05/2012,New Orleans,B.Boykin,DB,9,2012,PHI-2012-59
+PHI,Low Block,11/05/2012,New Orleans,M.Vick,QB,9,2012,PHI-2012-60
+PHI,Illegal Block Above the Waist,11/05/2012,New Orleans,J.Maclin,WR,9,2012,PHI-2012-61
+PHI,Illegal Blindside Block,11/05/2012,New Orleans,R.Cooper,WR,9,2012,PHI-2012-62
+PHI,Defensive Holding,11/05/2012,New Orleans,M.Kendricks,ILB,9,2012,PHI-2012-63
+PHI,Illegal Forward Pass,11/05/2012,New Orleans,B.Boykin,DB,9,2012,PHI-2012-64
+PHI,Ineligible Downfield Pass,11/05/2012,New Orleans,D.Bell,T,9,2012,PHI-2012-65
+PHI,False Start,11/05/2012,New Orleans,D.Bell,T,9,2012,PHI-2012-66
+PHI,Offensive Holding,11/11/2012,Dallas,D.Bell,T,10,2012,PHI-2012-67
+PHI,Offensive Holding,11/11/2012,Dallas,K.Dunlap,T,10,2012,PHI-2012-68
+PHI,Illegal Use of Hands,11/11/2012,Dallas,K.Dunlap,T,10,2012,PHI-2012-69
+PHI,Defensive Pass Interference,11/11/2012,Dallas,D.Rodgers-Cromartie,CB,10,2012,PHI-2012-70
+PHI,Illegal Use of Hands,11/11/2012,Dallas,K.Dunlap,T,10,2012,PHI-2012-71
+PHI,Illegal Use of Hands,11/11/2012,Dallas,M.Patterson,DT,10,2012,PHI-2012-72
+PHI,False Start,11/11/2012,Dallas,D.Bell,T,10,2012,PHI-2012-73
+PHI,False Start,11/18/2012,Washington,J.Scott,G,11,2012,PHI-2012-74
+PHI,Offensive Holding,11/18/2012,Washington,D.Kelly,G,11,2012,PHI-2012-75
+PHI,False Start,11/18/2012,Washington,J.Scott,G,11,2012,PHI-2012-76
+PHI,Offensive Holding,11/18/2012,Washington,K.Dunlap,T,11,2012,PHI-2012-77
+PHI,Offensive Holding,11/18/2012,Washington,J.Maclin,WR,11,2012,PHI-2012-78
+PHI,Offensive Holding,11/18/2012,Washington,K.Dunlap,T,11,2012,PHI-2012-79
+PHI,Delay of Game,11/18/2012,Washington,N.Foles,QB,11,2012,PHI-2012-80
+PHI,Illegal Use of Hands,11/18/2012,Washington,D.Rodgers-Cromartie,CB,11,2012,PHI-2012-81
+PHI,Unnecessary Roughness,11/18/2012,Washington,D.Ryans,ILB,11,2012,PHI-2012-82
+PHI,Offensive Holding,11/18/2012,Washington,J.Scott,G,11,2012,PHI-2012-83
+PHI,False Start,11/18/2012,Washington,L.McCoy,RB,11,2012,PHI-2012-84
+PHI,False Start,11/26/2012,Carolina,J.Scott,G,12,2012,PHI-2012-85
+PHI,Offensive Holding,11/26/2012,Carolina,K.Dunlap,T,12,2012,PHI-2012-86
+PHI,Defensive Pass Interference,11/26/2012,Carolina,D.Rodgers-Cromartie,CB,12,2012,PHI-2012-87
+PHI,Neutral Zone Infraction,11/26/2012,Carolina,J.Babin,DE,12,2012,PHI-2012-88
+PHI,Defensive Offside,11/26/2012,Carolina,B.Graham,LB,12,2012,PHI-2012-89
+PHI,Encroachment,11/26/2012,Carolina,C.Thornton,DE,12,2012,PHI-2012-90
+PHI,Defensive Holding,11/26/2012,Carolina,M.Kendricks,ILB,12,2012,PHI-2012-91
+PHI,Defensive Pass Interference,12/02/2012,Dallas,D.Rodgers-Cromartie,CB,13,2012,PHI-2012-92
+PHI,Offside on Free Kick,12/02/2012,Dallas,S.Havili,FB,13,2012,PHI-2012-93
+PHI,Defensive Pass Interference,12/09/2012,Tampa Bay,N.Allen,DB,14,2012,PHI-2012-94
+PHI,Illegal Block Above the Waist,12/13/2012,Cincinnati,J.Scott,G,15,2012,PHI-2012-95
+PHI,Neutral Zone Infraction,12/13/2012,Cincinnati,B.Graham,LB,15,2012,PHI-2012-96
+PHI,Intentional Grounding,12/13/2012,Cincinnati,N.Foles,QB,15,2012,PHI-2012-97
+PHI,False Start,12/13/2012,Cincinnati,D.Reynolds,G,15,2012,PHI-2012-98
+PHI,Offensive Holding,12/13/2012,Cincinnati,J.Scott,G,15,2012,PHI-2012-99
+PHI,Offensive Holding,12/13/2012,Cincinnati,E.Igwenagu,FB,15,2012,PHI-2012-100
+PHI,False Start,12/13/2012,Cincinnati,J.Avant,WR,15,2012,PHI-2012-101
+PHI,Offensive Holding,12/13/2012,Cincinnati,C.Matthews,LB,15,2012,PHI-2012-102
+PHI,Offensive Holding,12/13/2012,Cincinnati,J.Chaney,LB,15,2012,PHI-2012-103
+PHI,Offensive Holding,12/23/2012,Washington,C.Matthews,LB,16,2012,PHI-2012-104
+PHI,False Start,12/23/2012,Washington,E.Moore,TE,16,2012,PHI-2012-105
+PHI,Offensive Holding,12/23/2012,Washington,K.Dunlap,T,16,2012,PHI-2012-106
+PHI,Illegal Block Above the Waist,12/23/2012,Washington,C.Thornton,DE,16,2012,PHI-2012-107
+PHI,Illegal Forward Pass,12/23/2012,Washington,N.Foles,QB,16,2012,PHI-2012-108
+PHI,Offensive Holding,12/30/2012,N.Y. Giants,L.McCoy,RB,17,2012,PHI-2012-109
+PHI,Illegal Contact,12/30/2012,N.Y. Giants,D.Ryans,ILB,17,2012,PHI-2012-110
+PHI,Defensive Pass Interference,12/30/2012,N.Y. Giants,N.Asomugha,CB,17,2012,PHI-2012-111
+PHI,Illegal Use of Hands,12/30/2012,N.Y. Giants,C.Jenkins,DT,17,2012,PHI-2012-112
+PHI,Personal Foul,12/30/2012,N.Y. Giants,K.Dunlap,T,17,2012,PHI-2012-113
+PHI,Offensive Holding,12/30/2012,N.Y. Giants,J.Scott,G,17,2012,PHI-2012-114
+PHI,Defensive Pass Interference,12/30/2012,N.Y. Giants,N.Asomugha,CB,17,2012,PHI-2012-115
+PHI,Illegal Use of Hands,12/30/2012,N.Y. Giants,C.Thornton,DE,17,2012,PHI-2012-116

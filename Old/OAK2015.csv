@@ -1,0 +1,153 @@
+PenaltyIndex,team,penalty,game,opponent,player,position,week
+OAK-2015-0,OAK,Offensive Pass Interference,09/13/2015,Cincinnati,A.Cooper,WR,1-2015
+OAK-2015-1,OAK,Delay of Game,09/13/2015,Cincinnati,D.Carr,QB,1-2015
+OAK-2015-2,OAK,False Start,09/13/2015,Cincinnati,R.Hudson,C,1-2015
+OAK-2015-3,OAK,Unnecessary Roughness,09/13/2015,Cincinnati,R.Hudson,C,1-2015
+OAK-2015-4,OAK,Unnecessary Roughness,09/13/2015,Cincinnati,A.Howard,T,1-2015
+OAK-2015-5,OAK,Offensive Holding,09/13/2015,Cincinnati,A.Howard,T,1-2015
+OAK-2015-6,OAK,Defensive Holding,09/13/2015,Cincinnati,D.Hayden,CB,1-2015
+OAK-2015-7,OAK,Defensive Holding,09/13/2015,Cincinnati,D.Hayden,CB,1-2015
+OAK-2015-8,OAK,False Start,09/20/2015,Baltimore,J.Webb,T,2-2015
+OAK-2015-9,OAK,Taunting,09/20/2015,Baltimore,M.Crabtree,WR,2-2015
+OAK-2015-10,OAK,Offensive Holding,09/20/2015,Baltimore,A.Howard,T,2-2015
+OAK-2015-11,OAK,Defensive Offside,09/20/2015,Baltimore,D.Autry,DE,2-2015
+OAK-2015-12,OAK,False Start,09/20/2015,Baltimore,D.Penn,T,2-2015
+OAK-2015-13,OAK,Illegal Contact,09/20/2015,Baltimore,C.Lofton,LB,2-2015
+OAK-2015-14,OAK,Defensive Holding,09/20/2015,Baltimore,M.Smith,LB,2-2015
+OAK-2015-15,OAK,Encroachment,09/20/2015,Baltimore,D.Autry,DE,2-2015
+OAK-2015-16,OAK,Defensive Holding,09/20/2015,Baltimore,T.Carrie,CB,2-2015
+OAK-2015-17,OAK,Illegal Block Above the Waist,09/20/2015,Baltimore,B.Heeney,ILB,2-2015
+OAK-2015-18,OAK,False Start,09/20/2015,Baltimore,C.Walford,TE,2-2015
+OAK-2015-19,OAK,Illegal Contact,09/20/2015,Baltimore,K.McGill,CB,2-2015
+OAK-2015-20,OAK,Defensive Pass Interference,09/20/2015,Baltimore,L.Asante,DB,2-2015
+OAK-2015-21,OAK,Unnecessary Roughness,09/20/2015,Baltimore,D.Williams,DT,2-2015
+OAK-2015-22,OAK,False Start,09/20/2015,Baltimore,A.Howard,T,2-2015
+OAK-2015-23,OAK,Offensive Holding,09/27/2015,Cleveland,M.Rivera,TE,3-2015
+OAK-2015-24,OAK,Defensive Holding,09/27/2015,Cleveland,M.Smith,LB,3-2015
+OAK-2015-25,OAK,False Start,09/27/2015,Cleveland,M.Rivera,TE,3-2015
+OAK-2015-26,OAK,Offensive Pass Interference,09/27/2015,Cleveland,A.Cooper,WR,3-2015
+OAK-2015-27,OAK,False Start,09/27/2015,Cleveland,L.Smith,TE,3-2015
+OAK-2015-28,OAK,False Start,09/27/2015,Cleveland,D.Penn,T,3-2015
+OAK-2015-29,OAK,Offensive Pass Interference,09/27/2015,Cleveland,M.Crabtree,WR,3-2015
+OAK-2015-30,OAK,Defensive Offside,09/27/2015,Cleveland,A.Smith,DE,3-2015
+OAK-2015-31,OAK,Defensive Holding,09/27/2015,Cleveland,D.Amerson,CB,3-2015
+OAK-2015-32,OAK,Offensive Holding,09/27/2015,Cleveland,A.Howard,T,3-2015
+OAK-2015-33,OAK,Neutral Zone Infraction,09/27/2015,Cleveland,A.Smith,DE,3-2015
+OAK-2015-34,OAK,Offensive Holding,09/27/2015,Cleveland,J.Webb,T,3-2015
+OAK-2015-35,OAK,Delay of Game,09/27/2015,Cleveland,M.King,P,3-2015
+OAK-2015-36,OAK,Offensive Holding,10/04/2015,Chicago,D.Hayden,CB,4-2015
+OAK-2015-37,OAK,Face Mask (15 Yards),10/04/2015,Chicago,N.Thorpe,DB,4-2015
+OAK-2015-38,OAK,Defensive Pass Interference,10/04/2015,Chicago,N.Thorpe,DB,4-2015
+,OAK,Unsportsmanlike Conduct,10/04/2015,Chicago,Unidentified,4-2015,OAK-2015-39
+OAK-2015-40,OAK,Illegal Forward Pass,10/04/2015,Chicago,R.Helu,RB,4-2015
+OAK-2015-41,OAK,Offensive Holding,10/11/2015,Denver,A.Howard,T,5-2015
+OAK-2015-42,OAK,False Start,10/11/2015,Denver,G.Jackson,DT,5-2015
+OAK-2015-43,OAK,Defensive Offside,10/11/2015,Denver,B.Mayowa,DE,5-2015
+OAK-2015-44,OAK,False Start,10/11/2015,Denver,N.Ball,OLB,5-2015
+OAK-2015-45,OAK,Illegal Use of Hands,10/11/2015,Denver,K.Mack,DE,5-2015
+OAK-2015-46,OAK,Defensive Pass Interference,10/11/2015,Denver,N.Thorpe,DB,5-2015
+OAK-2015-47,OAK,Face Mask (15 Yards),10/25/2015,San Diego,A.Howard,T,7-2015
+OAK-2015-48,OAK,Tripping,10/25/2015,San Diego,A.Smith,DE,7-2015
+OAK-2015-49,OAK,Unnecessary Roughness,10/25/2015,San Diego,M.Edwards,DE,7-2015
+OAK-2015-50,OAK,Unnecessary Roughness,10/25/2015,San Diego,D.Penn,T,7-2015
+OAK-2015-51,OAK,False Start,10/25/2015,San Diego,A.Howard,T,7-2015
+OAK-2015-52,OAK,Offensive Pass Interference,10/25/2015,San Diego,S.Roberts,WR,7-2015
+OAK-2015-53,OAK,Defensive Offside,10/25/2015,San Diego,A.Smith,DE,7-2015
+OAK-2015-54,OAK,Offensive Holding,10/25/2015,San Diego,S.Roberts,WR,7-2015
+OAK-2015-55,OAK,Delay of Game,10/25/2015,San Diego,M.King,P,7-2015
+OAK-2015-56,OAK,Illegal Contact,10/25/2015,San Diego,D.Hayden,CB,7-2015
+OAK-2015-57,OAK,Defensive Holding,10/25/2015,San Diego,C.Woodson,FS,7-2015
+OAK-2015-58,OAK,Defensive Pass Interference,10/25/2015,San Diego,D.Amerson,CB,7-2015
+OAK-2015-59,OAK,Offensive Holding,10/25/2015,San Diego,D.Penn,T,7-2015
+OAK-2015-60,OAK,Unnecessary Roughness,10/25/2015,San Diego,D.Penn,T,7-2015
+OAK-2015-61,OAK,Defensive Pass Interference,11/01/2015,N.Y. Jets,D.Hayden,CB,8-2015
+OAK-2015-62,OAK,Offensive Holding,11/01/2015,N.Y. Jets,D.Hayden,CB,8-2015
+OAK-2015-63,OAK,Offensive Holding,11/01/2015,N.Y. Jets,T.Jones,RB,8-2015
+OAK-2015-64,OAK,Offensive Holding,11/01/2015,N.Y. Jets,R.Armstrong,OLB,8-2015
+OAK-2015-65,OAK,Illegal Block Above the Waist,11/01/2015,N.Y. Jets,T.Jones,RB,8-2015
+OAK-2015-66,OAK,Illegal Use of Hands,11/01/2015,N.Y. Jets,R.Hudson,C,8-2015
+OAK-2015-67,OAK,Defensive Pass Interference,11/01/2015,N.Y. Jets,N.Thorpe,DB,8-2015
+OAK-2015-68,OAK,Illegal Use of Hands,11/01/2015,N.Y. Jets,T.Carrie,CB,8-2015
+OAK-2015-69,OAK,Defensive Pass Interference,11/08/2015,Pittsburgh,T.Mays,SS,9-2015
+OAK-2015-70,OAK,False Start,11/08/2015,Pittsburgh,A.Howard,T,9-2015
+OAK-2015-71,OAK,Illegal Use of Hands,11/08/2015,Pittsburgh,D.Amerson,CB,9-2015
+OAK-2015-72,OAK,Defensive Holding,11/08/2015,Pittsburgh,D.Hayden,CB,9-2015
+OAK-2015-73,OAK,Defensive Pass Interference,11/15/2015,Minnesota,D.Hayden,CB,10-2015
+OAK-2015-74,OAK,Illegal Contact,11/15/2015,Minnesota,D.Hayden,CB,10-2015
+OAK-2015-75,OAK,Offensive Holding,11/15/2015,Minnesota,L.Alexander,LB,10-2015
+OAK-2015-76,OAK,Defensive Offside,11/15/2015,Minnesota,S.McGee,DT,10-2015
+OAK-2015-77,OAK,False Start,11/15/2015,Minnesota,R.Armstrong,OLB,10-2015
+OAK-2015-78,OAK,Defensive Holding,11/15/2015,Minnesota,T.Carrie,CB,10-2015
+OAK-2015-79,OAK,False Start,11/15/2015,Minnesota,T.Bergstrom,G,10-2015
+OAK-2015-80,OAK,Interference with Opportunity to Catch,11/15/2015,Minnesota,T.Jones,RB,10-2015
+OAK-2015-81,OAK,Offensive Pass Interference,11/22/2015,Detroit,M.Rivera,TE,11-2015
+OAK-2015-82,OAK,Delay of Game,11/22/2015,Detroit,D.Carr,QB,11-2015
+OAK-2015-83,OAK,Defensive Holding,11/22/2015,Detroit,T.Mays,SS,11-2015
+OAK-2015-84,OAK,Delay of Game,11/22/2015,Detroit,D.Carr,QB,11-2015
+OAK-2015-85,OAK,Offensive Pass Interference,11/22/2015,Detroit,M.Rivera,TE,11-2015
+OAK-2015-86,OAK,Illegal Block Above the Waist,11/22/2015,Detroit,N.Thorpe,DB,11-2015
+OAK-2015-87,OAK,Offensive Holding,11/22/2015,Detroit,C.Walford,TE,11-2015
+OAK-2015-88,OAK,Offensive Holding,11/22/2015,Detroit,D.Penn,T,11-2015
+OAK-2015-89,OAK,Unnecessary Roughness,11/29/2015,Tennessee,D.Williams,DT,12-2015
+OAK-2015-90,OAK,Illegal Forward Pass,11/29/2015,Tennessee,T.Carrie,CB,12-2015
+OAK-2015-91,OAK,Roughing the Kicker,11/29/2015,Tennessee,K.Toomer,LB,12-2015
+OAK-2015-92,OAK,Offensive Holding,11/29/2015,Tennessee,N.Thorpe,DB,12-2015
+OAK-2015-93,OAK,False Start,11/29/2015,Tennessee,D.Carr,QB,12-2015
+OAK-2015-94,OAK,Defensive Pass Interference,11/29/2015,Tennessee,T.Carrie,CB,12-2015
+OAK-2015-95,OAK,Defensive Holding,11/29/2015,Tennessee,T.Carrie,CB,12-2015
+OAK-2015-96,OAK,Defensive Pass Interference,11/29/2015,Tennessee,N.Thorpe,DB,12-2015
+OAK-2015-97,OAK,Offensive Holding,11/29/2015,Tennessee,D.Hayden,CB,12-2015
+OAK-2015-98,OAK,Unnecessary Roughness,11/29/2015,Tennessee,K.Mack,DE,12-2015
+OAK-2015-99,OAK,Defensive Pass Interference,11/29/2015,Tennessee,N.Thorpe,DB,12-2015
+OAK-2015-100,OAK,Illegal Block Above the Waist,11/29/2015,Tennessee,B.Heeney,ILB,12-2015
+OAK-2015-101,OAK,Illegal Use of Hands,12/06/2015,Kansas City,N.Thorpe,DB,13-2015
+OAK-2015-102,OAK,Defensive Holding,12/06/2015,Kansas City,M.Smith,LB,13-2015
+OAK-2015-103,OAK,Illegal Contact,12/06/2015,Kansas City,T.Carrie,CB,13-2015
+OAK-2015-104,OAK,Neutral Zone Infraction,12/06/2015,Kansas City,D.Autry,DE,13-2015
+OAK-2015-105,OAK,Defensive Holding,12/13/2015,Denver,N.Thorpe,DB,14-2015
+OAK-2015-106,OAK,Face Mask (15 Yards),12/13/2015,Denver,M.Edwards,DE,14-2015
+OAK-2015-107,OAK,Defensive Holding,12/13/2015,Denver,N.Thorpe,DB,14-2015
+OAK-2015-108,OAK,False Start,12/13/2015,Denver,C.Walford,TE,14-2015
+OAK-2015-109,OAK,False Start,12/13/2015,Denver,R.Hudson,C,14-2015
+OAK-2015-110,OAK,Offensive Holding,12/13/2015,Denver,K.McGill,CB,14-2015
+OAK-2015-111,OAK,False Start,12/13/2015,Denver,D.Penn,T,14-2015
+OAK-2015-112,OAK,False Start,12/13/2015,Denver,L.Smith,TE,14-2015
+OAK-2015-113,OAK,False Start,12/13/2015,Denver,L.Smith,TE,14-2015
+OAK-2015-114,OAK,Illegal Block Above the Waist,12/13/2015,Denver,A.Cooper,WR,14-2015
+OAK-2015-115,OAK,False Start,12/20/2015,Green Bay,S.Roberts,WR,15-2015
+OAK-2015-116,OAK,Offensive Holding,12/20/2015,Green Bay,S.Harris,DE,15-2015
+OAK-2015-117,OAK,Illegal Use of Hands,12/20/2015,Green Bay,D.Amerson,CB,15-2015
+OAK-2015-118,OAK,Defensive Pass Interference,12/20/2015,Green Bay,T.Carrie,CB,15-2015
+,OAK,Offensive Holding,12/20/2015,Green Bay,J.Feliciano,15-2015,OAK-2015-119
+OAK-2015-120,OAK,Defensive Pass Interference,12/20/2015,Green Bay,T.Carrie,CB,15-2015
+OAK-2015-121,OAK,Defensive Pass Interference,12/20/2015,Green Bay,D.Hayden,CB,15-2015
+OAK-2015-122,OAK,False Start,12/20/2015,Green Bay,M.Crabtree,WR,15-2015
+OAK-2015-123,OAK,Offensive Holding,12/20/2015,Green Bay,G.Jackson,DT,15-2015
+OAK-2015-124,OAK,Ineligible Downfield Kick,12/20/2015,Green Bay,L.Alexander,LB,15-2015
+OAK-2015-125,OAK,False Start,12/20/2015,Green Bay,K.Barnes,T,15-2015
+OAK-2015-126,OAK,Illegal Motion,12/20/2015,Green Bay,A.Cooper,WR,15-2015
+OAK-2015-127,OAK,False Start,12/24/2015,San Diego,L.Smith,TE,16-2015
+OAK-2015-128,OAK,False Start,12/24/2015,San Diego,R.Hudson,C,16-2015
+OAK-2015-129,OAK,Face Mask (15 Yards),12/24/2015,San Diego,K.McGill,CB,16-2015
+OAK-2015-130,OAK,Offensive Holding,12/24/2015,San Diego,M.Rivera,TE,16-2015
+OAK-2015-131,OAK,Ineligible Downfield Pass,12/24/2015,San Diego,G.Jackson,DT,16-2015
+,OAK,Illegal Block Above the Waist,12/24/2015,San Diego,J.Feliciano,16-2015,OAK-2015-132
+OAK-2015-133,OAK,Offensive Holding,12/24/2015,San Diego,J.Webb,T,16-2015
+OAK-2015-134,OAK,False Start,12/24/2015,San Diego,S.Roberts,WR,16-2015
+OAK-2015-135,OAK,Defensive Holding,12/24/2015,San Diego,K.Mack,DE,16-2015
+OAK-2015-136,OAK,Offensive Holding,12/24/2015,San Diego,J.Webb,T,16-2015
+OAK-2015-137,OAK,Defensive Pass Interference,12/24/2015,San Diego,D.Hayden,CB,16-2015
+OAK-2015-138,OAK,Intentional Grounding,12/24/2015,San Diego,D.Carr,QB,16-2015
+,OAK,Ineligible Downfield Pass,12/24/2015,San Diego,J.Feliciano,16-2015,OAK-2015-139
+OAK-2015-140,OAK,Offensive Holding,12/24/2015,San Diego,D.Penn,T,16-2015
+OAK-2015-141,OAK,Offensive Holding,12/24/2015,San Diego,J.Webb,T,16-2015
+,OAK,False Start,12/24/2015,San Diego,J.Feliciano,16-2015,OAK-2015-142
+OAK-2015-143,OAK,False Start,12/24/2015,San Diego,C.Walford,TE,16-2015
+OAK-2015-144,OAK,Delay of Game,12/24/2015,San Diego,D.Carr,QB,16-2015
+OAK-2015-145,OAK,Neutral Zone Infraction,01/03/2016,Kansas City,D.Williams,DT,17-2015
+OAK-2015-146,OAK,False Start,01/03/2016,Kansas City,L.Smith,TE,17-2015
+OAK-2015-147,OAK,Taunting,01/03/2016,Kansas City,D.Amerson,CB,17-2015
+OAK-2015-148,OAK,False Start,01/03/2016,Kansas City,J.Webb,T,17-2015
+OAK-2015-149,OAK,Defensive Pass Interference,01/03/2016,Kansas City,D.Amerson,CB,17-2015
+OAK-2015-150,OAK,Roughing the Passer,01/03/2016,Kansas City,K.Mack,DE,17-2015
+OAK-2015-151,OAK,Neutral Zone Infraction,01/03/2016,Kansas City,D.Autry,DE,17-2015

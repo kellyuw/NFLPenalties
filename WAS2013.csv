@@ -1,0 +1,108 @@
+team,penalty,game,opponent,player,position,week,year,penaltyindex
+WAS,Offensive Holding,09/09/2013,Philadelphia,L.Paulsen,TE,1,2013,WAS-2013-0
+WAS,Illegal Block Above the Waist,09/09/2013,Philadelphia,J.Murphy,DB,1,2013,WAS-2013-1
+WAS,Horse Collar Tackle,09/09/2013,Philadelphia,D.Hall,CB,1,2013,WAS-2013-2
+WAS,False Start,09/09/2013,Philadelphia,W.Montgomery,C,1,2013,WAS-2013-3
+WAS,Intentional Grounding,09/09/2013,Philadelphia,R.Griffin,QB,1,2013,WAS-2013-4
+WAS,False Start,09/09/2013,Philadelphia,L.Hankerson,WR,1,2013,WAS-2013-5
+WAS,Offensive Holding,09/09/2013,Philadelphia,C.Chester,C,1,2013,WAS-2013-6
+WAS,Offensive Holding,09/09/2013,Philadelphia,W.Montgomery,C,1,2013,WAS-2013-7
+WAS,False Start,09/09/2013,Philadelphia,Trent.Williams,T,1,2013,WAS-2013-8
+WAS,Offside on Free Kick,09/09/2013,Philadelphia,A.Robinson,WR,1,2013,WAS-2013-9
+WAS,Neutral Zone Infraction,09/15/2013,Green Bay,B.Jenkins,LB,2,2013,WAS-2013-10
+WAS,Illegal Block Above the Waist,09/15/2013,Green Bay,E.Biggers,DB,2,2013,WAS-2013-11
+WAS,Defensive Holding,09/15/2013,Green Bay,N.Sundberg,LS,2,2013,WAS-2013-12
+WAS,Unnecessary Roughness,09/15/2013,Green Bay,N.Sundberg,LS,2,2013,WAS-2013-13
+WAS,Illegal Block Above the Waist,09/15/2013,Green Bay,L.Paulsen,TE,2,2013,WAS-2013-14
+WAS,Unnecessary Roughness,09/15/2013,Green Bay,N.Paul,TE,2,2013,WAS-2013-15
+WAS,Illegal Peelback,09/15/2013,Green Bay,W.Montgomery,C,2,2013,WAS-2013-16
+WAS,Defensive Pass Interference,09/15/2013,Green Bay,D.Amerson,CB,2,2013,WAS-2013-17
+WAS,Face Mask (15 Yards),09/15/2013,Green Bay,W.Montgomery,C,2,2013,WAS-2013-18
+WAS,Roughing the Passer,09/22/2013,Detroit,P.Riley,ILB,3,2013,WAS-2013-19
+WAS,Defensive Holding,09/22/2013,Detroit,L.Fletcher,ILB,3,2013,WAS-2013-20
+WAS,Illegal Formation,09/22/2013,Detroit,P.Garcon,WR,3,2013,WAS-2013-21
+WAS,Offensive Holding,09/22/2013,Detroit,Trent.Williams,T,3,2013,WAS-2013-22
+WAS,False Start,09/22/2013,Detroit,C.Chester,C,3,2013,WAS-2013-23
+WAS,False Start,09/22/2013,Detroit,R.Griffin,QB,3,2013,WAS-2013-24
+WAS,Intentional Grounding,09/29/2013,Oakland,R.Griffin,QB,4,2013,WAS-2013-25
+WAS,Delay of Game,09/29/2013,Oakland,S.Rocca,P,4,2013,WAS-2013-26
+WAS,Offensive Holding,09/29/2013,Oakland,P.Garcon,WR,4,2013,WAS-2013-27
+WAS,Defensive Holding,10/13/2013,Dallas,D.Amerson,CB,6,2013,WAS-2013-28
+WAS,Illegal Use of Hands,10/13/2013,Dallas,R.Jackson,OLB,6,2013,WAS-2013-29
+WAS,Roughing the Passer,10/13/2013,Dallas,P.Riley,ILB,6,2013,WAS-2013-30
+WAS,Offensive Holding,10/13/2013,Dallas,C.Chester,C,6,2013,WAS-2013-31
+WAS,Illegal Motion,10/13/2013,Dallas,J.Murphy,DB,6,2013,WAS-2013-32
+WAS,Offensive Holding,10/13/2013,Dallas,E.Biggers,DB,6,2013,WAS-2013-33
+WAS,False Start,10/13/2013,Dallas,T.Polumbus,T,6,2013,WAS-2013-34
+WAS,False Start,10/13/2013,Dallas,A.Morris,RB,6,2013,WAS-2013-35
+WAS,Offensive Holding,10/13/2013,Dallas,K.Lichtensteiger,C,6,2013,WAS-2013-36
+WAS,Offensive Holding,10/13/2013,Dallas,J.Gumbs,SS,6,2013,WAS-2013-37
+WAS,Offensive Holding,10/13/2013,Dallas,T.Polumbus,T,6,2013,WAS-2013-38
+WAS,False Start,10/20/2013,Chicago,L.Hankerson,WR,7,2013,WAS-2013-39
+WAS,Offensive Holding,10/20/2013,Chicago,J.Morgan,WR,7,2013,WAS-2013-40
+WAS,Roughing the Passer,10/20/2013,Chicago,B.Orakpo,LB,7,2013,WAS-2013-41
+WAS,Personal Foul,10/20/2013,Chicago,B.Meriweather,DB,7,2013,WAS-2013-42
+WAS,Personal Foul,10/20/2013,Chicago,B.Meriweather,DB,7,2013,WAS-2013-43
+WAS,Neutral Zone Infraction,10/27/2013,Denver,R.Kerrigan,OLB,8,2013,WAS-2013-44
+WAS,Offensive Holding,10/27/2013,Denver,K.Lichtensteiger,C,8,2013,WAS-2013-45
+WAS,False Start,11/03/2013,San Diego,D.Young,FB,9,2013,WAS-2013-46
+WAS,Personal Foul,11/03/2013,San Diego,D.Hall,CB,9,2013,WAS-2013-47
+WAS,Offensive Holding,11/03/2013,San Diego,C.Chester,C,9,2013,WAS-2013-48
+WAS,Delay of Game,11/03/2013,San Diego,R.Griffin,QB,9,2013,WAS-2013-49
+WAS,Horse Collar Tackle,11/03/2013,San Diego,L.Fletcher,ILB,9,2013,WAS-2013-50
+WAS,Offensive Holding,11/03/2013,San Diego,C.Chester,C,9,2013,WAS-2013-51
+WAS,Offensive Holding,11/03/2013,San Diego,W.Montgomery,C,9,2013,WAS-2013-52
+WAS,Roughing the Passer,11/07/2013,Minnesota,C.Baker,NT,10,2013,WAS-2013-53
+WAS,Neutral Zone Infraction,11/07/2013,Minnesota,C.Baker,NT,10,2013,WAS-2013-54
+WAS,Unnecessary Roughness,11/07/2013,Minnesota,P.Riley,ILB,10,2013,WAS-2013-55
+WAS,False Start,11/07/2013,Minnesota,Trent.Williams,T,10,2013,WAS-2013-56
+WAS,Delay of Game,11/07/2013,Minnesota,R.Griffin,QB,10,2013,WAS-2013-57
+WAS,False Start,11/07/2013,Minnesota,J.Murphy,DB,10,2013,WAS-2013-58
+WAS,Unnecessary Roughness,11/07/2013,Minnesota,D.Young,FB,10,2013,WAS-2013-59
+WAS,Offensive Holding,11/07/2013,Minnesota,L.Paulsen,TE,10,2013,WAS-2013-60
+WAS,Unnecessary Roughness,11/17/2013,Philadelphia,E.Biggers,DB,11,2013,WAS-2013-61
+WAS,Illegal Use of Hands,11/17/2013,Philadelphia,D.Amerson,CB,11,2013,WAS-2013-62
+WAS,Offensive Holding,11/17/2013,Philadelphia,Trent.Williams,T,11,2013,WAS-2013-63
+WAS,Horse Collar Tackle,11/17/2013,Philadelphia,P.Riley,ILB,11,2013,WAS-2013-64
+WAS,Face Mask (15 Yards),11/17/2013,Philadelphia,P.Garcon,WR,11,2013,WAS-2013-65
+WAS,Player Out of Bounds on Punt,11/25/2013,San Francisco,T.Robinson,FS,12,2013,WAS-2013-66
+WAS,Offensive Holding,11/25/2013,San Francisco,N.Paul,TE,12,2013,WAS-2013-67
+WAS,Offensive Holding,11/25/2013,San Francisco,Trent.Williams,T,12,2013,WAS-2013-68
+WAS,False Start,11/25/2013,San Francisco,K.Lichtensteiger,C,12,2013,WAS-2013-69
+WAS,False Start,12/01/2013,N.Y. Giants,F.Davis,TE,13,2013,WAS-2013-70
+WAS,Delay of Game,12/01/2013,N.Y. Giants,R.Griffin,QB,13,2013,WAS-2013-71
+WAS,Offensive Holding,12/01/2013,N.Y. Giants,W.Montgomery,C,13,2013,WAS-2013-72
+WAS,Offensive Holding,12/01/2013,N.Y. Giants,S.Moss,WR,13,2013,WAS-2013-73
+WAS,Unsportsmanlike Conduct,12/01/2013,N.Y. Giants,S.Moss,WR,13,2013,WAS-2013-74
+WAS,False Start,12/01/2013,N.Y. Giants,N.Barnett,LB,13,2013,WAS-2013-75
+WAS,Delay of Game,12/01/2013,N.Y. Giants,P.Garcon,WR,13,2013,WAS-2013-76
+WAS,Offensive Holding,12/01/2013,N.Y. Giants,K.Nelson,LS,13,2013,WAS-2013-77
+WAS,Unsportsmanlike Conduct,12/01/2013,N.Y. Giants,D.Hall,CB,13,2013,WAS-2013-78
+WAS,Neutral Zone Infraction,12/08/2013,Kansas City,P.Riley,ILB,14,2013,WAS-2013-79
+WAS,Offensive Holding,12/08/2013,Kansas City,W.Montgomery,C,14,2013,WAS-2013-80
+WAS,Offensive Holding,12/08/2013,Kansas City,J.Bellamy,WR,14,2013,WAS-2013-81
+WAS,Offensive Holding,12/08/2013,Kansas City,Trent.Williams,T,14,2013,WAS-2013-82
+WAS,Offensive Holding,12/08/2013,Kansas City,Trent.Williams,T,14,2013,WAS-2013-83
+WAS,Illegal Contact,12/08/2013,Kansas City,R.Kerrigan,OLB,14,2013,WAS-2013-84
+WAS,Defensive Holding,12/15/2013,Atlanta,D.Amerson,CB,15,2013,WAS-2013-85
+WAS,Unnecessary Roughness,12/15/2013,Atlanta,D.Hall,CB,15,2013,WAS-2013-86
+WAS,False Start,12/15/2013,Atlanta,K.Cousins,QB,15,2013,WAS-2013-87
+WAS,False Start,12/15/2013,Atlanta,K.Lichtensteiger,C,15,2013,WAS-2013-88
+WAS,Offensive Holding,12/15/2013,Atlanta,F.Davis,TE,15,2013,WAS-2013-89
+WAS,Defensive Pass Interference,12/15/2013,Atlanta,L.Fletcher,ILB,15,2013,WAS-2013-90
+WAS,Encroachment,12/15/2013,Atlanta,B.Cofield,NT,15,2013,WAS-2013-91
+WAS,Defensive Holding,12/15/2013,Atlanta,E.Biggers,DB,15,2013,WAS-2013-92
+WAS,Offensive Holding,12/15/2013,Atlanta,K.Lichtensteiger,C,15,2013,WAS-2013-93
+WAS,Delay of Game,12/15/2013,Atlanta,K.Cousins,QB,15,2013,WAS-2013-94
+WAS,False Start,12/22/2013,Dallas,W.Montgomery,C,16,2013,WAS-2013-95
+WAS,False Start,12/22/2013,Dallas,S.Moss,WR,16,2013,WAS-2013-96
+WAS,Illegal Shift,12/22/2013,Dallas,L.Paulsen,TE,16,2013,WAS-2013-97
+WAS,Defensive Delay of Game,12/22/2013,Dallas,J.Wilson,DB,16,2013,WAS-2013-98
+WAS,False Start,12/22/2013,Dallas,W.Montgomery,C,16,2013,WAS-2013-99
+WAS,Delay of Game,12/22/2013,Dallas,K.Cousins,QB,16,2013,WAS-2013-100
+WAS,Defensive Holding,12/22/2013,Dallas,J.Wilson,DB,16,2013,WAS-2013-101
+WAS,Personal Foul,12/22/2013,Dallas,B.Meriweather,DB,16,2013,WAS-2013-102
+WAS,Illegal Block Above the Waist,12/22/2013,Dallas,D.Amerson,CB,16,2013,WAS-2013-103
+WAS,Illegally Kicking Ball,12/29/2013,N.Y. Giants,J.Gumbs,SS,17,2013,WAS-2013-104
+WAS,Ineligible Downfield Kick,12/29/2013,N.Y. Giants,P.Riley,ILB,17,2013,WAS-2013-105
+WAS,Horse Collar Tackle,12/29/2013,N.Y. Giants,C.Baker,NT,17,2013,WAS-2013-106

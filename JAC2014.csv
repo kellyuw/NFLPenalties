@@ -1,0 +1,104 @@
+team,penalty,game,opponent,player,position,week,year,penaltyindex
+JAC,False Start,09/07/2014,Philadelphia,J.McClendon,G,1,2014,JAC-2014-0
+JAC,Personal Foul,09/07/2014,Philadelphia,W.Guy,FS,1,2014,JAC-2014-1
+JAC,Defensive Holding,09/07/2014,Philadelphia,A.Ball,DB,1,2014,JAC-2014-2
+JAC,Illegal Contact,09/07/2014,Philadelphia,W.Blackmon,DB,1,2014,JAC-2014-3
+JAC,Defensive Offside,09/07/2014,Philadelphia,C.Clemons,DE,1,2014,JAC-2014-4
+JAC,Defensive Holding,09/07/2014,Philadelphia,C.Clemons,DE,1,2014,JAC-2014-5
+JAC,Illegal Contact,09/07/2014,Philadelphia,A.Ball,DB,1,2014,JAC-2014-6
+JAC,Defensive Holding,09/14/2014,Washington,L.Reynolds,OLB,2,2014,JAC-2014-7
+JAC,Illegal Use of Hands,09/14/2014,Washington,L.Bowanko,C,2,2014,JAC-2014-8
+JAC,Illegal Contact,09/14/2014,Washington,A.Ball,DB,2,2014,JAC-2014-9
+JAC,Defensive Holding,09/14/2014,Washington,R.Miller,DT,2,2014,JAC-2014-10
+JAC,Defensive Pass Interference,09/14/2014,Washington,D.Gratz,CB,2,2014,JAC-2014-11
+JAC,Illegal Use of Hands,09/14/2014,Washington,A.Branch,DE,2,2014,JAC-2014-12
+JAC,Offensive Holding,09/14/2014,Washington,W.Ta'ufo'ou,FB,2,2014,JAC-2014-13
+JAC,Unnecessary Roughness,09/14/2014,Washington,W.Guy,FS,2,2014,JAC-2014-14
+JAC,False Start,09/14/2014,Washington,S.Young,T,2,2014,JAC-2014-15
+JAC,False Start,09/14/2014,Washington,B.Linder,G,2,2014,JAC-2014-16
+JAC,Encroachment,09/21/2014,Indianapolis,R.Miller,DT,3,2014,JAC-2014-17
+JAC,Illegal Formation,09/21/2014,Indianapolis,L.Joeckel,T,3,2014,JAC-2014-18
+JAC,Defensive Offside,09/21/2014,Indianapolis,L.Reynolds,OLB,3,2014,JAC-2014-19
+JAC,Offensive Holding,09/21/2014,Indianapolis,L.Bowanko,C,3,2014,JAC-2014-20
+JAC,Defensive Offside,09/21/2014,Indianapolis,C.Clemons,DE,3,2014,JAC-2014-21
+JAC,Defensive 12 On-field,09/21/2014,Indianapolis,T.Alualu,DE,3,2014,JAC-2014-22
+JAC,Defensive Offside,09/21/2014,Indianapolis,T.Alualu,DE,3,2014,JAC-2014-23
+JAC,Defensive Offside,09/28/2014,San Diego,C.Clemons,DE,4,2014,JAC-2014-24
+JAC,Personal Foul,09/28/2014,San Diego,A.Branch,DE,4,2014,JAC-2014-25
+JAC,Tripping,09/28/2014,San Diego,B.Bortles,QB,4,2014,JAC-2014-26
+JAC,Illegal Block Above the Waist,09/28/2014,San Diego,W.Guy,FS,4,2014,JAC-2014-27
+JAC,Offensive Holding,10/05/2014,Pittsburgh,L.Joeckel,T,5,2014,JAC-2014-28
+JAC,Personal Foul,10/05/2014,Pittsburgh,J.Thomas,TE,5,2014,JAC-2014-29
+JAC,Offensive Holding,10/05/2014,Pittsburgh,A.Hurns,WR,5,2014,JAC-2014-30
+JAC,Offensive Holding,10/05/2014,Pittsburgh,L.Bowanko,C,5,2014,JAC-2014-31
+JAC,Offensive Holding,10/05/2014,Pittsburgh,L.Bowanko,C,5,2014,JAC-2014-32
+JAC,Delay of Game,10/05/2014,Pittsburgh,B.Bortles,QB,5,2014,JAC-2014-33
+JAC,Delay of Game,10/12/2014,Tennessee,B.Bortles,QB,6,2014,JAC-2014-34
+JAC,Defensive Offside,10/12/2014,Tennessee,C.Clemons,DE,6,2014,JAC-2014-35
+JAC,Illegal Contact,10/12/2014,Tennessee,W.Blackmon,DB,6,2014,JAC-2014-36
+JAC,Offensive Holding,10/12/2014,Tennessee,L.Reynolds,OLB,6,2014,JAC-2014-37
+JAC,Defensive Offside,10/12/2014,Tennessee,C.Clemons,DE,6,2014,JAC-2014-38
+JAC,Illegal Block Above the Waist,10/12/2014,Tennessee,J.Evans,FS,6,2014,JAC-2014-39
+JAC,Clipping,10/12/2014,Tennessee,L.Joeckel,T,6,2014,JAC-2014-40
+JAC,Offensive Pass Interference,10/19/2014,Cleveland,C.Shorts,WR,7,2014,JAC-2014-41
+JAC,Offensive Holding,10/19/2014,Cleveland,N.Jacobs,TE,7,2014,JAC-2014-42
+JAC,Offensive Holding,10/26/2014,Miami,A.Jones,DT,8,2014,JAC-2014-43
+JAC,False Start,10/26/2014,Miami,L.Bowanko,C,8,2014,JAC-2014-44
+JAC,Illegal Block Above the Waist,10/26/2014,Miami,D.McCray,CB,8,2014,JAC-2014-45
+JAC,Defensive Holding,10/26/2014,Miami,D.Gratz,CB,8,2014,JAC-2014-46
+JAC,Encroachment,10/26/2014,Miami,C.Clemons,DE,8,2014,JAC-2014-47
+JAC,Offensive Holding,10/26/2014,Miami,A.Pasztor,T,8,2014,JAC-2014-48
+JAC,Illegal Contact,10/26/2014,Miami,J.Harris,DB,8,2014,JAC-2014-49
+JAC,Offensive Holding,11/02/2014,Cincinnati,Z.Beadles,G,9,2014,JAC-2014-50
+JAC,Clipping,11/02/2014,Cincinnati,A.Pasztor,T,9,2014,JAC-2014-51
+JAC,Illegal Touch Pass,11/02/2014,Cincinnati,A.Hurns,WR,9,2014,JAC-2014-52
+JAC,Unnecessary Roughness,11/02/2014,Cincinnati,T.Smith,OLB,9,2014,JAC-2014-53
+JAC,Offensive Holding,11/09/2014,Dallas,C.Harbor,TE,10,2014,JAC-2014-54
+JAC,Defensive Holding,11/09/2014,Dallas,D.Gratz,CB,10,2014,JAC-2014-55
+JAC,Offensive Holding,11/09/2014,Dallas,L.Reynolds,OLB,10,2014,JAC-2014-56
+JAC,False Start,11/23/2014,Indianapolis,N.Jacobs,TE,12,2014,JAC-2014-57
+JAC,Unnecessary Roughness,11/23/2014,Indianapolis,J.Thomas,TE,12,2014,JAC-2014-58
+JAC,Running Into the Kicker,11/23/2014,Indianapolis,L.Reynolds,OLB,12,2014,JAC-2014-59
+JAC,False Start,11/23/2014,Indianapolis,L.Reynolds,OLB,12,2014,JAC-2014-60
+JAC,Defensive Holding,11/23/2014,Indianapolis,D.McCray,CB,12,2014,JAC-2014-61
+JAC,Illegal Use of Hands,11/23/2014,Indianapolis,R.Bryant,DT,12,2014,JAC-2014-62
+JAC,Offensive Pass Interference,11/23/2014,Indianapolis,M.Lee,WR,12,2014,JAC-2014-63
+JAC,Illegal Shift,11/23/2014,Indianapolis,A.Sanders,WR,12,2014,JAC-2014-64
+JAC,Unnecessary Roughness,11/23/2014,Indianapolis,S.Martin,DB,12,2014,JAC-2014-65
+JAC,Illegal Use of Hands,11/23/2014,Indianapolis,B.Linder,G,12,2014,JAC-2014-66
+JAC,Offensive Holding,11/23/2014,Indianapolis,D.Gratz,CB,12,2014,JAC-2014-67
+JAC,False Start,11/30/2014,N.Y. Giants,Z.Beadles,G,13,2014,JAC-2014-68
+JAC,Defensive Holding,11/30/2014,N.Y. Giants,J.Thomas,TE,13,2014,JAC-2014-69
+JAC,Offensive Holding,11/30/2014,N.Y. Giants,L.Joeckel,T,13,2014,JAC-2014-70
+JAC,Illegal Block Above the Waist,11/30/2014,N.Y. Giants,T.Campbell,DB,13,2014,JAC-2014-71
+JAC,Offensive Holding,11/30/2014,N.Y. Giants,D.McCray,CB,13,2014,JAC-2014-72
+JAC,False Start,11/30/2014,N.Y. Giants,J.Wells,T,13,2014,JAC-2014-73
+JAC,Offensive Holding,11/30/2014,N.Y. Giants,L.Joeckel,T,13,2014,JAC-2014-74
+JAC,Delay of Game,12/07/2014,Houston,B.Bortles,QB,14,2014,JAC-2014-75
+JAC,Personal Foul,12/07/2014,Houston,T.Smith,OLB,14,2014,JAC-2014-76
+JAC,Illegal Block Above the Waist,12/07/2014,Houston,C.Smith,DE,14,2014,JAC-2014-77
+JAC,Offensive Holding,12/07/2014,Houston,E.Hood,DE,14,2014,JAC-2014-78
+JAC,Illegal Use of Hands,12/07/2014,Houston,R.Miller,DT,14,2014,JAC-2014-79
+JAC,Illegal Contact,12/07/2014,Houston,D.McCray,CB,14,2014,JAC-2014-80
+JAC,Offensive Holding,12/07/2014,Houston,S.Young,T,14,2014,JAC-2014-81
+JAC,Encroachment,12/07/2014,Houston,R.Miller,DT,14,2014,JAC-2014-82
+JAC,Offensive Holding,12/07/2014,Houston,N.Jacobs,TE,14,2014,JAC-2014-83
+JAC,Illegal Forward Pass,12/14/2014,Baltimore,B.Bortles,QB,15,2014,JAC-2014-84
+JAC,False Start,12/14/2014,Baltimore,S.Young,T,15,2014,JAC-2014-85
+JAC,Ineligible Downfield Pass,12/14/2014,Baltimore,Z.Beadles,G,15,2014,JAC-2014-86
+JAC,Defensive Holding,12/14/2014,Baltimore,D.McCray,CB,15,2014,JAC-2014-87
+JAC,Personal Foul,12/14/2014,Baltimore,J.Thomas,TE,15,2014,JAC-2014-88
+JAC,Offensive Pass Interference,12/14/2014,Baltimore,C.Shorts,WR,15,2014,JAC-2014-89
+JAC,Defensive Pass Interference,12/14/2014,Baltimore,A.Colvin,CB,15,2014,JAC-2014-90
+JAC,Illegal Motion,12/14/2014,Baltimore,M.Lee,WR,15,2014,JAC-2014-91
+JAC,Offensive Pass Interference,12/18/2014,Tennessee,C.Harbor,TE,16,2014,JAC-2014-92
+JAC,Offensive Pass Interference,12/18/2014,Tennessee,C.Shorts,WR,16,2014,JAC-2014-93
+JAC,Delay of Game,12/18/2014,Tennessee,B.Bortles,QB,16,2014,JAC-2014-94
+JAC,Defensive Offside,12/28/2014,Houston,S.Marks,DT,17,2014,JAC-2014-95
+JAC,Defensive Offside,12/28/2014,Houston,C.Clemons,DE,17,2014,JAC-2014-96
+JAC,Illegal Use of Hands,12/28/2014,Houston,D.McCray,CB,17,2014,JAC-2014-97
+JAC,Offensive Holding,12/28/2014,Houston,L.Bowanko,C,17,2014,JAC-2014-98
+JAC,Offensive Pass Interference,12/28/2014,Houston,C.Shorts,WR,17,2014,JAC-2014-99
+JAC,Defensive Holding,12/28/2014,Houston,A.Colvin,CB,17,2014,JAC-2014-100
+JAC,Offensive Holding,12/28/2014,Houston,M.Lewis,TE,17,2014,JAC-2014-101
+JAC,Defensive Holding,12/28/2014,Houston,D.Gratz,CB,17,2014,JAC-2014-102

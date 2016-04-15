@@ -1,0 +1,107 @@
+team,penalty,game,opponent,player,position,week,year,penaltyindex
+SD,Defensive Offside,09/10/2012,Oakland,M.Ingram,OLB,1,2012,SD-2012-0
+SD,Illegal Block Above the Waist,09/10/2012,Oakland,D.Stuckey,DB,1,2012,SD-2012-1
+SD,Defensive Pass Interference,09/10/2012,Oakland,Q.Jammer,CB,1,2012,SD-2012-2
+SD,Neutral Zone Infraction,09/10/2012,Oakland,V.Martin,DT,1,2012,SD-2012-3
+SD,False Start,09/10/2012,Oakland,R.McMichael,TE,1,2012,SD-2012-4
+SD,Illegal Block Above the Waist,09/10/2012,Oakland,N.Hardwick,C,1,2012,SD-2012-5
+SD,Defensive Pass Interference,09/10/2012,Oakland,A.Cason,CB,1,2012,SD-2012-6
+SD,Roughing the Passer,09/10/2012,Oakland,M.Ingram,OLB,1,2012,SD-2012-7
+SD,Delay of Game,09/10/2012,Oakland,P.Rivers,QB,1,2012,SD-2012-8
+SD,Offensive Holding,09/16/2012,Tennessee,R.McMichael,TE,2,2012,SD-2012-9
+SD,Offensive Holding,09/16/2012,Tennessee,D.Rosario,TE,2,2012,SD-2012-10
+SD,Personal Foul,09/16/2012,Tennessee,V.Martin,DT,2,2012,SD-2012-11
+SD,Offensive Holding,09/16/2012,Tennessee,M.Harris,G,2,2012,SD-2012-12
+SD,Offensive Holding,09/16/2012,Tennessee,M.Harris,G,2,2012,SD-2012-13
+SD,Defensive Holding,09/23/2012,Atlanta,A.Cason,CB,3,2012,SD-2012-14
+SD,Defensive Holding,09/23/2012,Atlanta,A.Bigby,SS,3,2012,SD-2012-15
+SD,False Start,09/23/2012,Atlanta,N.Hardwick,C,3,2012,SD-2012-16
+SD,False Start,09/23/2012,Atlanta,M.Floyd,WR,3,2012,SD-2012-17
+SD,Intentional Grounding,09/30/2012,Kansas City,P.Rivers,QB,4,2012,SD-2012-18
+SD,Offensive Holding,09/30/2012,Kansas City,T.Green,G,4,2012,SD-2012-19
+SD,Offensive Holding,09/30/2012,Kansas City,R.Goodman,WR,4,2012,SD-2012-20
+SD,Defensive Pass Interference,09/30/2012,Kansas City,Q.Jammer,CB,4,2012,SD-2012-21
+SD,Defensive Pass Interference,09/30/2012,Kansas City,A.Cason,CB,4,2012,SD-2012-22
+SD,Illegal Contact,09/30/2012,Kansas City,Q.Jammer,CB,4,2012,SD-2012-23
+SD,Personal Foul,09/30/2012,Kansas City,D.Butler,ILB,4,2012,SD-2012-24
+SD,Illegal Contact,09/30/2012,Kansas City,D.Butler,ILB,4,2012,SD-2012-25
+SD,Offensive Holding,10/07/2012,New Orleans,R.McMichael,TE,5,2012,SD-2012-26
+SD,False Start,10/07/2012,New Orleans,M.Floyd,WR,5,2012,SD-2012-27
+SD,Delay of Game,10/07/2012,New Orleans,P.Rivers,QB,5,2012,SD-2012-28
+SD,Roughing the Passer,10/07/2012,New Orleans,M.Ingram,OLB,5,2012,SD-2012-29
+SD,Defensive Pass Interference,10/07/2012,New Orleans,A.Cason,CB,5,2012,SD-2012-30
+SD,Offensive Holding,10/07/2012,New Orleans,J.Clary,G,5,2012,SD-2012-31
+SD,Offensive Pass Interference,10/07/2012,New Orleans,A.Gates,TE,5,2012,SD-2012-32
+SD,Offensive Holding,10/07/2012,New Orleans,N.Hardwick,C,5,2012,SD-2012-33
+SD,Face Mask (15 Yards),10/15/2012,Denver,J.Clary,G,6,2012,SD-2012-34
+SD,False Start,10/15/2012,Denver,P.Rivers,QB,6,2012,SD-2012-35
+SD,Offensive Holding,10/15/2012,Denver,M.Harris,G,6,2012,SD-2012-36
+SD,False Start,10/15/2012,Denver,R.McMichael,TE,6,2012,SD-2012-37
+SD,Offensive Pass Interference,10/15/2012,Denver,A.Gates,TE,6,2012,SD-2012-38
+SD,False Start,10/15/2012,Denver,P.Rivers,QB,6,2012,SD-2012-39
+SD,Defensive Offside,10/15/2012,Denver,S.Phillips,OLB,6,2012,SD-2012-40
+SD,Encroachment,10/15/2012,Denver,C.Liuget,DT,6,2012,SD-2012-41
+SD,Defensive Offside,10/15/2012,Denver,M.Gilchrist,DB,6,2012,SD-2012-42
+SD,Encroachment,10/15/2012,Denver,V.Martin,DT,6,2012,SD-2012-43
+SD,Defensive Holding,10/28/2012,Cleveland,Q.Jammer,CB,8,2012,SD-2012-44
+SD,Encroachment,10/28/2012,Cleveland,V.Martin,DT,8,2012,SD-2012-45
+SD,False Start,10/28/2012,Cleveland,J.Gaither,T,8,2012,SD-2012-46
+SD,False Start,11/01/2012,Kansas City,J.Gaither,T,9,2012,SD-2012-47
+SD,False Start,11/01/2012,Kansas City,J.Gaither,T,9,2012,SD-2012-48
+SD,Neutral Zone Infraction,11/01/2012,Kansas City,A.Barnes,LB,9,2012,SD-2012-49
+SD,Offensive Holding,11/01/2012,Kansas City,J.Gaither,T,9,2012,SD-2012-50
+SD,Defensive Pass Interference,11/01/2012,Kansas City,Q.Jammer,CB,9,2012,SD-2012-51
+SD,False Start,11/01/2012,Kansas City,M.Harris,G,9,2012,SD-2012-52
+SD,Delay of Game,11/01/2012,Kansas City,P.Rivers,QB,9,2012,SD-2012-53
+SD,Offensive Holding,11/18/2012,Denver,S.Wright,DB,11,2012,SD-2012-54
+SD,Neutral Zone Infraction,11/18/2012,Denver,S.Phillips,OLB,11,2012,SD-2012-55
+SD,Offensive Holding,11/18/2012,Denver,C.Lynch,DB,11,2012,SD-2012-56
+SD,Delay of Game,11/18/2012,Denver,P.Rivers,QB,11,2012,SD-2012-57
+SD,Neutral Zone Infraction,11/18/2012,Denver,S.Phillips,OLB,11,2012,SD-2012-58
+SD,Encroachment,11/18/2012,Denver,A.Garay,DE,11,2012,SD-2012-59
+SD,Delay of Game,11/18/2012,Denver,P.Rivers,QB,11,2012,SD-2012-60
+SD,Illegal Use of Hands,11/18/2012,Denver,C.Liuget,DT,11,2012,SD-2012-61
+SD,Offensive Holding,11/18/2012,Denver,M.Harris,G,11,2012,SD-2012-62
+SD,False Start,11/18/2012,Denver,M.Harris,G,11,2012,SD-2012-63
+SD,False Start,11/25/2012,Baltimore,D.Alexander,WR,12,2012,SD-2012-64
+SD,Offensive Pass Interference,11/25/2012,Baltimore,D.Alexander,WR,12,2012,SD-2012-65
+SD,False Start,11/25/2012,Baltimore,M.Harris,G,12,2012,SD-2012-66
+SD,Illegal Use of Hands,11/25/2012,Baltimore,M.Ingram,OLB,12,2012,SD-2012-67
+SD,Neutral Zone Infraction,11/25/2012,Baltimore,A.Garay,DE,12,2012,SD-2012-68
+SD,Defensive Pass Interference,11/25/2012,Baltimore,Q.Jammer,CB,12,2012,SD-2012-69
+SD,Defensive Holding,12/02/2012,Cincinnati,S.Wright,DB,13,2012,SD-2012-70
+SD,Neutral Zone Infraction,12/02/2012,Cincinnati,A.Barnes,LB,13,2012,SD-2012-71
+SD,Illegal Use of Hands,12/02/2012,Cincinnati,M.Gilchrist,DB,13,2012,SD-2012-72
+SD,Offensive Holding,12/02/2012,Cincinnati,R.McMichael,TE,13,2012,SD-2012-73
+SD,False Start,12/02/2012,Cincinnati,A.Gates,TE,13,2012,SD-2012-74
+SD,False Start,12/02/2012,Cincinnati,M.Harris,G,13,2012,SD-2012-75
+SD,Personal Foul,12/02/2012,Cincinnati,T.Spikes,ILB,13,2012,SD-2012-76
+SD,Defensive Offside,12/02/2012,Cincinnati,M.Ingram,OLB,13,2012,SD-2012-77
+SD,Delay of Game,12/02/2012,Cincinnati,P.Rivers,QB,13,2012,SD-2012-78
+SD,Delay of Game,12/09/2012,Pittsburgh,P.Rivers,QB,14,2012,SD-2012-79
+SD,Delay of Game,12/09/2012,Pittsburgh,P.Rivers,QB,14,2012,SD-2012-80
+SD,Intentional Grounding,12/09/2012,Pittsburgh,P.Rivers,QB,14,2012,SD-2012-81
+SD,Defensive Pass Interference,12/09/2012,Pittsburgh,A.Cason,CB,14,2012,SD-2012-82
+SD,Personal Foul,12/16/2012,Carolina,A.Cason,CB,15,2012,SD-2012-83
+SD,False Start,12/16/2012,Carolina,K.Haslam,T,15,2012,SD-2012-84
+SD,False Start,12/16/2012,Carolina,R.Wells,T,15,2012,SD-2012-85
+SD,Face Mask (15 Yards),12/16/2012,Carolina,C.Liuget,DT,15,2012,SD-2012-86
+SD,Defensive 12 On-field,12/16/2012,Carolina,G.Guyton,LB,15,2012,SD-2012-87
+SD,False Start,12/16/2012,Carolina,D.Alexander,WR,15,2012,SD-2012-88
+SD,Defensive Holding,12/16/2012,Carolina,Q.Jammer,CB,15,2012,SD-2012-89
+SD,Roughing the Kicker,12/16/2012,Carolina,L.English,DE,15,2012,SD-2012-90
+SD,Offensive Holding,12/16/2012,Carolina,N.Hardwick,C,15,2012,SD-2012-91
+SD,Defensive Offside,12/16/2012,Carolina,C.Lynch,DB,15,2012,SD-2012-92
+SD,Defensive Pass Interference,12/23/2012,N.Y. Jets,Q.Jammer,CB,16,2012,SD-2012-93
+SD,Illegal Block Above the Waist,12/23/2012,N.Y. Jets,J.Battle,RB,16,2012,SD-2012-94
+SD,Offensive Holding,12/23/2012,N.Y. Jets,M.Harris,G,16,2012,SD-2012-95
+SD,Offensive Holding,12/23/2012,N.Y. Jets,M.Harris,G,16,2012,SD-2012-96
+SD,False Start,12/30/2012,Oakland,J.Clary,G,17,2012,SD-2012-97
+SD,Illegal Contact,12/30/2012,Oakland,Q.Jammer,CB,17,2012,SD-2012-98
+SD,Personal Foul,12/30/2012,Oakland,T.Spikes,ILB,17,2012,SD-2012-99
+SD,False Start,12/30/2012,Oakland,T.Green,G,17,2012,SD-2012-100
+SD,Unnecessary Roughness,12/30/2012,Oakland,D.Rosario,TE,17,2012,SD-2012-101
+SD,Neutral Zone Infraction,12/30/2012,Oakland,S.Phillips,OLB,17,2012,SD-2012-102
+SD,Roughing the Passer,12/30/2012,Oakland,C.Liuget,DT,17,2012,SD-2012-103
+SD,Running Into the Kicker,12/30/2012,Oakland,D.Scafe,DE,17,2012,SD-2012-104
+SD,False Start,12/30/2012,Oakland,K.Haslam,T,17,2012,SD-2012-105

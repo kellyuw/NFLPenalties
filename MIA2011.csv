@@ -1,0 +1,92 @@
+team,penalty,game,opponent,player,position,week,year,penaltyindex
+MIA,Offensive Holding,09/12/2011,New England,A.Fasano,TE,1,2011,MIA-2011-0
+MIA,Offensive Holding,09/12/2011,New England,R.Incognito,C,1,2011,MIA-2011-1
+MIA,Defensive Offside,09/12/2011,New England,P.Merling,DE,1,2011,MIA-2011-2
+MIA,Offensive Holding,09/12/2011,New England,R.Wallace,WR,1,2011,MIA-2011-3
+MIA,Offensive Holding,09/12/2011,New England,R.Incognito,C,1,2011,MIA-2011-4
+MIA,Encroachment,09/12/2011,New England,R.Starks,DT,1,2011,MIA-2011-5
+MIA,Offensive Holding,09/12/2011,New England,J.Trusnik,LB,1,2011,MIA-2011-6
+MIA,False Start,09/12/2011,New England,L.Hilliard,FB,1,2011,MIA-2011-7
+MIA,Offensive Holding,09/18/2011,Houston,J.Trusnik,LB,2,2011,MIA-2011-8
+MIA,False Start,09/18/2011,Houston,J.Long,T,2,2011,MIA-2011-9
+MIA,Offensive Holding,09/18/2011,Houston,M.Colombo,T,2,2011,MIA-2011-10
+MIA,Offensive Holding,09/25/2011,Cleveland,A.Fasano,TE,3,2011,MIA-2011-11
+MIA,Illegal Formation,09/25/2011,Cleveland,J.Mastrud,TE,3,2011,MIA-2011-12
+MIA,Offensive Holding,09/25/2011,Cleveland,N.Garner,G,3,2011,MIA-2011-13
+MIA,False Start,09/25/2011,Cleveland,A.Fasano,TE,3,2011,MIA-2011-14
+MIA,Unnecessary Roughness,09/25/2011,Cleveland,B.Marshall,WR,3,2011,MIA-2011-15
+MIA,Roughing the Passer,09/25/2011,Cleveland,Y.Bell,SS,3,2011,MIA-2011-16
+MIA,Offensive Holding,09/25/2011,Cleveland,J.Jerry,G,3,2011,MIA-2011-17
+MIA,Defensive Pass Interference,09/25/2011,Cleveland,N.Carroll,CB,3,2011,MIA-2011-18
+MIA,Roughing the Passer,09/25/2011,Cleveland,I.Olshansky,DT,3,2011,MIA-2011-19
+MIA,Defensive Offside,09/25/2011,Cleveland,J.Taylor,CB,3,2011,MIA-2011-20
+MIA,Horse Collar Tackle,10/02/2011,San Diego,A.Fasano,TE,4,2011,MIA-2011-21
+MIA,Defensive Pass Interference,10/02/2011,San Diego,Y.Bell,SS,4,2011,MIA-2011-22
+MIA,Illegal Contact,10/17/2011,N.Y. Jets,V.Davis,CB,6,2011,MIA-2011-23
+MIA,Delay of Game,10/17/2011,N.Y. Jets,M.Moore,QB,6,2011,MIA-2011-24
+MIA,Horse Collar Tackle,10/17/2011,N.Y. Jets,V.Davis,CB,6,2011,MIA-2011-25
+MIA,Roughing the Passer,10/23/2011,Denver,Y.Bell,SS,7,2011,MIA-2011-26
+MIA,Offside on Free Kick,10/23/2011,Denver,M.Mitchell,OLB,7,2011,MIA-2011-27
+MIA,Defensive Offside,10/30/2011,N.Y. Giants,J.Odrick,DT,8,2011,MIA-2011-28
+MIA,Low Block,10/30/2011,N.Y. Giants,J.Trusnik,LB,8,2011,MIA-2011-29
+MIA,Neutral Zone Infraction,10/30/2011,N.Y. Giants,R.Starks,DT,8,2011,MIA-2011-30
+MIA,Offensive Pass Interference,10/30/2011,N.Y. Giants,B.Marshall,WR,8,2011,MIA-2011-31
+MIA,Player Out of Bounds on Punt,10/30/2011,N.Y. Giants,N.Carroll,CB,8,2011,MIA-2011-32
+MIA,Defensive Pass Interference,11/06/2011,Kansas City,J.Wilson,DB,9,2011,MIA-2011-33
+MIA,Defensive Pass Interference,11/06/2011,Kansas City,J.Wilson,DB,9,2011,MIA-2011-34
+MIA,Personal Foul,11/06/2011,Kansas City,Y.Bell,SS,9,2011,MIA-2011-35
+MIA,Unnecessary Roughness,11/06/2011,Kansas City,Y.Bell,SS,9,2011,MIA-2011-36
+MIA,Unsportsmanlike Conduct,11/06/2011,Kansas City,Y.Bell,SS,9,2011,MIA-2011-37
+MIA,Unnecessary Roughness,11/06/2011,Kansas City,M.Colombo,T,9,2011,MIA-2011-38
+MIA,False Start,11/06/2011,Kansas City,M.Mitchell,OLB,9,2011,MIA-2011-39
+MIA,Roughing the Passer,11/13/2011,Washington,P.Soliai,DT,10,2011,MIA-2011-40
+MIA,Offensive Holding,11/13/2011,Washington,R.Incognito,C,10,2011,MIA-2011-41
+MIA,Encroachment,11/13/2011,Washington,R.Starks,DT,10,2011,MIA-2011-42
+MIA,False Start,11/13/2011,Washington,B.Hartline,WR,10,2011,MIA-2011-43
+MIA,Roughing the Passer,11/13/2011,Washington,I.Olshansky,DT,10,2011,MIA-2011-44
+MIA,Roughing the Passer,11/13/2011,Washington,J.Odrick,DT,10,2011,MIA-2011-45
+MIA,Defensive Offside,11/13/2011,Washington,J.Odrick,DT,10,2011,MIA-2011-46
+MIA,Offensive Holding,11/20/2011,Buffalo,J.Mastrud,TE,11,2011,MIA-2011-47
+MIA,Offensive Holding,11/20/2011,Buffalo,J.Mastrud,TE,11,2011,MIA-2011-48
+MIA,Defensive Pass Interference,11/20/2011,Buffalo,V.Davis,CB,11,2011,MIA-2011-49
+MIA,Personal Foul,11/20/2011,Buffalo,T.Culver,DB,11,2011,MIA-2011-50
+MIA,Defensive Pass Interference,11/24/2011,Dallas,S.Smith,CB,12,2011,MIA-2011-51
+MIA,False Start,11/24/2011,Dallas,J.Long,T,12,2011,MIA-2011-52
+MIA,False Start,11/24/2011,Dallas,J.Long,T,12,2011,MIA-2011-53
+MIA,Offensive Holding,11/24/2011,Dallas,J.Long,T,12,2011,MIA-2011-54
+MIA,False Start,11/24/2011,Dallas,M.Colombo,T,12,2011,MIA-2011-55
+MIA,False Start,11/24/2011,Dallas,J.Long,T,12,2011,MIA-2011-56
+MIA,False Start,12/04/2011,Oakland,A.Fasano,TE,13,2011,MIA-2011-57
+MIA,Offensive Holding,12/04/2011,Oakland,R.Incognito,C,13,2011,MIA-2011-58
+MIA,Illegal Contact,12/04/2011,Oakland,K.Burnett,LB,13,2011,MIA-2011-59
+MIA,Personal Foul,12/04/2011,Oakland,R.Incognito,C,13,2011,MIA-2011-60
+MIA,Offensive Holding,12/04/2011,Oakland,R.Jones,SS,13,2011,MIA-2011-61
+MIA,Roughing the Passer,12/04/2011,Oakland,C.Wake,DE,13,2011,MIA-2011-62
+MIA,Offensive Holding,12/04/2011,Oakland,M.Pouncey,C,13,2011,MIA-2011-63
+MIA,Face Mask (15 Yards),12/11/2011,Philadelphia,W.Allen,DB,14,2011,MIA-2011-64
+MIA,Offensive Holding,12/11/2011,Philadelphia,M.Pouncey,C,14,2011,MIA-2011-65
+MIA,Unnecessary Roughness,12/11/2011,Philadelphia,R.Incognito,C,14,2011,MIA-2011-66
+MIA,Offensive Holding,12/11/2011,Philadelphia,M.Pouncey,C,14,2011,MIA-2011-67
+MIA,Face Mask (15 Yards),12/11/2011,Philadelphia,P.Soliai,DT,14,2011,MIA-2011-68
+MIA,Face Mask (15 Yards),12/11/2011,Philadelphia,N.Garner,G,14,2011,MIA-2011-69
+MIA,Offensive Holding,12/11/2011,Philadelphia,N.Garner,G,14,2011,MIA-2011-70
+MIA,Defensive Pass Interference,12/18/2011,Buffalo,W.Allen,DB,15,2011,MIA-2011-71
+MIA,Personal Foul,12/18/2011,Buffalo,R.Incognito,C,15,2011,MIA-2011-72
+MIA,Running Into the Kicker,12/18/2011,Buffalo,M.Mitchell,OLB,15,2011,MIA-2011-73
+MIA,Offensive Holding,12/18/2011,Buffalo,J.Jerry,G,15,2011,MIA-2011-74
+MIA,Illegal Block Above the Waist,12/18/2011,Buffalo,R.Incognito,C,15,2011,MIA-2011-75
+MIA,False Start,12/18/2011,Buffalo,J.Jerry,G,15,2011,MIA-2011-76
+MIA,Unsportsmanlike Conduct,12/18/2011,Buffalo,R.Bush,RB,15,2011,MIA-2011-77
+MIA,Defensive Holding,12/18/2011,Buffalo,S.Smith,CB,15,2011,MIA-2011-78
+MIA,Defensive Offside,12/18/2011,Buffalo,Y.Bell,SS,15,2011,MIA-2011-79
+MIA,False Start,12/24/2011,New England,V.Carey,G,16,2011,MIA-2011-80
+MIA,Personal Foul,12/24/2011,New England,J.Mastrud,TE,16,2011,MIA-2011-81
+MIA,False Start,12/24/2011,New England,M.Pouncey,C,16,2011,MIA-2011-82
+MIA,Neutral Zone Infraction,12/24/2011,New England,K.Langford,DE,16,2011,MIA-2011-83
+MIA,Encroachment,12/24/2011,New England,J.Taylor,CB,16,2011,MIA-2011-84
+MIA,Offensive Holding,12/24/2011,New England,R.Incognito,C,16,2011,MIA-2011-85
+MIA,Defensive Offside,01/01/2012,N.Y. Jets,P.Merling,DE,17,2011,MIA-2011-86
+MIA,Encroachment,01/01/2012,N.Y. Jets,K.Langford,DE,17,2011,MIA-2011-87
+MIA,False Start,01/01/2012,N.Y. Jets,B.Marshall,WR,17,2011,MIA-2011-88
+MIA,Illegal Contact,01/01/2012,N.Y. Jets,V.Davis,CB,17,2011,MIA-2011-89
+MIA,Roughing the Passer,01/01/2012,N.Y. Jets,Y.Bell,SS,17,2011,MIA-2011-90

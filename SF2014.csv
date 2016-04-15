@@ -1,0 +1,144 @@
+team,penalty,game,opponent,player,position,week,year,penaltyindex
+SF,Illegal Use of Hands,09/07/2014,Dallas,A.Brooks,OLB,1,2014,SF-2014-0
+SF,Illegal Use of Hands,09/07/2014,Dallas,A.Brooks,OLB,1,2014,SF-2014-1
+SF,Neutral Zone Infraction,09/07/2014,Dallas,A.Brooks,OLB,1,2014,SF-2014-2
+SF,Offensive Holding,09/07/2014,Dallas,J.Staley,T,1,2014,SF-2014-3
+SF,Offside on Free Kick,09/07/2014,Dallas,C.Borland,ILB,1,2014,SF-2014-4
+SF,Offensive Holding,09/07/2014,Dallas,N.Moody,LB,1,2014,SF-2014-5
+SF,Illegal Contact,09/07/2014,Dallas,C.Dahl,DB,1,2014,SF-2014-6
+SF,Illegal Contact,09/07/2014,Dallas,J.Ward,SS,1,2014,SF-2014-7
+SF,Offensive Holding,09/07/2014,Dallas,J.Looney,G,1,2014,SF-2014-8
+SF,Offensive Pass Interference,09/07/2014,Dallas,B.Lloyd,WR,1,2014,SF-2014-9
+SF,Offensive Pass Interference,09/14/2014,Chicago,S.Johnson,WR,2,2014,SF-2014-10
+SF,Offensive Holding,09/14/2014,Chicago,J.Staley,T,2,2014,SF-2014-11
+SF,False Start,09/14/2014,Chicago,J.Martin,T,2,2014,SF-2014-12
+SF,Unnecessary Roughness,09/14/2014,Chicago,L.McCray,DB,2,2014,SF-2014-13
+SF,Illegal Use of Hands,09/14/2014,Chicago,J.Ward,SS,2,2014,SF-2014-14
+SF,Delay of Game,09/14/2014,Chicago,A.Lee,P,2,2014,SF-2014-15
+SF,Offensive Holding,09/14/2014,Chicago,C.Borland,ILB,2,2014,SF-2014-16
+SF,Offensive Holding,09/14/2014,Chicago,A.Boldin,WR,2,2014,SF-2014-17
+SF,Defensive Holding,09/14/2014,Chicago,J.Smith,DE,2,2014,SF-2014-18
+SF,Illegal Contact,09/14/2014,Chicago,P.Cox,DB,2,2014,SF-2014-19
+SF,Roughing the Passer,09/14/2014,Chicago,Q.Dial,NT,2,2014,SF-2014-20
+SF,Unnecessary Roughness,09/14/2014,Chicago,D.Skuta,LB,2,2014,SF-2014-21
+SF,Illegal Use of Hands,09/14/2014,Chicago,C.Lemonier,OLB,2,2014,SF-2014-22
+SF,Illegal Contact,09/14/2014,Chicago,D.Johnson,CB,2,2014,SF-2014-23
+SF,Defensive Holding,09/14/2014,Chicago,D.Skuta,LB,2,2014,SF-2014-24
+SF,Unsportsmanlike Conduct,09/14/2014,Chicago,C.Kaepernick,QB,2,2014,SF-2014-25
+SF,False Start,09/14/2014,Chicago,J.Staley,T,2,2014,SF-2014-26
+SF,Delay of Game,09/14/2014,Chicago,C.Kaepernick,QB,2,2014,SF-2014-27
+SF,Illegal Contact,09/21/2014,Arizona,P.Willis,ILB,3,2014,SF-2014-28
+SF,Illegal Use of Hands,09/21/2014,Arizona,T.Jerod,DE,3,2014,SF-2014-29
+SF,Illegal Contact,09/21/2014,Arizona,E.Reid,FS,3,2014,SF-2014-30
+SF,Face Mask (15 Yards),09/21/2014,Arizona,E.Reid,FS,3,2014,SF-2014-31
+SF,Offensive Holding,09/21/2014,Arizona,M.Iupati,G,3,2014,SF-2014-32
+SF,Unnecessary Roughness,09/21/2014,Arizona,D.Skuta,LB,3,2014,SF-2014-33
+SF,Roughing the Passer,09/21/2014,Arizona,P.Willis,ILB,3,2014,SF-2014-34
+SF,Unnecessary Roughness,09/21/2014,Arizona,A.Boldin,WR,3,2014,SF-2014-35
+SF,Clipping,09/21/2014,Arizona,J.Martin,T,3,2014,SF-2014-36
+SF,Taunting,09/21/2014,Arizona,C.Culliver,DB,3,2014,SF-2014-37
+SF,Unnecessary Roughness,09/21/2014,Arizona,P.Willis,ILB,3,2014,SF-2014-38
+SF,Defensive Pass Interference,09/21/2014,Arizona,C.Cook,CB,3,2014,SF-2014-39
+SF,False Start,09/28/2014,Philadelphia,V.Davis,TE,4,2014,SF-2014-40
+SF,Offensive Holding,09/28/2014,Philadelphia,A.Boone,G,4,2014,SF-2014-41
+SF,Offensive Holding,09/28/2014,Philadelphia,B.Miller,FB,4,2014,SF-2014-42
+SF,Face Mask (15 Yards),09/28/2014,Philadelphia,K.Osgood,WR,4,2014,SF-2014-43
+SF,Offensive Pass Interference,09/28/2014,Philadelphia,M.Crabtree,WR,4,2014,SF-2014-44
+SF,Illegal Formation,09/28/2014,Philadelphia,M.Crabtree,WR,4,2014,SF-2014-45
+SF,Delay of Game,09/28/2014,Philadelphia,C.Kaepernick,QB,4,2014,SF-2014-46
+SF,False Start,09/28/2014,Philadelphia,C.Hyde,RB,4,2014,SF-2014-47
+SF,Offensive Pass Interference,09/28/2014,Philadelphia,D.Carrier,TE,4,2014,SF-2014-48
+SF,Delay of Game,09/28/2014,Philadelphia,C.Kaepernick,QB,4,2014,SF-2014-49
+SF,Neutral Zone Infraction,10/05/2014,Kansas City,A.Brooks,OLB,5,2014,SF-2014-50
+SF,False Start,10/05/2014,Kansas City,M.Iupati,G,5,2014,SF-2014-51
+SF,Illegal Use of Hands,10/13/2014,St. Louis,A.Brooks,OLB,6,2014,SF-2014-52
+SF,Illegal Contact,10/13/2014,St. Louis,E.Reid,FS,6,2014,SF-2014-53
+SF,False Start,10/13/2014,St. Louis,V.Davis,TE,6,2014,SF-2014-54
+SF,Illegal Substitution,10/13/2014,St. Louis,J.Looney,G,6,2014,SF-2014-55
+SF,Offensive Holding,10/13/2014,St. Louis,D.Kilgore,C,6,2014,SF-2014-56
+SF,False Start,10/13/2014,St. Louis,J.Staley,T,6,2014,SF-2014-57
+SF,Delay of Game,10/13/2014,St. Louis,A.Lee,P,6,2014,SF-2014-58
+SF,Illegal Shift,10/19/2014,Denver,V.Davis,TE,7,2014,SF-2014-59
+SF,Offensive Pass Interference,10/19/2014,Denver,M.Crabtree,WR,7,2014,SF-2014-60
+SF,Unnecessary Roughness,10/19/2014,Denver,A.Lynch,OLB,7,2014,SF-2014-61
+SF,Defensive Pass Interference,10/19/2014,Denver,T.Brock,CB,7,2014,SF-2014-62
+SF,False Start,10/19/2014,Denver,A.Davis,T,7,2014,SF-2014-63
+SF,Offensive Holding,10/19/2014,Denver,C.Lemonier,OLB,7,2014,SF-2014-64
+SF,Defensive Pass Interference,10/19/2014,Denver,C.Borland,ILB,7,2014,SF-2014-65
+SF,Offensive Pass Interference,10/19/2014,Denver,A.Boldin,WR,7,2014,SF-2014-66
+SF,Illegal Formation,10/19/2014,Denver,J.Staley,T,7,2014,SF-2014-67
+SF,Illegal Use of Hands,11/02/2014,St. Louis,A.Boone,G,9,2014,SF-2014-68
+SF,Neutral Zone Infraction,11/02/2014,St. Louis,R.McDonald,DE,9,2014,SF-2014-69
+SF,Defensive Holding,11/02/2014,St. Louis,J.Ward,SS,9,2014,SF-2014-70
+SF,Offensive Holding,11/02/2014,St. Louis,J.Staley,T,9,2014,SF-2014-71
+SF,Offensive Holding,11/02/2014,St. Louis,A.Boone,G,9,2014,SF-2014-72
+SF,False Start,11/02/2014,St. Louis,M.Martin,FS,9,2014,SF-2014-73
+SF,Defensive Holding,11/02/2014,St. Louis,C.Culliver,DB,9,2014,SF-2014-74
+SF,Unsportsmanlike Conduct,11/02/2014,St. Louis,B.Ellington,WR,9,2014,SF-2014-75
+SF,False Start,11/02/2014,St. Louis,M.Iupati,G,9,2014,SF-2014-76
+SF,False Start,11/02/2014,St. Louis,F.Gore,RB,9,2014,SF-2014-77
+SF,Illegal Formation,11/02/2014,St. Louis,A.Davis,T,9,2014,SF-2014-78
+SF,Offensive Pass Interference,11/09/2014,New Orleans,A.Boldin,WR,10,2014,SF-2014-79
+SF,Illegal Block Above the Waist,11/09/2014,New Orleans,J.Ward,SS,10,2014,SF-2014-80
+SF,Neutral Zone Infraction,11/09/2014,New Orleans,A.Lynch,OLB,10,2014,SF-2014-81
+SF,Offensive Holding,11/16/2014,N.Y. Giants,C.Dahl,DB,11,2014,SF-2014-82
+SF,Offensive Holding,11/16/2014,N.Y. Giants,S.Johnson,WR,11,2014,SF-2014-83
+SF,Defensive Pass Interference,11/16/2014,N.Y. Giants,M.Wilhoite,ILB,11,2014,SF-2014-84
+SF,Defensive Holding,11/16/2014,N.Y. Giants,M.Wilhoite,ILB,11,2014,SF-2014-85
+SF,Running Into the Kicker,11/16/2014,N.Y. Giants,D.Johnson,CB,11,2014,SF-2014-86
+SF,Illegal Block Above the Waist,11/16/2014,N.Y. Giants,Ald.Smith,DE,11,2014,SF-2014-87
+SF,Illegal Contact,11/16/2014,N.Y. Giants,P.Cox,DB,11,2014,SF-2014-88
+SF,Offensive Holding,11/23/2014,Washington,T.Jerod,DE,12,2014,SF-2014-89
+SF,Illegal Use of Hands,11/23/2014,Washington,C.Lemonier,OLB,12,2014,SF-2014-90
+SF,Ineligible Downfield Pass,11/23/2014,Washington,A.Boone,G,12,2014,SF-2014-91
+SF,Roughing the Passer,11/23/2014,Washington,A.Lynch,OLB,12,2014,SF-2014-92
+SF,Illegal Block Above the Waist,11/23/2014,Washington,L.McCray,DB,12,2014,SF-2014-93
+SF,Defensive Holding,11/27/2014,Seattle,D.Johnson,CB,13,2014,SF-2014-94
+SF,Offensive Holding,11/27/2014,Seattle,J.Staley,T,13,2014,SF-2014-95
+SF,Illegal Use of Hands,11/27/2014,Seattle,J.Staley,T,13,2014,SF-2014-96
+SF,Ineligible Downfield Kick,11/27/2014,Seattle,C.Borland,ILB,13,2014,SF-2014-97
+SF,Illegal Contact,11/27/2014,Seattle,P.Cox,DB,13,2014,SF-2014-98
+SF,Personal Foul,11/27/2014,Seattle,M.Crabtree,WR,13,2014,SF-2014-99
+SF,Delay of Game,12/07/2014,Oakland,C.Kaepernick,QB,14,2014,SF-2014-100
+SF,Delay of Game,12/07/2014,Oakland,C.Kaepernick,QB,14,2014,SF-2014-101
+SF,Offensive Holding,12/07/2014,Oakland,G.Celek,TE,14,2014,SF-2014-102
+SF,Defensive Holding,12/07/2014,Oakland,D.Skuta,LB,14,2014,SF-2014-103
+SF,Delay of Game,12/07/2014,Oakland,C.Kaepernick,QB,14,2014,SF-2014-104
+SF,Illegal Block Above the Waist,12/14/2014,Seattle,B.Lloyd,WR,15,2014,SF-2014-105
+SF,Unnecessary Roughness,12/14/2014,Seattle,E.Reid,FS,15,2014,SF-2014-106
+SF,Unnecessary Roughness,12/14/2014,Seattle,E.Reid,FS,15,2014,SF-2014-107
+SF,Offensive Holding,12/14/2014,Seattle,K.Osgood,WR,15,2014,SF-2014-108
+SF,Offensive Holding,12/14/2014,Seattle,D.Johnson,CB,15,2014,SF-2014-109
+SF,Offensive Holding,12/14/2014,Seattle,A.Cleveland,TE,15,2014,SF-2014-110
+SF,Roughing the Passer,12/14/2014,Seattle,N.Moody,LB,15,2014,SF-2014-111
+SF,Offensive Holding,12/14/2014,Seattle,C.Dahl,DB,15,2014,SF-2014-112
+SF,Ineligible Downfield Pass,12/14/2014,Seattle,J.Looney,G,15,2014,SF-2014-113
+SF,Offensive Holding,12/20/2014,San Diego,J.Staley,T,16,2014,SF-2014-114
+SF,Unsportsmanlike Conduct,12/20/2014,San Diego,A.Boldin,WR,16,2014,SF-2014-115
+SF,Defensive Holding,12/20/2014,San Diego,C.Culliver,DB,16,2014,SF-2014-116
+SF,Unnecessary Roughness,12/20/2014,San Diego,Q.Patton,WR,16,2014,SF-2014-117
+SF,Ineligible Downfield Pass,12/20/2014,San Diego,A.Davis,T,16,2014,SF-2014-118
+SF,Illegal Block Above the Waist,12/20/2014,San Diego,L.McCray,DB,16,2014,SF-2014-119
+SF,Illegal Block Above the Waist,12/20/2014,San Diego,P.Tanner,RB,16,2014,SF-2014-120
+SF,Chop Block,12/20/2014,San Diego,F.Gore,RB,16,2014,SF-2014-121
+SF,Illegal Formation,12/20/2014,San Diego,A.Davis,T,16,2014,SF-2014-122
+SF,Unsportsmanlike Conduct,12/20/2014,San Diego,J.Staley,T,16,2014,SF-2014-123
+SF,Illegal Formation,12/20/2014,San Diego,J.Staley,T,16,2014,SF-2014-124
+SF,Illegal Formation,12/20/2014,San Diego,J.Staley,T,16,2014,SF-2014-125
+SF,Defensive Pass Interference,12/20/2014,San Diego,C.Culliver,DB,16,2014,SF-2014-126
+SF,Illegal Contact,12/20/2014,San Diego,M.Cromartie,DB,16,2014,SF-2014-127
+SF,Delay of Game,12/20/2014,San Diego,A.Lee,P,16,2014,SF-2014-128
+SF,Defensive Offside,12/20/2014,San Diego,C.Lemonier,OLB,16,2014,SF-2014-129
+SF,Defensive Holding,12/20/2014,San Diego,N.Moody,LB,16,2014,SF-2014-130
+SF,Offensive Holding,12/28/2014,Arizona,M.Martin,FS,17,2014,SF-2014-131
+SF,Offensive Offside,12/28/2014,Arizona,Q.Patton,WR,17,2014,SF-2014-132
+SF,Offensive Holding,12/28/2014,Arizona,M.Iupati,G,17,2014,SF-2014-133
+SF,False Start,12/28/2014,Arizona,F.Gore,RB,17,2014,SF-2014-134
+SF,Offensive Pass Interference,12/28/2014,Arizona,A.Boldin,WR,17,2014,SF-2014-135
+SF,Illegal Use of Hands,12/28/2014,Arizona,M.Wilhoite,ILB,17,2014,SF-2014-136
+SF,Defensive Offside,12/28/2014,Arizona,J.Smith,DE,17,2014,SF-2014-137
+SF,Low Block,12/28/2014,Arizona,D.Johnson,CB,17,2014,SF-2014-138
+SF,Chop Block,12/28/2014,Arizona,M.Martin,FS,17,2014,SF-2014-139
+SF,Defensive Pass Interference,12/28/2014,Arizona,L.McFadden,DB,17,2014,SF-2014-140
+SF,False Start,12/28/2014,Arizona,A.Davis,T,17,2014,SF-2014-141
+SF,False Start,12/28/2014,Arizona,M.Martin,FS,17,2014,SF-2014-142

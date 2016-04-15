@@ -1,0 +1,116 @@
+team,penalty,game,opponent,player,position,week,year,penaltyindex
+GB,Running Into the Kicker,09/04/2014,Seattle,M.Daniels,DT,1,2014,GB-2014-0
+GB,Defensive Offside,09/04/2014,Seattle,J.Peppers,OLB,1,2014,GB-2014-1
+GB,Illegal Contact,09/04/2014,Seattle,B.Jones,LB,1,2014,GB-2014-2
+GB,Unsportsmanlike Conduct,09/04/2014,Seattle,D.Bakhtiari,T,1,2014,GB-2014-3
+GB,Offensive Holding,09/04/2014,Seattle,D.Bakhtiari,T,1,2014,GB-2014-4
+GB,Defensive Holding,09/04/2014,Seattle,B.Jones,LB,1,2014,GB-2014-5
+GB,Face Mask (15 Yards),09/04/2014,Seattle,C.Hayward,CB,1,2014,GB-2014-6
+GB,Offensive Holding,09/04/2014,Seattle,T.Lang,G,1,2014,GB-2014-7
+GB,Ineligible Downfield Pass,09/14/2014,N.Y. Jets,C.Linsley,C,2,2014,GB-2014-8
+GB,Defensive Offside,09/14/2014,N.Y. Jets,A.Mulumba,OLB,2,2014,GB-2014-9
+GB,Taunting,09/14/2014,N.Y. Jets,J.Bush,CB,2,2014,GB-2014-10
+GB,Illegal Use of Hands,09/14/2014,N.Y. Jets,M.Daniels,DT,2,2014,GB-2014-11
+GB,False Start,09/21/2014,Detroit,B.Bostick,TE,3,2014,GB-2014-12
+GB,False Start,09/21/2014,Detroit,J.Sitton,G,3,2014,GB-2014-13
+GB,Defensive Holding,09/21/2014,Detroit,T.Williams,DB,3,2014,GB-2014-14
+GB,Defensive Pass Interference,09/21/2014,Detroit,T.Williams,DB,3,2014,GB-2014-15
+GB,Offensive Holding,09/21/2014,Detroit,B.Bostick,TE,3,2014,GB-2014-16
+GB,Illegal Use of Hands,09/28/2014,Chicago,J.Peppers,OLB,4,2014,GB-2014-17
+GB,Unnecessary Roughness,09/28/2014,Chicago,S.Shields,CB,4,2014,GB-2014-18
+GB,Defensive Pass Interference,09/28/2014,Chicago,H.Clinton,FS,4,2014,GB-2014-19
+GB,Offensive Holding,09/28/2014,Chicago,D.Jones,DE,4,2014,GB-2014-20
+GB,Offensive Holding,09/28/2014,Chicago,C.Linsley,C,4,2014,GB-2014-21
+GB,Offensive Holding,09/28/2014,Chicago,C.Linsley,C,4,2014,GB-2014-22
+GB,Offensive Holding,09/28/2014,Chicago,A.Quarless,TE,4,2014,GB-2014-23
+GB,Offensive Holding,09/28/2014,Chicago,D.Bakhtiari,T,4,2014,GB-2014-24
+GB,Illegal Use of Hands,10/02/2014,Minnesota,M.Daniels,DT,5,2014,GB-2014-25
+GB,Defensive Offside,10/02/2014,Minnesota,L.Guion,NT,5,2014,GB-2014-26
+GB,Offensive Holding,10/02/2014,Minnesota,J.Kuhn,FB,5,2014,GB-2014-27
+GB,False Start,10/02/2014,Minnesota,B.Bulaga,T,5,2014,GB-2014-28
+GB,Defensive Offside,10/02/2014,Minnesota,L.Robinson,DE,5,2014,GB-2014-29
+GB,Neutral Zone Infraction,10/12/2014,Miami,J.Peppers,OLB,6,2014,GB-2014-30
+GB,Intentional Grounding,10/12/2014,Miami,A.Rodgers,QB,6,2014,GB-2014-31
+GB,Defensive Pass Interference,10/12/2014,Miami,D.House,DB,6,2014,GB-2014-32
+GB,Defensive Holding,10/12/2014,Miami,M.Burnett,SS,6,2014,GB-2014-33
+GB,Illegal Use of Hands,10/12/2014,Miami,B.Jones,LB,6,2014,GB-2014-34
+GB,Defensive Pass Interference,10/19/2014,Carolina,T.Williams,DB,7,2014,GB-2014-35
+GB,False Start,10/19/2014,Carolina,J.Starks,RB,7,2014,GB-2014-36
+GB,Illegal Contact,10/19/2014,Carolina,D.House,DB,7,2014,GB-2014-37
+GB,Unsportsmanlike Conduct,10/19/2014,Carolina,C.Matthews,OLB,7,2014,GB-2014-38
+GB,Taunting,10/19/2014,Carolina,S.Richardson,DB,7,2014,GB-2014-39
+GB,Neutral Zone Infraction,10/19/2014,Carolina,J.Peppers,OLB,7,2014,GB-2014-40
+GB,Defensive Holding,10/19/2014,Carolina,B.Jones,LB,7,2014,GB-2014-41
+GB,False Start,10/19/2014,Carolina,D.Sherrod,T,7,2014,GB-2014-42
+GB,False Start,10/26/2014,New Orleans,D.Bakhtiari,T,8,2014,GB-2014-43
+GB,Offensive Holding,10/26/2014,New Orleans,D.Bakhtiari,T,8,2014,GB-2014-44
+GB,Offensive Pass Interference,10/26/2014,New Orleans,D.Adams,WR,8,2014,GB-2014-45
+GB,Delay of Game,10/26/2014,New Orleans,A.Rodgers,QB,8,2014,GB-2014-46
+GB,Illegal Contact,10/26/2014,New Orleans,M.Hyde,FS,8,2014,GB-2014-47
+GB,Defensive Pass Interference,10/26/2014,New Orleans,D.House,DB,8,2014,GB-2014-48
+GB,Illegal Use of Hands,10/26/2014,New Orleans,J.Sitton,G,8,2014,GB-2014-49
+GB,False Start,10/26/2014,New Orleans,D.Adams,WR,8,2014,GB-2014-50
+GB,Illegal Use of Hands,11/09/2014,Chicago,N.Perry,OLB,10,2014,GB-2014-51
+GB,Unnecessary Roughness,11/09/2014,Chicago,H.Clinton,FS,10,2014,GB-2014-52
+GB,Offensive Holding,11/09/2014,Chicago,B.Bulaga,T,10,2014,GB-2014-53
+GB,Unnecessary Roughness,11/09/2014,Chicago,C.Matthews,OLB,10,2014,GB-2014-54
+GB,Defensive Holding,11/09/2014,Chicago,D.House,DB,10,2014,GB-2014-55
+GB,Intentional Grounding,11/16/2014,Philadelphia,A.Rodgers,QB,11,2014,GB-2014-56
+GB,Illegal Use of Hands,11/16/2014,Philadelphia,L.Guion,NT,11,2014,GB-2014-57
+GB,Offensive Holding,11/16/2014,Philadelphia,L.Taylor,G,11,2014,GB-2014-58
+GB,Personal Foul,11/16/2014,Philadelphia,J.Tretter,T,11,2014,GB-2014-59
+GB,Offensive Pass Interference,11/16/2014,Philadelphia,R.Rodgers,TE,11,2014,GB-2014-60
+GB,False Start,11/23/2014,Minnesota,B.Bulaga,T,12,2014,GB-2014-61
+GB,Defensive Holding,11/23/2014,Minnesota,M.Hyde,FS,12,2014,GB-2014-62
+GB,Offensive Holding,11/23/2014,Minnesota,D.Bakhtiari,T,12,2014,GB-2014-63
+GB,Offensive Holding,11/23/2014,Minnesota,J.Nelson,WR,12,2014,GB-2014-64
+GB,Offensive Holding,11/23/2014,Minnesota,D.Bakhtiari,T,12,2014,GB-2014-65
+GB,Illegal Block Above the Waist,11/23/2014,Minnesota,D.Adams,WR,12,2014,GB-2014-66
+GB,Interference with Opportunity to Catch,11/23/2014,Minnesota,D.Goodson,CB,12,2014,GB-2014-67
+GB,Neutral Zone Infraction,11/23/2014,Minnesota,M.Neal,LB,12,2014,GB-2014-68
+GB,Roughing the Passer,11/23/2014,Minnesota,M.Neal,LB,12,2014,GB-2014-69
+GB,Offensive Holding,11/30/2014,New England,B.Bulaga,T,13,2014,GB-2014-70
+GB,Neutral Zone Infraction,11/30/2014,New England,M.Daniels,DT,13,2014,GB-2014-71
+GB,Delay of Game,11/30/2014,New England,A.Rodgers,QB,13,2014,GB-2014-72
+GB,Illegal Contact,11/30/2014,New England,T.Williams,DB,13,2014,GB-2014-73
+GB,False Start,12/08/2014,Atlanta,A.Quarless,TE,14,2014,GB-2014-74
+GB,Defensive Offside,12/08/2014,Atlanta,L.Guion,NT,14,2014,GB-2014-75
+GB,Offensive Holding,12/08/2014,Atlanta,T.Lang,G,14,2014,GB-2014-76
+GB,Face Mask (15 Yards),12/08/2014,Atlanta,M.Hyde,FS,14,2014,GB-2014-77
+GB,Defensive Offside,12/08/2014,Atlanta,D.House,DB,14,2014,GB-2014-78
+GB,Delay of Game,12/08/2014,Atlanta,A.Rodgers,QB,14,2014,GB-2014-79
+GB,False Start,12/14/2014,Buffalo,B.Bulaga,T,15,2014,GB-2014-80
+GB,Defensive Offside,12/14/2014,Buffalo,J.Boyd,DE,15,2014,GB-2014-81
+GB,Horse Collar Tackle,12/14/2014,Buffalo,S.Barrington,ILB,15,2014,GB-2014-82
+GB,False Start,12/14/2014,Buffalo,J.Kuhn,FB,15,2014,GB-2014-83
+GB,Offensive Holding,12/14/2014,Buffalo,S.Richardson,DB,15,2014,GB-2014-84
+GB,Illegal Formation,12/14/2014,Buffalo,B.Bostick,TE,15,2014,GB-2014-85
+GB,Unnecessary Roughness,12/14/2014,Buffalo,S.Barrington,ILB,15,2014,GB-2014-86
+GB,Offensive Holding,12/14/2014,Buffalo,D.Bakhtiari,T,15,2014,GB-2014-87
+GB,Offensive Holding,12/14/2014,Buffalo,J.Sitton,G,15,2014,GB-2014-88
+GB,Neutral Zone Infraction,12/14/2014,Buffalo,S.Barrington,ILB,15,2014,GB-2014-89
+GB,Offensive Holding,12/21/2014,Tampa Bay,C.Linsley,C,16,2014,GB-2014-90
+GB,Illegal Formation,12/21/2014,Tampa Bay,J.Tretter,T,16,2014,GB-2014-91
+GB,Offensive Holding,12/21/2014,Tampa Bay,S.Shields,CB,16,2014,GB-2014-92
+GB,Offensive Holding,12/21/2014,Tampa Bay,C.Banjo,SS,16,2014,GB-2014-93
+GB,False Start,12/28/2014,Detroit,C.Linsley,C,17,2014,GB-2014-94
+GB,Roughing the Passer,12/28/2014,Detroit,B.Jones,LB,17,2014,GB-2014-95
+GB,Offensive Holding,12/28/2014,Detroit,D.Bakhtiari,T,17,2014,GB-2014-96
+GB,Delay of Game,12/28/2014,Detroit,A.Rodgers,QB,17,2014,GB-2014-97
+GB,Delay of Game,12/28/2014,Detroit,T.Masthay,P,17,2014,GB-2014-98
+GB,Defensive Holding,01/11/2015,Dallas,B.Jones,LB,19,2014,GB-2014-99
+GB,Defensive Pass Interference,01/11/2015,Dallas,T.Williams,DB,19,2014,GB-2014-100
+GB,Defensive Offside,01/11/2015,Dallas,D.House,DB,19,2014,GB-2014-101
+GB,Defensive Pass Interference,01/11/2015,Dallas,T.Williams,DB,19,2014,GB-2014-102
+GB,Defensive Offside,01/11/2015,Dallas,C.Matthews,OLB,19,2014,GB-2014-103
+GB,Unnecessary Roughness,01/11/2015,Dallas,T.Lang,G,19,2014,GB-2014-104
+GB,Offensive Holding,01/11/2015,Dallas,B.Jones,LB,19,2014,GB-2014-105
+GB,False Start,01/11/2015,Dallas,A.Quarless,TE,19,2014,GB-2014-106
+GB,False Start,01/11/2015,Dallas,A.Quarless,TE,19,2014,GB-2014-107
+GB,Delay of Game,01/11/2015,Dallas,R.Cobb,WR,19,2014,GB-2014-108
+GB,Taunting,01/18/2015,Seattle,M.Daniels,DT,20,2014,GB-2014-109
+GB,False Start,01/18/2015,Seattle,B.Bulaga,T,20,2014,GB-2014-110
+GB,Illegal Blindside Block,01/18/2015,Seattle,C.Matthews,OLB,20,2014,GB-2014-111
+GB,False Start,01/18/2015,Seattle,R.Cobb,WR,20,2014,GB-2014-112
+GB,Illegal Use of Hands,01/18/2015,Seattle,C.Matthews,OLB,20,2014,GB-2014-113
+GB,False Start,01/18/2015,Seattle,B.Bulaga,T,20,2014,GB-2014-114

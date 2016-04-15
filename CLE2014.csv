@@ -1,0 +1,133 @@
+team,penalty,game,opponent,player,position,week,year,penaltyindex
+CLE,Illegal Shift,09/07/2014,Pittsburgh,M.Austin,WR,1,2014,CLE-2014-0
+CLE,Offensive Holding,09/07/2014,Pittsburgh,C.Robertson,ILB,1,2014,CLE-2014-1
+CLE,Offensive Holding,09/07/2014,Pittsburgh,T.Carder,ILB,1,2014,CLE-2014-2
+CLE,Defensive Holding,09/07/2014,Pittsburgh,J.Haden,CB,1,2014,CLE-2014-3
+CLE,Offensive Holding,09/07/2014,Pittsburgh,C.Robertson,ILB,1,2014,CLE-2014-4
+CLE,Defensive Holding,09/07/2014,Pittsburgh,J.Haden,CB,1,2014,CLE-2014-5
+CLE,Personal Foul,09/07/2014,Pittsburgh,J.Sheard,DE,1,2014,CLE-2014-6
+CLE,Delay of Game,09/07/2014,Pittsburgh,S.Lanning,P,1,2014,CLE-2014-7
+CLE,False Start,09/07/2014,Pittsburgh,C.Yount,LS,1,2014,CLE-2014-8
+CLE,Offensive Holding,09/14/2014,New Orleans,J.Leonhard,FS,2,2014,CLE-2014-9
+CLE,Offensive Holding,09/14/2014,New Orleans,J.Thomas,T,2,2014,CLE-2014-10
+CLE,Illegal Use of Hands,09/14/2014,New Orleans,A.Rubin,NT,2,2014,CLE-2014-11
+CLE,Illegal Use of Hands,09/21/2014,Baltimore,J.Thomas,T,3,2014,CLE-2014-12
+CLE,Offensive Pass Interference,09/21/2014,Baltimore,M.Austin,WR,3,2014,CLE-2014-13
+CLE,Offensive Holding,09/21/2014,Baltimore,J.Bitonio,G,3,2014,CLE-2014-14
+CLE,Defensive Holding,09/21/2014,Baltimore,B.Skrine,DB,3,2014,CLE-2014-15
+CLE,Illegal Shift,09/21/2014,Baltimore,T.West,RB,3,2014,CLE-2014-16
+CLE,False Start,09/21/2014,Baltimore,B.Hoyer,QB,3,2014,CLE-2014-17
+CLE,Illegal Forward Pass,09/21/2014,Baltimore,B.Hoyer,QB,3,2014,CLE-2014-18
+CLE,Defensive Pass Interference,09/21/2014,Baltimore,J.Gilbert,DT,3,2014,CLE-2014-19
+CLE,Defensive Holding,09/21/2014,Baltimore,J.Haden,CB,3,2014,CLE-2014-20
+CLE,Defensive Pass Interference,10/05/2014,Tennessee,J.Haden,CB,5,2014,CLE-2014-21
+CLE,Defensive Offside,10/05/2014,Tennessee,P.Kruger,OLB,5,2014,CLE-2014-22
+CLE,Personal Foul,10/05/2014,Tennessee,C.Kirksey,ILB,5,2014,CLE-2014-23
+CLE,Offensive Holding,10/05/2014,Tennessee,J.Bademosi,CB,5,2014,CLE-2014-24
+CLE,Defensive Holding,10/05/2014,Tennessee,B.Skrine,DB,5,2014,CLE-2014-25
+CLE,Defensive Holding,10/05/2014,Tennessee,J.Haden,CB,5,2014,CLE-2014-26
+CLE,Roughing the Passer,10/05/2014,Tennessee,B.Skrine,DB,5,2014,CLE-2014-27
+CLE,Offensive Holding,10/05/2014,Tennessee,J.Bademosi,CB,5,2014,CLE-2014-28
+CLE,Personal Foul,10/05/2014,Tennessee,C.Robertson,ILB,5,2014,CLE-2014-29
+CLE,False Start,10/05/2014,Tennessee,J.Bitonio,G,5,2014,CLE-2014-30
+CLE,Offensive Holding,10/05/2014,Tennessee,J.Cameron,TE,5,2014,CLE-2014-31
+CLE,Unnecessary Roughness,10/05/2014,Tennessee,J.Thomas,T,5,2014,CLE-2014-32
+CLE,Defensive Pass Interference,10/12/2014,Pittsburgh,B.Skrine,DB,6,2014,CLE-2014-33
+CLE,Offensive Holding,10/12/2014,Pittsburgh,M.Moore,WR,6,2014,CLE-2014-34
+CLE,Defensive Holding,10/12/2014,Pittsburgh,J.Haden,CB,6,2014,CLE-2014-35
+CLE,Defensive Holding,10/12/2014,Pittsburgh,J.Haden,CB,6,2014,CLE-2014-36
+CLE,Defensive Offside,10/12/2014,Pittsburgh,I.Kitchen,DE,6,2014,CLE-2014-37
+CLE,Taunting,10/12/2014,Pittsburgh,T.Gipson,FS,6,2014,CLE-2014-38
+CLE,Illegal Use of Hands,10/19/2014,Jacksonville,J.Gilbert,DT,7,2014,CLE-2014-39
+CLE,Offensive Holding,10/19/2014,Jacksonville,J.Bitonio,G,7,2014,CLE-2014-40
+CLE,False Start,10/19/2014,Jacksonville,J.Bitonio,G,7,2014,CLE-2014-41
+CLE,Defensive Offside,10/19/2014,Jacksonville,P.Kruger,OLB,7,2014,CLE-2014-42
+CLE,Offensive Holding,10/19/2014,Jacksonville,A.Hawkins,WR,7,2014,CLE-2014-43
+CLE,Neutral Zone Infraction,10/19/2014,Jacksonville,B.Mingo,OLB,7,2014,CLE-2014-44
+CLE,Offensive Holding,10/19/2014,Jacksonville,C.Yount,LS,7,2014,CLE-2014-45
+CLE,False Start,10/26/2014,Oakland,G.Barnidge,TE,8,2014,CLE-2014-46
+CLE,Illegal Formation,10/26/2014,Oakland,J.Bitonio,G,8,2014,CLE-2014-47
+CLE,Defensive Holding,10/26/2014,Oakland,J.Haden,CB,8,2014,CLE-2014-48
+CLE,False Start,10/26/2014,Oakland,M.Schwartz,T,8,2014,CLE-2014-49
+CLE,False Start,10/26/2014,Oakland,M.Austin,WR,8,2014,CLE-2014-50
+CLE,False Start,10/26/2014,Oakland,N.McDonald,C,8,2014,CLE-2014-51
+CLE,Defensive Holding,10/26/2014,Oakland,B.Skrine,DB,8,2014,CLE-2014-52
+CLE,Neutral Zone Infraction,11/02/2014,Tampa Bay,P.Kruger,OLB,9,2014,CLE-2014-53
+CLE,Defensive Delay of Game,11/02/2014,Tampa Bay,J.Haden,CB,9,2014,CLE-2014-54
+CLE,Illegal Use of Hands,11/02/2014,Tampa Bay,D.Bryant,DE,9,2014,CLE-2014-55
+CLE,Defensive Offside,11/02/2014,Tampa Bay,P.Kruger,OLB,9,2014,CLE-2014-56
+CLE,Interference with Opportunity to Catch,11/02/2014,Tampa Bay,M.Moore,WR,9,2014,CLE-2014-57
+CLE,Offensive Holding,11/02/2014,Tampa Bay,M.Schwartz,T,9,2014,CLE-2014-58
+CLE,Illegal Contact,11/02/2014,Tampa Bay,J.Gilbert,DT,9,2014,CLE-2014-59
+CLE,Defensive Holding,11/02/2014,Tampa Bay,J.Gilbert,DT,9,2014,CLE-2014-60
+CLE,Defensive Pass Interference,11/06/2014,Cincinnati,B.Skrine,DB,10,2014,CLE-2014-61
+CLE,Offensive Holding,11/06/2014,Cincinnati,C.Robertson,ILB,10,2014,CLE-2014-62
+CLE,Taunting,11/06/2014,Cincinnati,E.Martin,OLB,10,2014,CLE-2014-63
+CLE,False Start,11/06/2014,Cincinnati,J.Greco,G,10,2014,CLE-2014-64
+CLE,Neutral Zone Infraction,11/06/2014,Cincinnati,J.Sheard,DE,10,2014,CLE-2014-65
+CLE,Face Mask (15 Yards),11/06/2014,Cincinnati,B.Tate,RB,10,2014,CLE-2014-66
+CLE,Face Mask (15 Yards),11/16/2014,Houston,T.Gipson,FS,11,2014,CLE-2014-67
+CLE,Illegal Use of Hands,11/16/2014,Houston,K.Williams,DB,11,2014,CLE-2014-68
+CLE,Offensive Holding,11/16/2014,Houston,M.Schwartz,T,11,2014,CLE-2014-69
+CLE,Offensive Holding,11/16/2014,Houston,J.Greco,G,11,2014,CLE-2014-70
+CLE,False Start,11/16/2014,Houston,M.Schwartz,T,11,2014,CLE-2014-71
+CLE,Defensive Holding,11/16/2014,Houston,D.Bryant,DE,11,2014,CLE-2014-72
+CLE,Illegal Contact,11/16/2014,Houston,C.Robertson,ILB,11,2014,CLE-2014-73
+CLE,Illegal Use of Hands,11/16/2014,Houston,J.Sheard,DE,11,2014,CLE-2014-74
+CLE,Ineligible Downfield Pass,11/16/2014,Houston,J.Greco,G,11,2014,CLE-2014-75
+CLE,Offensive Holding,11/16/2014,Houston,R.Taylor,TE,11,2014,CLE-2014-76
+CLE,Chop Block,11/16/2014,Houston,J.Greco,G,11,2014,CLE-2014-77
+CLE,Unnecessary Roughness,11/16/2014,Houston,D.Whitner,SS,11,2014,CLE-2014-78
+CLE,Defensive Offside,11/23/2014,Atlanta,J.Sheard,DE,12,2014,CLE-2014-79
+CLE,False Start,11/23/2014,Atlanta,J.Dray,TE,12,2014,CLE-2014-80
+CLE,Defensive Holding,11/23/2014,Atlanta,J.Haden,CB,12,2014,CLE-2014-81
+CLE,Offensive Holding,11/23/2014,Atlanta,J.Dray,TE,12,2014,CLE-2014-82
+CLE,False Start,11/23/2014,Atlanta,J.Bitonio,G,12,2014,CLE-2014-83
+CLE,Unsportsmanlike Conduct,11/30/2014,Buffalo,J.Gordon,WR,13,2014,CLE-2014-84
+CLE,Illegal Contact,11/30/2014,Buffalo,J.Haden,CB,13,2014,CLE-2014-85
+CLE,Offensive Holding,11/30/2014,Buffalo,J.Thomas,T,13,2014,CLE-2014-86
+CLE,False Start,11/30/2014,Buffalo,J.Dray,TE,13,2014,CLE-2014-87
+CLE,Offensive Holding,11/30/2014,Buffalo,J.Thomas,T,13,2014,CLE-2014-88
+CLE,Defensive Pass Interference,11/30/2014,Buffalo,B.Skrine,DB,13,2014,CLE-2014-89
+CLE,Defensive Pass Interference,11/30/2014,Buffalo,K.Williams,DB,13,2014,CLE-2014-90
+CLE,Defensive Holding,11/30/2014,Buffalo,R.Nelson,FS,13,2014,CLE-2014-91
+CLE,Defensive Pass Interference,11/30/2014,Buffalo,B.Skrine,DB,13,2014,CLE-2014-92
+CLE,Offensive Holding,11/30/2014,Buffalo,J.Thomas,T,13,2014,CLE-2014-93
+CLE,False Start,11/30/2014,Buffalo,J.Gordon,WR,13,2014,CLE-2014-94
+CLE,Offensive Pass Interference,11/30/2014,Buffalo,J.Dray,TE,13,2014,CLE-2014-95
+CLE,Encroachment,11/30/2014,Buffalo,B.Winn,DE,13,2014,CLE-2014-96
+CLE,False Start,11/30/2014,Buffalo,J.Thomas,T,13,2014,CLE-2014-97
+CLE,Offensive Holding,12/07/2014,Indianapolis,P.Desir,CB,14,2014,CLE-2014-98
+CLE,False Start,12/07/2014,Indianapolis,J.Thomas,T,14,2014,CLE-2014-99
+CLE,Offensive Holding,12/07/2014,Indianapolis,B.Skrine,DB,14,2014,CLE-2014-100
+CLE,Offensive Holding,12/07/2014,Indianapolis,M.Moore,WR,14,2014,CLE-2014-101
+CLE,False Start,12/07/2014,Indianapolis,M.Schwartz,T,14,2014,CLE-2014-102
+CLE,Delay of Game,12/07/2014,Indianapolis,S.Lanning,P,14,2014,CLE-2014-103
+CLE,Roughing the Passer,12/07/2014,Indianapolis,P.Kruger,OLB,14,2014,CLE-2014-104
+CLE,Defensive Holding,12/07/2014,Indianapolis,B.Skrine,DB,14,2014,CLE-2014-105
+CLE,Defensive Holding,12/07/2014,Indianapolis,C.Kirksey,ILB,14,2014,CLE-2014-106
+CLE,Defensive Pass Interference,12/07/2014,Indianapolis,B.Skrine,DB,14,2014,CLE-2014-107
+CLE,Roughing the Passer,12/14/2014,Cincinnati,B.Mingo,OLB,15,2014,CLE-2014-108
+CLE,Unnecessary Roughness,12/14/2014,Cincinnati,J.Gilbert,DT,15,2014,CLE-2014-109
+CLE,Player Out of Bounds on Punt,12/14/2014,Cincinnati,J.Bademosi,CB,15,2014,CLE-2014-110
+CLE,Defensive Holding,12/14/2014,Cincinnati,B.Skrine,DB,15,2014,CLE-2014-111
+CLE,Ineligible Downfield Pass,12/14/2014,Cincinnati,R.Seymour,DT,15,2014,CLE-2014-112
+CLE,Low Block,12/14/2014,Cincinnati,B.Winn,DE,15,2014,CLE-2014-113
+CLE,False Start,12/14/2014,Cincinnati,J.Thomas,T,15,2014,CLE-2014-114
+CLE,False Start,12/14/2014,Cincinnati,M.Schwartz,T,15,2014,CLE-2014-115
+CLE,False Start,12/14/2014,Cincinnati,R.Seymour,DT,15,2014,CLE-2014-116
+CLE,Offensive Pass Interference,12/14/2014,Cincinnati,R.Agnew,RB,15,2014,CLE-2014-117
+CLE,Illegal Use of Hands,12/21/2014,Carolina,P.Desir,CB,16,2014,CLE-2014-118
+CLE,Fair Catch Interference,12/21/2014,Carolina,M.Moore,WR,16,2014,CLE-2014-119
+CLE,Defensive Holding,12/21/2014,Carolina,E.Martin,OLB,16,2014,CLE-2014-120
+CLE,Illegal Shift,12/21/2014,Carolina,T.Gabriel,WR,16,2014,CLE-2014-121
+CLE,Offensive Holding,12/21/2014,Carolina,J.Bademosi,CB,16,2014,CLE-2014-122
+CLE,Defensive Pass Interference,12/21/2014,Carolina,B.Skrine,DB,16,2014,CLE-2014-123
+CLE,Defensive Pass Interference,12/28/2014,Baltimore,B.Skrine,DB,17,2014,CLE-2014-124
+CLE,Offensive Holding,12/28/2014,Baltimore,M.Schwartz,T,17,2014,CLE-2014-125
+CLE,Unnecessary Roughness,12/28/2014,Baltimore,T.Carder,ILB,17,2014,CLE-2014-126
+CLE,Illegal Formation,12/28/2014,Baltimore,J.Thomas,T,17,2014,CLE-2014-127
+CLE,Offensive Holding,12/28/2014,Baltimore,C.Yount,LS,17,2014,CLE-2014-128
+CLE,Defensive Holding,12/28/2014,Baltimore,B.Skrine,DB,17,2014,CLE-2014-129
+CLE,Delay of Game,12/28/2014,Baltimore,C.Shaw,QB,17,2014,CLE-2014-130
+CLE,Encroachment,12/28/2014,Baltimore,J.Meder,DT,17,2014,CLE-2014-131

@@ -1,0 +1,104 @@
+team,penalty,game,opponent,player,position,week,year,penaltyindex
+JAC,False Start,09/09/2012,Minnesota,J.Blackmon,WR,1,2012,JAC-2012-0
+JAC,Offensive Holding,09/09/2012,Minnesota,G.Whimper,T,1,2012,JAC-2012-1
+JAC,False Start,09/09/2012,Minnesota,G.Whimper,T,1,2012,JAC-2012-2
+JAC,False Start,09/16/2012,Houston,H.Taylor,G,2,2012,JAC-2012-3
+JAC,False Start,09/16/2012,Houston,E.Monroe,T,2,2012,JAC-2012-4
+JAC,Offensive Holding,09/16/2012,Houston,H.Taylor,G,2,2012,JAC-2012-5
+JAC,Defensive Offside,09/16/2012,Houston,A.Branch,DE,2,2012,JAC-2012-6
+JAC,Defensive Pass Interference,09/16/2012,Houston,A.Ross,DB,2,2012,JAC-2012-7
+JAC,False Start,09/16/2012,Houston,U.Nwaneri,G,2,2012,JAC-2012-8
+JAC,Unnecessary Roughness,09/16/2012,Houston,G.Whimper,T,2,2012,JAC-2012-9
+JAC,Offside on Free Kick,09/23/2012,Indianapolis,A.Blake,DB,3,2012,JAC-2012-10
+JAC,Defensive Pass Interference,09/23/2012,Indianapolis,R.Mathis,CB,3,2012,JAC-2012-11
+JAC,Defensive Pass Interference,09/23/2012,Indianapolis,D.Cox,CB,3,2012,JAC-2012-12
+JAC,Unnecessary Roughness,09/23/2012,Indianapolis,M.Brewster,C,3,2012,JAC-2012-13
+JAC,Offensive Holding,09/23/2012,Indianapolis,Z.Potter,TE,3,2012,JAC-2012-14
+JAC,Offensive Holding,09/23/2012,Indianapolis,B.Meester,C,3,2012,JAC-2012-15
+JAC,Unnecessary Roughness,09/23/2012,Indianapolis,R.Allen,OLB,3,2012,JAC-2012-16
+JAC,Roughing the Passer,09/30/2012,Cincinnati,A.Blake,DB,4,2012,JAC-2012-17
+JAC,Defensive Pass Interference,09/30/2012,Cincinnati,D.Lowery,DB,4,2012,JAC-2012-18
+JAC,Illegal Block Above the Waist,09/30/2012,Cincinnati,J.Stanford,LB,4,2012,JAC-2012-19
+JAC,False Start,10/07/2012,Chicago,E.Britton,T,5,2012,JAC-2012-20
+JAC,Offensive Holding,10/07/2012,Chicago,C.Bradfield,T,5,2012,JAC-2012-21
+JAC,Offensive Holding,10/07/2012,Chicago,E.Monroe,T,5,2012,JAC-2012-22
+JAC,Offensive Holding,10/07/2012,Chicago,G.Jones,RB,5,2012,JAC-2012-23
+JAC,False Start,10/07/2012,Chicago,U.Nwaneri,G,5,2012,JAC-2012-24
+JAC,Offensive Holding,10/21/2012,Oakland,C.Shorts,WR,7,2012,JAC-2012-25
+JAC,Defensive Pass Interference,10/21/2012,Oakland,R.Mathis,CB,7,2012,JAC-2012-26
+JAC,Roughing the Passer,10/21/2012,Oakland,A.Branch,DE,7,2012,JAC-2012-27
+JAC,Defensive Pass Interference,10/21/2012,Oakland,A.Ross,DB,7,2012,JAC-2012-28
+JAC,Offensive Pass Interference,10/21/2012,Oakland,C.Shorts,WR,7,2012,JAC-2012-29
+JAC,Offensive Holding,10/28/2012,Green Bay,E.Monroe,T,8,2012,JAC-2012-30
+JAC,Defensive Holding,10/28/2012,Green Bay,D.Landry,SS,8,2012,JAC-2012-31
+JAC,Defensive Holding,10/28/2012,Green Bay,M.Harris,DB,8,2012,JAC-2012-32
+JAC,Illegal Use of Hands,10/28/2012,Green Bay,J.Chick,DE,8,2012,JAC-2012-33
+JAC,Unnecessary Roughness,10/28/2012,Green Bay,W.Middleton,DB,8,2012,JAC-2012-34
+JAC,Tripping,10/28/2012,Green Bay,W.Middleton,DB,8,2012,JAC-2012-35
+JAC,Defensive Pass Interference,10/28/2012,Green Bay,W.Middleton,DB,8,2012,JAC-2012-36
+JAC,Personal Foul,11/04/2012,Detroit,P.Posluszny,MLB,9,2012,JAC-2012-37
+JAC,Defensive Offside,11/04/2012,Detroit,P.Posluszny,MLB,9,2012,JAC-2012-38
+JAC,Defensive Pass Interference,11/04/2012,Detroit,D.Cox,CB,9,2012,JAC-2012-39
+JAC,Roughing the Passer,11/04/2012,Detroit,J.Mincey,DE,9,2012,JAC-2012-40
+JAC,False Start,11/04/2012,Detroit,E.Monroe,T,9,2012,JAC-2012-41
+JAC,Roughing the Passer,11/08/2012,Indianapolis,A.Branch,DE,10,2012,JAC-2012-42
+JAC,Defensive Pass Interference,11/08/2012,Indianapolis,M.Harris,DB,10,2012,JAC-2012-43
+JAC,False Start,11/08/2012,Indianapolis,B.Gabbert,QB,10,2012,JAC-2012-44
+JAC,Offensive Holding,11/08/2012,Indianapolis,C.Bradfield,T,10,2012,JAC-2012-45
+JAC,False Start,11/08/2012,Indianapolis,C.Bradfield,T,10,2012,JAC-2012-46
+JAC,Offensive Holding,11/08/2012,Indianapolis,M.Brewster,C,10,2012,JAC-2012-47
+JAC,Unnecessary Roughness,11/08/2012,Indianapolis,D.Landry,SS,10,2012,JAC-2012-48
+JAC,Unnecessary Roughness,11/08/2012,Indianapolis,A.Branch,DE,10,2012,JAC-2012-49
+JAC,Illegal Blindside Block,11/08/2012,Indianapolis,J.Blackmon,WR,10,2012,JAC-2012-50
+JAC,Chop Block,11/08/2012,Indianapolis,M.Brewster,C,10,2012,JAC-2012-51
+JAC,Illegal Use of Hands,11/18/2012,Houston,A.Ross,DB,11,2012,JAC-2012-52
+JAC,Face Mask (15 Yards),11/18/2012,Houston,J.Mincey,DE,11,2012,JAC-2012-53
+JAC,False Start,11/18/2012,Houston,M.Brewster,C,11,2012,JAC-2012-54
+JAC,Unnecessary Roughness,11/18/2012,Houston,D.Landry,SS,11,2012,JAC-2012-55
+JAC,Defensive Pass Interference,11/18/2012,Houston,A.Ross,DB,11,2012,JAC-2012-56
+JAC,False Start,11/18/2012,Houston,E.Monroe,T,11,2012,JAC-2012-57
+JAC,Illegal Motion,11/25/2012,Tennessee,Z.Potter,TE,12,2012,JAC-2012-58
+JAC,Offensive Holding,11/25/2012,Tennessee,U.Nwaneri,G,12,2012,JAC-2012-59
+JAC,Illegal Use of Hands,11/25/2012,Tennessee,J.Stanford,LB,12,2012,JAC-2012-60
+JAC,Defensive Holding,11/25/2012,Tennessee,P.Posluszny,MLB,12,2012,JAC-2012-61
+JAC,False Start,11/25/2012,Tennessee,A.Blake,DB,12,2012,JAC-2012-62
+JAC,Offensive Holding,12/02/2012,Buffalo,B.Meester,C,13,2012,JAC-2012-63
+JAC,Delay of Game,12/02/2012,Buffalo,C.Henne,QB,13,2012,JAC-2012-64
+JAC,Unnecessary Roughness,12/02/2012,Buffalo,C.Bradfield,T,13,2012,JAC-2012-65
+JAC,Unnecessary Roughness,12/02/2012,Buffalo,R.Murphy,RB,13,2012,JAC-2012-66
+JAC,Defensive Offside,12/02/2012,Buffalo,A.Branch,DE,13,2012,JAC-2012-67
+JAC,Roughing the Passer,12/02/2012,Buffalo,J.Babin,DE,13,2012,JAC-2012-68
+JAC,False Start,12/02/2012,Buffalo,J.Stanford,LB,13,2012,JAC-2012-69
+JAC,Offensive Holding,12/02/2012,Buffalo,E.Monroe,T,13,2012,JAC-2012-70
+JAC,False Start,12/09/2012,N.Y. Jets,E.Britton,T,14,2012,JAC-2012-71
+JAC,Defensive Pass Interference,12/09/2012,N.Y. Jets,D.Cox,CB,14,2012,JAC-2012-72
+JAC,Defensive Pass Interference,12/09/2012,N.Y. Jets,D.Cox,CB,14,2012,JAC-2012-73
+JAC,Illegal Motion,12/09/2012,N.Y. Jets,J.Todman,RB,14,2012,JAC-2012-74
+JAC,Offensive Holding,12/09/2012,N.Y. Jets,Z.Potter,TE,14,2012,JAC-2012-75
+JAC,Offensive Holding,12/09/2012,N.Y. Jets,M.Lewis,TE,14,2012,JAC-2012-76
+JAC,Illegal Touch Pass,12/09/2012,N.Y. Jets,K.Elliott,WR,14,2012,JAC-2012-77
+JAC,Defensive Offside,12/16/2012,Miami,J.Babin,DE,15,2012,JAC-2012-78
+JAC,Face Mask (15 Yards),12/16/2012,Miami,B.Meester,C,15,2012,JAC-2012-79
+JAC,Offensive Holding,12/16/2012,Miami,C.Bradfield,T,15,2012,JAC-2012-80
+JAC,Offensive Holding,12/16/2012,Miami,A.Pasztor,T,15,2012,JAC-2012-81
+JAC,Personal Foul,12/16/2012,Miami,C.Prosinski,SS,15,2012,JAC-2012-82
+JAC,Illegal Substitution,12/16/2012,Miami,G.Whimper,T,15,2012,JAC-2012-83
+JAC,Defensive Pass Interference,12/16/2012,Miami,R.Mathis,CB,15,2012,JAC-2012-84
+JAC,Offensive Holding,12/16/2012,Miami,C.Bradfield,T,15,2012,JAC-2012-85
+JAC,Defensive Holding,12/16/2012,Miami,R.Mathis,CB,15,2012,JAC-2012-86
+JAC,Illegal Contact,12/16/2012,Miami,R.Mathis,CB,15,2012,JAC-2012-87
+JAC,Defensive Pass Interference,12/16/2012,Miami,M.Harris,DB,15,2012,JAC-2012-88
+JAC,Roughing the Passer,12/16/2012,Miami,R.Allen,OLB,15,2012,JAC-2012-89
+JAC,Defensive Pass Interference,12/23/2012,New England,D.Cox,CB,16,2012,JAC-2012-90
+JAC,Offensive Holding,12/23/2012,New England,C.Shorts,WR,16,2012,JAC-2012-91
+JAC,Offensive Holding,12/23/2012,New England,M.Lewis,TE,16,2012,JAC-2012-92
+JAC,Roughing the Passer,12/23/2012,New England,J.Mincey,DE,16,2012,JAC-2012-93
+JAC,Defensive Holding,12/23/2012,New England,D.Cox,CB,16,2012,JAC-2012-94
+JAC,False Start,12/23/2012,New England,Z.Potter,TE,16,2012,JAC-2012-95
+JAC,False Start,12/30/2012,Tennessee,S.Vallos,T,17,2012,JAC-2012-96
+JAC,False Start,12/30/2012,Tennessee,A.Pasztor,T,17,2012,JAC-2012-97
+JAC,Illegal Contact,12/30/2012,Tennessee,D.Cox,CB,17,2012,JAC-2012-98
+JAC,Illegal Shift,12/30/2012,Tennessee,M.Lewis,TE,17,2012,JAC-2012-99
+JAC,Offensive Holding,12/30/2012,Tennessee,K.Bosworth,LB,17,2012,JAC-2012-100
+JAC,Neutral Zone Infraction,12/30/2012,Tennessee,J.Babin,DE,17,2012,JAC-2012-101
+JAC,Defensive Offside,12/30/2012,Tennessee,G.Selvie,DE,17,2012,JAC-2012-102

@@ -1,0 +1,129 @@
+team,penalty,game,opponent,player,position,week,year,penaltyindex
+CLE,False Start,09/13/2015,N.Y. Jets,J.Greco,G,1,2015,CLE-2015-0
+CLE,Unnecessary Roughness,09/13/2015,N.Y. Jets,A.Mack,C,1,2015,CLE-2015-1
+CLE,Neutral Zone Infraction,09/13/2015,N.Y. Jets,P.Kruger,OLB,1,2015,CLE-2015-2
+CLE,Chop Block,09/13/2015,N.Y. Jets,I.Crowell,RB,1,2015,CLE-2015-3
+CLE,Illegal Formation,09/13/2015,N.Y. Jets,M.Schwartz,T,1,2015,CLE-2015-4
+CLE,Offensive Holding,09/13/2015,N.Y. Jets,A.Bryant,DE,1,2015,CLE-2015-5
+CLE,Offensive Holding,09/13/2015,N.Y. Jets,J.Bitonio,G,1,2015,CLE-2015-6
+CLE,Delay of Game,09/13/2015,N.Y. Jets,J.Manziel,QB,1,2015,CLE-2015-7
+CLE,Offensive Holding,09/13/2015,N.Y. Jets,C.Robertson,ILB,1,2015,CLE-2015-8
+CLE,False Start,09/13/2015,N.Y. Jets,M.Schwartz,T,1,2015,CLE-2015-9
+CLE,Unnecessary Roughness,09/13/2015,N.Y. Jets,J.Haden,CB,1,2015,CLE-2015-10
+CLE,Defensive Pass Interference,09/13/2015,N.Y. Jets,J.Haden,CB,1,2015,CLE-2015-11
+CLE,Offensive Holding,09/13/2015,N.Y. Jets,A.Mack,C,1,2015,CLE-2015-12
+CLE,Clipping,09/20/2015,Tennessee,J.Bitonio,G,2,2015,CLE-2015-13
+CLE,Offensive Holding,09/20/2015,Tennessee,M.Moore,WR,2,2015,CLE-2015-14
+CLE,Face Mask (15 Yards),09/20/2015,Tennessee,K.Williams,DB,2,2015,CLE-2015-15
+CLE,Offensive Holding,09/20/2015,Tennessee,J.Bitonio,G,2,2015,CLE-2015-16
+CLE,Illegal Use of Hands,09/20/2015,Tennessee,D.Bryant,DE,2,2015,CLE-2015-17
+CLE,Offensive Holding,09/27/2015,Oakland,M.Schwartz,T,3,2015,CLE-2015-18
+CLE,Defensive Holding,09/27/2015,Oakland,P.Desir,CB,3,2015,CLE-2015-19
+CLE,Illegal Block Above the Waist,09/27/2015,Oakland,B.Mingo,OLB,3,2015,CLE-2015-20
+CLE,Offensive Pass Interference,09/27/2015,Oakland,R.Housler,TE,3,2015,CLE-2015-21
+CLE,Roughing the Kicker,09/27/2015,Oakland,B.Mingo,OLB,3,2015,CLE-2015-22
+CLE,False Start,09/27/2015,Oakland,J.Bitonio,G,3,2015,CLE-2015-23
+CLE,False Start,09/27/2015,Oakland,J.Dray,TE,3,2015,CLE-2015-24
+CLE,Defensive Offside,09/27/2015,Oakland,X.Cooper,DT,3,2015,CLE-2015-25
+CLE,Offensive Holding,10/04/2015,San Diego,M.Johnson,FB,4,2015,CLE-2015-26
+CLE,False Start,10/04/2015,San Diego,J.Thomas,T,4,2015,CLE-2015-27
+CLE,Defensive Holding,10/04/2015,San Diego,T.Williams,DB,4,2015,CLE-2015-28
+CLE,Offensive Holding,10/04/2015,San Diego,A.Mack,C,4,2015,CLE-2015-29
+CLE,Offensive Pass Interference,10/04/2015,San Diego,D.Johnson,RB,4,2015,CLE-2015-30
+CLE,Defensive Holding,10/04/2015,San Diego,P.Desir,CB,4,2015,CLE-2015-31
+CLE,Neutral Zone Infraction,10/04/2015,San Diego,J.Hughes,DE,4,2015,CLE-2015-32
+CLE,Face Mask (15 Yards),10/04/2015,San Diego,J.Bademosi,CB,4,2015,CLE-2015-33
+CLE,Defensive Pass Interference,10/04/2015,San Diego,J.Bademosi,CB,4,2015,CLE-2015-34
+CLE,False Start,10/04/2015,San Diego,J.Bitonio,G,4,2015,CLE-2015-35
+CLE,Unnecessary Roughness,10/04/2015,San Diego,J.Poyer,CB,4,2015,CLE-2015-36
+CLE,Defensive Offside,10/04/2015,San Diego,T.Williams,DB,4,2015,CLE-2015-37
+CLE,Chop Block,10/11/2015,Baltimore,J.Poyer,CB,5,2015,CLE-2015-38
+CLE,Illegal Formation,10/11/2015,Baltimore,G.Barnidge,TE,5,2015,CLE-2015-39
+CLE,Unnecessary Roughness,10/11/2015,Baltimore,T.Coons,K,5,2015,CLE-2015-40
+CLE,Delay of Game,10/11/2015,Baltimore,J.McCown,QB,5,2015,CLE-2015-41
+CLE,Unsportsmanlike Conduct,10/11/2015,Baltimore,D.Shelton,DT,5,2015,CLE-2015-42
+CLE,Defensive Offside,10/11/2015,Baltimore,R.Starks,DT,5,2015,CLE-2015-43
+CLE,Delay of Game,10/11/2015,Baltimore,J.McCown,QB,5,2015,CLE-2015-44
+CLE,Unnecessary Roughness,10/11/2015,Baltimore,D.Shelton,DT,5,2015,CLE-2015-45
+CLE,Illegal Formation,10/11/2015,Baltimore,G.Barnidge,TE,5,2015,CLE-2015-46
+CLE,Unnecessary Roughness,10/11/2015,Baltimore,K.Williams,DB,5,2015,CLE-2015-47
+CLE,Illegal Formation,10/18/2015,Denver,J.Bademosi,CB,6,2015,CLE-2015-48
+CLE,False Start,10/18/2015,Denver,D.Johnson,RB,6,2015,CLE-2015-49
+CLE,False Start,10/18/2015,Denver,T.Benjamin,WR,6,2015,CLE-2015-50
+CLE,False Start,10/18/2015,Denver,J.Thomas,T,6,2015,CLE-2015-51
+CLE,Defensive 12 On-field,10/18/2015,Denver,J.Hughes,DE,6,2015,CLE-2015-52
+CLE,Delay of Game,10/18/2015,Denver,A.Lee,P,6,2015,CLE-2015-53
+CLE,Illegal Block Above the Waist,10/25/2015,St. Louis,I.Campbell,SS,7,2015,CLE-2015-54
+CLE,False Start,10/25/2015,St. Louis,J.Thomas,T,7,2015,CLE-2015-55
+CLE,False Start,10/25/2015,St. Louis,M.Schwartz,T,7,2015,CLE-2015-56
+CLE,False Start,10/25/2015,St. Louis,J.Bitonio,G,7,2015,CLE-2015-57
+CLE,False Start,10/25/2015,St. Louis,J.Dray,TE,7,2015,CLE-2015-58
+CLE,Offensive Holding,10/25/2015,St. Louis,G.Barnidge,TE,7,2015,CLE-2015-59
+CLE,Offensive Holding,10/25/2015,St. Louis,J.Thomas,T,7,2015,CLE-2015-60
+CLE,Defensive Pass Interference,10/25/2015,St. Louis,P.Desir,CB,7,2015,CLE-2015-61
+CLE,Defensive Holding,10/25/2015,St. Louis,K.Williams,DB,7,2015,CLE-2015-62
+CLE,Offensive Holding,10/25/2015,St. Louis,J.Bitonio,G,7,2015,CLE-2015-63
+CLE,Illegal Contact,11/01/2015,Arizona,K.Williams,DB,8,2015,CLE-2015-64
+CLE,Neutral Zone Infraction,11/01/2015,Arizona,A.Bryant,DE,8,2015,CLE-2015-65
+CLE,Defensive Pass Interference,11/01/2015,Arizona,B.Mingo,OLB,8,2015,CLE-2015-66
+CLE,Delay of Game,11/01/2015,Arizona,J.McCown,QB,8,2015,CLE-2015-67
+CLE,False Start,11/01/2015,Arizona,J.Greco,G,8,2015,CLE-2015-68
+CLE,False Start,11/01/2015,Arizona,J.Thomas,T,8,2015,CLE-2015-69
+CLE,Defensive Offside,11/01/2015,Arizona,A.Bryant,DE,8,2015,CLE-2015-70
+CLE,Defensive Holding,11/01/2015,Arizona,J.Bademosi,CB,8,2015,CLE-2015-71
+CLE,False Start,11/05/2015,Cincinnati,J.Thomas,T,9,2015,CLE-2015-72
+CLE,Taunting,11/05/2015,Cincinnati,R.Starks,DT,9,2015,CLE-2015-73
+CLE,Defensive Offside,11/05/2015,Cincinnati,R.Starks,DT,9,2015,CLE-2015-74
+CLE,False Start,11/05/2015,Cincinnati,A.Mack,C,9,2015,CLE-2015-75
+CLE,Offensive Pass Interference,11/05/2015,Cincinnati,T.Benjamin,WR,9,2015,CLE-2015-76
+CLE,Illegal Block Above the Waist,11/15/2015,Pittsburgh,J.Bademosi,CB,10,2015,CLE-2015-77
+CLE,Neutral Zone Infraction,11/15/2015,Pittsburgh,P.Kruger,OLB,10,2015,CLE-2015-78
+CLE,Roughing the Passer,11/15/2015,Pittsburgh,T.Carder,ILB,10,2015,CLE-2015-79
+CLE,Defensive Pass Interference,11/15/2015,Pittsburgh,C.Gaines,CB,10,2015,CLE-2015-80
+CLE,Leverage,11/15/2015,Pittsburgh,A.Bryant,DE,10,2015,CLE-2015-81
+CLE,Defensive Offside,11/15/2015,Pittsburgh,K.Dansby,MLB,10,2015,CLE-2015-82
+CLE,Defensive Pass Interference,11/15/2015,Pittsburgh,J.Bademosi,CB,10,2015,CLE-2015-83
+CLE,Defensive Offside,11/15/2015,Pittsburgh,D.Bryant,DE,10,2015,CLE-2015-84
+CLE,Defensive Pass Interference,11/15/2015,Pittsburgh,T.Williams,DB,10,2015,CLE-2015-85
+CLE,Illegal Formation,11/15/2015,Pittsburgh,J.Dray,TE,10,2015,CLE-2015-86
+CLE,Offensive Holding,11/15/2015,Pittsburgh,M.Schwartz,T,10,2015,CLE-2015-87
+CLE,Delay of Game,11/15/2015,Pittsburgh,J.Manziel,QB,10,2015,CLE-2015-88
+CLE,Defensive Pass Interference,11/15/2015,Pittsburgh,T.Williams,DB,10,2015,CLE-2015-89
+CLE,False Start,11/30/2015,Baltimore,C.Kirksey,ILB,12,2015,CLE-2015-90
+CLE,Offensive Holding,11/30/2015,Baltimore,M.Moore,WR,12,2015,CLE-2015-91
+CLE,Offensive Pass Interference,12/06/2015,Cincinnati,G.Barnidge,TE,13,2015,CLE-2015-92
+CLE,Face Mask (15 Yards),12/06/2015,Cincinnati,B.Mingo,OLB,13,2015,CLE-2015-93
+CLE,Defensive Holding,12/06/2015,Cincinnati,T.Williams,DB,13,2015,CLE-2015-94
+CLE,Unsportsmanlike Conduct,12/06/2015,Cincinnati,C.Kirksey,ILB,13,2015,CLE-2015-95
+CLE,Intentional Grounding,12/06/2015,Cincinnati,A.Davis,QB,13,2015,CLE-2015-96
+CLE,Intentional Grounding,12/06/2015,Cincinnati,A.Davis,QB,13,2015,CLE-2015-97
+CLE,False Start,12/13/2015,San Francisco,J.Manziel,QB,14,2015,CLE-2015-98
+CLE,False Start,12/13/2015,San Francisco,J.Greco,G,14,2015,CLE-2015-99
+CLE,Defensive Pass Interference,12/13/2015,San Francisco,N.Orchard,OLB,14,2015,CLE-2015-100
+CLE,Unsportsmanlike Conduct,12/13/2015,San Francisco,C.Robertson,ILB,14,2015,CLE-2015-101
+CLE,Offensive Holding,12/13/2015,San Francisco,J.Bademosi,CB,14,2015,CLE-2015-102
+CLE,False Start,12/13/2015,San Francisco,A.Mack,C,14,2015,CLE-2015-103
+CLE,Defensive Holding,12/13/2015,San Francisco,K.Dansby,MLB,14,2015,CLE-2015-104
+CLE,Unsportsmanlike Conduct,12/13/2015,San Francisco,K.Dansby,MLB,14,2015,CLE-2015-105
+CLE,Defensive Offside,12/20/2015,Seattle,P.Kruger,OLB,15,2015,CLE-2015-106
+CLE,Defensive Pass Interference,12/20/2015,Seattle,J.Bademosi,CB,15,2015,CLE-2015-107
+CLE,Defensive Holding,12/20/2015,Seattle,J.Bademosi,CB,15,2015,CLE-2015-108
+CLE,Face Mask (15 Yards),12/20/2015,Seattle,T.Williams,DB,15,2015,CLE-2015-109
+CLE,Neutral Zone Infraction,12/27/2015,Kansas City,P.Kruger,OLB,16,2015,CLE-2015-110
+CLE,Offensive Holding,12/27/2015,Kansas City,C.Robertson,ILB,16,2015,CLE-2015-111
+CLE,Illegal Forward Pass,12/27/2015,Kansas City,J.Manziel,QB,16,2015,CLE-2015-112
+CLE,Defensive Pass Interference,12/27/2015,Kansas City,T.Williams,DB,16,2015,CLE-2015-113
+CLE,Defensive Holding,12/27/2015,Kansas City,T.Williams,DB,16,2015,CLE-2015-114
+CLE,False Start,12/27/2015,Kansas City,G.Barnidge,TE,16,2015,CLE-2015-115
+CLE,Delay of Game,12/27/2015,Kansas City,J.Poyer,CB,16,2015,CLE-2015-116
+CLE,Illegal Touch Pass,12/27/2015,Kansas City,M.Schwartz,T,16,2015,CLE-2015-117
+CLE,Intentional Grounding,12/27/2015,Kansas City,J.Manziel,QB,16,2015,CLE-2015-118
+CLE,Defensive Offside,01/03/2016,Pittsburgh,X.Cooper,DT,17,2015,CLE-2015-119
+CLE,Illegal Block Above the Waist,01/03/2016,Pittsburgh,B.Mingo,OLB,17,2015,CLE-2015-120
+CLE,Illegal Contact,01/03/2016,Pittsburgh,P.Desir,CB,17,2015,CLE-2015-121
+CLE,False Start,01/03/2016,Pittsburgh,J.Dray,TE,17,2015,CLE-2015-122
+CLE,Defensive Offside,01/03/2016,Pittsburgh,P.Kruger,OLB,17,2015,CLE-2015-123
+CLE,Unsportsmanlike Conduct,01/03/2016,Pittsburgh,T.Pryor,WR,17,2015,CLE-2015-124
+CLE,Delay of Game,01/03/2016,Pittsburgh,A.Davis,QB,17,2015,CLE-2015-125
+CLE,Illegal Block Above the Waist,01/03/2016,Pittsburgh,T.Carder,ILB,17,2015,CLE-2015-126
+CLE,Illegal Shift,01/03/2016,Pittsburgh,T.Pryor,WR,17,2015,CLE-2015-127

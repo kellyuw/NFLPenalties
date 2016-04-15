@@ -1,0 +1,125 @@
+team,penalty,game,opponent,player,position,week,year,penaltyindex
+GB,False Start,09/09/2012,San Francisco,M.Newhouse,G,1,2012,GB-2012-0
+GB,False Start,09/09/2012,San Francisco,S.Shields,CB,1,2012,GB-2012-1
+GB,Defensive Pass Interference,09/09/2012,San Francisco,J.Bush,CB,1,2012,GB-2012-2
+GB,Roughing the Passer,09/09/2012,San Francisco,C.Matthews,OLB,1,2012,GB-2012-3
+GB,Illegal Use of Hands,09/09/2012,San Francisco,T.Lang,G,1,2012,GB-2012-4
+GB,Offensive Pass Interference,09/09/2012,San Francisco,J.Jones,WR,1,2012,GB-2012-5
+GB,Delay of Game,09/09/2012,San Francisco,A.Rodgers,QB,1,2012,GB-2012-6
+GB,Defensive Holding,09/09/2012,San Francisco,C.Woodson,FS,1,2012,GB-2012-7
+GB,False Start,09/09/2012,San Francisco,B.Bulaga,T,1,2012,GB-2012-8
+GB,Offensive Holding,09/09/2012,San Francisco,B.Bulaga,T,1,2012,GB-2012-9
+GB,Offensive Holding,09/13/2012,Chicago,T.Lang,G,2,2012,GB-2012-10
+GB,Defensive Pass Interference,09/13/2012,Chicago,D.Smith,LB,2,2012,GB-2012-11
+GB,Unnecessary Roughness,09/13/2012,Chicago,D.Moses,LB,2,2012,GB-2012-12
+GB,Defensive Holding,09/24/2012,Seattle,C.Woodson,FS,3,2012,GB-2012-13
+GB,Illegal Use of Hands,09/24/2012,Seattle,J.Sitton,G,3,2012,GB-2012-14
+GB,Ineligible Downfield Kick,09/24/2012,Seattle,B.Saine,RB,3,2012,GB-2012-15
+GB,Offensive Holding,09/24/2012,Seattle,B.Bulaga,T,3,2012,GB-2012-16
+GB,Defensive Offside,09/24/2012,Seattle,J.Worthy,DT,3,2012,GB-2012-17
+GB,Unnecessary Roughness,09/24/2012,Seattle,D.Smith,LB,3,2012,GB-2012-18
+GB,Offensive Holding,09/24/2012,Seattle,J.Saturday,C,3,2012,GB-2012-19
+GB,Unnecessary Roughness,09/24/2012,Seattle,R.Francois,LB,3,2012,GB-2012-20
+GB,Unnecessary Roughness,09/24/2012,Seattle,J.Bush,CB,3,2012,GB-2012-21
+GB,Unsportsmanlike Conduct,09/24/2012,Seattle,G.Jennings,WR,3,2012,GB-2012-22
+GB,Roughing the Passer,09/24/2012,Seattle,E.Walden,OLB,3,2012,GB-2012-23
+GB,Defensive Pass Interference,09/24/2012,Seattle,S.Shields,CB,3,2012,GB-2012-24
+GB,Offensive Holding,09/30/2012,New Orleans,B.Bulaga,T,4,2012,GB-2012-25
+GB,Illegal Use of Hands,09/30/2012,New Orleans,J.Sitton,G,4,2012,GB-2012-26
+GB,Defensive Offside,09/30/2012,New Orleans,B.Raji,DT,4,2012,GB-2012-27
+GB,Encroachment,09/30/2012,New Orleans,J.Worthy,DT,4,2012,GB-2012-28
+GB,Personal Foul,09/30/2012,New Orleans,B.Raji,DT,4,2012,GB-2012-29
+GB,Offensive Holding,09/30/2012,New Orleans,T.Crabtree,TE,4,2012,GB-2012-30
+GB,Encroachment,09/30/2012,New Orleans,M.Daniels,DT,4,2012,GB-2012-31
+GB,Defensive Offside,10/07/2012,Indianapolis,C.Matthews,OLB,5,2012,GB-2012-32
+GB,Unnecessary Roughness,10/07/2012,Indianapolis,N.Perry,OLB,5,2012,GB-2012-33
+GB,Defensive Pass Interference,10/07/2012,Indianapolis,C.Woodson,FS,5,2012,GB-2012-34
+GB,Illegal Motion,10/07/2012,Indianapolis,J.Finley,TE,5,2012,GB-2012-35
+GB,Defensive Holding,10/07/2012,Indianapolis,C.Woodson,FS,5,2012,GB-2012-36
+GB,Offensive Holding,10/07/2012,Indianapolis,T.Crabtree,TE,5,2012,GB-2012-37
+GB,Illegal Forward Pass,10/07/2012,Indianapolis,A.Rodgers,QB,5,2012,GB-2012-38
+GB,Defensive Offside,10/07/2012,Indianapolis,J.McMillian,SS,5,2012,GB-2012-39
+GB,Encroachment,10/07/2012,Indianapolis,J.Worthy,DT,5,2012,GB-2012-40
+GB,Defensive Pass Interference,10/07/2012,Indianapolis,S.Shields,CB,5,2012,GB-2012-41
+GB,Defensive Offside,10/07/2012,Indianapolis,J.Worthy,DT,5,2012,GB-2012-42
+GB,Face Mask (15 Yards),10/07/2012,Indianapolis,S.Shields,CB,5,2012,GB-2012-43
+GB,Defensive Offside,10/14/2012,Houston,C.Matthews,OLB,6,2012,GB-2012-44
+GB,Defensive Pass Interference,10/14/2012,Houston,S.Shields,CB,6,2012,GB-2012-45
+GB,Offensive Pass Interference,10/14/2012,Houston,J.Finley,TE,6,2012,GB-2012-46
+GB,Offensive Holding,10/14/2012,Houston,M.Newhouse,G,6,2012,GB-2012-47
+GB,Illegal Formation,10/14/2012,Houston,M.Newhouse,G,6,2012,GB-2012-48
+GB,Offensive Holding,10/21/2012,St. Louis,M.Newhouse,G,7,2012,GB-2012-49
+GB,Unsportsmanlike Conduct,10/21/2012,St. Louis,J.Bush,CB,7,2012,GB-2012-50
+GB,False Start,10/21/2012,St. Louis,B.Bulaga,T,7,2012,GB-2012-51
+GB,Unnecessary Roughness,10/21/2012,St. Louis,D.Moses,LB,7,2012,GB-2012-52
+GB,Offensive Holding,10/21/2012,St. Louis,B.Bulaga,T,7,2012,GB-2012-53
+GB,Defensive Offside,10/21/2012,St. Louis,J.Worthy,DT,7,2012,GB-2012-54
+GB,Personal Foul,10/28/2012,Jacksonville,D.House,DB,8,2012,GB-2012-55
+GB,Defensive Holding,10/28/2012,Jacksonville,M.Neal,LB,8,2012,GB-2012-56
+GB,False Start,10/28/2012,Jacksonville,J.Bush,CB,8,2012,GB-2012-57
+GB,Defensive Offside,10/28/2012,Jacksonville,E.Walden,OLB,8,2012,GB-2012-58
+GB,Defensive Offside,10/28/2012,Jacksonville,R.Pickett,NT,8,2012,GB-2012-59
+GB,False Start,11/04/2012,Arizona,J.Finley,TE,9,2012,GB-2012-60
+GB,False Start,11/18/2012,Detroit,E.Dietrich-Smith,C,11,2012,GB-2012-61
+GB,Offensive Holding,11/18/2012,Detroit,J.Sitton,G,11,2012,GB-2012-62
+GB,Offensive Holding,11/18/2012,Detroit,E.Dietrich-Smith,C,11,2012,GB-2012-63
+GB,Illegal Use of Hands,11/18/2012,Detroit,E.Walden,OLB,11,2012,GB-2012-64
+GB,Offensive Holding,11/18/2012,Detroit,T.Lang,G,11,2012,GB-2012-65
+GB,Defensive Offside,11/18/2012,Detroit,M.Neal,LB,11,2012,GB-2012-66
+GB,Roughing the Passer,11/18/2012,Detroit,B.Jones,LB,11,2012,GB-2012-67
+GB,Illegal Block Above the Waist,11/18/2012,Detroit,D.Williams,TE,11,2012,GB-2012-68
+GB,Defensive Offside,11/18/2012,Detroit,E.Walden,OLB,11,2012,GB-2012-69
+GB,Face Mask (15 Yards),11/18/2012,Detroit,B.Jones,LB,11,2012,GB-2012-70
+GB,False Start,11/18/2012,Detroit,T.Crabtree,TE,11,2012,GB-2012-71
+GB,Illegal Contact,11/25/2012,N.Y. Giants,A.Hawk,LB,12,2012,GB-2012-72
+GB,Offensive Holding,11/25/2012,N.Y. Giants,E.Dietrich-Smith,C,12,2012,GB-2012-73
+GB,Offensive Holding,11/25/2012,N.Y. Giants,J.Lattimore,LB,12,2012,GB-2012-74
+GB,False Start,11/25/2012,N.Y. Giants,T.Lang,G,12,2012,GB-2012-75
+GB,Offensive Holding,11/25/2012,N.Y. Giants,T.Crabtree,TE,12,2012,GB-2012-76
+GB,Interference with Opportunity to Catch,11/25/2012,N.Y. Giants,J.Bush,CB,12,2012,GB-2012-77
+GB,Illegal Contact,11/25/2012,N.Y. Giants,D.House,DB,12,2012,GB-2012-78
+GB,Illegal Use of Hands,11/25/2012,N.Y. Giants,M.Daniels,DT,12,2012,GB-2012-79
+GB,Unnecessary Roughness,11/25/2012,N.Y. Giants,J.McMillian,SS,12,2012,GB-2012-80
+GB,Offensive Holding,12/02/2012,Minnesota,T.Lang,G,13,2012,GB-2012-81
+GB,Offensive Holding,12/02/2012,Minnesota,M.Newhouse,G,13,2012,GB-2012-82
+GB,Offensive Holding,12/02/2012,Minnesota,D.Barclay,T,13,2012,GB-2012-83
+GB,False Start,12/02/2012,Minnesota,J.Finley,TE,13,2012,GB-2012-84
+GB,Illegal Block Above the Waist,12/02/2012,Minnesota,J.Bush,CB,13,2012,GB-2012-85
+GB,Offensive Holding,12/02/2012,Minnesota,E.Dietrich-Smith,C,13,2012,GB-2012-86
+GB,Defensive Offside,12/02/2012,Minnesota,D.Moses,LB,13,2012,GB-2012-87
+GB,Unnecessary Roughness,12/02/2012,Minnesota,T.Williams,DB,13,2012,GB-2012-88
+GB,Offensive Holding,12/02/2012,Minnesota,J.Kuhn,FB,13,2012,GB-2012-89
+GB,Offensive Holding,12/02/2012,Minnesota,D.Barclay,T,13,2012,GB-2012-90
+GB,False Start,12/02/2012,Minnesota,E.Dietrich-Smith,C,13,2012,GB-2012-91
+GB,Illegal Touch Kick,12/02/2012,Minnesota,J.Bush,CB,13,2012,GB-2012-92
+GB,Defensive Offside,12/09/2012,Detroit,D.Moses,LB,14,2012,GB-2012-93
+GB,Defensive Offside,12/09/2012,Detroit,B.Raji,DT,14,2012,GB-2012-94
+GB,Offensive Holding,12/09/2012,Detroit,J.Sitton,G,14,2012,GB-2012-95
+GB,False Start,12/09/2012,Detroit,J.Sitton,G,14,2012,GB-2012-96
+GB,Unnecessary Roughness,12/09/2012,Detroit,M.Burnett,SS,14,2012,GB-2012-97
+GB,Illegal Use of Hands,12/09/2012,Detroit,B.Raji,DT,14,2012,GB-2012-98
+GB,Illegal Contact,12/09/2012,Detroit,T.Williams,DB,14,2012,GB-2012-99
+GB,False Start,12/16/2012,Chicago,D.Barclay,T,15,2012,GB-2012-100
+GB,Offensive Holding,12/16/2012,Chicago,J.Bush,CB,15,2012,GB-2012-101
+GB,Offensive 12 On-field,12/16/2012,Chicago,J.Kuhn,FB,15,2012,GB-2012-102
+GB,Face Mask (15 Yards),12/16/2012,Chicago,E.Walden,OLB,15,2012,GB-2012-103
+GB,Delay of Game,12/16/2012,Chicago,A.Rodgers,QB,15,2012,GB-2012-104
+GB,Illegal Contact,12/16/2012,Chicago,S.Shields,CB,15,2012,GB-2012-105
+GB,Defensive Pass Interference,12/16/2012,Chicago,M.Burnett,SS,15,2012,GB-2012-106
+GB,Offensive Holding,12/16/2012,Chicago,J.Sitton,G,15,2012,GB-2012-107
+GB,Offensive Holding,12/16/2012,Chicago,J.Bush,CB,15,2012,GB-2012-108
+GB,Delay of Game,12/16/2012,Chicago,T.Masthay,P,15,2012,GB-2012-109
+GB,Offensive Holding,12/23/2012,Tennessee,J.Kuhn,FB,16,2012,GB-2012-110
+GB,Delay of Game,12/30/2012,Minnesota,A.Rodgers,QB,17,2012,GB-2012-111
+GB,False Start,12/30/2012,Minnesota,J.Jones,WR,17,2012,GB-2012-112
+GB,False Start,12/30/2012,Minnesota,D.Barclay,T,17,2012,GB-2012-113
+GB,Defensive Holding,12/30/2012,Minnesota,J.McMillian,SS,17,2012,GB-2012-114
+GB,Illegal Use of Hands,12/30/2012,Minnesota,T.Williams,DB,17,2012,GB-2012-115
+GB,False Start,12/30/2012,Minnesota,D.Barclay,T,17,2012,GB-2012-116
+GB,Defensive Offside,01/05/2013,Minnesota,J.Kuhn,FB,18,2012,GB-2012-117
+GB,Encroachment,01/05/2013,Minnesota,M.Neal,LB,18,2012,GB-2012-118
+GB,Defensive Holding,01/12/2013,San Francisco,T.Williams,DB,19,2012,GB-2012-119
+GB,Offensive Holding,01/12/2013,San Francisco,J.Kuhn,FB,19,2012,GB-2012-120
+GB,False Start,01/12/2013,San Francisco,M.Newhouse,G,19,2012,GB-2012-121
+GB,Defensive Holding,01/12/2013,San Francisco,T.Williams,DB,19,2012,GB-2012-122
+GB,Encroachment,01/12/2013,San Francisco,B.Raji,DT,19,2012,GB-2012-123

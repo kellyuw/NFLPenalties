@@ -1,0 +1,112 @@
+team,penalty,game,opponent,player,position,week,year,penaltyindex
+CHI,False Start,09/09/2012,Indianapolis,G.Carimi,T,1,2012,CHI-2012-0
+CHI,Neutral Zone Infraction,09/09/2012,Indianapolis,S.McClellin,OLB,1,2012,CHI-2012-1
+CHI,Offensive Holding,09/09/2012,Indianapolis,C.Spencer,C,1,2012,CHI-2012-2
+CHI,Offensive Pass Interference,09/09/2012,Indianapolis,D.Hester,WR,1,2012,CHI-2012-3
+CHI,Defensive Pass Interference,09/09/2012,Indianapolis,T.Jennings,DB,1,2012,CHI-2012-4
+CHI,Illegal Contact,09/09/2012,Indianapolis,N.Roach,MLB,1,2012,CHI-2012-5
+CHI,Offensive Holding,09/09/2012,Indianapolis,K.Davis,TE,1,2012,CHI-2012-6
+CHI,Delay of Game,09/13/2012,Green Bay,J.Cutler,QB,2,2012,CHI-2012-7
+CHI,Defensive 12 On-field,09/13/2012,Green Bay,N.Roach,MLB,2,2012,CHI-2012-8
+CHI,Unnecessary Roughness,09/13/2012,Green Bay,G.Carimi,T,2,2012,CHI-2012-9
+CHI,False Start,09/13/2012,Green Bay,J.Webb,T,2,2012,CHI-2012-10
+CHI,Illegal Contact,09/13/2012,Green Bay,M.Wright,SS,2,2012,CHI-2012-11
+CHI,False Start,09/13/2012,Green Bay,K.Davis,TE,2,2012,CHI-2012-12
+CHI,Offensive Holding,09/13/2012,Green Bay,G.Carimi,T,2,2012,CHI-2012-13
+CHI,Face Mask (15 Yards),09/13/2012,Green Bay,E.Weems,WR,2,2012,CHI-2012-14
+CHI,False Start,09/23/2012,St. Louis,C.Rachal,G,3,2012,CHI-2012-15
+CHI,Offensive Holding,09/23/2012,St. Louis,G.Hayes,LB,3,2012,CHI-2012-16
+CHI,Neutral Zone Infraction,09/23/2012,St. Louis,S.Paea,DE,3,2012,CHI-2012-17
+CHI,False Start,09/23/2012,St. Louis,L.Louis,G,3,2012,CHI-2012-18
+CHI,False Start,09/23/2012,St. Louis,C.Rachal,G,3,2012,CHI-2012-19
+CHI,Offensive Holding,09/23/2012,St. Louis,J.Webb,T,3,2012,CHI-2012-20
+CHI,Personal Foul,09/23/2012,St. Louis,J.Peppers,OLB,3,2012,CHI-2012-21
+CHI,Defensive Offside,09/23/2012,St. Louis,C.Wootton,DE,3,2012,CHI-2012-22
+CHI,Illegal Block Above the Waist,10/01/2012,Dallas,G.Hayes,LB,4,2012,CHI-2012-23
+CHI,False Start,10/01/2012,Dallas,M.Spaeth,TE,4,2012,CHI-2012-24
+CHI,False Start,10/01/2012,Dallas,B.Marshall,WR,4,2012,CHI-2012-25
+CHI,False Start,10/01/2012,Dallas,K.Bell,RB,4,2012,CHI-2012-26
+CHI,Delay of Game,10/07/2012,Jacksonville,J.Cutler,QB,5,2012,CHI-2012-27
+CHI,Offensive Pass Interference,10/07/2012,Jacksonville,A.Jeffery,WR,5,2012,CHI-2012-28
+CHI,Offensive Holding,10/07/2012,Jacksonville,G.Carimi,T,5,2012,CHI-2012-29
+CHI,Offensive Holding,10/07/2012,Jacksonville,S.McManis,CB,5,2012,CHI-2012-30
+CHI,False Start,10/07/2012,Jacksonville,G.Carimi,T,5,2012,CHI-2012-31
+CHI,False Start,10/07/2012,Jacksonville,G.Carimi,T,5,2012,CHI-2012-32
+CHI,Offensive Holding,10/07/2012,Jacksonville,S.McManis,CB,5,2012,CHI-2012-33
+CHI,False Start,10/07/2012,Jacksonville,K.Davis,TE,5,2012,CHI-2012-34
+CHI,Face Mask (15 Yards),10/07/2012,Jacksonville,D.Hester,WR,5,2012,CHI-2012-35
+CHI,Defensive Offside,10/07/2012,Jacksonville,I.Idonije,DE,5,2012,CHI-2012-36
+CHI,Defensive Offside,10/07/2012,Jacksonville,M.Toeaina,DT,5,2012,CHI-2012-37
+CHI,Defensive Offside,10/07/2012,Jacksonville,C.Wootton,DE,5,2012,CHI-2012-38
+CHI,Offensive Holding,10/22/2012,Detroit,G.Carimi,T,7,2012,CHI-2012-39
+CHI,Illegal Block Above the Waist,10/22/2012,Detroit,A.Allen,RB,7,2012,CHI-2012-40
+CHI,Offensive Holding,10/22/2012,Detroit,C.Tillman,DB,7,2012,CHI-2012-41
+CHI,False Start,10/22/2012,Detroit,L.Louis,G,7,2012,CHI-2012-42
+CHI,Offensive Holding,10/22/2012,Detroit,G.Carimi,T,7,2012,CHI-2012-43
+CHI,Defensive Pass Interference,10/22/2012,Detroit,C.Tillman,DB,7,2012,CHI-2012-44
+CHI,False Start,10/22/2012,Detroit,R.Garza,C,7,2012,CHI-2012-45
+CHI,Offensive Holding,10/22/2012,Detroit,J.Thomas,LB,7,2012,CHI-2012-46
+CHI,Unnecessary Roughness,10/22/2012,Detroit,C.Rachal,G,7,2012,CHI-2012-47
+CHI,False Start,10/22/2012,Detroit,R.Garza,C,7,2012,CHI-2012-48
+CHI,Illegal Contact,10/28/2012,Carolina,T.Jennings,DB,8,2012,CHI-2012-49
+CHI,Defensive Offside,10/28/2012,Carolina,I.Idonije,DE,8,2012,CHI-2012-50
+CHI,Offensive Holding,10/28/2012,Carolina,C.Rachal,G,8,2012,CHI-2012-51
+CHI,Personal Foul,10/28/2012,Carolina,C.Conte,DB,8,2012,CHI-2012-52
+CHI,False Start,10/28/2012,Carolina,R.Garza,C,8,2012,CHI-2012-53
+CHI,Roughing the Passer,10/28/2012,Carolina,I.Idonije,DE,8,2012,CHI-2012-54
+CHI,Offensive Holding,11/04/2012,Tennessee,K.Davis,TE,9,2012,CHI-2012-55
+CHI,Offensive Holding,11/04/2012,Tennessee,C.Tillman,DB,9,2012,CHI-2012-56
+CHI,False Start,11/04/2012,Tennessee,D.Hester,WR,9,2012,CHI-2012-57
+CHI,Illegal Use of Hands,11/04/2012,Tennessee,J.Webb,T,9,2012,CHI-2012-58
+CHI,Offensive Holding,11/04/2012,Tennessee,J.Webb,T,9,2012,CHI-2012-59
+CHI,Illegal Forward Pass,11/11/2012,Houston,J.Cutler,QB,10,2012,CHI-2012-60
+CHI,Offensive Holding,11/11/2012,Houston,A.Walters,DB,10,2012,CHI-2012-61
+CHI,False Start,11/11/2012,Houston,C.Rachal,G,10,2012,CHI-2012-62
+CHI,Offensive Holding,11/11/2012,Houston,C.Rachal,G,10,2012,CHI-2012-63
+CHI,Face Mask (15 Yards),11/11/2012,Houston,C.Wootton,DE,10,2012,CHI-2012-64
+CHI,Offensive Holding,11/11/2012,Houston,G.Carimi,T,10,2012,CHI-2012-65
+CHI,Unnecessary Roughness,11/19/2012,San Francisco,C.Conte,DB,11,2012,CHI-2012-66
+CHI,Defensive Holding,11/19/2012,San Francisco,M.Wright,SS,11,2012,CHI-2012-67
+CHI,Offensive Holding,11/19/2012,San Francisco,B.Costanzo,LB,11,2012,CHI-2012-68
+CHI,Offensive Holding,11/19/2012,San Francisco,C.Rachal,G,11,2012,CHI-2012-69
+CHI,Offensive Holding,11/19/2012,San Francisco,C.Rachal,G,11,2012,CHI-2012-70
+CHI,Neutral Zone Infraction,11/19/2012,San Francisco,J.Thomas,LB,11,2012,CHI-2012-71
+CHI,Taunting,11/25/2012,Minnesota,J.Cutler,QB,12,2012,CHI-2012-72
+CHI,Face Mask (15 Yards),11/25/2012,Minnesota,H.Melton,DT,12,2012,CHI-2012-73
+CHI,False Start,11/25/2012,Minnesota,J.Webb,T,12,2012,CHI-2012-74
+CHI,Horse Collar Tackle,11/25/2012,Minnesota,B.Urlacher,MLB,12,2012,CHI-2012-75
+CHI,False Start,12/02/2012,Seattle,M.Spaeth,TE,13,2012,CHI-2012-76
+CHI,Horse Collar Tackle,12/02/2012,Seattle,B.Urlacher,MLB,13,2012,CHI-2012-77
+CHI,Offensive Holding,12/02/2012,Seattle,A.Walters,DB,13,2012,CHI-2012-78
+CHI,Offensive Pass Interference,12/02/2012,Seattle,B.Marshall,WR,13,2012,CHI-2012-79
+CHI,False Start,12/02/2012,Seattle,J.Webb,T,13,2012,CHI-2012-80
+CHI,Neutral Zone Infraction,12/02/2012,Seattle,J.Peppers,OLB,13,2012,CHI-2012-81
+CHI,False Start,12/09/2012,Minnesota,P.Mannelly,LS,14,2012,CHI-2012-82
+CHI,Offensive Holding,12/09/2012,Minnesota,J.Webb,T,14,2012,CHI-2012-83
+CHI,Neutral Zone Infraction,12/09/2012,Minnesota,J.Peppers,OLB,14,2012,CHI-2012-84
+CHI,Defensive Holding,12/09/2012,Minnesota,C.Conte,DB,14,2012,CHI-2012-85
+CHI,Offensive Holding,12/09/2012,Minnesota,M.Spaeth,TE,14,2012,CHI-2012-86
+CHI,False Start,12/09/2012,Minnesota,G.Carimi,T,14,2012,CHI-2012-87
+CHI,Offensive Holding,12/09/2012,Minnesota,J.Brown,G,14,2012,CHI-2012-88
+CHI,Unnecessary Roughness,12/09/2012,Minnesota,C.Tillman,DB,14,2012,CHI-2012-89
+CHI,Offensive Holding,12/09/2012,Minnesota,J.Webb,T,14,2012,CHI-2012-90
+CHI,Illegal Block Above the Waist,12/09/2012,Minnesota,Z.Bowman,DB,14,2012,CHI-2012-91
+CHI,Delay of Game,12/09/2012,Minnesota,J.Campbell,QB,14,2012,CHI-2012-92
+CHI,Illegal Touch Pass,12/09/2012,Minnesota,K.Adams,TE,14,2012,CHI-2012-93
+CHI,False Start,12/16/2012,Green Bay,R.Garza,C,15,2012,CHI-2012-94
+CHI,Illegal Block Above the Waist,12/16/2012,Green Bay,K.Adams,TE,15,2012,CHI-2012-95
+CHI,Offensive Holding,12/16/2012,Green Bay,G.Carimi,T,15,2012,CHI-2012-96
+CHI,Defensive Offside,12/16/2012,Green Bay,A.Okoye,DT,15,2012,CHI-2012-97
+CHI,Defensive Pass Interference,12/16/2012,Green Bay,C.Conte,DB,15,2012,CHI-2012-98
+CHI,Offensive Pass Interference,12/16/2012,Green Bay,A.Jeffery,WR,15,2012,CHI-2012-99
+CHI,Offensive Pass Interference,12/16/2012,Green Bay,A.Jeffery,WR,15,2012,CHI-2012-100
+CHI,Ineligible Downfield Pass,12/16/2012,Green Bay,J.Brown,G,15,2012,CHI-2012-101
+CHI,Roughing the Passer,12/16/2012,Green Bay,J.Peppers,OLB,15,2012,CHI-2012-102
+CHI,Offensive Pass Interference,12/16/2012,Green Bay,A.Jeffery,WR,15,2012,CHI-2012-103
+CHI,Defensive Pass Interference,12/23/2012,Arizona,T.Jennings,DB,16,2012,CHI-2012-104
+CHI,Illegal Block Above the Waist,12/23/2012,Arizona,Z.Bowman,DB,16,2012,CHI-2012-105
+CHI,Offensive Holding,12/23/2012,Arizona,Z.Bowman,DB,16,2012,CHI-2012-106
+CHI,Offensive Holding,12/23/2012,Arizona,K.Bell,RB,16,2012,CHI-2012-107
+CHI,False Start,12/30/2012,Detroit,J.Scott,T,17,2012,CHI-2012-108
+CHI,Unnecessary Roughness,12/30/2012,Detroit,L.Briggs,OLB,17,2012,CHI-2012-109
+CHI,Unnecessary Roughness,12/30/2012,Detroit,M.Wright,SS,17,2012,CHI-2012-110

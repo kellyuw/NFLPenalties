@@ -1,0 +1,100 @@
+team,penalty,game,opponent,player,position,week,year,penaltyindex
+GB,Illegal Use of Hands,09/08/2013,San Francisco,J.Sitton,G,1,2013,GB-2013-0
+GB,Illegal Block Above the Waist,09/08/2013,San Francisco,M.Daniels,DT,1,2013,GB-2013-1
+GB,Offensive Holding,09/08/2013,San Francisco,J.Sitton,G,1,2013,GB-2013-2
+GB,Offensive Holding,09/08/2013,San Francisco,J.Sitton,G,1,2013,GB-2013-3
+GB,Offensive Holding,09/15/2013,Washington,E.Dietrich-Smith,C,2,2013,GB-2013-4
+GB,False Start,09/15/2013,Washington,D.Barclay,T,2,2013,GB-2013-5
+GB,Offensive Holding,09/15/2013,Washington,D.Bakhtiari,T,2,2013,GB-2013-6
+GB,Unnecessary Roughness,09/15/2013,Washington,R.Francois,LB,2,2013,GB-2013-7
+GB,Defensive Holding,09/15/2013,Washington,C.Banjo,SS,2,2013,GB-2013-8
+GB,Defensive Holding,09/22/2013,Cincinnati,C.Matthews,OLB,3,2013,GB-2013-9
+GB,Offensive Holding,09/22/2013,Cincinnati,D.Bakhtiari,T,3,2013,GB-2013-10
+GB,Personal Foul,09/22/2013,Cincinnati,R.Taylor,TE,3,2013,GB-2013-11
+GB,Unnecessary Roughness,09/22/2013,Cincinnati,N.Perry,OLB,3,2013,GB-2013-12
+GB,Unnecessary Roughness,09/22/2013,Cincinnati,T.Williams,DB,3,2013,GB-2013-13
+GB,False Start,10/06/2013,Detroit,R.Cobb,WR,5,2013,GB-2013-14
+GB,Illegal Formation,10/06/2013,Detroit,M.Jennings,FS,5,2013,GB-2013-15
+GB,Offensive Holding,10/06/2013,Detroit,A.Mulumba,OLB,5,2013,GB-2013-16
+GB,False Start,10/06/2013,Detroit,D.Barclay,T,5,2013,GB-2013-17
+GB,Offensive Holding,10/06/2013,Detroit,D.House,DB,5,2013,GB-2013-18
+GB,Offensive Holding,10/06/2013,Detroit,D.Bakhtiari,T,5,2013,GB-2013-19
+GB,Illegal Contact,10/06/2013,Detroit,S.Shields,CB,5,2013,GB-2013-20
+GB,Defensive Offside,10/06/2013,Detroit,M.Daniels,DT,5,2013,GB-2013-21
+GB,Delay of Game,10/06/2013,Detroit,A.Rodgers,QB,5,2013,GB-2013-22
+GB,Unnecessary Roughness,10/06/2013,Detroit,J.McMillian,SS,5,2013,GB-2013-23
+GB,Offensive Holding,10/06/2013,Detroit,J.Boykin,WR,5,2013,GB-2013-24
+GB,Defensive Holding,10/13/2013,Baltimore,S.Shields,CB,6,2013,GB-2013-25
+GB,False Start,10/13/2013,Baltimore,T.Lang,G,6,2013,GB-2013-26
+GB,Offensive Holding,10/13/2013,Baltimore,J.Sitton,G,6,2013,GB-2013-27
+GB,Offensive Holding,10/13/2013,Baltimore,D.Bakhtiari,T,6,2013,GB-2013-28
+GB,Personal Foul,10/13/2013,Baltimore,T.Lang,G,6,2013,GB-2013-29
+GB,Offensive Holding,10/13/2013,Baltimore,J.Finley,TE,6,2013,GB-2013-30
+GB,Defensive Offside,10/13/2013,Baltimore,M.Neal,LB,6,2013,GB-2013-31
+GB,Defensive Holding,10/13/2013,Baltimore,T.Williams,DB,6,2013,GB-2013-32
+GB,Roughing the Kicker,10/20/2013,Cleveland,J.Stoneburner,TE,7,2013,GB-2013-33
+GB,Offensive Holding,10/20/2013,Cleveland,D.Barclay,T,7,2013,GB-2013-34
+GB,False Start,10/20/2013,Cleveland,J.Finley,TE,7,2013,GB-2013-35
+GB,Unnecessary Roughness,10/20/2013,Cleveland,T.Williams,DB,7,2013,GB-2013-36
+GB,Offensive Holding,10/20/2013,Cleveland,A.Quarless,TE,7,2013,GB-2013-37
+GB,Face Mask (15 Yards),10/20/2013,Cleveland,A.Hawk,LB,7,2013,GB-2013-38
+GB,Offensive Holding,10/20/2013,Cleveland,D.Bakhtiari,T,7,2013,GB-2013-39
+GB,Ineligible Downfield Kick,10/20/2013,Cleveland,A.Quarless,TE,7,2013,GB-2013-40
+GB,Defensive Offside,10/20/2013,Cleveland,M.Neal,LB,7,2013,GB-2013-41
+GB,Unsportsmanlike Conduct,10/20/2013,Cleveland,J.Jolly,DE,7,2013,GB-2013-42
+GB,Unnecessary Roughness,10/27/2013,Minnesota,D.Jones,DE,8,2013,GB-2013-43
+GB,Defensive Pass Interference,10/27/2013,Minnesota,T.Williams,DB,8,2013,GB-2013-44
+GB,Face Mask (15 Yards),10/27/2013,Minnesota,D.Bakhtiari,T,8,2013,GB-2013-45
+GB,Illegal Block Above the Waist,10/27/2013,Minnesota,J.Stoneburner,TE,8,2013,GB-2013-46
+GB,Offensive Holding,10/27/2013,Minnesota,D.Barclay,T,8,2013,GB-2013-47
+GB,Defensive Pass Interference,10/27/2013,Minnesota,T.Williams,DB,8,2013,GB-2013-48
+GB,Defensive Pass Interference,11/04/2013,Chicago,T.Williams,DB,9,2013,GB-2013-49
+GB,Illegal Block Above the Waist,11/10/2013,Philadelphia,J.Bush,CB,10,2013,GB-2013-50
+GB,Defensive Offside,11/10/2013,Philadelphia,N.Perry,OLB,10,2013,GB-2013-51
+GB,Roughing the Passer,11/10/2013,Philadelphia,C.Matthews,OLB,10,2013,GB-2013-52
+GB,Defensive Offside,11/10/2013,Philadelphia,D.Jones,DE,10,2013,GB-2013-53
+GB,False Start,11/10/2013,Philadelphia,M.Newhouse,G,10,2013,GB-2013-54
+GB,Offensive Pass Interference,11/17/2013,N.Y. Giants,J.Jones,WR,11,2013,GB-2013-55
+GB,Defensive Pass Interference,11/17/2013,N.Y. Giants,T.Williams,DB,11,2013,GB-2013-56
+GB,Offensive Holding,11/17/2013,N.Y. Giants,J.Lattimore,LB,11,2013,GB-2013-57
+GB,Defensive Holding,11/17/2013,N.Y. Giants,C.Matthews,OLB,11,2013,GB-2013-58
+GB,Illegal Block Above the Waist,11/17/2013,N.Y. Giants,D.House,DB,11,2013,GB-2013-59
+GB,Offensive Holding,11/17/2013,N.Y. Giants,D.Bakhtiari,T,11,2013,GB-2013-60
+GB,Illegal Contact,11/24/2013,Minnesota,T.Williams,DB,12,2013,GB-2013-61
+GB,False Start,11/24/2013,Minnesota,J.Boykin,WR,12,2013,GB-2013-62
+GB,Personal Foul,11/24/2013,Minnesota,M.Burnett,SS,12,2013,GB-2013-63
+GB,False Start,11/24/2013,Minnesota,T.Lang,G,12,2013,GB-2013-64
+GB,Defensive Holding,11/24/2013,Minnesota,M.Burnett,SS,12,2013,GB-2013-65
+GB,False Start,11/24/2013,Minnesota,T.Lang,G,12,2013,GB-2013-66
+GB,False Start,11/24/2013,Minnesota,E.Dietrich-Smith,C,12,2013,GB-2013-67
+GB,Offensive Holding,11/24/2013,Minnesota,D.Bakhtiari,T,12,2013,GB-2013-68
+GB,Neutral Zone Infraction,11/28/2013,Detroit,N.Perry,OLB,13,2013,GB-2013-69
+GB,Illegal Formation,11/28/2013,Detroit,J.Nelson,WR,13,2013,GB-2013-70
+GB,Unsportsmanlike Conduct,11/28/2013,Detroit,T.Williams,DB,13,2013,GB-2013-71
+GB,False Start,12/08/2013,Atlanta,T.Lang,G,14,2013,GB-2013-72
+GB,Defensive Holding,12/08/2013,Atlanta,B.Jones,LB,14,2013,GB-2013-73
+GB,False Start,12/15/2013,Dallas,D.Bakhtiari,T,15,2013,GB-2013-74
+GB,Illegal Contact,12/15/2013,Dallas,T.Williams,DB,15,2013,GB-2013-75
+GB,Offensive Holding,12/15/2013,Dallas,J.Sitton,G,15,2013,GB-2013-76
+GB,Fair Catch Interference,12/15/2013,Dallas,D.House,DB,15,2013,GB-2013-77
+GB,Defensive Holding,12/15/2013,Dallas,S.Shields,CB,15,2013,GB-2013-78
+GB,Encroachment,12/15/2013,Dallas,M.Neal,LB,15,2013,GB-2013-79
+GB,Face Mask (15 Yards),12/15/2013,Dallas,B.Jones,LB,15,2013,GB-2013-80
+GB,Face Mask (15 Yards),12/22/2013,Pittsburgh,J.Sitton,G,16,2013,GB-2013-81
+GB,Offensive Holding,12/22/2013,Pittsburgh,M.Newhouse,G,16,2013,GB-2013-82
+GB,Roughing the Passer,12/22/2013,Pittsburgh,J.Stoneburner,TE,16,2013,GB-2013-83
+GB,Offensive Holding,12/22/2013,Pittsburgh,D.Bakhtiari,T,16,2013,GB-2013-84
+GB,Unnecessary Roughness,12/22/2013,Pittsburgh,B.Raji,DT,16,2013,GB-2013-85
+GB,Offensive Holding,12/22/2013,Pittsburgh,V.Aiyewa,LB,16,2013,GB-2013-86
+GB,Offensive Holding,12/22/2013,Pittsburgh,A.Quarless,TE,16,2013,GB-2013-87
+GB,Offensive Holding,12/22/2013,Pittsburgh,E.Dietrich-Smith,C,16,2013,GB-2013-88
+GB,Horse Collar Tackle,12/22/2013,Pittsburgh,T.Williams,DB,16,2013,GB-2013-89
+GB,Offensive Holding,12/22/2013,Pittsburgh,D.Bakhtiari,T,16,2013,GB-2013-90
+GB,Encroachment,12/22/2013,Pittsburgh,N.Perry,OLB,16,2013,GB-2013-91
+GB,False Start,12/22/2013,Pittsburgh,D.Barclay,T,16,2013,GB-2013-92
+GB,Unnecessary Roughness,12/29/2013,Chicago,V.Aiyewa,LB,17,2013,GB-2013-93
+GB,False Start,01/05/2014,San Francisco,D.Bakhtiari,T,18,2013,GB-2013-94
+GB,Illegal Use of Hands,01/05/2014,San Francisco,D.Bakhtiari,T,18,2013,GB-2013-95
+GB,Defensive Holding,01/05/2014,San Francisco,D.House,DB,18,2013,GB-2013-96
+GB,Offensive Holding,01/05/2014,San Francisco,J.Sitton,G,18,2013,GB-2013-97
+GB,Defensive Offside,01/05/2014,San Francisco,D.House,DB,18,2013,GB-2013-98

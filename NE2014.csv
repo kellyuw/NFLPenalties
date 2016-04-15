@@ -1,0 +1,154 @@
+team,penalty,game,opponent,player,position,week,year,penaltyindex
+NE,Face Mask (15 Yards),09/07/2014,Miami,R.Wendell,G,1,2014,NE-2014-0
+NE,Roughing the Passer,09/07/2014,Miami,D.Hightower,OLB,1,2014,NE-2014-1
+NE,Neutral Zone Infraction,09/07/2014,Miami,D.Easley,DE,1,2014,NE-2014-2
+NE,Offensive Holding,09/07/2014,Miami,N.Solder,T,1,2014,NE-2014-3
+NE,Offensive Pass Interference,09/07/2014,Miami,K.Thompkins,WR,1,2014,NE-2014-4
+NE,Offside on Free Kick,09/07/2014,Miami,B.LaFell,WR,1,2014,NE-2014-5
+NE,Roughing the Passer,09/07/2014,Miami,Cha.Jones,DE,1,2014,NE-2014-6
+NE,Offensive Holding,09/07/2014,Miami,R.Gronkowski,TE,1,2014,NE-2014-7
+NE,Offensive Pass Interference,09/07/2014,Miami,B.LaFell,WR,1,2014,NE-2014-8
+NE,Roughing the Passer,09/07/2014,Miami,Cha.Jones,DE,1,2014,NE-2014-9
+NE,Defensive Offside,09/14/2014,Minnesota,D.Hightower,OLB,2,2014,NE-2014-10
+NE,Illegal Use of Hands,09/14/2014,Minnesota,S.Siliga,DT,2,2014,NE-2014-11
+NE,Offensive Holding,09/14/2014,Minnesota,D.Jones,DB,2,2014,NE-2014-12
+NE,Offensive Holding,09/14/2014,Minnesota,M.Cannon,G,2,2014,NE-2014-13
+NE,Defensive Holding,09/14/2014,Minnesota,D.Revis,DB,2,2014,NE-2014-14
+NE,Offensive Pass Interference,09/14/2014,Minnesota,A.Dobson,WR,2,2014,NE-2014-15
+NE,Offensive Holding,09/14/2014,Minnesota,N.Solder,T,2,2014,NE-2014-16
+NE,Illegal Block Above the Waist,09/14/2014,Minnesota,N.Solder,T,2,2014,NE-2014-17
+NE,False Start,09/14/2014,Minnesota,N.Solder,T,2,2014,NE-2014-18
+NE,Offensive Holding,09/14/2014,Minnesota,J.Devey,T,2,2014,NE-2014-19
+NE,Delay of Game,09/14/2014,Minnesota,S.Gostkowski,K,2,2014,NE-2014-20
+NE,Illegal Block Above the Waist,09/14/2014,Minnesota,T.Wilson,SS,2,2014,NE-2014-21
+NE,Illegal Block Above the Waist,09/14/2014,Minnesota,L.Ryan,CB,2,2014,NE-2014-22
+NE,Unnecessary Roughness,09/14/2014,Minnesota,D.Hightower,OLB,2,2014,NE-2014-23
+NE,False Start,09/14/2014,Minnesota,C.Fleming,G,2,2014,NE-2014-24
+NE,Defensive Pass Interference,09/14/2014,Minnesota,M.Butler,CB,2,2014,NE-2014-25
+NE,Defensive Pass Interference,09/14/2014,Minnesota,L.Ryan,CB,2,2014,NE-2014-26
+NE,Defensive Pass Interference,09/21/2014,Oakland,D.Revis,DB,3,2014,NE-2014-27
+NE,Offensive Holding,09/21/2014,Oakland,C.Fleming,G,3,2014,NE-2014-28
+NE,Offensive Holding,09/21/2014,Oakland,S.Vollmer,T,3,2014,NE-2014-29
+NE,False Start,09/21/2014,Oakland,J.Devey,T,3,2014,NE-2014-30
+NE,Defensive Holding,09/21/2014,Oakland,L.Ryan,CB,3,2014,NE-2014-31
+NE,False Start,09/21/2014,Oakland,R.Gronkowski,TE,3,2014,NE-2014-32
+NE,Offensive Pass Interference,09/21/2014,Oakland,B.LaFell,WR,3,2014,NE-2014-33
+NE,Defensive Pass Interference,09/21/2014,Oakland,L.Ryan,CB,3,2014,NE-2014-34
+NE,Illegal Use of Hands,09/29/2014,Kansas City,L.Ryan,CB,4,2014,NE-2014-35
+NE,Offensive Holding,09/29/2014,Kansas City,M.Butler,CB,4,2014,NE-2014-36
+NE,Face Mask (15 Yards),09/29/2014,Kansas City,D.Amendola,WR,4,2014,NE-2014-37
+NE,Unsportsmanlike Conduct,10/05/2014,Cincinnati,R.Gronkowski,TE,5,2014,NE-2014-38
+NE,Intentional Grounding,10/05/2014,Cincinnati,T.Brady,QB,5,2014,NE-2014-39
+NE,Chop Block,10/05/2014,Cincinnati,D.Connolly,G,5,2014,NE-2014-40
+NE,Unnecessary Roughness,10/05/2014,Cincinnati,J.Collins,OLB,5,2014,NE-2014-41
+NE,Defensive Holding,10/05/2014,Cincinnati,A.Dennard,CB,5,2014,NE-2014-42
+NE,Unnecessary Roughness,10/05/2014,Cincinnati,D.Easley,DE,5,2014,NE-2014-43
+NE,Defensive Holding,10/05/2014,Cincinnati,A.Dennard,CB,5,2014,NE-2014-44
+NE,Offensive Holding,10/05/2014,Cincinnati,D.Jones,DB,5,2014,NE-2014-45
+NE,False Start,10/05/2014,Cincinnati,B.Stork,C,5,2014,NE-2014-46
+NE,Offensive Holding,10/05/2014,Cincinnati,N.Solder,T,5,2014,NE-2014-47
+NE,Offensive Holding,10/05/2014,Cincinnati,B.Stork,C,5,2014,NE-2014-48
+NE,Defensive Holding,10/05/2014,Cincinnati,P.Chung,SS,5,2014,NE-2014-49
+NE,False Start,10/12/2014,Buffalo,J.Edelman,WR,6,2014,NE-2014-50
+NE,False Start,10/12/2014,Buffalo,D.Aiken,LS,6,2014,NE-2014-51
+NE,Illegal Block Above the Waist,10/12/2014,Buffalo,D.Skinner,LB,6,2014,NE-2014-52
+NE,Offensive Holding,10/12/2014,Buffalo,M.Cannon,G,6,2014,NE-2014-53
+NE,False Start,10/12/2014,Buffalo,A.Dobson,WR,6,2014,NE-2014-54
+NE,False Start,10/12/2014,Buffalo,J.Kline,G,6,2014,NE-2014-55
+NE,Illegal Use of Hands,10/12/2014,Buffalo,A.Dennard,CB,6,2014,NE-2014-56
+NE,Face Mask (15 Yards),10/12/2014,Buffalo,D.Harmon,SS,6,2014,NE-2014-57
+NE,Offensive Holding,10/12/2014,Buffalo,J.Devey,T,6,2014,NE-2014-58
+NE,Illegal Block Above the Waist,10/12/2014,Buffalo,D.Harmon,SS,6,2014,NE-2014-59
+NE,False Start,10/12/2014,Buffalo,B.LaFell,WR,6,2014,NE-2014-60
+NE,False Start,10/12/2014,Buffalo,N.Solder,T,6,2014,NE-2014-61
+NE,Defensive Holding,10/16/2014,N.Y. Jets,B.Browner,DB,7,2014,NE-2014-62
+NE,Offensive Holding,10/16/2014,N.Y. Jets,B.Bolden,RB,7,2014,NE-2014-63
+NE,Defensive Holding,10/16/2014,N.Y. Jets,D.Revis,DB,7,2014,NE-2014-64
+NE,False Start,10/16/2014,N.Y. Jets,N.Solder,T,7,2014,NE-2014-65
+NE,Ineligible Downfield Pass,10/16/2014,N.Y. Jets,J.Devey,T,7,2014,NE-2014-66
+NE,Unnecessary Roughness,10/16/2014,N.Y. Jets,J.Devey,T,7,2014,NE-2014-67
+NE,Defensive Holding,10/16/2014,N.Y. Jets,B.Browner,DB,7,2014,NE-2014-68
+NE,False Start,10/16/2014,N.Y. Jets,T.Wright,TE,7,2014,NE-2014-69
+NE,Offensive Pass Interference,10/16/2014,N.Y. Jets,B.LaFell,WR,7,2014,NE-2014-70
+NE,Defensive Holding,10/16/2014,N.Y. Jets,L.Ryan,CB,7,2014,NE-2014-71
+NE,False Start,10/26/2014,Chicago,B.Stork,C,8,2014,NE-2014-72
+NE,False Start,10/26/2014,Chicago,N.Solder,T,8,2014,NE-2014-73
+NE,Illegal Contact,10/26/2014,Chicago,B.Browner,DB,8,2014,NE-2014-74
+NE,Offensive Holding,10/26/2014,Chicago,B.Stork,C,8,2014,NE-2014-75
+NE,Illegal Use of Hands,10/26/2014,Chicago,Z.Moore,DE,8,2014,NE-2014-76
+NE,Defensive Pass Interference,10/26/2014,Chicago,B.Browner,DB,8,2014,NE-2014-77
+NE,Defensive Pass Interference,10/26/2014,Chicago,J.Collins,OLB,8,2014,NE-2014-78
+NE,Defensive Pass Interference,11/02/2014,Denver,B.Browner,DB,9,2014,NE-2014-79
+NE,Intentional Grounding,11/02/2014,Denver,T.Brady,QB,9,2014,NE-2014-80
+NE,Offside on Free Kick,11/02/2014,Denver,L.Ryan,CB,9,2014,NE-2014-81
+NE,Defensive Pass Interference,11/02/2014,Denver,J.Collins,OLB,9,2014,NE-2014-82
+NE,Encroachment,11/02/2014,Denver,B.Browner,DB,9,2014,NE-2014-83
+NE,Defensive Holding,11/02/2014,Denver,B.Browner,DB,9,2014,NE-2014-84
+NE,Illegal Shift,11/02/2014,Denver,B.LaFell,WR,9,2014,NE-2014-85
+NE,False Start,11/02/2014,Denver,S.Vollmer,T,9,2014,NE-2014-86
+NE,Face Mask (15 Yards),11/02/2014,Denver,P.Chung,SS,9,2014,NE-2014-87
+NE,Illegal Block Above the Waist,11/16/2014,Indianapolis,T.Wilson,SS,11,2014,NE-2014-88
+NE,Illegal Use of Hands,11/16/2014,Indianapolis,R.Ninkovich,DE,11,2014,NE-2014-89
+NE,Illegal Block Above the Waist,11/16/2014,Indianapolis,M.Butler,CB,11,2014,NE-2014-90
+NE,Offensive Holding,11/16/2014,Indianapolis,P.Chung,SS,11,2014,NE-2014-91
+NE,Face Mask (15 Yards),11/16/2014,Indianapolis,R.Ninkovich,DE,11,2014,NE-2014-92
+NE,Taunting,11/16/2014,Indianapolis,R.Gronkowski,TE,11,2014,NE-2014-93
+NE,Unnecessary Roughness,11/16/2014,Indianapolis,R.Gronkowski,TE,11,2014,NE-2014-94
+NE,Illegal Use of Hands,11/23/2014,Detroit,S.Vollmer,T,12,2014,NE-2014-95
+NE,Defensive Holding,11/23/2014,Detroit,P.Chung,SS,12,2014,NE-2014-96
+NE,Defensive Holding,11/23/2014,Detroit,J.Collins,OLB,12,2014,NE-2014-97
+NE,Defensive Offside,11/23/2014,Detroit,J.Collins,OLB,12,2014,NE-2014-98
+NE,Illegal Contact,11/23/2014,Detroit,K.Arrington,DB,12,2014,NE-2014-99
+NE,Offensive Holding,11/23/2014,Detroit,N.Solder,T,12,2014,NE-2014-100
+NE,False Start,11/23/2014,Detroit,B.LaFell,WR,12,2014,NE-2014-101
+NE,Illegal Block Above the Waist,11/23/2014,Detroit,B.Bolden,RB,12,2014,NE-2014-102
+NE,Offensive Holding,11/23/2014,Detroit,D.Jones,DB,12,2014,NE-2014-103
+NE,Offensive Pass Interference,11/23/2014,Detroit,R.Gronkowski,TE,12,2014,NE-2014-104
+NE,Illegal Block Above the Waist,11/23/2014,Detroit,P.Chung,SS,12,2014,NE-2014-105
+NE,Defensive Pass Interference,11/23/2014,Detroit,B.Browner,DB,12,2014,NE-2014-106
+NE,Defensive Holding,11/30/2014,Green Bay,B.Browner,DB,13,2014,NE-2014-107
+NE,Illegal Use of Hands,11/30/2014,Green Bay,B.Browner,DB,13,2014,NE-2014-108
+NE,False Start,11/30/2014,Green Bay,M.Cannon,G,13,2014,NE-2014-109
+NE,Offensive Holding,11/30/2014,Green Bay,D.Connolly,G,13,2014,NE-2014-110
+NE,Face Mask (15 Yards),12/07/2014,San Diego,B.Browner,DB,14,2014,NE-2014-111
+NE,Tripping,12/07/2014,San Diego,K.Arrington,DB,14,2014,NE-2014-112
+NE,False Start,12/07/2014,San Diego,D.Connolly,G,14,2014,NE-2014-113
+NE,Unsportsmanlike Conduct,12/07/2014,San Diego,B.Tyms,WR,14,2014,NE-2014-114
+NE,Unnecessary Roughness,12/07/2014,San Diego,B.Browner,DB,14,2014,NE-2014-115
+NE,Offensive Holding,12/07/2014,San Diego,M.Butler,CB,14,2014,NE-2014-116
+NE,Defensive Holding,12/14/2014,Miami,J.Collins,OLB,15,2014,NE-2014-117
+NE,False Start,12/14/2014,Miami,R.Wendell,G,15,2014,NE-2014-118
+NE,Defensive Pass Interference,12/14/2014,Miami,B.Browner,DB,15,2014,NE-2014-119
+NE,Defensive Pass Interference,12/14/2014,Miami,B.Browner,DB,15,2014,NE-2014-120
+NE,Offensive Holding,12/14/2014,Miami,R.Wendell,G,15,2014,NE-2014-121
+NE,Unnecessary Roughness,12/14/2014,Miami,B.Browner,DB,15,2014,NE-2014-122
+NE,Offensive Holding,12/14/2014,Miami,D.Amendola,WR,15,2014,NE-2014-123
+NE,Offensive Holding,12/21/2014,N.Y. Jets,B.Bolden,RB,16,2014,NE-2014-124
+NE,Illegal Contact,12/21/2014,N.Y. Jets,L.Ryan,CB,16,2014,NE-2014-125
+NE,Offensive Pass Interference,12/21/2014,N.Y. Jets,R.Gronkowski,TE,16,2014,NE-2014-126
+NE,False Start,12/21/2014,N.Y. Jets,M.Cannon,G,16,2014,NE-2014-127
+NE,Offensive Holding,12/28/2014,Buffalo,R.Wendell,G,17,2014,NE-2014-128
+NE,Offensive Pass Interference,12/28/2014,Buffalo,B.Tyms,WR,17,2014,NE-2014-129
+NE,Offensive Holding,12/28/2014,Buffalo,N.Solder,T,17,2014,NE-2014-130
+NE,Illegal Block Above the Waist,12/28/2014,Buffalo,M.Butler,CB,17,2014,NE-2014-131
+NE,Offensive Holding,12/28/2014,Buffalo,M.Cannon,G,17,2014,NE-2014-132
+NE,Roughing the Passer,12/28/2014,Buffalo,J.Casillas,LB,17,2014,NE-2014-133
+NE,Defensive Offside,01/10/2015,Baltimore,Cha.Jones,DE,19,2014,NE-2014-134
+NE,Delay of Game,01/10/2015,Baltimore,S.Gostkowski,K,19,2014,NE-2014-135
+NE,Taunting,01/10/2015,Baltimore,C.White,LB,19,2014,NE-2014-136
+NE,False Start,01/10/2015,Baltimore,R.Gronkowski,TE,19,2014,NE-2014-137
+NE,Defensive Pass Interference,01/10/2015,Baltimore,D.Revis,DB,19,2014,NE-2014-138
+NE,Defensive Pass Interference,01/10/2015,Baltimore,B.Browner,DB,19,2014,NE-2014-139
+NE,Defensive Holding,01/10/2015,Baltimore,D.Revis,DB,19,2014,NE-2014-140
+NE,Defensive Offside,01/10/2015,Baltimore,Cha.Jones,DE,19,2014,NE-2014-141
+NE,Defensive Holding,01/18/2015,Indianapolis,B.Browner,DB,20,2014,NE-2014-142
+NE,Offensive Holding,01/18/2015,Indianapolis,D.Connolly,G,20,2014,NE-2014-143
+NE,Unnecessary Roughness,01/18/2015,Indianapolis,V.Wilfork,NT,20,2014,NE-2014-144
+NE,Illegal Contact,01/18/2015,Indianapolis,J.Collins,OLB,20,2014,NE-2014-145
+NE,Illegal Formation,01/18/2015,Indianapolis,N.Solder,T,20,2014,NE-2014-146
+NE,Defensive Pass Interference,01/18/2015,Indianapolis,K.Arrington,DB,20,2014,NE-2014-147
+NE,False Start,01/18/2015,Indianapolis,A.Ayers,LB,20,2014,NE-2014-148
+NE,Face Mask (15 Yards),02/01/2015,Seattle,K.Arrington,DB,21,2014,NE-2014-149
+NE,Defensive Holding,02/01/2015,Seattle,B.Browner,DB,21,2014,NE-2014-150
+NE,Offensive Holding,02/01/2015,Seattle,B.Stork,C,21,2014,NE-2014-151
+NE,Offensive Pass Interference,02/01/2015,Seattle,D.Amendola,WR,21,2014,NE-2014-152

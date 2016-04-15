@@ -1,0 +1,93 @@
+team,penalty,game,opponent,player,position,week,year,penaltyindex
+WAS,Offensive Holding,09/11/2011,N.Y. Giants,J.Brown,T,1,2011,WAS-2011-0
+WAS,Illegal Block Above the Waist,09/11/2011,N.Y. Giants,R.Jackson,OLB,1,2011,WAS-2011-1
+WAS,Delay of Game,09/11/2011,N.Y. Giants,R.Grossman,QB,1,2011,WAS-2011-2
+WAS,False Start,09/18/2011,Arizona,Trent.Williams,T,2,2011,WAS-2011-3
+WAS,Offside on Free Kick,09/18/2011,Arizona,R.Jackson,OLB,2,2011,WAS-2011-4
+WAS,Delay of Game,09/18/2011,Arizona,G.Gano,K,2,2011,WAS-2011-5
+WAS,Defensive Pass Interference,09/26/2011,Dallas,K.Barnes,DB,3,2011,WAS-2011-6
+WAS,Defensive Holding,09/26/2011,Dallas,O.Atogwe,DB,3,2011,WAS-2011-7
+WAS,Face Mask (15 Yards),09/26/2011,Dallas,D.Hall,CB,3,2011,WAS-2011-8
+WAS,False Start,09/26/2011,Dallas,J.Brown,T,3,2011,WAS-2011-9
+WAS,False Start,10/02/2011,St. Louis,J.Brown,T,4,2011,WAS-2011-10
+WAS,Intentional Grounding,10/02/2011,St. Louis,R.Grossman,QB,4,2011,WAS-2011-11
+WAS,Unnecessary Roughness,10/02/2011,St. Louis,P.Riley,ILB,4,2011,WAS-2011-12
+WAS,Unnecessary Roughness,10/02/2011,St. Louis,N.Paul,TE,4,2011,WAS-2011-13
+WAS,Delay of Game,10/02/2011,St. Louis,R.Grossman,QB,4,2011,WAS-2011-14
+WAS,Offensive Holding,10/02/2011,St. Louis,D.Gomes,DB,4,2011,WAS-2011-15
+WAS,Offensive Holding,10/02/2011,St. Louis,W.Montgomery,C,4,2011,WAS-2011-16
+WAS,Offensive Holding,10/02/2011,St. Louis,Trent.Williams,T,4,2011,WAS-2011-17
+WAS,Unnecessary Roughness,10/02/2011,St. Louis,D.Hall,CB,4,2011,WAS-2011-18
+WAS,Roughing the Passer,10/02/2011,St. Louis,R.Jackson,OLB,4,2011,WAS-2011-19
+WAS,Offensive Holding,10/16/2011,Philadelphia,Trent.Williams,T,6,2011,WAS-2011-20
+WAS,Unnecessary Roughness,10/16/2011,Philadelphia,Trent.Williams,T,6,2011,WAS-2011-21
+WAS,Roughing the Passer,10/16/2011,Philadelphia,R.McIntosh,LB,6,2011,WAS-2011-22
+WAS,Offensive Holding,10/16/2011,Philadelphia,K.Golston,DE,6,2011,WAS-2011-23
+WAS,Offensive Pass Interference,10/16/2011,Philadelphia,F.Davis,TE,6,2011,WAS-2011-24
+WAS,Illegal Contact,10/16/2011,Philadelphia,J.Wilson,DB,6,2011,WAS-2011-25
+WAS,False Start,10/16/2011,Philadelphia,E.Cook,C,6,2011,WAS-2011-26
+WAS,False Start,10/16/2011,Philadelphia,E.Cook,C,6,2011,WAS-2011-27
+WAS,Illegal Use of Hands,10/16/2011,Philadelphia,J.Brown,T,6,2011,WAS-2011-28
+WAS,Delay of Game,10/16/2011,Philadelphia,S.Rocca,P,6,2011,WAS-2011-29
+WAS,False Start,10/23/2011,Carolina,F.Davis,TE,7,2011,WAS-2011-30
+WAS,Intentional Grounding,10/23/2011,Carolina,J.Beck,QB,7,2011,WAS-2011-31
+WAS,Offensive Holding,10/23/2011,Carolina,S.Locklear,G,7,2011,WAS-2011-32
+WAS,Defensive Pass Interference,10/30/2011,Buffalo,J.Wilson,DB,8,2011,WAS-2011-33
+WAS,Face Mask (15 Yards),10/30/2011,Buffalo,F.Davis,TE,8,2011,WAS-2011-34
+WAS,Personal Foul,11/06/2011,San Francisco,Trent.Williams,T,9,2011,WAS-2011-35
+WAS,False Start,11/06/2011,San Francisco,Trent.Williams,T,9,2011,WAS-2011-36
+WAS,Illegal Crackback,11/06/2011,San Francisco,T.Austin,WR,9,2011,WAS-2011-37
+WAS,Personal Foul,11/13/2011,Miami,P.Riley,ILB,10,2011,WAS-2011-38
+WAS,Offensive Holding,11/13/2011,Miami,L.Paulsen,TE,10,2011,WAS-2011-39
+WAS,Personal Foul,11/13/2011,Miami,R.Kerrigan,OLB,10,2011,WAS-2011-40
+WAS,Offensive Holding,11/13/2011,Miami,Trent.Williams,T,10,2011,WAS-2011-41
+WAS,Neutral Zone Infraction,11/13/2011,Miami,R.Kerrigan,OLB,10,2011,WAS-2011-42
+WAS,Offensive Holding,11/13/2011,Miami,S.Locklear,G,10,2011,WAS-2011-43
+WAS,Face Mask (15 Yards),11/13/2011,Miami,L.Landry,FS,10,2011,WAS-2011-44
+WAS,Illegal Block Above the Waist,11/20/2011,Dallas,T.Austin,WR,11,2011,WAS-2011-45
+WAS,Defensive Pass Interference,11/20/2011,Dallas,J.Wilson,DB,11,2011,WAS-2011-46
+WAS,Offensive Holding,11/20/2011,Dallas,T.Polumbus,T,11,2011,WAS-2011-47
+WAS,Offensive Holding,11/20/2011,Dallas,Trent.Williams,T,11,2011,WAS-2011-48
+WAS,False Start,11/20/2011,Dallas,R.Grossman,QB,11,2011,WAS-2011-49
+WAS,Offensive Pass Interference,11/20/2011,Dallas,L.Paulsen,TE,11,2011,WAS-2011-50
+WAS,Delay of Game,11/27/2011,Seattle,R.Grossman,QB,12,2011,WAS-2011-51
+WAS,Unsportsmanlike Conduct,11/27/2011,Seattle,F.Davis,TE,12,2011,WAS-2011-52
+WAS,Illegal Forward Pass,11/27/2011,Seattle,R.Grossman,QB,12,2011,WAS-2011-53
+WAS,Chop Block,11/27/2011,Seattle,R.Helu,RB,12,2011,WAS-2011-54
+WAS,Illegal Touch Pass,11/27/2011,Seattle,J.Gaffney,WR,12,2011,WAS-2011-55
+WAS,Illegal Block Above the Waist,11/27/2011,Seattle,T.Austin,WR,12,2011,WAS-2011-56
+WAS,Defensive Pass Interference,11/27/2011,Seattle,J.Wilson,DB,12,2011,WAS-2011-57
+WAS,Delay of Game,11/27/2011,Seattle,R.Grossman,QB,12,2011,WAS-2011-58
+WAS,Intentional Grounding,11/27/2011,Seattle,R.Grossman,QB,12,2011,WAS-2011-59
+WAS,Defensive Holding,12/04/2011,N.Y. Jets,L.Fletcher,ILB,13,2011,WAS-2011-60
+WAS,Defensive Offside,12/04/2011,N.Y. Jets,B.Orakpo,LB,13,2011,WAS-2011-61
+WAS,Offensive Holding,12/04/2011,N.Y. Jets,R.Jackson,OLB,13,2011,WAS-2011-62
+WAS,Intentional Grounding,12/04/2011,N.Y. Jets,R.Grossman,QB,13,2011,WAS-2011-63
+WAS,Delay of Game,12/04/2011,N.Y. Jets,R.Grossman,QB,13,2011,WAS-2011-64
+WAS,Unnecessary Roughness,12/04/2011,N.Y. Jets,K.Barnes,DB,13,2011,WAS-2011-65
+WAS,Illegal Formation,12/04/2011,N.Y. Jets,L.Alexander,LB,13,2011,WAS-2011-66
+WAS,False Start,12/11/2011,New England,L.Paulsen,TE,14,2011,WAS-2011-67
+WAS,Offensive Holding,12/11/2011,New England,M.Hurt,G,14,2011,WAS-2011-68
+WAS,Unnecessary Roughness,12/11/2011,New England,L.Fletcher,ILB,14,2011,WAS-2011-69
+WAS,Unsportsmanlike Conduct,12/11/2011,New England,D.Hall,CB,14,2011,WAS-2011-70
+WAS,Defensive Holding,12/11/2011,New England,D.Hall,CB,14,2011,WAS-2011-71
+WAS,Defensive Holding,12/11/2011,New England,R.Kerrigan,OLB,14,2011,WAS-2011-72
+WAS,Offensive Holding,12/11/2011,New England,R.Doughty,SS,14,2011,WAS-2011-73
+WAS,Offensive Holding,12/11/2011,New England,M.Hurt,G,14,2011,WAS-2011-74
+WAS,Offensive Pass Interference,12/11/2011,New England,S.Moss,WR,14,2011,WAS-2011-75
+WAS,False Start,12/18/2011,N.Y. Giants,T.Polumbus,T,15,2011,WAS-2011-76
+WAS,Offensive Holding,12/18/2011,N.Y. Giants,W.Montgomery,C,15,2011,WAS-2011-77
+WAS,Defensive Pass Interference,12/18/2011,N.Y. Giants,R.Doughty,SS,15,2011,WAS-2011-78
+WAS,Unnecessary Roughness,12/24/2011,Minnesota,R.Doughty,SS,16,2011,WAS-2011-79
+WAS,False Start,12/24/2011,Minnesota,W.Montgomery,C,16,2011,WAS-2011-80
+WAS,Unnecessary Roughness,12/24/2011,Minnesota,R.McIntosh,LB,16,2011,WAS-2011-81
+WAS,Offensive Holding,12/24/2011,Minnesota,D.Young,FB,16,2011,WAS-2011-82
+WAS,Illegal Motion,12/24/2011,Minnesota,R.Grossman,QB,16,2011,WAS-2011-83
+WAS,Illegal Motion,12/24/2011,Minnesota,R.Grossman,QB,16,2011,WAS-2011-84
+WAS,Offensive Holding,01/01/2012,Philadelphia,K.Fox,LB,17,2011,WAS-2011-85
+WAS,Illegal Block Above the Waist,01/01/2012,Philadelphia,A.Armstrong,WR,17,2011,WAS-2011-86
+WAS,Illegal Block Above the Waist,01/01/2012,Philadelphia,L.Alexander,LB,17,2011,WAS-2011-87
+WAS,Unsportsmanlike Conduct,01/01/2012,Philadelphia,S.Moss,WR,17,2011,WAS-2011-88
+WAS,Unsportsmanlike Conduct,01/01/2012,Philadelphia,D.Stallworth,WR,17,2011,WAS-2011-89
+WAS,Unnecessary Roughness,01/01/2012,Philadelphia,R.Doughty,SS,17,2011,WAS-2011-90
+WAS,Offensive Holding,01/01/2012,Philadelphia,C.Chester,C,17,2011,WAS-2011-91

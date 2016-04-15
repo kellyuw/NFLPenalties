@@ -1,0 +1,99 @@
+team,penalty,game,opponent,player,position,week,year,penaltyindex
+MIA,Defensive Holding,09/07/2014,New England,D.Ellerbe,LB,1,2014,MIA-2014-0
+MIA,Illegal Contact,09/07/2014,New England,C.Finnegan,CB,1,2014,MIA-2014-1
+MIA,Running Into the Kicker,09/07/2014,New England,C.Finnegan,CB,1,2014,MIA-2014-2
+MIA,False Start,09/07/2014,New England,S.Smith,CB,1,2014,MIA-2014-3
+MIA,Offensive Holding,09/07/2014,New England,J.James,T,1,2014,MIA-2014-4
+MIA,Delay of Game,09/14/2014,Buffalo,R.Tannehill,QB,2,2014,MIA-2014-5
+MIA,Offensive Holding,09/14/2014,Buffalo,S.Satele,C,2,2014,MIA-2014-6
+MIA,False Start,09/14/2014,Buffalo,J.James,T,2,2014,MIA-2014-7
+MIA,Offensive Holding,09/21/2014,Kansas City,B.Albert,T,3,2014,MIA-2014-8
+MIA,Illegal Substitution,09/21/2014,Kansas City,W.Aikens,CB,3,2014,MIA-2014-9
+MIA,Offensive Holding,09/21/2014,Kansas City,S.Satele,C,3,2014,MIA-2014-10
+MIA,Offensive Holding,09/21/2014,Kansas City,J.James,T,3,2014,MIA-2014-11
+MIA,False Start,09/28/2014,Oakland,J.James,T,4,2014,MIA-2014-12
+MIA,False Start,09/28/2014,Oakland,D.Thomas,G,4,2014,MIA-2014-13
+MIA,Offensive Pass Interference,09/28/2014,Oakland,D.Sims,TE,4,2014,MIA-2014-14
+MIA,Offensive Holding,09/28/2014,Oakland,S.Satele,C,4,2014,MIA-2014-15
+MIA,Defensive Holding,10/12/2014,Green Bay,C.Finnegan,CB,6,2014,MIA-2014-16
+MIA,False Start,10/12/2014,Green Bay,B.Albert,T,6,2014,MIA-2014-17
+MIA,False Start,10/12/2014,Green Bay,J.James,T,6,2014,MIA-2014-18
+MIA,Defensive Holding,10/12/2014,Green Bay,C.Finnegan,CB,6,2014,MIA-2014-19
+MIA,Illegal Formation,10/12/2014,Green Bay,B.Albert,T,6,2014,MIA-2014-20
+MIA,False Start,10/19/2014,Chicago,M.Pouncey,C,7,2014,MIA-2014-21
+MIA,Offensive Pass Interference,10/19/2014,Chicago,B.Hartline,WR,7,2014,MIA-2014-22
+MIA,Intentional Grounding,10/19/2014,Chicago,R.Tannehill,QB,7,2014,MIA-2014-23
+MIA,Defensive Pass Interference,10/19/2014,Chicago,J.Taylor,CB,7,2014,MIA-2014-24
+MIA,Offensive Holding,10/19/2014,Chicago,B.Hartline,WR,7,2014,MIA-2014-25
+MIA,Offensive Holding,10/19/2014,Chicago,C.Clay,TE,7,2014,MIA-2014-26
+MIA,Illegal Use of Hands,10/19/2014,Chicago,J.Tripp,OLB,7,2014,MIA-2014-27
+MIA,Illegal Contact,10/19/2014,Chicago,J.Taylor,CB,7,2014,MIA-2014-28
+MIA,Illegal Formation,10/26/2014,Jacksonville,B.Albert,T,8,2014,MIA-2014-29
+MIA,Defensive Offside,10/26/2014,Jacksonville,D.Jordan,DE,8,2014,MIA-2014-30
+MIA,Illegal Formation,10/26/2014,Jacksonville,K.Sheppard,MLB,8,2014,MIA-2014-31
+MIA,Defensive Pass Interference,10/26/2014,Jacksonville,B.Grimes,CB,8,2014,MIA-2014-32
+MIA,Illegal Use of Hands,10/26/2014,Jacksonville,L.Delmas,FS,8,2014,MIA-2014-33
+MIA,Illegal Contact,10/26/2014,Jacksonville,L.Delmas,FS,8,2014,MIA-2014-34
+MIA,Offensive Holding,10/26/2014,Jacksonville,S.Satele,C,8,2014,MIA-2014-35
+MIA,Defensive Pass Interference,10/26/2014,Jacksonville,J.Taylor,CB,8,2014,MIA-2014-36
+MIA,False Start,10/26/2014,Jacksonville,J.James,T,8,2014,MIA-2014-37
+MIA,Delay of Game,10/26/2014,Jacksonville,C.Sturgis,K,8,2014,MIA-2014-38
+MIA,Defensive Offside,10/26/2014,Jacksonville,C.McCain,LB,8,2014,MIA-2014-39
+MIA,Offensive Pass Interference,11/02/2014,San Diego,M.Wallace,WR,9,2014,MIA-2014-40
+MIA,False Start,11/02/2014,San Diego,C.Clay,TE,9,2014,MIA-2014-41
+MIA,Offensive Holding,11/02/2014,San Diego,J.Taylor,CB,9,2014,MIA-2014-42
+MIA,Defensive Offside,11/09/2014,Detroit,C.Wake,DE,10,2014,MIA-2014-43
+MIA,Defensive Offside,11/09/2014,Detroit,J.Odrick,DT,10,2014,MIA-2014-44
+MIA,Unnecessary Roughness,11/09/2014,Detroit,P.Wheeler,LB,10,2014,MIA-2014-45
+MIA,Offensive Holding,11/09/2014,Detroit,J.James,T,10,2014,MIA-2014-46
+MIA,Unnecessary Roughness,11/09/2014,Detroit,O.Vernon,DE,10,2014,MIA-2014-47
+MIA,Face Mask (15 Yards),11/09/2014,Detroit,J.Taylor,CB,10,2014,MIA-2014-48
+MIA,Neutral Zone Infraction,11/09/2014,Detroit,J.Odrick,DT,10,2014,MIA-2014-49
+MIA,Offensive Holding,11/13/2014,Buffalo,J.Freeny,LB,11,2014,MIA-2014-50
+MIA,Offensive Holding,11/13/2014,Buffalo,S.Smith,CB,11,2014,MIA-2014-51
+MIA,Offensive Pass Interference,11/13/2014,Buffalo,B.Gibson,WR,11,2014,MIA-2014-52
+MIA,False Start,11/13/2014,Buffalo,S.Satele,C,11,2014,MIA-2014-53
+MIA,Defensive Offside,11/13/2014,Buffalo,J.Odrick,DT,11,2014,MIA-2014-54
+MIA,Delay of Game,11/13/2014,Buffalo,B.Fields,P,11,2014,MIA-2014-55
+MIA,Unnecessary Roughness,11/23/2014,Denver,J.Wilson,DB,12,2014,MIA-2014-56
+MIA,Horse Collar Tackle,11/23/2014,Denver,J.Wilson,DB,12,2014,MIA-2014-57
+MIA,Illegal Contact,11/23/2014,Denver,J.Taylor,CB,12,2014,MIA-2014-58
+MIA,Encroachment,11/23/2014,Denver,E.Mitchell,DT,12,2014,MIA-2014-59
+MIA,Offensive Holding,11/23/2014,Denver,D.Williams,WR,12,2014,MIA-2014-60
+MIA,Neutral Zone Infraction,11/23/2014,Denver,R.Starks,DT,12,2014,MIA-2014-61
+MIA,Defensive Pass Interference,11/23/2014,Denver,W.Aikens,CB,12,2014,MIA-2014-62
+MIA,Illegal Use of Hands,11/23/2014,Denver,J.Wilson,DB,12,2014,MIA-2014-63
+MIA,Offensive Holding,12/01/2014,N.Y. Jets,D.Colledge,G,13,2014,MIA-2014-64
+MIA,Ineligible Downfield Pass,12/01/2014,N.Y. Jets,J.James,T,13,2014,MIA-2014-65
+MIA,False Start,12/01/2014,N.Y. Jets,G.Hoskins,TE,13,2014,MIA-2014-66
+MIA,Unnecessary Roughness,12/01/2014,N.Y. Jets,D.Shelby,DE,13,2014,MIA-2014-67
+MIA,Ineligible Downfield Pass,12/07/2014,Baltimore,M.Pouncey,C,14,2014,MIA-2014-68
+MIA,Defensive Holding,12/07/2014,Baltimore,B.Grimes,CB,14,2014,MIA-2014-69
+MIA,False Start,12/07/2014,Baltimore,S.Satele,C,14,2014,MIA-2014-70
+MIA,False Start,12/07/2014,Baltimore,D.Sims,TE,14,2014,MIA-2014-71
+MIA,Ineligible Downfield Pass,12/07/2014,Baltimore,M.Pouncey,C,14,2014,MIA-2014-72
+MIA,Ineligible Downfield Kick,12/07/2014,Baltimore,T.Fede,DE,14,2014,MIA-2014-73
+MIA,False Start,12/07/2014,Baltimore,S.Smith,CB,14,2014,MIA-2014-74
+MIA,Face Mask (15 Yards),12/14/2014,New England,J.James,T,15,2014,MIA-2014-75
+MIA,False Start,12/14/2014,New England,M.Pouncey,C,15,2014,MIA-2014-76
+MIA,False Start,12/14/2014,New England,D.Thomas,G,15,2014,MIA-2014-77
+MIA,Illegal Contact,12/14/2014,New England,J.Wilson,DB,15,2014,MIA-2014-78
+MIA,Unsportsmanlike Conduct,12/14/2014,New England,B.Gibson,WR,15,2014,MIA-2014-79
+MIA,False Start,12/14/2014,New England,D.Thomas,G,15,2014,MIA-2014-80
+MIA,Offensive Holding,12/21/2014,Minnesota,J.Kovacs,DB,16,2014,MIA-2014-81
+MIA,Offensive Holding,12/21/2014,Minnesota,J.James,T,16,2014,MIA-2014-82
+MIA,Personal Foul,12/21/2014,Minnesota,J.Wilson,DB,16,2014,MIA-2014-83
+MIA,Defensive Pass Interference,12/21/2014,Minnesota,B.Grimes,CB,16,2014,MIA-2014-84
+MIA,Encroachment,12/21/2014,Minnesota,O.Vernon,DE,16,2014,MIA-2014-85
+MIA,Defensive Offside,12/21/2014,Minnesota,C.Wake,DE,16,2014,MIA-2014-86
+MIA,Personal Foul,12/21/2014,Minnesota,O.Vernon,DE,16,2014,MIA-2014-87
+MIA,Offensive Pass Interference,12/21/2014,Minnesota,B.Hartline,WR,16,2014,MIA-2014-88
+MIA,False Start,12/21/2014,Minnesota,D.Colledge,G,16,2014,MIA-2014-89
+MIA,Tripping,12/28/2014,N.Y. Jets,J.Fox,T,17,2014,MIA-2014-90
+MIA,False Start,12/28/2014,N.Y. Jets,J.Fox,T,17,2014,MIA-2014-91
+MIA,False Start,12/28/2014,N.Y. Jets,M.Wallace,WR,17,2014,MIA-2014-92
+MIA,Offensive Holding,12/28/2014,N.Y. Jets,D.Colledge,G,17,2014,MIA-2014-93
+MIA,Roughing the Passer,12/28/2014,N.Y. Jets,C.Wake,DE,17,2014,MIA-2014-94
+MIA,Offensive Pass Interference,12/28/2014,N.Y. Jets,B.Gibson,WR,17,2014,MIA-2014-95
+MIA,Offensive Holding,12/28/2014,N.Y. Jets,D.Sims,TE,17,2014,MIA-2014-96
+MIA,Neutral Zone Infraction,12/28/2014,N.Y. Jets,O.Vernon,DE,17,2014,MIA-2014-97

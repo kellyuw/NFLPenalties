@@ -1,0 +1,115 @@
+team,penalty,game,opponent,player,position,week,year,penaltyindex
+SD,Offensive Holding,09/09/2013,Houston,K.Dunlap,T,1,2013,SD-2013-0
+SD,Offensive Holding,09/09/2013,Houston,N.Hardwick,C,1,2013,SD-2013-1
+SD,Delay of Game,09/09/2013,Houston,P.Rivers,QB,1,2013,SD-2013-2
+SD,Defensive Holding,09/09/2013,Houston,R.Marshall,CB,1,2013,SD-2013-3
+SD,False Start,09/09/2013,Houston,J.Clary,G,1,2013,SD-2013-4
+SD,Encroachment,09/09/2013,Houston,C.Liuget,DT,1,2013,SD-2013-5
+SD,Unnecessary Roughness,09/09/2013,Houston,C.Thomas,DE,1,2013,SD-2013-6
+SD,Illegal Block Above the Waist,09/15/2013,Philadelphia,A.Gachkar,LB,2,2013,SD-2013-7
+SD,Offensive Holding,09/15/2013,Philadelphia,K.Dunlap,T,2,2013,SD-2013-8
+SD,Offensive Holding,09/15/2013,Philadelphia,B.Bird,ILB,2,2013,SD-2013-9
+SD,False Start,09/15/2013,Philadelphia,K.Dunlap,T,2,2013,SD-2013-10
+SD,Offensive Holding,09/22/2013,Tennessee,C.Rinehart,G,3,2013,SD-2013-11
+SD,Unsportsmanlike Conduct,09/22/2013,Tennessee,P.Rivers,QB,3,2013,SD-2013-12
+SD,Offensive Pass Interference,09/22/2013,Tennessee,K.Allen,WR,3,2013,SD-2013-13
+SD,Illegal Touch Kick,09/22/2013,Tennessee,D.Stuckey,DB,3,2013,SD-2013-14
+SD,Defensive Offside,09/22/2013,Tennessee,J.Johnson,OLB,3,2013,SD-2013-15
+SD,Offensive Holding,09/22/2013,Tennessee,R.Ohrnberger,C,3,2013,SD-2013-16
+SD,Illegally Kicking Ball,09/22/2013,Tennessee,P.Rivers,QB,3,2013,SD-2013-17
+SD,False Start,09/29/2013,Dallas,J.Troutman,G,4,2013,SD-2013-18
+SD,Face Mask (15 Yards),09/29/2013,Dallas,D.Butler,ILB,4,2013,SD-2013-19
+SD,False Start,09/29/2013,Dallas,M.Harris,G,4,2013,SD-2013-20
+SD,Offensive Holding,09/29/2013,Dallas,R.Walker,LB,4,2013,SD-2013-21
+SD,Unnecessary Roughness,09/29/2013,Dallas,D.Butler,ILB,4,2013,SD-2013-22
+SD,Offensive Holding,09/29/2013,Dallas,J.Johnson,OLB,4,2013,SD-2013-23
+SD,Defensive Pass Interference,09/29/2013,Dallas,D.Butler,ILB,4,2013,SD-2013-24
+SD,Defensive Holding,10/06/2013,Oakland,M.Te'o,ILB,5,2013,SD-2013-25
+SD,Defensive Offside,10/06/2013,Oakland,K.Reyes,DE,5,2013,SD-2013-26
+SD,Defensive Pass Interference,10/06/2013,Oakland,R.Marshall,CB,5,2013,SD-2013-27
+SD,False Start,10/06/2013,Oakland,J.Troutman,G,5,2013,SD-2013-28
+SD,Delay of Game,10/06/2013,Oakland,P.Rivers,QB,5,2013,SD-2013-29
+SD,Personal Foul,10/06/2013,Oakland,D.Fluker,T,5,2013,SD-2013-30
+SD,False Start,10/06/2013,Oakland,M.Harris,G,5,2013,SD-2013-31
+SD,Encroachment,10/14/2013,Indianapolis,C.Thomas,DE,6,2013,SD-2013-32
+SD,False Start,10/14/2013,Indianapolis,J.Troutman,G,6,2013,SD-2013-33
+SD,Delay of Game,10/14/2013,Indianapolis,M.Scifres,P,6,2013,SD-2013-34
+SD,Illegal Shift,10/14/2013,Indianapolis,A.Gates,TE,6,2013,SD-2013-35
+SD,False Start,10/14/2013,Indianapolis,J.Troutman,G,6,2013,SD-2013-36
+SD,Offensive Holding,10/20/2013,Jacksonville,J.Clary,G,7,2013,SD-2013-37
+SD,False Start,10/20/2013,Jacksonville,K.Allen,WR,7,2013,SD-2013-38
+SD,False Start,10/20/2013,Jacksonville,N.Hardwick,C,7,2013,SD-2013-39
+SD,Defensive Pass Interference,10/20/2013,Jacksonville,S.Wright,DB,7,2013,SD-2013-40
+SD,False Start,10/20/2013,Jacksonville,J.Clary,G,7,2013,SD-2013-41
+SD,Offensive Holding,10/20/2013,Jacksonville,R.Ohrnberger,C,7,2013,SD-2013-42
+SD,False Start,10/20/2013,Jacksonville,J.Troutman,G,7,2013,SD-2013-43
+SD,Unnecessary Roughness,10/20/2013,Jacksonville,R.Ohrnberger,C,7,2013,SD-2013-44
+SD,False Start,11/03/2013,Washington,A.Gates,TE,9,2013,SD-2013-45
+SD,Face Mask (15 Yards),11/03/2013,Washington,C.Liuget,DT,9,2013,SD-2013-46
+SD,Offensive Holding,11/03/2013,Washington,A.Gachkar,LB,9,2013,SD-2013-47
+SD,Offensive Pass Interference,11/03/2013,Washington,K.Allen,WR,9,2013,SD-2013-48
+SD,Defensive Pass Interference,11/03/2013,Washington,D.Cox,CB,9,2013,SD-2013-49
+SD,Neutral Zone Infraction,11/03/2013,Washington,C.Liuget,DT,9,2013,SD-2013-50
+SD,False Start,11/03/2013,Washington,J.Troutman,G,9,2013,SD-2013-51
+SD,Personal Foul,11/03/2013,Washington,A.Gachkar,LB,9,2013,SD-2013-52
+SD,Offensive Holding,11/10/2013,Denver,J.Phillips,TE,10,2013,SD-2013-53
+SD,Offensive Holding,11/10/2013,Denver,K.Dunlap,T,10,2013,SD-2013-54
+SD,Delay of Game,11/10/2013,Denver,P.Rivers,QB,10,2013,SD-2013-55
+SD,Illegal Motion,11/10/2013,Denver,R.Ohrnberger,C,10,2013,SD-2013-56
+SD,False Start,11/10/2013,Denver,J.Clary,G,10,2013,SD-2013-57
+SD,Neutral Zone Infraction,11/10/2013,Denver,T.Keiser,OLB,10,2013,SD-2013-58
+SD,Defensive Offside,11/17/2013,Miami,T.Keiser,OLB,11,2013,SD-2013-59
+SD,Defensive Offside,11/17/2013,Miami,L.Guy,DE,11,2013,SD-2013-60
+SD,Defensive Offside,11/17/2013,Miami,T.Keiser,OLB,11,2013,SD-2013-61
+SD,Roughing the Passer,11/17/2013,Miami,C.Liuget,DT,11,2013,SD-2013-62
+SD,Face Mask (15 Yards),11/17/2013,Miami,A.Gates,TE,11,2013,SD-2013-63
+SD,Illegal Forward Pass,11/17/2013,Miami,P.Rivers,QB,11,2013,SD-2013-64
+SD,Neutral Zone Infraction,11/17/2013,Miami,T.Keiser,OLB,11,2013,SD-2013-65
+SD,Offensive Holding,11/17/2013,Miami,J.Clary,G,11,2013,SD-2013-66
+SD,Taunting,11/17/2013,Miami,K.Allen,WR,11,2013,SD-2013-67
+SD,Defensive Offside,11/17/2013,Miami,C.Liuget,DT,11,2013,SD-2013-68
+SD,Defensive Pass Interference,11/24/2013,Kansas City,S.Wright,DB,12,2013,SD-2013-69
+SD,False Start,11/24/2013,Kansas City,D.Fluker,T,12,2013,SD-2013-70
+SD,False Start,11/24/2013,Kansas City,J.Phillips,TE,12,2013,SD-2013-71
+SD,Offensive Holding,11/24/2013,Kansas City,K.Allen,WR,12,2013,SD-2013-72
+SD,Defensive Pass Interference,11/24/2013,Kansas City,S.Wright,DB,12,2013,SD-2013-73
+SD,Defensive Pass Interference,11/24/2013,Kansas City,M.Gilchrist,DB,12,2013,SD-2013-74
+SD,Defensive Pass Interference,11/24/2013,Kansas City,R.Marshall,CB,12,2013,SD-2013-75
+SD,Ineligible Downfield Pass,11/24/2013,Kansas City,J.Clary,G,12,2013,SD-2013-76
+SD,Defensive Holding,11/24/2013,Kansas City,J.Patrick,CB,12,2013,SD-2013-77
+SD,Offensive Holding,11/24/2013,Kansas City,J.Troutman,G,12,2013,SD-2013-78
+SD,False Start,12/01/2013,Cincinnati,D.Fluker,T,13,2013,SD-2013-79
+SD,Illegal Block Above the Waist,12/01/2013,Cincinnati,J.Patrick,CB,13,2013,SD-2013-80
+SD,Offensive Holding,12/01/2013,Cincinnati,C.Butler,CB,13,2013,SD-2013-81
+SD,False Start,12/01/2013,Cincinnati,R.Mathews,DE,13,2013,SD-2013-82
+SD,Offensive Holding,12/01/2013,Cincinnati,D.Fluker,T,13,2013,SD-2013-83
+SD,Personal Foul,12/01/2013,Cincinnati,J.Troutman,G,13,2013,SD-2013-84
+SD,False Start,12/08/2013,N.Y. Giants,C.Rinehart,G,14,2013,SD-2013-85
+SD,Illegal Contact,12/08/2013,N.Y. Giants,J.Addae,DB,14,2013,SD-2013-86
+SD,Offensive Offside,12/08/2013,N.Y. Giants,A.Gates,TE,14,2013,SD-2013-87
+SD,Delay of Game,12/08/2013,N.Y. Giants,P.Rivers,QB,14,2013,SD-2013-88
+SD,False Start,12/08/2013,N.Y. Giants,C.Thomas,DE,14,2013,SD-2013-89
+SD,Defensive Holding,12/08/2013,N.Y. Giants,K.Reyes,DE,14,2013,SD-2013-90
+SD,Defensive Holding,12/12/2013,Denver,R.Marshall,CB,15,2013,SD-2013-91
+SD,Offensive Holding,12/12/2013,Denver,N.Hardwick,C,15,2013,SD-2013-92
+SD,Horse Collar Tackle,12/12/2013,Denver,E.Weddle,FS,15,2013,SD-2013-93
+SD,Defensive Pass Interference,12/22/2013,Oakland,S.Wright,DB,16,2013,SD-2013-94
+SD,False Start,12/22/2013,Oakland,D.Fluker,T,16,2013,SD-2013-95
+SD,False Start,12/22/2013,Oakland,D.Fluker,T,16,2013,SD-2013-96
+SD,Defensive Offside,12/29/2013,Kansas City,M.Te'o,ILB,17,2013,SD-2013-97
+SD,Illegal Contact,12/29/2013,Kansas City,S.Wright,DB,17,2013,SD-2013-98
+SD,Offensive Holding,12/29/2013,Kansas City,J.Clary,G,17,2013,SD-2013-99
+SD,Illegal Contact,12/29/2013,Kansas City,R.Marshall,CB,17,2013,SD-2013-100
+SD,Offensive Holding,01/05/2014,Cincinnati,R.Marshall,CB,18,2013,SD-2013-101
+SD,Offensive Holding,01/05/2014,Cincinnati,A.Gates,TE,18,2013,SD-2013-102
+SD,Delay of Game,01/05/2014,Cincinnati,P.Rivers,QB,18,2013,SD-2013-103
+SD,Defensive Holding,01/05/2014,Cincinnati,M.Gilchrist,DB,18,2013,SD-2013-104
+SD,Delay of Game,01/12/2014,Denver,P.Rivers,QB,19,2013,SD-2013-105
+SD,Neutral Zone Infraction,01/12/2014,Denver,J.Johnson,OLB,19,2013,SD-2013-106
+SD,Neutral Zone Infraction,01/12/2014,Denver,T.Keiser,OLB,19,2013,SD-2013-107
+SD,Neutral Zone Infraction,01/12/2014,Denver,M.Ingram,OLB,19,2013,SD-2013-108
+SD,Offensive Pass Interference,01/12/2014,Denver,V.Brown,WR,19,2013,SD-2013-109
+SD,Neutral Zone Infraction,01/12/2014,Denver,L.Guy,DE,19,2013,SD-2013-110
+SD,Neutral Zone Infraction,01/12/2014,Denver,C.Thomas,DE,19,2013,SD-2013-111
+SD,Defensive Pass Interference,01/12/2014,Denver,M.Gilchrist,DB,19,2013,SD-2013-112
+SD,Defensive Holding,01/12/2014,Denver,E.Weddle,FS,19,2013,SD-2013-113

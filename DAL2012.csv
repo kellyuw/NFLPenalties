@@ -1,0 +1,126 @@
+team,penalty,game,opponent,player,position,week,year,penaltyindex
+DAL,False Start,09/05/2012,N.Y. Giants,T.Smith,T,1,2012,DAL-2012-0
+DAL,False Start,09/05/2012,N.Y. Giants,J.Witten,TE,1,2012,DAL-2012-1
+DAL,Delay of Game,09/05/2012,N.Y. Giants,T.Romo,QB,1,2012,DAL-2012-2
+DAL,Horse Collar Tackle,09/05/2012,N.Y. Giants,T.Smith,T,1,2012,DAL-2012-3
+DAL,False Start,09/05/2012,N.Y. Giants,D.Free,T,1,2012,DAL-2012-4
+DAL,False Start,09/05/2012,N.Y. Giants,T.Smith,T,1,2012,DAL-2012-5
+DAL,Roughing the Passer,09/05/2012,N.Y. Giants,J.Hatcher,DE,1,2012,DAL-2012-6
+DAL,Delay of Game,09/05/2012,N.Y. Giants,T.Romo,QB,1,2012,DAL-2012-7
+DAL,False Start,09/05/2012,N.Y. Giants,T.Smith,T,1,2012,DAL-2012-8
+DAL,Illegal Motion,09/05/2012,N.Y. Giants,D.Bryant,WR,1,2012,DAL-2012-9
+DAL,Illegal Use of Hands,09/05/2012,N.Y. Giants,M.Bernadeau,G,1,2012,DAL-2012-10
+DAL,Offensive Holding,09/05/2012,N.Y. Giants,D.Free,T,1,2012,DAL-2012-11
+DAL,Defensive Offside,09/05/2012,N.Y. Giants,D.Ware,LB,1,2012,DAL-2012-12
+DAL,Defensive Pass Interference,09/05/2012,N.Y. Giants,B.Church,SS,1,2012,DAL-2012-13
+DAL,Offensive Holding,09/05/2012,N.Y. Giants,J.Witten,TE,1,2012,DAL-2012-14
+DAL,Unnecessary Roughness,09/16/2012,Seattle,J.Price,CB,2,2012,DAL-2012-15
+DAL,Defensive Offside,09/16/2012,Seattle,D.Ware,LB,2,2012,DAL-2012-16
+DAL,False Start,09/16/2012,Seattle,T.Smith,T,2,2012,DAL-2012-17
+DAL,Unnecessary Roughness,09/16/2012,Seattle,B.Carter,LB,2,2012,DAL-2012-18
+DAL,Face Mask (15 Yards),09/16/2012,Seattle,A.Spencer,LB,2,2012,DAL-2012-19
+DAL,False Start,09/23/2012,Tampa Bay,D.Free,T,3,2012,DAL-2012-20
+DAL,Defensive Offside,09/23/2012,Tampa Bay,D.Ware,LB,3,2012,DAL-2012-21
+DAL,Defensive Pass Interference,09/23/2012,Tampa Bay,M.Claiborne,CB,3,2012,DAL-2012-22
+DAL,Defensive Offside,09/23/2012,Tampa Bay,D.Ware,LB,3,2012,DAL-2012-23
+DAL,False Start,09/23/2012,Tampa Bay,J.Witten,TE,3,2012,DAL-2012-24
+DAL,False Start,09/23/2012,Tampa Bay,D.Free,T,3,2012,DAL-2012-25
+DAL,False Start,09/23/2012,Tampa Bay,J.Witten,TE,3,2012,DAL-2012-26
+DAL,Face Mask (15 Yards),09/23/2012,Tampa Bay,S.Lissemore,NT,3,2012,DAL-2012-27
+DAL,Offensive Holding,09/23/2012,Tampa Bay,N.Livings,G,3,2012,DAL-2012-28
+DAL,False Start,09/23/2012,Tampa Bay,D.Free,T,3,2012,DAL-2012-29
+DAL,Defensive Pass Interference,09/23/2012,Tampa Bay,M.Silva,DB,3,2012,DAL-2012-30
+DAL,Offensive Holding,09/23/2012,Tampa Bay,D.Free,T,3,2012,DAL-2012-31
+DAL,False Start,09/23/2012,Tampa Bay,T.Smith,T,3,2012,DAL-2012-32
+DAL,Illegal Block Above the Waist,09/23/2012,Tampa Bay,P.Tanner,RB,3,2012,DAL-2012-33
+DAL,Offensive Holding,09/23/2012,Tampa Bay,L.Vickers,FB,3,2012,DAL-2012-34
+DAL,Illegal Contact,10/01/2012,Chicago,B.Carr,CB,4,2012,DAL-2012-35
+DAL,Illegal Shift,10/01/2012,Chicago,D.Bryant,WR,4,2012,DAL-2012-36
+DAL,Offensive Holding,10/14/2012,Baltimore,D.Free,T,6,2012,DAL-2012-37
+DAL,Neutral Zone Infraction,10/14/2012,Baltimore,J.Hatcher,DE,6,2012,DAL-2012-38
+DAL,Illegal Use of Hands,10/14/2012,Baltimore,K.Coleman,DE,6,2012,DAL-2012-39
+DAL,Offensive Holding,10/14/2012,Baltimore,T.Smith,T,6,2012,DAL-2012-40
+DAL,Defensive Pass Interference,10/14/2012,Baltimore,M.Claiborne,CB,6,2012,DAL-2012-41
+DAL,False Start,10/14/2012,Baltimore,D.Free,T,6,2012,DAL-2012-42
+DAL,Delay of Game,10/14/2012,Baltimore,T.Romo,QB,6,2012,DAL-2012-43
+DAL,False Start,10/14/2012,Baltimore,J.Parnell,T,6,2012,DAL-2012-44
+DAL,Offensive Holding,10/14/2012,Baltimore,T.Smith,T,6,2012,DAL-2012-45
+DAL,Chop Block,10/14/2012,Baltimore,F.Jones,RB,6,2012,DAL-2012-46
+DAL,False Start,10/14/2012,Baltimore,K.Ogletree,WR,6,2012,DAL-2012-47
+DAL,Unnecessary Roughness,10/21/2012,Carolina,D.Bryant,WR,7,2012,DAL-2012-48
+DAL,Offensive Holding,10/21/2012,Carolina,O.Lemon,LB,7,2012,DAL-2012-49
+DAL,Offensive Holding,10/21/2012,Carolina,J.Witten,TE,7,2012,DAL-2012-50
+DAL,False Start,10/21/2012,Carolina,D.Free,T,7,2012,DAL-2012-51
+DAL,Personal Foul,10/21/2012,Carolina,J.Ratliff,DT,7,2012,DAL-2012-52
+DAL,Defensive Holding,10/21/2012,Carolina,B.Carr,CB,7,2012,DAL-2012-53
+DAL,Defensive Offside,10/28/2012,N.Y. Giants,D.Ware,LB,8,2012,DAL-2012-54
+DAL,Defensive Offside,10/28/2012,N.Y. Giants,D.Ware,LB,8,2012,DAL-2012-55
+DAL,Offensive Holding,10/28/2012,N.Y. Giants,E.Frampton,SS,8,2012,DAL-2012-56
+DAL,Offensive Holding,10/28/2012,N.Y. Giants,D.Free,T,8,2012,DAL-2012-57
+DAL,Illegal Contact,11/04/2012,Atlanta,B.Carter,LB,9,2012,DAL-2012-58
+DAL,Defensive Pass Interference,11/04/2012,Atlanta,M.Claiborne,CB,9,2012,DAL-2012-59
+DAL,Defensive Offside,11/04/2012,Atlanta,A.Spencer,LB,9,2012,DAL-2012-60
+DAL,Illegal Use of Hands,11/04/2012,Atlanta,T.Smith,T,9,2012,DAL-2012-61
+DAL,Illegal Contact,11/04/2012,Atlanta,B.Carr,CB,9,2012,DAL-2012-62
+DAL,Offensive Holding,11/04/2012,Atlanta,N.Livings,G,9,2012,DAL-2012-63
+DAL,Player Out of Bounds on Punt,11/04/2012,Atlanta,E.Frampton,SS,9,2012,DAL-2012-64
+DAL,Illegal Block Above the Waist,11/04/2012,Atlanta,A.Albright,OLB,9,2012,DAL-2012-65
+DAL,Defensive Holding,11/04/2012,Atlanta,O.Scandrick,CB,9,2012,DAL-2012-66
+DAL,Defensive Offside,11/11/2012,Philadelphia,J.Hatcher,DE,10,2012,DAL-2012-67
+DAL,Encroachment,11/11/2012,Philadelphia,J.Hatcher,DE,10,2012,DAL-2012-68
+DAL,False Start,11/11/2012,Philadelphia,D.Free,T,10,2012,DAL-2012-69
+DAL,Defensive Offside,11/11/2012,Philadelphia,M.Claiborne,CB,10,2012,DAL-2012-70
+DAL,Defensive Offside,11/11/2012,Philadelphia,A.Spencer,LB,10,2012,DAL-2012-71
+DAL,Defensive Holding,11/11/2012,Philadelphia,M.Claiborne,CB,10,2012,DAL-2012-72
+DAL,Defensive Holding,11/11/2012,Philadelphia,O.Scandrick,CB,10,2012,DAL-2012-73
+DAL,Defensive Pass Interference,11/11/2012,Philadelphia,M.Claiborne,CB,10,2012,DAL-2012-74
+DAL,Defensive Holding,11/11/2012,Philadelphia,M.Claiborne,CB,10,2012,DAL-2012-75
+DAL,Encroachment,11/11/2012,Philadelphia,J.Price,CB,10,2012,DAL-2012-76
+DAL,False Start,11/11/2012,Philadelphia,J.Phillips,TE,10,2012,DAL-2012-77
+DAL,False Start,11/11/2012,Philadelphia,J.Phillips,TE,10,2012,DAL-2012-78
+DAL,Defensive Offside,11/11/2012,Philadelphia,M.Claiborne,CB,10,2012,DAL-2012-79
+DAL,Offensive Holding,11/18/2012,Cleveland,D.Dockery,G,11,2012,DAL-2012-80
+DAL,Defensive Offside,11/18/2012,Cleveland,G.Sensabaugh,FS,11,2012,DAL-2012-81
+DAL,Offensive Holding,11/18/2012,Cleveland,D.Bryant,WR,11,2012,DAL-2012-82
+DAL,Unnecessary Roughness,11/18/2012,Cleveland,O.Scandrick,CB,11,2012,DAL-2012-83
+DAL,Offensive Holding,11/18/2012,Cleveland,J.Parnell,T,11,2012,DAL-2012-84
+DAL,Unsportsmanlike Conduct,11/18/2012,Cleveland,J.Ratliff,DT,11,2012,DAL-2012-85
+DAL,Offensive Holding,11/18/2012,Cleveland,M.Bernadeau,G,11,2012,DAL-2012-86
+DAL,Horse Collar Tackle,11/18/2012,Cleveland,J.Phillips,TE,11,2012,DAL-2012-87
+DAL,Delay of Game,11/18/2012,Cleveland,T.Romo,QB,11,2012,DAL-2012-88
+DAL,False Start,11/22/2012,Washington,J.Witten,TE,12,2012,DAL-2012-89
+DAL,False Start,11/22/2012,Washington,D.Free,T,12,2012,DAL-2012-90
+DAL,Delay of Game,11/22/2012,Washington,T.Romo,QB,12,2012,DAL-2012-91
+DAL,Defensive Pass Interference,11/22/2012,Washington,B.Carr,CB,12,2012,DAL-2012-92
+DAL,Unnecessary Roughness,11/22/2012,Washington,M.Jenkins,CB,12,2012,DAL-2012-93
+DAL,False Start,11/22/2012,Washington,N.Livings,G,12,2012,DAL-2012-94
+DAL,False Start,11/22/2012,Washington,D.Bryant,WR,12,2012,DAL-2012-95
+DAL,Defensive 12 On-field,11/22/2012,Washington,D.McCray,DB,12,2012,DAL-2012-96
+DAL,Offensive Holding,12/02/2012,Philadelphia,D.Free,T,13,2012,DAL-2012-97
+DAL,Offensive Holding,12/02/2012,Philadelphia,M.Bernadeau,G,13,2012,DAL-2012-98
+DAL,False Start,12/02/2012,Philadelphia,R.Cook,C,13,2012,DAL-2012-99
+DAL,Offensive Holding,12/02/2012,Philadelphia,D.Free,T,13,2012,DAL-2012-100
+DAL,Offensive Holding,12/02/2012,Philadelphia,P.Tanner,RB,13,2012,DAL-2012-101
+DAL,Offensive Holding,12/02/2012,Philadelphia,E.Frampton,SS,13,2012,DAL-2012-102
+DAL,False Start,12/02/2012,Philadelphia,J.Parnell,T,13,2012,DAL-2012-103
+DAL,Roughing the Passer,12/02/2012,Philadelphia,A.Spencer,LB,13,2012,DAL-2012-104
+DAL,Defensive Offside,12/02/2012,Philadelphia,D.Ware,LB,13,2012,DAL-2012-105
+DAL,Encroachment,12/09/2012,Cincinnati,R.Callaway,DT,14,2012,DAL-2012-106
+DAL,Personal Foul,12/09/2012,Cincinnati,E.Sims,ILB,14,2012,DAL-2012-107
+DAL,Offensive Holding,12/09/2012,Cincinnati,N.Livings,G,14,2012,DAL-2012-108
+DAL,Offensive Holding,12/09/2012,Cincinnati,D.Free,T,14,2012,DAL-2012-109
+DAL,Offensive Holding,12/16/2012,Pittsburgh,D.Bryant,WR,15,2012,DAL-2012-110
+DAL,False Start,12/16/2012,Pittsburgh,T.Smith,T,15,2012,DAL-2012-111
+DAL,Offensive Holding,12/16/2012,Pittsburgh,L.Vickers,FB,15,2012,DAL-2012-112
+DAL,Delay of Game,12/16/2012,Pittsburgh,T.Romo,QB,15,2012,DAL-2012-113
+DAL,Illegal Use of Hands,12/16/2012,Pittsburgh,N.Livings,G,15,2012,DAL-2012-114
+DAL,False Start,12/16/2012,Pittsburgh,T.Smith,T,15,2012,DAL-2012-115
+DAL,Roughing the Passer,12/16/2012,Pittsburgh,D.Ware,LB,15,2012,DAL-2012-116
+DAL,Face Mask (15 Yards),12/23/2012,New Orleans,A.Spencer,LB,16,2012,DAL-2012-117
+DAL,Offensive Holding,12/23/2012,New Orleans,L.Vickers,FB,16,2012,DAL-2012-118
+DAL,Defensive Offside,12/23/2012,New Orleans,A.Spencer,LB,16,2012,DAL-2012-119
+DAL,Defensive Offside,12/23/2012,New Orleans,A.Spencer,LB,16,2012,DAL-2012-120
+DAL,Defensive Pass Interference,12/23/2012,New Orleans,B.Poppinga,ILB,16,2012,DAL-2012-121
+DAL,False Start,12/23/2012,New Orleans,J.Witten,TE,16,2012,DAL-2012-122
+DAL,Offensive Holding,12/30/2012,Washington,N.Livings,G,17,2012,DAL-2012-123
+DAL,Roughing the Passer,12/30/2012,Washington,J.Hatcher,DE,17,2012,DAL-2012-124

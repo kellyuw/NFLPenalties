@@ -1,0 +1,140 @@
+PenaltyIndex,team,penalty,game,opponent,player,position,week
+BAL-2015-0,BAL,Encroachment,09/13/2015,Denver,B.Williams,NT,1-2015
+BAL-2015-1,BAL,Neutral Zone Infraction,09/13/2015,Denver,E.Dumervil,OLB,1-2015
+BAL-2015-2,BAL,Defensive Holding,09/13/2015,Denver,L.Webb,CB,1-2015
+BAL-2015-3,BAL,Defensive Pass Interference,09/20/2015,Oakland,K.Lewis,DB,2-2015
+BAL-2015-4,BAL,Defensive Holding,09/20/2015,Oakland,K.Arrington,DB,2-2015
+BAL-2015-5,BAL,Unnecessary Roughness,09/20/2015,Oakland,J.Smith,CB,2-2015
+BAL-2015-6,BAL,False Start,09/20/2015,Oakland,C.Gillmore,TE,2-2015
+BAL-2015-7,BAL,False Start,09/20/2015,Oakland,R.Wagner,T,2-2015
+BAL-2015-8,BAL,Offensive Holding,09/20/2015,Oakland,K.Osemele,G,2-2015
+BAL-2015-9,BAL,Defensive Offside,09/20/2015,Oakland,E.Dumervil,OLB,2-2015
+BAL-2015-10,BAL,Defensive Pass Interference,09/20/2015,Oakland,C.Upshaw,OLB,2-2015
+BAL-2015-11,BAL,Defensive Holding,09/20/2015,Oakland,J.Smith,CB,2-2015
+BAL-2015-12,BAL,Defensive Holding,09/20/2015,Oakland,L.Webb,CB,2-2015
+BAL-2015-13,BAL,Offensive Holding,09/20/2015,Oakland,K.Osemele,G,2-2015
+BAL-2015-14,BAL,Roughing the Passer,09/20/2015,Oakland,T.Jernigan,DE,2-2015
+BAL-2015-15,BAL,Defensive Holding,09/20/2015,Oakland,W.Hill,SS,2-2015
+BAL-2015-16,BAL,Defensive Holding,09/27/2015,Cincinnati,R.Melvin,CB,3-2015
+BAL-2015-17,BAL,Illegal Use of Hands,09/27/2015,Cincinnati,R.Melvin,CB,3-2015
+BAL-2015-18,BAL,Defensive Pass Interference,09/27/2015,Cincinnati,W.Hill,SS,3-2015
+BAL-2015-19,BAL,False Start,09/27/2015,Cincinnati,J.Hurst,T,3-2015
+BAL-2015-20,BAL,Unnecessary Roughness,09/27/2015,Cincinnati,K.Osemele,G,3-2015
+BAL-2015-21,BAL,Offensive Holding,09/27/2015,Cincinnati,J.Zuttah,C,3-2015
+BAL-2015-22,BAL,Defensive Pass Interference,09/27/2015,Cincinnati,R.Melvin,CB,3-2015
+BAL-2015-23,BAL,Offensive Holding,09/27/2015,Cincinnati,K.Juszczyk,FB,3-2015
+BAL-2015-24,BAL,Offensive Holding,09/27/2015,Cincinnati,S.Smith,WR,3-2015
+BAL-2015-25,BAL,Defensive Offside,09/27/2015,Cincinnati,C.Mosley,ILB,3-2015
+BAL-2015-26,BAL,Offensive Holding,09/27/2015,Cincinnati,K.Osemele,G,3-2015
+BAL-2015-27,BAL,Unnecessary Roughness,09/27/2015,Cincinnati,J.Zuttah,C,3-2015
+BAL-2015-28,BAL,Offensive Holding,09/27/2015,Cincinnati,J.Zuttah,C,3-2015
+BAL-2015-29,BAL,Intentional Grounding,09/27/2015,Cincinnati,J.Flacco,QB,3-2015
+BAL-2015-30,BAL,Face Mask (15 Yards),09/27/2015,Cincinnati,K.Osemele,G,3-2015
+BAL-2015-31,BAL,Illegal Shift,10/01/2015,Pittsburgh,M.Williams,TE,4-2015
+BAL-2015-32,BAL,Illegal Use of Hands,10/01/2015,Pittsburgh,L.Webb,CB,4-2015
+BAL-2015-33,BAL,Unnecessary Roughness,10/01/2015,Pittsburgh,K.Juszczyk,FB,4-2015
+BAL-2015-34,BAL,Defensive Offside,10/01/2015,Pittsburgh,A.Levine,CB,4-2015
+BAL-2015-35,BAL,False Start,10/01/2015,Pittsburgh,N.Boyle,TE,4-2015
+BAL-2015-36,BAL,Offensive Holding,10/11/2015,Cleveland,Z.Orr,LB,5-2015
+BAL-2015-37,BAL,Defensive Offside,10/11/2015,Cleveland,E.Dumervil,OLB,5-2015
+BAL-2015-38,BAL,Offensive Holding,10/11/2015,Cleveland,T.Walker,CB,5-2015
+BAL-2015-39,BAL,Roughing the Passer,10/11/2015,Cleveland,L.Guy,DE,5-2015
+BAL-2015-40,BAL,Illegal Block Above the Waist,10/11/2015,Cleveland,D.Waller,WR,5-2015
+BAL-2015-41,BAL,Unnecessary Roughness,10/11/2015,Cleveland,W.Hill,SS,5-2015
+BAL-2015-42,BAL,Offensive Holding,10/11/2015,Cleveland,N.Boyle,TE,5-2015
+BAL-2015-43,BAL,Offside on Free Kick,10/11/2015,Cleveland,K.Juszczyk,FB,5-2015
+BAL-2015-44,BAL,Illegal Use of Hands,10/11/2015,Cleveland,J.Babin,OLB,5-2015
+BAL-2015-45,BAL,Illegal Contact,10/11/2015,Cleveland,K.Lewis,DB,5-2015
+BAL-2015-46,BAL,Defensive Offside,10/11/2015,Cleveland,Z.Smith,LB,5-2015
+BAL-2015-47,BAL,Defensive Offside,10/11/2015,Cleveland,J.Babin,OLB,5-2015
+BAL-2015-48,BAL,Defensive Holding,10/18/2015,San Francisco,S.Wright,DB,6-2015
+BAL-2015-49,BAL,False Start,10/18/2015,San Francisco,R.Wagner,T,6-2015
+BAL-2015-50,BAL,Offensive Holding,10/18/2015,San Francisco,E.Monroe,T,6-2015
+BAL-2015-51,BAL,Defensive Holding,10/18/2015,San Francisco,J.Smith,CB,6-2015
+BAL-2015-52,BAL,Illegal Formation,10/26/2015,Arizona,J.Urschel,G,7-2015
+BAL-2015-53,BAL,Offensive Holding,10/26/2015,Arizona,K.Osemele,G,7-2015
+BAL-2015-54,BAL,False Start,10/26/2015,Arizona,K.Juszczyk,FB,7-2015
+BAL-2015-55,BAL,Offensive Holding,10/26/2015,Arizona,E.Monroe,T,7-2015
+BAL-2015-56,BAL,Illegal Block Above the Waist,10/26/2015,Arizona,T.Walker,CB,7-2015
+BAL-2015-57,BAL,Unnecessary Roughness,10/26/2015,Arizona,A.Jackson,CB,7-2015
+BAL-2015-58,BAL,Defensive Pass Interference,10/26/2015,Arizona,L.Webb,CB,7-2015
+BAL-2015-59,BAL,Defensive Pass Interference,10/26/2015,Arizona,B.Trawick,DB,7-2015
+BAL-2015-60,BAL,False Start,10/26/2015,Arizona,C.Gillmore,TE,7-2015
+BAL-2015-61,BAL,Defensive Pass Interference,11/01/2015,San Diego,C.Mosley,ILB,8-2015
+BAL-2015-62,BAL,Defensive Pass Interference,11/01/2015,San Diego,L.Webb,CB,8-2015
+BAL-2015-63,BAL,False Start,11/01/2015,San Diego,R.Wagner,T,8-2015
+BAL-2015-64,BAL,Defensive Pass Interference,11/01/2015,San Diego,K.Arrington,DB,8-2015
+BAL-2015-65,BAL,Offensive Holding,11/01/2015,San Diego,M.Williams,TE,8-2015
+BAL-2015-66,BAL,Unnecessary Roughness,11/01/2015,San Diego,W.Hill,SS,8-2015
+BAL-2015-67,BAL,Offensive Holding,11/01/2015,San Diego,M.Yanda,G,8-2015
+BAL-2015-68,BAL,Low Block,11/15/2015,Jacksonville,A.Jackson,CB,10-2015
+BAL-2015-69,BAL,Illegal Block Above the Waist,11/15/2015,Jacksonville,A.McClellan,OLB,10-2015
+BAL-2015-70,BAL,Illegal Contact,11/15/2015,Jacksonville,W.Hill,SS,10-2015
+BAL-2015-71,BAL,Defensive Holding,11/15/2015,Jacksonville,D.Smith,ILB,10-2015
+BAL-2015-72,BAL,Illegal Block Above the Waist,11/15/2015,Jacksonville,B.Trawick,DB,10-2015
+BAL-2015-73,BAL,Defensive Pass Interference,11/15/2015,Jacksonville,J.Smith,CB,10-2015
+BAL-2015-74,BAL,Unnecessary Roughness,11/15/2015,Jacksonville,K.Lewis,DB,10-2015
+BAL-2015-75,BAL,Unnecessary Roughness,11/15/2015,Jacksonville,A.Jackson,CB,10-2015
+BAL-2015-76,BAL,Face Mask (15 Yards),11/15/2015,Jacksonville,E.Dumervil,OLB,10-2015
+BAL-2015-77,BAL,Tripping,11/22/2015,St. Louis,R.Jensen,C,11-2015
+BAL-2015-78,BAL,Defensive Pass Interference,11/22/2015,St. Louis,J.Smith,CB,11-2015
+BAL-2015-79,BAL,Offensive Pass Interference,11/22/2015,St. Louis,M.Williams,TE,11-2015
+BAL-2015-80,BAL,Roughing the Passer,11/22/2015,St. Louis,E.Dumervil,OLB,11-2015
+BAL-2015-81,BAL,Unnecessary Roughness,11/22/2015,St. Louis,C.Mosley,ILB,11-2015
+BAL-2015-82,BAL,Unnecessary Roughness,11/22/2015,St. Louis,T.Brooks,FS,11-2015
+BAL-2015-83,BAL,Offensive Holding,11/22/2015,St. Louis,J.Urschel,G,11-2015
+BAL-2015-84,BAL,Offensive Holding,11/22/2015,St. Louis,C.Gillmore,TE,11-2015
+BAL-2015-85,BAL,Defensive Pass Interference,11/22/2015,St. Louis,L.Webb,CB,11-2015
+BAL-2015-86,BAL,Unsportsmanlike Conduct,11/22/2015,St. Louis,K.Juszczyk,FB,11-2015
+BAL-2015-87,BAL,Offensive Holding,11/22/2015,St. Louis,B.Trawick,DB,11-2015
+BAL-2015-88,BAL,Illegal Block Above the Waist,11/22/2015,St. Louis,A.Levine,CB,11-2015
+BAL-2015-89,BAL,Neutral Zone Infraction,11/22/2015,St. Louis,E.Dumervil,OLB,11-2015
+BAL-2015-90,BAL,Illegal Use of Hands,11/30/2015,Cleveland,B.Williams,NT,12-2015
+BAL-2015-91,BAL,Defensive Holding,11/30/2015,Cleveland,C.Upshaw,OLB,12-2015
+BAL-2015-92,BAL,False Start,11/30/2015,Cleveland,N.Boyle,TE,12-2015
+BAL-2015-93,BAL,Offensive Holding,11/30/2015,Cleveland,R.Jensen,C,12-2015
+BAL-2015-94,BAL,Offensive Holding,11/30/2015,Cleveland,W.Hill,SS,12-2015
+BAL-2015-95,BAL,Offensive Holding,11/30/2015,Cleveland,M.Cox,LS,12-2015
+BAL-2015-96,BAL,Delay of Game,11/30/2015,Cleveland,M.Schaub,QB,12-2015
+BAL-2015-97,BAL,Defensive Offside,12/06/2015,Miami,A.Levine,CB,13-2015
+BAL-2015-98,BAL,Defensive Offside,12/06/2015,Miami,L.Guy,DE,13-2015
+BAL-2015-99,BAL,Offensive Holding,12/06/2015,Miami,J.Urschel,G,13-2015
+,BAL,Offensive Pass Interference,12/06/2015,Miami,D.Brown,13-2015,BAL-2015-100
+BAL-2015-101,BAL,Offensive Holding,12/06/2015,Miami,A.Levine,CB,13-2015
+BAL-2015-102,BAL,Offensive Holding,12/06/2015,Miami,J.Hurst,T,13-2015
+BAL-2015-103,BAL,Unnecessary Roughness,12/13/2015,Seattle,L.Webb,CB,14-2015
+BAL-2015-104,BAL,Illegal Block Above the Waist,12/13/2015,Seattle,R.Jensen,C,14-2015
+BAL-2015-105,BAL,False Start,12/13/2015,Seattle,J.Clausen,QB,14-2015
+BAL-2015-106,BAL,Defensive Holding,12/13/2015,Seattle,K.Arrington,DB,14-2015
+BAL-2015-107,BAL,Unnecessary Roughness,12/13/2015,Seattle,T.Jernigan,DE,14-2015
+BAL-2015-108,BAL,False Start,12/13/2015,Seattle,M.Williams,TE,14-2015
+BAL-2015-109,BAL,Offensive Holding,12/13/2015,Seattle,R.Wagner,T,14-2015
+BAL-2015-110,BAL,Leaping,12/13/2015,Seattle,A.Levine,CB,14-2015
+BAL-2015-111,BAL,Offensive Holding,12/13/2015,Seattle,C.Matthews,WR,14-2015
+BAL-2015-112,BAL,Unnecessary Roughness,12/13/2015,Seattle,C.Upshaw,OLB,14-2015
+BAL-2015-113,BAL,Defensive Offside,12/20/2015,Kansas City,A.Levine,CB,15-2015
+BAL-2015-114,BAL,Unnecessary Roughness,12/20/2015,Kansas City,T.Jernigan,DE,15-2015
+BAL-2015-115,BAL,False Start,12/20/2015,Kansas City,K.Juszczyk,FB,15-2015
+BAL-2015-116,BAL,False Start,12/20/2015,Kansas City,C.Matthews,WR,15-2015
+BAL-2015-117,BAL,Offensive Pass Interference,12/20/2015,Kansas City,M.Williams,TE,15-2015
+BAL-2015-118,BAL,Offensive Holding,12/20/2015,Kansas City,Z.Smith,LB,15-2015
+BAL-2015-119,BAL,Illegal Crackback,12/20/2015,Kansas City,M.Yanda,G,15-2015
+BAL-2015-120,BAL,Intentional Grounding,12/27/2015,Pittsburgh,R.Mallett,QB,16-2015
+BAL-2015-121,BAL,Neutral Zone Infraction,12/27/2015,Pittsburgh,E.Dumervil,OLB,16-2015
+BAL-2015-122,BAL,False Start,12/27/2015,Pittsburgh,K.Osemele,G,16-2015
+BAL-2015-123,BAL,Offensive Holding,12/27/2015,Pittsburgh,J.Urschel,G,16-2015
+BAL-2015-124,BAL,False Start,12/27/2015,Pittsburgh,J.Urschel,G,16-2015
+BAL-2015-125,BAL,False Start,12/27/2015,Pittsburgh,M.Yanda,G,16-2015
+BAL-2015-126,BAL,Defensive Pass Interference,12/27/2015,Pittsburgh,J.Smith,CB,16-2015
+BAL-2015-127,BAL,Defensive Pass Interference,12/27/2015,Pittsburgh,K.Lewis,DB,16-2015
+BAL-2015-128,BAL,Unnecessary Roughness,12/27/2015,Pittsburgh,R.Jensen,C,16-2015
+BAL-2015-129,BAL,False Start,12/27/2015,Pittsburgh,R.Jensen,C,16-2015
+BAL-2015-130,BAL,Defensive Pass Interference,12/27/2015,Pittsburgh,J.Smith,CB,16-2015
+BAL-2015-131,BAL,Defensive Offside,12/27/2015,Pittsburgh,C.Upshaw,OLB,16-2015
+BAL-2015-132,BAL,False Start,01/03/2016,Cincinnati,M.Yanda,G,17-2015
+BAL-2015-133,BAL,Ineligible Downfield Pass,01/03/2016,Cincinnati,R.Wagner,T,17-2015
+BAL-2015-134,BAL,Illegal Formation,01/03/2016,Cincinnati,K.Osemele,G,17-2015
+,BAL,Defensive Pass Interference,01/03/2016,Cincinnati,W.Hill III,17-2015,BAL-2015-135
+BAL-2015-136,BAL,Illegal Use of Hands,01/03/2016,Cincinnati,S.Wright,DB,17-2015
+BAL-2015-137,BAL,False Start,01/03/2016,Cincinnati,K.Osemele,G,17-2015
+BAL-2015-138,BAL,Offensive Holding,01/03/2016,Cincinnati,K.Juszczyk,FB,17-2015

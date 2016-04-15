@@ -1,0 +1,98 @@
+team,penalty,game,opponent,player,position,week,year,penaltyindex
+JAC,False Start,09/08/2013,Kansas City,A.Branch,DE,1,2013,JAC-2013-0
+JAC,Delay of Game,09/08/2013,Kansas City,B.Gabbert,QB,1,2013,JAC-2013-1
+JAC,False Start,09/08/2013,Kansas City,E.Monroe,T,1,2013,JAC-2013-2
+JAC,Offensive Pass Interference,09/08/2013,Kansas City,C.Shorts,WR,1,2013,JAC-2013-3
+JAC,Delay of Game,09/08/2013,Kansas City,C.Henne,QB,1,2013,JAC-2013-4
+JAC,Personal Foul,09/15/2013,Oakland,J.Babin,DE,2,2013,JAC-2013-5
+JAC,Illegal Use of Hands,09/15/2013,Oakland,W.Rackley,G,2,2013,JAC-2013-6
+JAC,Delay of Game,09/15/2013,Oakland,C.Henne,QB,2,2013,JAC-2013-7
+JAC,Defensive Offside,09/15/2013,Oakland,D.Williams,TE,2,2013,JAC-2013-8
+JAC,Illegal Formation,09/15/2013,Oakland,S.Burton,WR,2,2013,JAC-2013-9
+JAC,Offensive Holding,09/15/2013,Oakland,K.Knox,LB,2,2013,JAC-2013-10
+JAC,Illegal Use of Hands,09/15/2013,Oakland,E.Monroe,T,2,2013,JAC-2013-11
+JAC,Illegal Use of Hands,09/15/2013,Oakland,J.Babin,DE,2,2013,JAC-2013-12
+JAC,False Start,09/15/2013,Oakland,L.Joeckel,T,2,2013,JAC-2013-13
+JAC,False Start,09/15/2013,Oakland,L.Joeckel,T,2,2013,JAC-2013-14
+JAC,Delay of Game,09/15/2013,Oakland,C.Henne,QB,2,2013,JAC-2013-15
+JAC,False Start,09/22/2013,Seattle,J.Todman,RB,3,2013,JAC-2013-16
+JAC,Defensive Pass Interference,09/22/2013,Seattle,D.McCray,CB,3,2013,JAC-2013-17
+JAC,Defensive Offside,09/22/2013,Seattle,J.Babin,DE,3,2013,JAC-2013-18
+JAC,Offensive Holding,09/22/2013,Seattle,M.Harris,DB,3,2013,JAC-2013-19
+JAC,Defensive Offside,09/29/2013,Indianapolis,J.Babin,DE,4,2013,JAC-2013-20
+JAC,Unsportsmanlike Conduct,09/29/2013,Indianapolis,J.Todman,RB,4,2013,JAC-2013-21
+JAC,Offensive Holding,09/29/2013,Indianapolis,W.Rackley,G,4,2013,JAC-2013-22
+JAC,False Start,09/29/2013,Indianapolis,J.Todman,RB,4,2013,JAC-2013-23
+JAC,Defensive Holding,09/29/2013,Indianapolis,A.Ball,DB,4,2013,JAC-2013-24
+JAC,Encroachment,09/29/2013,Indianapolis,T.Alualu,DE,4,2013,JAC-2013-25
+JAC,Roughing the Passer,09/29/2013,Indianapolis,J.Babin,DE,4,2013,JAC-2013-26
+JAC,Defensive Offside,09/29/2013,Indianapolis,J.Babin,DE,4,2013,JAC-2013-27
+JAC,Defensive Offside,09/29/2013,Indianapolis,J.Mincey,DE,4,2013,JAC-2013-28
+JAC,Illegal Block Above the Waist,10/06/2013,St. Louis,L.Reynolds,OLB,5,2013,JAC-2013-29
+JAC,Unnecessary Roughness,10/06/2013,St. Louis,J.Babin,DE,5,2013,JAC-2013-30
+JAC,Defensive Pass Interference,10/06/2013,St. Louis,W.Blackmon,DB,5,2013,JAC-2013-31
+JAC,Encroachment,10/06/2013,St. Louis,S.Marks,DT,5,2013,JAC-2013-32
+JAC,Unnecessary Roughness,10/13/2013,Denver,A.Branch,DE,6,2013,JAC-2013-33
+JAC,Face Mask (15 Yards),10/13/2013,Denver,W.Rackley,G,6,2013,JAC-2013-34
+JAC,Delay of Game,10/13/2013,Denver,C.Henne,QB,6,2013,JAC-2013-35
+JAC,Defensive Pass Interference,10/13/2013,Denver,J.Evans,FS,6,2013,JAC-2013-36
+JAC,Unsportsmanlike Conduct,10/13/2013,Denver,J.Evans,FS,6,2013,JAC-2013-37
+JAC,Defensive Pass Interference,10/13/2013,Denver,J.Cyprien,SS,6,2013,JAC-2013-38
+JAC,False Start,10/13/2013,Denver,A.Pasztor,T,6,2013,JAC-2013-39
+JAC,Defensive Offside,10/20/2013,San Diego,J.Babin,DE,7,2013,JAC-2013-40
+JAC,Unsportsmanlike Conduct,10/20/2013,San Diego,S.Marks,DT,7,2013,JAC-2013-41
+JAC,False Start,10/20/2013,San Diego,C.Bradfield,T,7,2013,JAC-2013-42
+JAC,Defensive Pass Interference,10/20/2013,San Diego,A.Ball,DB,7,2013,JAC-2013-43
+JAC,Unnecessary Roughness,10/20/2013,San Diego,J.Evans,FS,7,2013,JAC-2013-44
+JAC,Personal Foul,10/20/2013,San Diego,W.Rackley,G,7,2013,JAC-2013-45
+JAC,Offensive Holding,10/20/2013,San Diego,U.Nwaneri,G,7,2013,JAC-2013-46
+JAC,Defensive Pass Interference,10/27/2013,San Francisco,W.Blackmon,DB,8,2013,JAC-2013-47
+JAC,Personal Foul,10/27/2013,San Francisco,G.Hayes,OLB,8,2013,JAC-2013-48
+JAC,False Start,10/27/2013,San Francisco,A.Pasztor,T,8,2013,JAC-2013-49
+JAC,Offensive Holding,10/27/2013,San Francisco,B.Meester,C,8,2013,JAC-2013-50
+JAC,Offensive Holding,10/27/2013,San Francisco,C.Harbor,TE,8,2013,JAC-2013-51
+JAC,Offensive Holding,11/10/2013,Tennessee,S.Young,T,10,2013,JAC-2013-52
+JAC,Defensive Pass Interference,11/10/2013,Tennessee,A.Ball,DB,10,2013,JAC-2013-53
+JAC,Offensive Holding,11/10/2013,Tennessee,U.Nwaneri,G,10,2013,JAC-2013-54
+JAC,Defensive Holding,11/10/2013,Tennessee,J.Mincey,DE,10,2013,JAC-2013-55
+JAC,Roughing the Passer,11/10/2013,Tennessee,J.Mincey,DE,10,2013,JAC-2013-56
+JAC,False Start,11/17/2013,Arizona,A.Sanders,WR,11,2013,JAC-2013-57
+JAC,False Start,11/17/2013,Arizona,D.Robinson,RB,11,2013,JAC-2013-58
+JAC,Defensive Pass Interference,11/17/2013,Arizona,D.Gratz,CB,11,2013,JAC-2013-59
+JAC,False Start,11/17/2013,Arizona,B.Meester,C,11,2013,JAC-2013-60
+JAC,False Start,11/17/2013,Arizona,U.Nwaneri,G,11,2013,JAC-2013-61
+JAC,Offensive Holding,11/17/2013,Arizona,C.Bradfield,T,11,2013,JAC-2013-62
+JAC,Tripping,11/17/2013,Arizona,J.Todman,RB,11,2013,JAC-2013-63
+JAC,Horse Collar Tackle,11/24/2013,Houston,T.Alualu,DE,12,2013,JAC-2013-64
+JAC,False Start,11/24/2013,Houston,W.Rackley,G,12,2013,JAC-2013-65
+JAC,Intentional Grounding,11/24/2013,Houston,C.Henne,QB,12,2013,JAC-2013-66
+JAC,Offensive Holding,11/24/2013,Houston,C.Bradfield,T,12,2013,JAC-2013-67
+JAC,False Start,11/24/2013,Houston,U.Nwaneri,G,12,2013,JAC-2013-68
+JAC,Illegal Use of Hands,11/24/2013,Houston,B.Meester,C,12,2013,JAC-2013-69
+JAC,Defensive Holding,12/01/2013,Cleveland,G.Hayes,OLB,13,2013,JAC-2013-70
+JAC,Personal Foul,12/01/2013,Cleveland,W.Guy,FS,13,2013,JAC-2013-71
+JAC,Neutral Zone Infraction,12/01/2013,Cleveland,B.Deaderick,DE,13,2013,JAC-2013-72
+JAC,False Start,12/01/2013,Cleveland,A.Pasztor,T,13,2013,JAC-2013-73
+JAC,Encroachment,12/01/2013,Cleveland,S.Marks,DT,13,2013,JAC-2013-74
+JAC,Offensive Holding,12/05/2013,Houston,W.Rackley,G,14,2013,JAC-2013-75
+JAC,False Start,12/05/2013,Houston,M.Lewis,TE,14,2013,JAC-2013-76
+JAC,Defensive Pass Interference,12/05/2013,Houston,A.Ball,DB,14,2013,JAC-2013-77
+JAC,Offensive Holding,12/05/2013,Houston,C.Bradfield,T,14,2013,JAC-2013-78
+JAC,Offensive Holding,12/05/2013,Houston,N.Stupar,LB,14,2013,JAC-2013-79
+JAC,False Start,12/05/2013,Houston,B.Meester,C,14,2013,JAC-2013-80
+JAC,Delay of Game,12/05/2013,Houston,C.Henne,QB,14,2013,JAC-2013-81
+JAC,Defensive Pass Interference,12/15/2013,Buffalo,A.Ball,DB,15,2013,JAC-2013-82
+JAC,Defensive Pass Interference,12/15/2013,Buffalo,J.Evans,FS,15,2013,JAC-2013-83
+JAC,False Start,12/15/2013,Buffalo,J.McClendon,G,15,2013,JAC-2013-84
+JAC,Low Block,12/15/2013,Buffalo,C.Harbor,TE,15,2013,JAC-2013-85
+JAC,False Start,12/15/2013,Buffalo,J.McClendon,G,15,2013,JAC-2013-86
+JAC,Unnecessary Roughness,12/15/2013,Buffalo,W.Guy,FS,15,2013,JAC-2013-87
+JAC,False Start,12/22/2013,Tennessee,N.Stupar,LB,16,2013,JAC-2013-88
+JAC,Illegal Shift,12/22/2013,Tennessee,M.Brown,WR,16,2013,JAC-2013-89
+JAC,Unnecessary Roughness,12/22/2013,Tennessee,A.Ball,DB,16,2013,JAC-2013-90
+JAC,Defensive Holding,12/22/2013,Tennessee,J.Cyprien,SS,16,2013,JAC-2013-91
+JAC,Neutral Zone Infraction,12/29/2013,Indianapolis,J.Babin,DE,17,2013,JAC-2013-92
+JAC,Intentional Grounding,12/29/2013,Indianapolis,C.Henne,QB,17,2013,JAC-2013-93
+JAC,Encroachment,12/29/2013,Indianapolis,S.Marks,DT,17,2013,JAC-2013-94
+JAC,Interference with Opportunity to Catch,12/29/2013,Indianapolis,J.Todman,RB,17,2013,JAC-2013-95
+JAC,Unnecessary Roughness,12/29/2013,Indianapolis,W.Guy,FS,17,2013,JAC-2013-96

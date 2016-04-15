@@ -1,0 +1,140 @@
+team,penalty,game,opponent,player,position,week,year,penaltyindex
+WAS,False Start,09/07/2014,Houston,C.Chester,C,1,2014,WAS-2014-0
+WAS,Defensive Holding,09/07/2014,Houston,P.Riley,ILB,1,2014,WAS-2014-1
+WAS,Offensive Pass Interference,09/07/2014,Houston,A.Roberts,WR,1,2014,WAS-2014-2
+WAS,Intentional Grounding,09/07/2014,Houston,R.Griffin,QB,1,2014,WAS-2014-3
+WAS,Offensive Holding,09/07/2014,Houston,R.Grant,WR,1,2014,WAS-2014-4
+WAS,Offensive Holding,09/07/2014,Houston,Trent.Williams,T,1,2014,WAS-2014-5
+WAS,Unnecessary Roughness,09/07/2014,Houston,R.Clark,FS,1,2014,WAS-2014-6
+WAS,Horse Collar Tackle,09/07/2014,Houston,B.Breeland,CB,1,2014,WAS-2014-7
+WAS,Neutral Zone Infraction,09/07/2014,Houston,C.Baker,NT,1,2014,WAS-2014-8
+WAS,Roughing the Passer,09/07/2014,Houston,J.Jenkins,DT,1,2014,WAS-2014-9
+WAS,Offensive Holding,09/14/2014,Jacksonville,L.Paulsen,TE,2,2014,WAS-2014-10
+WAS,Offensive Holding,09/14/2014,Jacksonville,K.Lichtensteiger,C,2,2014,WAS-2014-11
+WAS,Illegal Block Above the Waist,09/14/2014,Jacksonville,B.Breeland,CB,2,2014,WAS-2014-12
+WAS,Offensive Holding,09/14/2014,Jacksonville,A.Robinson,WR,2,2014,WAS-2014-13
+WAS,Personal Foul,09/14/2014,Jacksonville,D.Hall,CB,2,2014,WAS-2014-14
+WAS,Personal Foul,09/14/2014,Jacksonville,A.Davis,DB,2,2014,WAS-2014-15
+WAS,False Start,09/14/2014,Jacksonville,Trent.Williams,T,2,2014,WAS-2014-16
+WAS,Offside on Free Kick,09/14/2014,Jacksonville,A.Hayward,OLB,2,2014,WAS-2014-17
+WAS,False Start,09/14/2014,Jacksonville,S.Lauvao,G,2,2014,WAS-2014-18
+WAS,Unsportsmanlike Conduct,09/14/2014,Jacksonville,Trent.Williams,T,2,2014,WAS-2014-19
+WAS,Offensive Holding,09/14/2014,Jacksonville,S.Lauvao,G,2,2014,WAS-2014-20
+WAS,Illegal Formation,09/14/2014,Jacksonville,A.Hayward,OLB,2,2014,WAS-2014-21
+WAS,Illegal Use of Hands,09/14/2014,Jacksonville,J.Jenkins,DT,2,2014,WAS-2014-22
+WAS,Taunting,09/21/2014,Philadelphia,P.Garcon,WR,3,2014,WAS-2014-23
+WAS,Offensive Offside,09/21/2014,Philadelphia,B.Meriweather,DB,3,2014,WAS-2014-24
+WAS,False Start,09/21/2014,Philadelphia,C.Chester,C,3,2014,WAS-2014-25
+WAS,Defensive Holding,09/21/2014,Philadelphia,K.Robinson,ILB,3,2014,WAS-2014-26
+WAS,Defensive Pass Interference,09/21/2014,Philadelphia,E.Biggers,DB,3,2014,WAS-2014-27
+WAS,Horse Collar Tackle,09/21/2014,Philadelphia,A.Davis,DB,3,2014,WAS-2014-28
+WAS,Illegal Contact,09/21/2014,Philadelphia,B.Breeland,CB,3,2014,WAS-2014-29
+WAS,Roughing the Passer,09/21/2014,Philadelphia,T.Murphy,OLB,3,2014,WAS-2014-30
+WAS,Delay of Game,09/21/2014,Philadelphia,K.Cousins,QB,3,2014,WAS-2014-31
+WAS,Disqualification,09/21/2014,Philadelphia,C.Baker,NT,3,2014,WAS-2014-32
+WAS,Disqualification,09/21/2014,Philadelphia,C.Baker,NT,3,2014,WAS-2014-33
+WAS,Defensive Pass Interference,09/21/2014,Philadelphia,K.Robinson,ILB,3,2014,WAS-2014-34
+WAS,Roughing the Passer,09/25/2014,N.Y. Giants,J.Hatcher,DE,4,2014,WAS-2014-35
+WAS,Illegal Use of Hands,09/25/2014,N.Y. Giants,C.Geathers,DT,4,2014,WAS-2014-36
+WAS,Offensive Holding,09/25/2014,N.Y. Giants,Trent.Williams,T,4,2014,WAS-2014-37
+WAS,Offensive Holding,09/25/2014,N.Y. Giants,T.Polumbus,T,4,2014,WAS-2014-38
+WAS,Unsportsmanlike Conduct,09/25/2014,N.Y. Giants,C.Geathers,DT,4,2014,WAS-2014-39
+WAS,Offensive Holding,09/25/2014,N.Y. Giants,L.Paulsen,TE,4,2014,WAS-2014-40
+WAS,Defensive Pass Interference,09/25/2014,N.Y. Giants,B.Breeland,CB,4,2014,WAS-2014-41
+WAS,False Start,09/25/2014,N.Y. Giants,Trent.Williams,T,4,2014,WAS-2014-42
+WAS,False Start,09/25/2014,N.Y. Giants,T.Murphy,OLB,4,2014,WAS-2014-43
+WAS,Illegal Use of Hands,09/25/2014,N.Y. Giants,P.Riley,ILB,4,2014,WAS-2014-44
+WAS,Neutral Zone Infraction,09/25/2014,N.Y. Giants,T.Porter,DB,4,2014,WAS-2014-45
+WAS,Ineligible Downfield Pass,09/25/2014,N.Y. Giants,J.LeRibeus,G,4,2014,WAS-2014-46
+WAS,Offensive Holding,10/06/2014,Seattle,E.Biggers,DB,5,2014,WAS-2014-47
+WAS,Defensive Holding,10/06/2014,Seattle,P.Riley,ILB,5,2014,WAS-2014-48
+WAS,Face Mask (15 Yards),10/06/2014,Seattle,J.Jenkins,DT,5,2014,WAS-2014-49
+WAS,False Start,10/12/2014,Arizona,L.Paulsen,TE,6,2014,WAS-2014-50
+WAS,False Start,10/12/2014,Arizona,T.Polumbus,T,6,2014,WAS-2014-51
+WAS,False Start,10/12/2014,Arizona,C.Chester,C,6,2014,WAS-2014-52
+WAS,Offensive Holding,10/12/2014,Arizona,A.Jordan,ILB,6,2014,WAS-2014-53
+WAS,Defensive Pass Interference,10/12/2014,Arizona,B.Breeland,CB,6,2014,WAS-2014-54
+WAS,Encroachment,10/12/2014,Arizona,J.Hatcher,DE,6,2014,WAS-2014-55
+WAS,Illegal Formation,10/19/2014,Tennessee,J.Reed,TE,7,2014,WAS-2014-56
+WAS,Delay of Game,10/19/2014,Tennessee,K.Cousins,QB,7,2014,WAS-2014-57
+WAS,Delay of Game,10/19/2014,Tennessee,K.Cousins,QB,7,2014,WAS-2014-58
+WAS,Defensive Offside,10/19/2014,Tennessee,T.Murphy,OLB,7,2014,WAS-2014-59
+WAS,Offensive Holding,10/19/2014,Tennessee,T.Polumbus,T,7,2014,WAS-2014-60
+WAS,Intentional Grounding,10/19/2014,Tennessee,K.Cousins,QB,7,2014,WAS-2014-61
+WAS,Illegal Contact,10/19/2014,Tennessee,B.Breeland,CB,7,2014,WAS-2014-62
+WAS,Illegal Contact,10/19/2014,Tennessee,K.Robinson,ILB,7,2014,WAS-2014-63
+WAS,Illegal Use of Hands,10/19/2014,Tennessee,T.Compton,T,7,2014,WAS-2014-64
+WAS,Illegal Contact,10/27/2014,Dallas,B.Meriweather,DB,8,2014,WAS-2014-65
+WAS,Unsportsmanlike Conduct,10/27/2014,Dallas,L.Paulsen,TE,8,2014,WAS-2014-66
+WAS,Unnecessary Roughness,10/27/2014,Dallas,D.Jackson,WR,8,2014,WAS-2014-67
+WAS,Offensive Holding,10/27/2014,Dallas,N.Paul,TE,8,2014,WAS-2014-68
+WAS,Delay of Game,10/27/2014,Dallas,C.McCoy,QB,8,2014,WAS-2014-69
+WAS,False Start,10/27/2014,Dallas,T.Compton,T,8,2014,WAS-2014-70
+WAS,Delay of Game,10/27/2014,Dallas,C.McCoy,QB,8,2014,WAS-2014-71
+WAS,Neutral Zone Infraction,11/02/2014,Minnesota,R.Kerrigan,OLB,9,2014,WAS-2014-72
+WAS,Roughing the Passer,11/02/2014,Minnesota,K.Robinson,ILB,9,2014,WAS-2014-73
+WAS,False Start,11/02/2014,Minnesota,L.Paulsen,TE,9,2014,WAS-2014-74
+WAS,Offensive Pass Interference,11/02/2014,Minnesota,D.Jackson,WR,9,2014,WAS-2014-75
+WAS,Offensive Holding,11/02/2014,Minnesota,S.Lauvao,G,9,2014,WAS-2014-76
+WAS,Illegal Contact,11/16/2014,Tampa Bay,D.Amerson,CB,11,2014,WAS-2014-77
+WAS,False Start,11/16/2014,Tampa Bay,P.Garcon,WR,11,2014,WAS-2014-78
+WAS,False Start,11/16/2014,Tampa Bay,L.Paulsen,TE,11,2014,WAS-2014-79
+WAS,Offensive Holding,11/16/2014,Tampa Bay,D.Young,FB,11,2014,WAS-2014-80
+WAS,Illegal Block Above the Waist,11/16/2014,Tampa Bay,T.Compton,T,11,2014,WAS-2014-81
+WAS,Illegal Formation,11/16/2014,Tampa Bay,T.Compton,T,11,2014,WAS-2014-82
+WAS,False Start,11/16/2014,Tampa Bay,L.Hankerson,WR,11,2014,WAS-2014-83
+WAS,False Start,11/16/2014,Tampa Bay,S.Lauvao,G,11,2014,WAS-2014-84
+WAS,Face Mask (15 Yards),11/16/2014,Tampa Bay,P.Riley,ILB,11,2014,WAS-2014-85
+WAS,Offensive Holding,11/16/2014,Tampa Bay,N.Paul,TE,11,2014,WAS-2014-86
+WAS,Face Mask (15 Yards),11/23/2014,San Francisco,A.Roberts,WR,12,2014,WAS-2014-87
+WAS,False Start,11/23/2014,San Francisco,A.Davis,DB,12,2014,WAS-2014-88
+WAS,Illegal Formation,11/23/2014,San Francisco,T.Compton,T,12,2014,WAS-2014-89
+WAS,Offensive Holding,11/23/2014,San Francisco,K.Lichtensteiger,C,12,2014,WAS-2014-90
+WAS,Unnecessary Roughness,11/23/2014,San Francisco,R.Clark,FS,12,2014,WAS-2014-91
+WAS,Illegal Block Above the Waist,11/23/2014,San Francisco,A.Davis,DB,12,2014,WAS-2014-92
+WAS,Offensive Holding,11/23/2014,San Francisco,L.Paulsen,TE,12,2014,WAS-2014-93
+WAS,False Start,11/23/2014,San Francisco,M.Moses,T,12,2014,WAS-2014-94
+WAS,Defensive Pass Interference,11/30/2014,Indianapolis,C.Minnifield,DB,13,2014,WAS-2014-95
+WAS,Neutral Zone Infraction,11/30/2014,Indianapolis,J.Jenkins,DT,13,2014,WAS-2014-96
+WAS,Illegal Use of Hands,11/30/2014,Indianapolis,D.Amerson,CB,13,2014,WAS-2014-97
+WAS,Illegal Use of Hands,11/30/2014,Indianapolis,B.Breeland,CB,13,2014,WAS-2014-98
+WAS,False Start,11/30/2014,Indianapolis,Trent.Williams,T,13,2014,WAS-2014-99
+WAS,Illegal Formation,11/30/2014,Indianapolis,Trent.Williams,T,13,2014,WAS-2014-100
+WAS,Neutral Zone Infraction,11/30/2014,Indianapolis,R.Kerrigan,OLB,13,2014,WAS-2014-101
+WAS,Offensive Holding,11/30/2014,Indianapolis,D.Jackson,WR,13,2014,WAS-2014-102
+WAS,Unsportsmanlike Conduct,11/30/2014,Indianapolis,F.Kearse,DE,13,2014,WAS-2014-103
+WAS,Offside on Free Kick,11/30/2014,Indianapolis,P.Thomas,DB,13,2014,WAS-2014-104
+WAS,Offensive Holding,11/30/2014,Indianapolis,Trent.Williams,T,13,2014,WAS-2014-105
+WAS,Offensive Pass Interference,11/30/2014,Indianapolis,S.Moss,WR,13,2014,WAS-2014-106
+WAS,Delay of Game,11/30/2014,Indianapolis,C.McCoy,QB,13,2014,WAS-2014-107
+WAS,Personal Foul,12/07/2014,St. Louis,R.Clark,FS,14,2014,WAS-2014-108
+WAS,False Start,12/07/2014,St. Louis,N.Paul,TE,14,2014,WAS-2014-109
+WAS,Ineligible Downfield Pass,12/07/2014,St. Louis,K.Lichtensteiger,C,14,2014,WAS-2014-110
+WAS,Offensive Holding,12/07/2014,St. Louis,Trent.Williams,T,14,2014,WAS-2014-111
+WAS,Offensive Holding,12/07/2014,St. Louis,Trent.Williams,T,14,2014,WAS-2014-112
+WAS,Unnecessary Roughness,12/14/2014,N.Y. Giants,B.Breeland,CB,15,2014,WAS-2014-113
+WAS,False Start,12/14/2014,N.Y. Giants,S.Lauvao,G,15,2014,WAS-2014-114
+WAS,Illegal Use of Hands,12/14/2014,N.Y. Giants,D.Amerson,CB,15,2014,WAS-2014-115
+WAS,Illegal Block Above the Waist,12/14/2014,N.Y. Giants,Trent.Williams,T,15,2014,WAS-2014-116
+WAS,Taunting,12/14/2014,N.Y. Giants,B.Breeland,CB,15,2014,WAS-2014-117
+WAS,Defensive Holding,12/14/2014,N.Y. Giants,B.Breeland,CB,15,2014,WAS-2014-118
+WAS,Disqualification,12/14/2014,N.Y. Giants,S.Moss,WR,15,2014,WAS-2014-119
+WAS,Unsportsmanlike Conduct,12/14/2014,N.Y. Giants,S.Moss,WR,15,2014,WAS-2014-120
+WAS,Defensive Pass Interference,12/14/2014,N.Y. Giants,B.Breeland,CB,15,2014,WAS-2014-121
+WAS,Defensive Pass Interference,12/14/2014,N.Y. Giants,B.Breeland,CB,15,2014,WAS-2014-122
+WAS,Unnecessary Roughness,12/14/2014,N.Y. Giants,N.Sundberg,LS,15,2014,WAS-2014-123
+WAS,Delay of Game,12/14/2014,N.Y. Giants,R.Griffin,QB,15,2014,WAS-2014-124
+WAS,Illegal Use of Hands,12/20/2014,Philadelphia,B.Breeland,CB,16,2014,WAS-2014-125
+WAS,Illegal Use of Hands,12/20/2014,Philadelphia,J.Jenkins,DT,16,2014,WAS-2014-126
+WAS,Delay of Game,12/20/2014,Philadelphia,R.Griffin,QB,16,2014,WAS-2014-127
+WAS,Illegal Contact,12/20/2014,Philadelphia,P.Riley,ILB,16,2014,WAS-2014-128
+WAS,False Start,12/20/2014,Philadelphia,Trent.Williams,T,16,2014,WAS-2014-129
+WAS,Defensive Pass Interference,12/28/2014,Dallas,D.Amerson,CB,17,2014,WAS-2014-130
+WAS,Illegal Use of Hands,12/28/2014,Dallas,B.Breeland,CB,17,2014,WAS-2014-131
+WAS,Face Mask (15 Yards),12/28/2014,Dallas,E.Biggers,DB,17,2014,WAS-2014-132
+WAS,Offensive Holding,12/28/2014,Dallas,J.Reed,TE,17,2014,WAS-2014-133
+WAS,Unnecessary Roughness,12/28/2014,Dallas,Trent.Williams,T,17,2014,WAS-2014-134
+WAS,Illegal Block Above the Waist,12/28/2014,Dallas,L.Paulsen,TE,17,2014,WAS-2014-135
+WAS,Unnecessary Roughness,12/28/2014,Dallas,P.Garcon,WR,17,2014,WAS-2014-136
+WAS,Illegal Use of Hands,12/28/2014,Dallas,J.Jeffcoat,OLB,17,2014,WAS-2014-137
+WAS,False Start,12/28/2014,Dallas,L.Paulsen,TE,17,2014,WAS-2014-138

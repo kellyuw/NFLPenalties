@@ -1,0 +1,93 @@
+team,penalty,game,opponent,player,position,week,year,penaltyindex
+CHI,Ineligible Downfield Pass,09/08/2013,Cincinnati,M.Slauson,G,1,2013,CHI-2013-0
+CHI,Defensive Pass Interference,09/08/2013,Cincinnati,C.Tillman,DB,1,2013,CHI-2013-1
+CHI,Offensive Holding,09/08/2013,Cincinnati,M.Bennett,TE,1,2013,CHI-2013-2
+CHI,Offensive Holding,09/08/2013,Cincinnati,M.Bennett,TE,1,2013,CHI-2013-3
+CHI,Offensive Holding,09/15/2013,Minnesota,J.Bushrod,T,2,2013,CHI-2013-4
+CHI,Illegal Touch Pass,09/15/2013,Minnesota,A.Jeffery,WR,2,2013,CHI-2013-5
+CHI,Horse Collar Tackle,09/15/2013,Minnesota,C.Tillman,DB,2,2013,CHI-2013-6
+CHI,Offensive Holding,09/15/2013,Minnesota,J.Bushrod,T,2,2013,CHI-2013-7
+CHI,Offside on Free Kick,09/22/2013,Pittsburgh,Z.Bowman,DB,3,2013,CHI-2013-8
+CHI,Roughing the Kicker,09/22/2013,Pittsburgh,A.Walters,DB,3,2013,CHI-2013-9
+CHI,Delay of Game,09/22/2013,Pittsburgh,J.Cutler,QB,3,2013,CHI-2013-10
+CHI,Illegal Shift,09/22/2013,Pittsburgh,A.Jeffery,WR,3,2013,CHI-2013-11
+CHI,False Start,09/29/2013,Detroit,J.Mills,T,4,2013,CHI-2013-12
+CHI,Illegal Use of Hands,09/29/2013,Detroit,K.Long,G,4,2013,CHI-2013-13
+CHI,Neutral Zone Infraction,09/29/2013,Detroit,C.Wootton,DE,4,2013,CHI-2013-14
+CHI,Offensive Holding,09/29/2013,Detroit,J.Mills,T,4,2013,CHI-2013-15
+CHI,Unnecessary Roughness,10/06/2013,New Orleans,E.Weems,WR,5,2013,CHI-2013-16
+CHI,Horse Collar Tackle,10/06/2013,New Orleans,D.Williams,LB,5,2013,CHI-2013-17
+CHI,Ineligible Downfield Pass,10/06/2013,New Orleans,J.Bushrod,T,5,2013,CHI-2013-18
+CHI,Ineligible Downfield Pass,10/06/2013,New Orleans,K.Long,G,5,2013,CHI-2013-19
+CHI,Offensive Holding,10/06/2013,New Orleans,C.Tillman,DB,5,2013,CHI-2013-20
+CHI,Neutral Zone Infraction,10/06/2013,New Orleans,L.Briggs,OLB,5,2013,CHI-2013-21
+CHI,Neutral Zone Infraction,10/06/2013,New Orleans,C.Wootton,DE,5,2013,CHI-2013-22
+CHI,Illegal Use of Hands,10/10/2013,N.Y. Giants,Z.Minter,DT,6,2013,CHI-2013-23
+CHI,Defensive Offside,10/10/2013,N.Y. Giants,D.Hester,WR,6,2013,CHI-2013-24
+CHI,Offensive Holding,10/10/2013,N.Y. Giants,R.Garza,C,6,2013,CHI-2013-25
+CHI,Illegal Block Above the Waist,10/10/2013,N.Y. Giants,C.Wilson,CB,6,2013,CHI-2013-26
+CHI,Defensive Pass Interference,10/10/2013,N.Y. Giants,T.Jennings,DB,6,2013,CHI-2013-27
+CHI,Intentional Grounding,10/10/2013,N.Y. Giants,J.Cutler,QB,6,2013,CHI-2013-28
+CHI,Offensive Holding,10/20/2013,Washington,Jo.Anderson,WR,7,2013,CHI-2013-29
+CHI,Illegal Use of Hands,10/20/2013,Washington,L.Cohen,DE,7,2013,CHI-2013-30
+CHI,Offside on Free Kick,10/20/2013,Washington,E.Weems,WR,7,2013,CHI-2013-31
+CHI,Defensive Holding,10/20/2013,Washington,S.Paea,DE,7,2013,CHI-2013-32
+CHI,Face Mask (15 Yards),11/04/2013,Green Bay,S.Paea,DE,9,2013,CHI-2013-33
+CHI,Face Mask (15 Yards),11/04/2013,Green Bay,C.Tillman,DB,9,2013,CHI-2013-34
+CHI,Illegal Motion,11/04/2013,Green Bay,A.Jeffery,WR,9,2013,CHI-2013-35
+CHI,Offensive Holding,11/04/2013,Green Bay,M.Bennett,TE,9,2013,CHI-2013-36
+CHI,False Start,11/10/2013,Detroit,B.Costanzo,LB,10,2013,CHI-2013-37
+CHI,Horse Collar Tackle,11/10/2013,Detroit,C.Tillman,DB,10,2013,CHI-2013-38
+CHI,Encroachment,11/10/2013,Detroit,C.Wootton,DE,10,2013,CHI-2013-39
+CHI,Offensive Holding,11/10/2013,Detroit,M.Slauson,G,10,2013,CHI-2013-40
+CHI,Face Mask (15 Yards),11/10/2013,Detroit,C.Tillman,DB,10,2013,CHI-2013-41
+CHI,Defensive Pass Interference,11/17/2013,Baltimore,C.Conte,DB,11,2013,CHI-2013-42
+CHI,Defensive Offside,11/17/2013,Baltimore,L.Cohen,DE,11,2013,CHI-2013-43
+CHI,Defensive Pass Interference,11/17/2013,Baltimore,Z.Bowman,DB,11,2013,CHI-2013-44
+CHI,Neutral Zone Infraction,11/17/2013,Baltimore,C.Wootton,DE,11,2013,CHI-2013-45
+CHI,Illegal Use of Hands,11/17/2013,Baltimore,Z.Bowman,DB,11,2013,CHI-2013-46
+CHI,Unnecessary Roughness,11/17/2013,Baltimore,J.Peppers,OLB,11,2013,CHI-2013-47
+CHI,Defensive Pass Interference,11/17/2013,Baltimore,Z.Bowman,DB,11,2013,CHI-2013-48
+CHI,Offensive Holding,11/17/2013,Baltimore,B.Marshall,WR,11,2013,CHI-2013-49
+CHI,False Start,11/17/2013,Baltimore,M.Bennett,TE,11,2013,CHI-2013-50
+CHI,Offensive Holding,11/17/2013,Baltimore,R.Garza,C,11,2013,CHI-2013-51
+CHI,Neutral Zone Infraction,11/17/2013,Baltimore,J.Peppers,OLB,11,2013,CHI-2013-52
+CHI,Illegal Block Above the Waist,11/17/2013,Baltimore,Z.Bowman,DB,11,2013,CHI-2013-53
+CHI,False Start,11/17/2013,Baltimore,M.Bennett,TE,11,2013,CHI-2013-54
+CHI,Horse Collar Tackle,11/17/2013,Baltimore,Z.Bowman,DB,11,2013,CHI-2013-55
+CHI,Offensive Offside,11/17/2013,Baltimore,M.Ford,RB,11,2013,CHI-2013-56
+CHI,Offensive Holding,11/24/2013,St. Louis,K.Greene,LB,12,2013,CHI-2013-57
+CHI,Defensive Pass Interference,11/24/2013,St. Louis,C.Conte,DB,12,2013,CHI-2013-58
+CHI,Offensive Holding,11/24/2013,St. Louis,T.Fiammetta,FB,12,2013,CHI-2013-59
+CHI,Intentional Grounding,11/24/2013,St. Louis,J.McCown,QB,12,2013,CHI-2013-60
+CHI,Face Mask (15 Yards),11/24/2013,St. Louis,T.Fiammetta,FB,12,2013,CHI-2013-61
+CHI,Unnecessary Roughness,11/24/2013,St. Louis,K.Long,G,12,2013,CHI-2013-62
+CHI,Illegal Block Above the Waist,11/24/2013,St. Louis,E.Bennett,WR,12,2013,CHI-2013-63
+CHI,Offensive Holding,11/24/2013,St. Louis,D.Martin,DB,12,2013,CHI-2013-64
+CHI,Delay of Game,11/24/2013,St. Louis,J.McCown,QB,12,2013,CHI-2013-65
+CHI,Offensive Holding,11/24/2013,St. Louis,M.Slauson,G,12,2013,CHI-2013-66
+CHI,Offensive Holding,11/24/2013,St. Louis,C.Steltz,SS,12,2013,CHI-2013-67
+CHI,Offensive Holding,11/24/2013,St. Louis,J.Bushrod,T,12,2013,CHI-2013-68
+CHI,Illegal Block Above the Waist,12/01/2013,Minnesota,C.Ozougwu,DE,13,2013,CHI-2013-69
+CHI,Unnecessary Roughness,12/01/2013,Minnesota,B.Marshall,WR,13,2013,CHI-2013-70
+CHI,Offensive Pass Interference,12/01/2013,Minnesota,M.Bennett,TE,13,2013,CHI-2013-71
+CHI,Taunting,12/01/2013,Minnesota,J.Bostic,OLB,13,2013,CHI-2013-72
+CHI,False Start,12/01/2013,Minnesota,J.Bushrod,T,13,2013,CHI-2013-73
+CHI,Delay of Game,12/01/2013,Minnesota,J.Bushrod,T,13,2013,CHI-2013-74
+CHI,Horse Collar Tackle,12/01/2013,Minnesota,C.Conte,DB,13,2013,CHI-2013-75
+CHI,False Start,12/09/2013,Dallas,R.Garza,C,14,2013,CHI-2013-76
+CHI,Offensive Holding,12/09/2013,Dallas,R.Garza,C,14,2013,CHI-2013-77
+CHI,Defensive Offside,12/15/2013,Cleveland,D.Hester,WR,15,2013,CHI-2013-78
+CHI,Delay of Game,12/15/2013,Cleveland,J.Cutler,QB,15,2013,CHI-2013-79
+CHI,Defensive Holding,12/15/2013,Cleveland,I.Frey,DB,15,2013,CHI-2013-80
+CHI,False Start,12/15/2013,Cleveland,M.Bennett,TE,15,2013,CHI-2013-81
+CHI,False Start,12/15/2013,Cleveland,A.Jeffery,WR,15,2013,CHI-2013-82
+CHI,Offensive Holding,12/15/2013,Cleveland,C.Wootton,DE,15,2013,CHI-2013-83
+CHI,Illegal Shift,12/15/2013,Cleveland,A.Jeffery,WR,15,2013,CHI-2013-84
+CHI,Neutral Zone Infraction,12/22/2013,Philadelphia,J.Peppers,OLB,16,2013,CHI-2013-85
+CHI,Delay of Game,12/22/2013,Philadelphia,J.Cutler,QB,16,2013,CHI-2013-86
+CHI,Defensive Holding,12/29/2013,Green Bay,I.Frey,DB,17,2013,CHI-2013-87
+CHI,Unnecessary Roughness,12/29/2013,Green Bay,S.McClellin,OLB,17,2013,CHI-2013-88
+CHI,Illegal Block Above the Waist,12/29/2013,Green Bay,B.Costanzo,LB,17,2013,CHI-2013-89
+CHI,False Start,12/29/2013,Green Bay,J.Bushrod,T,17,2013,CHI-2013-90
+CHI,Illegal Formation,12/29/2013,Green Bay,B.Marshall,WR,17,2013,CHI-2013-91

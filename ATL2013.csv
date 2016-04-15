@@ -1,0 +1,96 @@
+team,penalty,game,opponent,player,position,week,year,penaltyindex
+ATL,Intentional Grounding,09/08/2013,New Orleans,M.Ryan,QB,1,2013,ATL-2013-0
+ATL,Offensive Holding,09/08/2013,New Orleans,S.Baker,T,1,2013,ATL-2013-1
+ATL,Offensive Holding,09/15/2013,St. Louis,P.Worrilow,ILB,2,2013,ATL-2013-2
+ATL,Delay of Game,09/15/2013,St. Louis,M.Bosher,P,2,2013,ATL-2013-3
+ATL,Offensive Pass Interference,09/15/2013,St. Louis,T.Gonzalez,TE,2,2013,ATL-2013-4
+ATL,Offensive Holding,09/15/2013,St. Louis,G.Reynolds,T,2,2013,ATL-2013-5
+ATL,False Start,09/15/2013,St. Louis,L.Holmes,T,2,2013,ATL-2013-6
+ATL,Defensive Holding,09/15/2013,St. Louis,A.Dent,ILB,2,2013,ATL-2013-7
+ATL,Defensive Pass Interference,09/15/2013,St. Louis,D.Trufant,CB,2,2013,ATL-2013-8
+ATL,False Start,09/22/2013,Miami,G.Reynolds,T,3,2013,ATL-2013-9
+ATL,Illegal Block Above the Waist,09/22/2013,Miami,J.Vaughan,RB,3,2013,ATL-2013-10
+ATL,Offensive Holding,09/22/2013,Miami,P.DiMarco,FB,3,2013,ATL-2013-11
+ATL,False Start,09/22/2013,Miami,L.Holmes,T,3,2013,ATL-2013-12
+ATL,Offensive Holding,09/22/2013,Miami,J.Harris,LS,3,2013,ATL-2013-13
+ATL,Offensive Holding,09/22/2013,Miami,T.DeCoud,FS,3,2013,ATL-2013-14
+ATL,Offensive Holding,09/22/2013,Miami,T.Gonzalez,TE,3,2013,ATL-2013-15
+ATL,Neutral Zone Infraction,09/29/2013,New England,J.Babineaux,DT,4,2013,ATL-2013-16
+ATL,Offensive Holding,09/29/2013,New England,S.Baker,T,4,2013,ATL-2013-17
+ATL,Face Mask (15 Yards),09/29/2013,New England,S.Baker,T,4,2013,ATL-2013-18
+ATL,Illegal Use of Hands,09/29/2013,New England,R.Alford,CB,4,2013,ATL-2013-19
+ATL,Defensive Holding,09/29/2013,New England,A.Dent,ILB,4,2013,ATL-2013-20
+ATL,Personal Foul,09/29/2013,New England,W.Moore,SS,4,2013,ATL-2013-21
+ATL,Offensive Pass Interference,09/29/2013,New England,R.White,WR,4,2013,ATL-2013-22
+ATL,Offensive Holding,10/07/2013,N.Y. Jets,P.Konz,C,5,2013,ATL-2013-23
+ATL,Offensive Pass Interference,10/07/2013,N.Y. Jets,R.White,WR,5,2013,ATL-2013-24
+ATL,Horse Collar Tackle,10/07/2013,N.Y. Jets,M.Bosher,P,5,2013,ATL-2013-25
+ATL,Offensive Pass Interference,10/07/2013,N.Y. Jets,J.Jones,WR,5,2013,ATL-2013-26
+ATL,Offensive Holding,10/20/2013,Tampa Bay,J.Trueblood,T,7,2013,ATL-2013-27
+ATL,Defensive Pass Interference,10/20/2013,Tampa Bay,A.Samuel,CB,7,2013,ATL-2013-28
+ATL,False Start,10/20/2013,Tampa Bay,H.Douglas,WR,7,2013,ATL-2013-29
+ATL,Defensive Pass Interference,10/20/2013,Tampa Bay,R.Alford,CB,7,2013,ATL-2013-30
+ATL,Offensive Holding,10/20/2013,Tampa Bay,D.Franks,CB,7,2013,ATL-2013-31
+ATL,Intentional Grounding,10/20/2013,Tampa Bay,M.Ryan,QB,7,2013,ATL-2013-32
+ATL,Roughing the Passer,10/20/2013,Tampa Bay,M.Goodman,DE,7,2013,ATL-2013-33
+ATL,Unnecessary Roughness,10/20/2013,Tampa Bay,S.Maponga,LB,7,2013,ATL-2013-34
+ATL,Defensive Holding,10/20/2013,Tampa Bay,T.DeCoud,FS,7,2013,ATL-2013-35
+ATL,Illegal Formation,10/20/2013,Tampa Bay,R.Alford,CB,7,2013,ATL-2013-36
+ATL,Defensive Holding,10/27/2013,Arizona,D.Trufant,CB,8,2013,ATL-2013-37
+ATL,Face Mask (15 Yards),10/27/2013,Arizona,D.Trufant,CB,8,2013,ATL-2013-38
+ATL,Offensive Holding,10/27/2013,Arizona,J.Blalock,G,8,2013,ATL-2013-39
+ATL,False Start,10/27/2013,Arizona,J.Trueblood,T,8,2013,ATL-2013-40
+ATL,Offensive Holding,10/27/2013,Arizona,R.Alford,CB,8,2013,ATL-2013-41
+ATL,False Start,10/27/2013,Arizona,T.Gonzalez,TE,8,2013,ATL-2013-42
+ATL,False Start,10/27/2013,Arizona,L.Holmes,T,8,2013,ATL-2013-43
+ATL,False Start,10/27/2013,Arizona,L.Holmes,T,8,2013,ATL-2013-44
+ATL,False Start,10/27/2013,Arizona,J.Blalock,G,8,2013,ATL-2013-45
+ATL,Defensive Holding,10/27/2013,Arizona,P.Jerry,DT,8,2013,ATL-2013-46
+ATL,Defensive Pass Interference,11/03/2013,Carolina,D.Trufant,CB,9,2013,ATL-2013-47
+ATL,Offensive Holding,11/03/2013,Carolina,G.Reynolds,T,9,2013,ATL-2013-48
+ATL,Illegal Formation,11/03/2013,Carolina,L.Holmes,T,9,2013,ATL-2013-49
+ATL,Defensive Pass Interference,11/03/2013,Carolina,D.Trufant,CB,9,2013,ATL-2013-50
+ATL,Illegal Contact,11/03/2013,Carolina,J.Bartu,ILB,9,2013,ATL-2013-51
+ATL,Face Mask (15 Yards),11/03/2013,Carolina,A.Dent,ILB,9,2013,ATL-2013-52
+ATL,Unnecessary Roughness,11/10/2013,Seattle,W.Moore,SS,10,2013,ATL-2013-53
+ATL,Defensive Holding,11/10/2013,Seattle,R.Alford,CB,10,2013,ATL-2013-54
+ATL,Encroachment,11/17/2013,Tampa Bay,P.Jerry,DT,11,2013,ATL-2013-55
+ATL,Illegal Motion,11/17/2013,Tampa Bay,H.Douglas,WR,11,2013,ATL-2013-56
+ATL,False Start,11/17/2013,Tampa Bay,T.Gonzalez,TE,11,2013,ATL-2013-57
+ATL,Face Mask (15 Yards),11/17/2013,Tampa Bay,P.Worrilow,ILB,11,2013,ATL-2013-58
+ATL,Illegal Contact,11/17/2013,Tampa Bay,S.Weatherspoon,LB,11,2013,ATL-2013-59
+ATL,Defensive Pass Interference,11/17/2013,Tampa Bay,D.Trufant,CB,11,2013,ATL-2013-60
+ATL,False Start,11/17/2013,Tampa Bay,L.Holmes,T,11,2013,ATL-2013-61
+ATL,Unnecessary Roughness,11/21/2013,New Orleans,J.Trueblood,T,12,2013,ATL-2013-62
+ATL,Offensive Holding,11/21/2013,New Orleans,T.Gonzalez,TE,12,2013,ATL-2013-63
+ATL,Defensive Holding,11/21/2013,New Orleans,P.Jerry,DT,12,2013,ATL-2013-64
+ATL,Illegal Forward Pass,11/21/2013,New Orleans,H.Douglas,WR,12,2013,ATL-2013-65
+ATL,Neutral Zone Infraction,12/01/2013,Buffalo,C.Peters,DT,13,2013,ATL-2013-66
+ATL,Roughing the Passer,12/01/2013,Buffalo,S.Weatherspoon,LB,13,2013,ATL-2013-67
+ATL,Defensive Holding,12/01/2013,Buffalo,R.McClain,CB,13,2013,ATL-2013-68
+ATL,Illegal Block Above the Waist,12/01/2013,Buffalo,A.Dent,ILB,13,2013,ATL-2013-69
+ATL,Offensive Holding,12/01/2013,Buffalo,R.Schraeder,T,13,2013,ATL-2013-70
+ATL,False Start,12/01/2013,Buffalo,L.Holmes,T,13,2013,ATL-2013-71
+ATL,Unnecessary Roughness,12/01/2013,Buffalo,W.Moore,SS,13,2013,ATL-2013-72
+ATL,Unnecessary Roughness,12/01/2013,Buffalo,H.Douglas,WR,13,2013,ATL-2013-73
+ATL,Illegal Contact,12/08/2013,Green Bay,P.Worrilow,ILB,14,2013,ATL-2013-74
+ATL,False Start,12/08/2013,Green Bay,L.Holmes,T,14,2013,ATL-2013-75
+ATL,Offensive Holding,12/15/2013,Washington,L.Holmes,T,15,2013,ATL-2013-76
+ATL,Unnecessary Roughness,12/15/2013,Washington,R.Alford,CB,15,2013,ATL-2013-77
+ATL,Unnecessary Roughness,12/15/2013,Washington,S.Weatherspoon,LB,15,2013,ATL-2013-78
+ATL,False Start,12/15/2013,Washington,R.Schraeder,T,15,2013,ATL-2013-79
+ATL,Illegal Contact,12/15/2013,Washington,D.Trufant,CB,15,2013,ATL-2013-80
+ATL,Offensive Pass Interference,12/15/2013,Washington,R.White,WR,15,2013,ATL-2013-81
+ATL,Illegal Block Above the Waist,12/15/2013,Washington,S.Maponga,LB,15,2013,ATL-2013-82
+ATL,Face Mask (15 Yards),12/15/2013,Washington,S.Jackson,RB,15,2013,ATL-2013-83
+ATL,Clipping,12/15/2013,Washington,L.Holmes,T,15,2013,ATL-2013-84
+ATL,Unnecessary Roughness,12/15/2013,Washington,D.Franks,CB,15,2013,ATL-2013-85
+ATL,False Start,12/23/2013,San Francisco,L.Holmes,T,16,2013,ATL-2013-86
+ATL,False Start,12/23/2013,San Francisco,L.Holmes,T,16,2013,ATL-2013-87
+ATL,Defensive Offside,12/23/2013,San Francisco,O.Umenyiora,DE,16,2013,ATL-2013-88
+ATL,Defensive Pass Interference,12/23/2013,San Francisco,P.Worrilow,ILB,16,2013,ATL-2013-89
+ATL,False Start,12/23/2013,San Francisco,J.Trueblood,T,16,2013,ATL-2013-90
+ATL,False Start,12/29/2013,Carolina,R.White,WR,17,2013,ATL-2013-91
+ATL,Defensive Pass Interference,12/29/2013,Carolina,R.Alford,CB,17,2013,ATL-2013-92
+ATL,Offensive Holding,12/29/2013,Carolina,J.Hawley,C,17,2013,ATL-2013-93
+ATL,Unnecessary Roughness,12/29/2013,Carolina,P.Worrilow,ILB,17,2013,ATL-2013-94

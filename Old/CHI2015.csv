@@ -1,0 +1,112 @@
+PenaltyIndex,team,penalty,game,opponent,player,position,week
+CHI-2015-0,CHI,False Start,09/13/2015,Green Bay,V.Ducasse,T,1-2015
+CHI-2015-1,CHI,Offensive Holding,09/13/2015,Green Bay,J.Bushrod,T,1-2015
+CHI-2015-2,CHI,Defensive Offside,09/13/2015,Green Bay,W.Young,LB,1-2015
+CHI-2015-3,CHI,Offensive Holding,09/13/2015,Green Bay,M.Slauson,G,1-2015
+CHI-2015-4,CHI,Defensive Offside,09/13/2015,Green Bay,J.Allen,LB,1-2015
+CHI-2015-5,CHI,Defensive Pass Interference,09/13/2015,Green Bay,S.McManis,CB,1-2015
+CHI-2015-6,CHI,False Start,09/13/2015,Green Bay,V.Ducasse,T,1-2015
+CHI-2015-7,CHI,Defensive Offside,09/13/2015,Green Bay,W.Young,LB,1-2015
+CHI-2015-8,CHI,Defensive Pass Interference,09/13/2015,Green Bay,K.Fuller,CB,1-2015
+CHI-2015-9,CHI,Offensive Pass Interference,09/20/2015,Arizona,Z.Miller,TE,2-2015
+CHI-2015-10,CHI,Defensive Pass Interference,09/20/2015,Arizona,K.Fuller,CB,2-2015
+CHI-2015-11,CHI,Defensive Pass Interference,09/20/2015,Arizona,A.Ball,DB,2-2015
+CHI-2015-12,CHI,Defensive Offside,09/20/2015,Arizona,W.Sutton,DT,2-2015
+CHI-2015-13,CHI,Offensive Holding,09/20/2015,Arizona,S.Acho,LB,2-2015
+CHI-2015-14,CHI,False Start,09/20/2015,Arizona,J.Bushrod,T,2-2015
+CHI-2015-15,CHI,Roughing the Passer,09/20/2015,Arizona,P.McPhee,LB,2-2015
+CHI-2015-16,CHI,False Start,09/20/2015,Arizona,W.Montgomery,C,2-2015
+CHI-2015-17,CHI,Offensive Holding,09/20/2015,Arizona,V.Ducasse,T,2-2015
+CHI-2015-18,CHI,False Start,09/20/2015,Arizona,V.Ducasse,T,2-2015
+CHI-2015-19,CHI,Offensive Holding,09/20/2015,Arizona,J.Bushrod,T,2-2015
+CHI-2015-20,CHI,Illegal Contact,09/20/2015,Arizona,A.Ball,DB,2-2015
+CHI-2015-21,CHI,False Start,09/20/2015,Arizona,J.Bushrod,T,2-2015
+CHI-2015-22,CHI,Delay of Game,09/27/2015,Seattle,J.Clausen,QB,3-2015
+CHI-2015-23,CHI,False Start,09/27/2015,Seattle,K.Long,G,3-2015
+CHI-2015-24,CHI,Offensive Holding,09/27/2015,Seattle,K.Carey,RB,3-2015
+CHI-2015-25,CHI,Offensive Holding,09/27/2015,Seattle,V.Ducasse,T,3-2015
+CHI-2015-26,CHI,Delay of Game,09/27/2015,Seattle,J.Clausen,QB,3-2015
+CHI-2015-27,CHI,Neutral Zone Infraction,09/27/2015,Seattle,L.Houston,LB,3-2015
+CHI-2015-28,CHI,Offensive Holding,10/04/2015,Oakland,K.Lee,TE,4-2015
+,CHI,Offensive Holding,10/04/2015,Oakland,Unidentified,4-2015,CHI-2015-29
+CHI-2015-30,CHI,Offensive Holding,10/04/2015,Oakland,K.Lee,TE,4-2015
+CHI-2015-31,CHI,Offensive Holding,10/04/2015,Oakland,C.Leno Jr.,T,4-2015
+CHI-2015-32,CHI,Offensive Holding,10/04/2015,Oakland,Z.Miller,TE,4-2015
+CHI-2015-33,CHI,Illegal Use of Hands,10/04/2015,Oakland,T.Porter,DB,4-2015
+CHI-2015-34,CHI,False Start,10/04/2015,Oakland,V.Ducasse,T,4-2015
+CHI-2015-35,CHI,Offensive Holding,10/04/2015,Oakland,V.Ducasse,T,4-2015
+CHI-2015-36,CHI,Delay of Game,10/04/2015,Oakland,E.Royal,WR,4-2015
+CHI-2015-37,CHI,Offensive Holding,10/11/2015,Kansas City,J.Langford,RB,5-2015
+CHI-2015-38,CHI,False Start,10/11/2015,Kansas City,Z.Miller,TE,5-2015
+CHI-2015-39,CHI,False Start,10/11/2015,Kansas City,C.Leno Jr.,T,5-2015
+CHI-2015-40,CHI,Offensive Holding,10/11/2015,Kansas City,M.Bennett,TE,5-2015
+CHI-2015-41,CHI,Defensive Holding,10/11/2015,Kansas City,S.McManis,CB,5-2015
+CHI-2015-42,CHI,Illegal Use of Hands,10/11/2015,Kansas City,C.Leno Jr.,T,5-2015
+CHI-2015-43,CHI,Face Mask (15 Yards),10/11/2015,Kansas City,L.Reynolds,OLB,5-2015
+CHI-2015-44,CHI,Defensive Offside,10/18/2015,Detroit,W.Sutton,DT,6-2015
+CHI-2015-45,CHI,Face Mask (15 Yards),10/18/2015,Detroit,S.Acho,LB,6-2015
+CHI-2015-46,CHI,Offensive Holding,10/18/2015,Detroit,K.Long,G,6-2015
+CHI-2015-47,CHI,Offensive Holding,10/18/2015,Detroit,A.Jeffery,WR,6-2015
+CHI-2015-48,CHI,Offensive Holding,10/18/2015,Detroit,K.Long,G,6-2015
+CHI-2015-49,CHI,Offensive Pass Interference,10/18/2015,Detroit,A.Jeffery,WR,6-2015
+CHI-2015-50,CHI,Defensive Pass Interference,10/18/2015,Detroit,K.Fuller,CB,6-2015
+CHI-2015-51,CHI,Roughing the Passer,10/18/2015,Detroit,P.McPhee,LB,6-2015
+CHI-2015-52,CHI,Offensive Holding,11/01/2015,Minnesota,C.Leno Jr.,T,8-2015
+,CHI,Offensive Holding,11/01/2015,Minnesota,P.Omameh,8-2015,CHI-2015-53
+CHI-2015-54,CHI,Unnecessary Roughness,11/01/2015,Minnesota,S.Acho,LB,8-2015
+CHI-2015-55,CHI,Defensive Holding,11/01/2015,Minnesota,S.McManis,CB,8-2015
+CHI-2015-56,CHI,False Start,11/09/2015,San Diego,M.Slauson,G,9-2015
+CHI-2015-57,CHI,Defensive Offside,11/09/2015,San Diego,L.Houston,LB,9-2015
+CHI-2015-58,CHI,Unsportsmanlike Conduct,11/09/2015,San Diego,K.Long,G,9-2015
+CHI-2015-59,CHI,Roughing the Passer,11/09/2015,San Diego,J.Jenkins,DE,9-2015
+CHI-2015-60,CHI,Offensive Holding,11/09/2015,San Diego,K.Long,G,9-2015
+CHI-2015-61,CHI,Defensive Offside,11/09/2015,San Diego,L.Houston,LB,9-2015
+CHI-2015-62,CHI,Unsportsmanlike Conduct,11/15/2015,St. Louis,A.Ball,DB,10-2015
+CHI-2015-63,CHI,Offensive Holding,11/15/2015,St. Louis,V.Ducasse,T,10-2015
+CHI-2015-64,CHI,False Start,11/15/2015,St. Louis,A.Jeffery,WR,10-2015
+CHI-2015-65,CHI,Offensive Holding,11/15/2015,St. Louis,C.Leno Jr.,T,10-2015
+CHI-2015-66,CHI,Roughing the Passer,11/15/2015,St. Louis,W.Young,LB,10-2015
+CHI-2015-67,CHI,Defensive Holding,11/22/2015,Denver,C.Jones,ILB,11-2015
+CHI-2015-68,CHI,Defensive Offside,11/26/2015,Green Bay,P.McPhee,LB,12-2015
+CHI-2015-69,CHI,Illegal Contact,11/26/2015,Green Bay,T.Porter,DB,12-2015
+CHI-2015-70,CHI,Neutral Zone Infraction,11/26/2015,Green Bay,P.McPhee,LB,12-2015
+CHI-2015-71,CHI,False Start,11/26/2015,Green Bay,K.Lee,TE,12-2015
+CHI-2015-72,CHI,Illegal Contact,11/26/2015,Green Bay,T.Porter,DB,12-2015
+CHI-2015-73,CHI,Offensive Holding,11/26/2015,Green Bay,A.Ball,DB,12-2015
+CHI-2015-74,CHI,Offensive Holding,11/26/2015,Green Bay,K.Long,G,12-2015
+CHI-2015-75,CHI,Offensive Offside,11/26/2015,Green Bay,A.Jeffery,WR,12-2015
+CHI-2015-76,CHI,Tripping,11/26/2015,Green Bay,M.Slauson,G,12-2015
+CHI-2015-77,CHI,Defensive Pass Interference,11/26/2015,Green Bay,A.Amos,FS,12-2015
+CHI-2015-78,CHI,Neutral Zone Infraction,11/26/2015,Green Bay,B.Gaston,NT,12-2015
+CHI-2015-79,CHI,False Start,11/26/2015,Green Bay,K.Long,G,12-2015
+CHI-2015-80,CHI,Offensive Holding,11/26/2015,Green Bay,H.Grasu,C,12-2015
+CHI-2015-81,CHI,Offensive Holding,12/06/2015,San Francisco,L.Reynolds,OLB,13-2015
+CHI-2015-82,CHI,Offensive Holding,12/06/2015,San Francisco,K.Carey,RB,13-2015
+CHI-2015-83,CHI,Offensive Holding,12/06/2015,San Francisco,J.Bellamy,WR,13-2015
+CHI-2015-84,CHI,False Start,12/06/2015,San Francisco,Z.Miller,TE,13-2015
+CHI-2015-85,CHI,Offensive Holding,12/06/2015,San Francisco,M.Bennett,TE,13-2015
+,CHI,Offensive Holding,12/06/2015,San Francisco,P.Omameh,13-2015,CHI-2015-86
+CHI-2015-87,CHI,Low Block,12/06/2015,San Francisco,J.Bellamy,WR,13-2015
+,CHI,Offensive Holding,12/06/2015,San Francisco,P.Omameh,13-2015,CHI-2015-88
+CHI-2015-89,CHI,Offensive Holding,12/13/2015,Washington,M.Slauson,G,14-2015
+CHI-2015-90,CHI,Defensive Pass Interference,12/13/2015,Washington,T.Porter,DB,14-2015
+CHI-2015-91,CHI,Offensive Holding,12/13/2015,Washington,K.Lee,TE,14-2015
+CHI-2015-92,CHI,Offensive Holding,12/13/2015,Washington,C.Leno Jr.,T,14-2015
+CHI-2015-93,CHI,Offensive Pass Interference,12/13/2015,Washington,M.Mariani,WR,14-2015
+CHI-2015-94,CHI,False Start,12/13/2015,Washington,K.Long,G,14-2015
+CHI-2015-95,CHI,False Start,12/13/2015,Washington,H.Grasu,C,14-2015
+CHI-2015-96,CHI,Offensive Holding,12/20/2015,Minnesota,H.Grasu,C,15-2015
+CHI-2015-97,CHI,Defensive Offside,12/20/2015,Minnesota,L.Houston,LB,15-2015
+CHI-2015-98,CHI,Defensive Offside,12/20/2015,Minnesota,W.Sutton,DT,15-2015
+CHI-2015-99,CHI,Defensive Offside,12/20/2015,Minnesota,L.Houston,LB,15-2015
+CHI-2015-100,CHI,Roughing the Passer,12/20/2015,Minnesota,D.Hurst,S,15-2015
+CHI-2015-101,CHI,Offensive Holding,12/20/2015,Minnesota,C.Leno Jr.,T,15-2015
+CHI-2015-102,CHI,False Start,12/20/2015,Minnesota,M.Slauson,G,15-2015
+CHI-2015-103,CHI,Offensive Holding,12/20/2015,Minnesota,J.Langford,RB,15-2015
+CHI-2015-104,CHI,Illegal Contact,12/20/2015,Minnesota,C.Prosinski,DB,15-2015
+CHI-2015-105,CHI,Defensive Offside,12/20/2015,Minnesota,J.Jenkins,DE,15-2015
+CHI-2015-106,CHI,Offensive Holding,12/27/2015,Tampa Bay,H.Grasu,C,16-2015
+CHI-2015-107,CHI,Offensive Holding,12/27/2015,Tampa Bay,D.Thompson,WR,16-2015
+CHI-2015-108,CHI,False Start,12/27/2015,Tampa Bay,K.Long,G,16-2015
+CHI-2015-109,CHI,Offensive Holding,12/27/2015,Tampa Bay,V.Ducasse,T,16-2015
+CHI-2015-110,CHI,Face Mask (15 Yards),01/03/2016,Detroit,S.McManis,CB,17-2015

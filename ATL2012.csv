@@ -1,0 +1,65 @@
+team,penalty,game,opponent,player,position,week,year,penaltyindex
+ATL,False Start,09/09/2012,Kansas City,M.Ryan,QB,1,2012,ATL-2012-0
+ATL,Unnecessary Roughness,09/09/2012,Kansas City,C.Hope,DB,1,2012,ATL-2012-1
+ATL,Defensive Offside,09/17/2012,Denver,J.Abraham,OLB,2,2012,ATL-2012-2
+ATL,Offensive Holding,09/17/2012,Denver,J.Blalock,G,2,2012,ATL-2012-3
+ATL,Unnecessary Roughness,09/17/2012,Denver,R.Edwards,DE,2,2012,ATL-2012-4
+ATL,False Start,09/17/2012,Denver,G.Reynolds,T,2,2012,ATL-2012-5
+ATL,Illegal Contact,09/17/2012,Denver,D.Franks,CB,2,2012,ATL-2012-6
+ATL,Defensive Holding,09/17/2012,Denver,D.Franks,CB,2,2012,ATL-2012-7
+ATL,Encroachment,09/17/2012,Denver,P.Jerry,DT,2,2012,ATL-2012-8
+ATL,Defensive Pass Interference,09/17/2012,Denver,A.Samuel,CB,2,2012,ATL-2012-9
+ATL,Illegal Formation,09/23/2012,San Diego,J.Snelling,FB,3,2012,ATL-2012-10
+ATL,Offensive Pass Interference,09/23/2012,San Diego,R.White,WR,3,2012,ATL-2012-11
+ATL,Offensive Pass Interference,09/30/2012,Carolina,T.Gallarda,TE,4,2012,ATL-2012-12
+ATL,Defensive Offside,09/30/2012,Carolina,T.DeCoud,FS,4,2012,ATL-2012-13
+ATL,Player Out of Bounds on Punt,09/30/2012,Carolina,K.Cone,WR,4,2012,ATL-2012-14
+ATL,Offensive Holding,10/07/2012,Washington,R.James,LB,5,2012,ATL-2012-15
+ATL,False Start,10/07/2012,Washington,T.Gonzalez,TE,5,2012,ATL-2012-16
+ATL,Ineligible Downfield Pass,10/07/2012,Washington,G.Reynolds,T,5,2012,ATL-2012-17
+ATL,Offensive Holding,10/14/2012,Oakland,T.Clabo,T,6,2012,ATL-2012-18
+ATL,Offensive Holding,10/14/2012,Oakland,T.Clabo,T,6,2012,ATL-2012-19
+ATL,Horse Collar Tackle,10/14/2012,Oakland,A.Dent,ILB,6,2012,ATL-2012-20
+ATL,Defensive Holding,10/14/2012,Oakland,A.Dent,ILB,6,2012,ATL-2012-21
+ATL,False Start,10/28/2012,Philadelphia,T.McClure,C,8,2012,ATL-2012-22
+ATL,Neutral Zone Infraction,10/28/2012,Philadelphia,J.Abraham,OLB,8,2012,ATL-2012-23
+ATL,Illegal Touch Pass,10/28/2012,Philadelphia,J.Jones,WR,8,2012,ATL-2012-24
+ATL,Defensive Offside,10/28/2012,Philadelphia,J.Abraham,OLB,8,2012,ATL-2012-25
+ATL,Unnecessary Roughness,10/28/2012,Philadelphia,S.Nicholas,OLB,8,2012,ATL-2012-26
+ATL,Personal Foul,10/28/2012,Philadelphia,T.Gonzalez,TE,8,2012,ATL-2012-27
+ATL,Illegal Contact,11/04/2012,Dallas,D.Robinson,CB,9,2012,ATL-2012-28
+ATL,Defensive Holding,11/04/2012,Dallas,D.Robinson,CB,9,2012,ATL-2012-29
+ATL,Offensive Pass Interference,11/04/2012,Dallas,J.Jones,WR,9,2012,ATL-2012-30
+ATL,Unsportsmanlike Conduct,11/11/2012,New Orleans,A.Samuel,CB,10,2012,ATL-2012-31
+ATL,Offensive Holding,11/11/2012,New Orleans,T.McClure,C,10,2012,ATL-2012-32
+ATL,Unnecessary Roughness,11/11/2012,New Orleans,A.Smith,RB,10,2012,ATL-2012-33
+ATL,False Start,11/11/2012,New Orleans,DJ.Davis,QB,10,2012,ATL-2012-34
+ATL,Offensive Holding,11/11/2012,New Orleans,L.Sidbury,DE,10,2012,ATL-2012-35
+ATL,Illegal Motion,11/18/2012,Arizona,H.Douglas,WR,11,2012,ATL-2012-36
+ATL,Defensive Offside,11/18/2012,Arizona,J.Abraham,OLB,11,2012,ATL-2012-37
+ATL,False Start,11/18/2012,Arizona,T.McClure,C,11,2012,ATL-2012-38
+ATL,Illegal Block Above the Waist,11/18/2012,Arizona,T.DeCoud,FS,11,2012,ATL-2012-39
+ATL,Offensive Holding,11/18/2012,Arizona,J.Rodgers,RB,11,2012,ATL-2012-40
+ATL,Illegal Motion,11/25/2012,Tampa Bay,H.Douglas,WR,12,2012,ATL-2012-41
+ATL,Offensive Pass Interference,11/25/2012,Tampa Bay,J.Jones,WR,12,2012,ATL-2012-42
+ATL,Defensive Offside,11/29/2012,New Orleans,K.Biermann,OLB,13,2012,ATL-2012-43
+ATL,Face Mask (15 Yards),11/29/2012,New Orleans,W.Moore,SS,13,2012,ATL-2012-44
+ATL,Offensive Holding,11/29/2012,New Orleans,T.McClure,C,13,2012,ATL-2012-45
+ATL,False Start,11/29/2012,New Orleans,T.Gonzalez,TE,13,2012,ATL-2012-46
+ATL,Defensive Offside,11/29/2012,New Orleans,J.Abraham,OLB,13,2012,ATL-2012-47
+ATL,False Start,12/09/2012,Carolina,T.Clabo,T,14,2012,ATL-2012-48
+ATL,Defensive Holding,12/09/2012,Carolina,D.Robinson,CB,14,2012,ATL-2012-49
+ATL,Illegal Formation,12/09/2012,Carolina,T.Clabo,T,14,2012,ATL-2012-50
+ATL,False Start,12/16/2012,N.Y. Giants,J.Blalock,G,15,2012,ATL-2012-51
+ATL,Unnecessary Roughness,12/16/2012,N.Y. Giants,C.Hope,DB,15,2012,ATL-2012-52
+ATL,Personal Foul,12/16/2012,N.Y. Giants,R.White,WR,15,2012,ATL-2012-53
+ATL,Offensive Holding,12/16/2012,N.Y. Giants,T.Gonzalez,TE,15,2012,ATL-2012-54
+ATL,Neutral Zone Infraction,12/22/2012,Detroit,T.DeCoud,FS,16,2012,ATL-2012-55
+ATL,Defensive Offside,12/22/2012,Detroit,P.Jerry,DT,16,2012,ATL-2012-56
+ATL,Offensive Holding,12/22/2012,Detroit,T.Clabo,T,16,2012,ATL-2012-57
+ATL,Neutral Zone Infraction,12/22/2012,Detroit,J.Abraham,OLB,16,2012,ATL-2012-58
+ATL,Illegal Block Above the Waist,12/30/2012,Tampa Bay,J.Jones,WR,17,2012,ATL-2012-59
+ATL,False Start,01/13/2013,Seattle,P.Konz,C,19,2012,ATL-2012-60
+ATL,False Start,01/13/2013,Seattle,T.Clabo,T,19,2012,ATL-2012-61
+ATL,Unnecessary Roughness,01/20/2013,San Francisco,S.Nicholas,OLB,20,2012,ATL-2012-62
+ATL,Roughing the Passer,01/20/2013,San Francisco,C.Matthews,DL,20,2012,ATL-2012-63

@@ -1,0 +1,89 @@
+team,penalty,game,opponent,player,position,week,year,penaltyindex
+NYJ,Delay of Game,09/09/2012,Buffalo,M.Sanchez,QB,1,2012,NYJ-2012-0
+NYJ,Offensive Holding,09/09/2012,Buffalo,N.Mangold,C,1,2012,NYJ-2012-1
+NYJ,Personal Foul,09/09/2012,Buffalo,L.Landry,FS,1,2012,NYJ-2012-2
+NYJ,Roughing the Passer,09/09/2012,Buffalo,Q.Coples,OLB,1,2012,NYJ-2012-3
+NYJ,False Start,09/09/2012,Buffalo,B.Moore,G,1,2012,NYJ-2012-4
+NYJ,Delay of Game,09/09/2012,Buffalo,T.Tebow,QB,1,2012,NYJ-2012-5
+NYJ,Offensive Holding,09/16/2012,Pittsburgh,B.Powell,RB,2,2012,NYJ-2012-6
+NYJ,Personal Foul,09/16/2012,Pittsburgh,L.Landry,FS,2,2012,NYJ-2012-7
+NYJ,Offensive Holding,09/16/2012,Pittsburgh,S.Greene,RB,2,2012,NYJ-2012-8
+NYJ,Horse Collar Tackle,09/16/2012,Pittsburgh,L.Landry,FS,2,2012,NYJ-2012-9
+NYJ,Illegal Block Above the Waist,09/16/2012,Pittsburgh,K.Wilson,DB,2,2012,NYJ-2012-10
+NYJ,Illegal Touch Kick,09/16/2012,Pittsburgh,I.Trufant,DB,2,2012,NYJ-2012-11
+NYJ,Defensive Holding,09/16/2012,Pittsburgh,Y.Bell,SS,2,2012,NYJ-2012-12
+NYJ,Illegal Contact,09/23/2012,Miami,B.Scott,ILB,3,2012,NYJ-2012-13
+NYJ,False Start,09/23/2012,Miami,A.Howard,T,3,2012,NYJ-2012-14
+NYJ,Roughing the Kicker,09/23/2012,Miami,E.Smith,FS,3,2012,NYJ-2012-15
+NYJ,Unnecessary Roughness,09/23/2012,Miami,E.Smith,FS,3,2012,NYJ-2012-16
+NYJ,False Start,09/23/2012,Miami,M.Slauson,G,3,2012,NYJ-2012-17
+NYJ,Defensive Offside,09/23/2012,Miami,M.Dixon,DE,3,2012,NYJ-2012-18
+NYJ,Defensive Pass Interference,09/23/2012,Miami,A.Cromartie,DB,3,2012,NYJ-2012-19
+NYJ,Offensive Holding,09/23/2012,Miami,S.Holmes,WR,3,2012,NYJ-2012-20
+NYJ,Defensive Pass Interference,09/23/2012,Miami,K.Wilson,DB,3,2012,NYJ-2012-21
+NYJ,Defensive Pass Interference,09/30/2012,San Francisco,K.Wilson,DB,4,2012,NYJ-2012-22
+NYJ,Illegal Contact,09/30/2012,San Francisco,A.Cromartie,DB,4,2012,NYJ-2012-23
+NYJ,Defensive Holding,09/30/2012,San Francisco,B.Scott,ILB,4,2012,NYJ-2012-24
+NYJ,False Start,10/08/2012,Houston,D.Ferguson,T,5,2012,NYJ-2012-25
+NYJ,Illegal Touch Kick,10/08/2012,Houston,I.Trufant,DB,5,2012,NYJ-2012-26
+NYJ,False Start,10/08/2012,Houston,V.Ducasse,T,5,2012,NYJ-2012-27
+NYJ,False Start,10/08/2012,Houston,J.Hill,WR,5,2012,NYJ-2012-28
+NYJ,Defensive Pass Interference,10/14/2012,Indianapolis,A.Allen,DB,6,2012,NYJ-2012-29
+NYJ,Roughing the Passer,10/14/2012,Indianapolis,M.Wilkerson,DE,6,2012,NYJ-2012-30
+NYJ,Personal Foul,10/14/2012,Indianapolis,A.Maybin,LB,6,2012,NYJ-2012-31
+NYJ,Defensive Holding,10/14/2012,Indianapolis,E.Lankster,DB,6,2012,NYJ-2012-32
+NYJ,Defensive Pass Interference,10/14/2012,Indianapolis,A.Cromartie,DB,6,2012,NYJ-2012-33
+NYJ,False Start,10/14/2012,Indianapolis,M.Slauson,G,6,2012,NYJ-2012-34
+NYJ,Illegal Contact,10/14/2012,Indianapolis,A.Cromartie,DB,6,2012,NYJ-2012-35
+NYJ,Face Mask (15 Yards),10/14/2012,Indianapolis,Q.Coples,OLB,6,2012,NYJ-2012-36
+NYJ,Defensive Pass Interference,10/14/2012,Indianapolis,A.Cromartie,DB,6,2012,NYJ-2012-37
+NYJ,Offensive Holding,10/21/2012,New England,N.Bellore,LB,7,2012,NYJ-2012-38
+NYJ,False Start,10/21/2012,New England,B.Moore,G,7,2012,NYJ-2012-39
+NYJ,Encroachment,10/21/2012,New England,M.Wilkerson,DE,7,2012,NYJ-2012-40
+NYJ,Illegal Kick,10/21/2012,New England,M.Sanchez,QB,7,2012,NYJ-2012-41
+NYJ,Face Mask (15 Yards),10/21/2012,New England,N.Bellore,LB,7,2012,NYJ-2012-42
+NYJ,Defensive Holding,10/21/2012,New England,K.Wilson,DB,7,2012,NYJ-2012-43
+NYJ,Offensive Holding,10/21/2012,New England,B.Moore,G,7,2012,NYJ-2012-44
+NYJ,False Start,10/21/2012,New England,K.Reuland,TE,7,2012,NYJ-2012-45
+NYJ,Defensive Pass Interference,10/21/2012,New England,K.Wilson,DB,7,2012,NYJ-2012-46
+NYJ,Defensive Offside,10/28/2012,Miami,M.Wilkerson,DE,8,2012,NYJ-2012-47
+NYJ,Unnecessary Roughness,10/28/2012,Miami,A.Cromartie,DB,8,2012,NYJ-2012-48
+NYJ,Offensive Offside,10/28/2012,Miami,S.Hill,WR,8,2012,NYJ-2012-49
+NYJ,Delay of Game,10/28/2012,Miami,M.Sanchez,QB,8,2012,NYJ-2012-50
+NYJ,Roughing the Passer,10/28/2012,Miami,M.Dowtin,LB,8,2012,NYJ-2012-51
+NYJ,False Start,11/11/2012,Seattle,D.Keller,TE,10,2012,NYJ-2012-52
+NYJ,False Start,11/11/2012,Seattle,D.Keller,TE,10,2012,NYJ-2012-53
+NYJ,Offensive Holding,11/11/2012,Seattle,M.Dowtin,LB,10,2012,NYJ-2012-54
+NYJ,Defensive Pass Interference,11/11/2012,Seattle,L.Landry,FS,10,2012,NYJ-2012-55
+NYJ,Defensive Holding,11/11/2012,Seattle,E.Lankster,DB,10,2012,NYJ-2012-56
+NYJ,Defensive Offside,11/11/2012,Seattle,A.Cromartie,DB,10,2012,NYJ-2012-57
+NYJ,False Start,11/11/2012,Seattle,A.Howard,T,10,2012,NYJ-2012-58
+NYJ,Unnecessary Roughness,11/11/2012,Seattle,Y.Bell,SS,10,2012,NYJ-2012-59
+NYJ,False Start,11/18/2012,St. Louis,J.Smith,T,11,2012,NYJ-2012-60
+NYJ,Offensive Pass Interference,11/18/2012,St. Louis,S.Hill,WR,11,2012,NYJ-2012-61
+NYJ,Encroachment,11/18/2012,St. Louis,E.Lankster,DB,11,2012,NYJ-2012-62
+NYJ,Roughing the Passer,11/18/2012,St. Louis,G.McIntyre,OLB,11,2012,NYJ-2012-63
+NYJ,Face Mask (15 Yards),11/22/2012,New England,E.Lankster,DB,12,2012,NYJ-2012-64
+NYJ,Personal Foul,11/22/2012,New England,N.Bellore,LB,12,2012,NYJ-2012-65
+NYJ,Illegal Motion,11/22/2012,New England,S.Hill,WR,12,2012,NYJ-2012-66
+NYJ,Defensive Holding,12/02/2012,Arizona,K.Wilson,DB,13,2012,NYJ-2012-67
+NYJ,Illegal Block Above the Waist,12/02/2012,Arizona,K.Wilson,DB,13,2012,NYJ-2012-68
+NYJ,False Start,12/02/2012,Arizona,C.Schilens,WR,13,2012,NYJ-2012-69
+NYJ,Face Mask (15 Yards),12/09/2012,Jacksonville,Q.Coples,OLB,14,2012,NYJ-2012-70
+NYJ,Delay of Game,12/17/2012,Tennessee,T.Tebow,QB,15,2012,NYJ-2012-71
+NYJ,False Start,12/17/2012,Tennessee,K.Reuland,TE,15,2012,NYJ-2012-72
+NYJ,Offensive Holding,12/17/2012,Tennessee,A.Howard,T,15,2012,NYJ-2012-73
+NYJ,Offensive Holding,12/17/2012,Tennessee,K.Reuland,TE,15,2012,NYJ-2012-74
+NYJ,False Start,12/17/2012,Tennessee,J.Smith,T,15,2012,NYJ-2012-75
+NYJ,Roughing the Passer,12/23/2012,San Diego,Q.Coples,OLB,16,2012,NYJ-2012-76
+NYJ,Illegal Formation,12/23/2012,San Diego,B.Moore,G,16,2012,NYJ-2012-77
+NYJ,Encroachment,12/23/2012,San Diego,K.Ellis,DT,16,2012,NYJ-2012-78
+NYJ,Defensive Holding,12/23/2012,San Diego,Dar.Walls,CB,16,2012,NYJ-2012-79
+NYJ,Defensive Holding,12/23/2012,San Diego,J.McKnight,RB,16,2012,NYJ-2012-80
+NYJ,Invalid Fair Catch Signal,12/23/2012,San Diego,J.Kerley,WR,16,2012,NYJ-2012-81
+NYJ,Neutral Zone Infraction,12/30/2012,Buffalo,D.Harris,ILB,17,2012,NYJ-2012-82
+NYJ,Offensive Holding,12/30/2012,Buffalo,A.Howard,T,17,2012,NYJ-2012-83
+NYJ,Unsportsmanlike Conduct,12/30/2012,Buffalo,B.Edwards,WR,17,2012,NYJ-2012-84
+NYJ,Offensive Holding,12/30/2012,Buffalo,M.Slauson,G,17,2012,NYJ-2012-85
+NYJ,Roughing the Passer,12/30/2012,Buffalo,M.Wilkerson,DE,17,2012,NYJ-2012-86
+NYJ,Offensive Holding,12/30/2012,Buffalo,D.Ferguson,T,17,2012,NYJ-2012-87

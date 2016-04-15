@@ -1,0 +1,114 @@
+team,penalty,game,opponent,player,position,week,year,penaltyindex
+ARI,Defensive Pass Interference,09/09/2012,Seattle,P.Peterson,CB,1,2012,ARI-2012-0
+ARI,Neutral Zone Infraction,09/09/2012,Seattle,A.Wilson,SS,1,2012,ARI-2012-1
+ARI,Personal Foul,09/09/2012,Seattle,S.Acho,LB,1,2012,ARI-2012-2
+ARI,Roughing the Passer,09/09/2012,Seattle,R.Walker,LB,1,2012,ARI-2012-3
+ARI,False Start,09/09/2012,Seattle,M.Floyd,WR,1,2012,ARI-2012-4
+ARI,Delay of Game,09/09/2012,Seattle,J.Skelton,QB,1,2012,ARI-2012-5
+ARI,Defensive Offside,09/09/2012,Seattle,R.Walker,LB,1,2012,ARI-2012-6
+ARI,Offensive Holding,09/09/2012,Seattle,L.Sendlein,C,1,2012,ARI-2012-7
+ARI,Offensive Holding,09/09/2012,Seattle,D.Batiste,G,1,2012,ARI-2012-8
+ARI,Offensive Holding,09/09/2012,Seattle,D.Colledge,G,1,2012,ARI-2012-9
+ARI,Defensive Pass Interference,09/09/2012,Seattle,P.Peterson,CB,1,2012,ARI-2012-10
+ARI,Defensive Pass Interference,09/09/2012,Seattle,W.Gay,CB,1,2012,ARI-2012-11
+ARI,Encroachment,09/16/2012,New England,Q.Groves,LB,2,2012,ARI-2012-12
+ARI,Offensive Holding,09/16/2012,New England,D.Batiste,G,2,2012,ARI-2012-13
+ARI,Offensive Holding,09/16/2012,New England,J.Sanders,DB,2,2012,ARI-2012-14
+ARI,Offensive Holding,09/16/2012,New England,A.Snyder,G,2,2012,ARI-2012-15
+ARI,False Start,09/16/2012,New England,A.Roberts,WR,2,2012,ARI-2012-16
+ARI,Delay of Game,09/23/2012,Philadelphia,K.Kolb,QB,3,2012,ARI-2012-17
+ARI,Unsportsmanlike Conduct,09/23/2012,Philadelphia,A.Sherman,FB,3,2012,ARI-2012-18
+ARI,Offensive Holding,09/23/2012,Philadelphia,D.Batiste,G,3,2012,ARI-2012-19
+ARI,Illegal Block Above the Waist,09/23/2012,Philadelphia,L.Fitzgerald,WR,3,2012,ARI-2012-20
+ARI,Defensive Holding,09/23/2012,Philadelphia,W.Gay,CB,3,2012,ARI-2012-21
+ARI,False Start,09/23/2012,Philadelphia,K.Kolb,QB,3,2012,ARI-2012-22
+ARI,Illegal Block Above the Waist,09/30/2012,Miami,M.Adams,DB,4,2012,ARI-2012-23
+ARI,Illegal Contact,09/30/2012,Miami,W.Gay,CB,4,2012,ARI-2012-24
+ARI,Unnecessary Roughness,09/30/2012,Miami,J.Feely,K,4,2012,ARI-2012-25
+ARI,Defensive Pass Interference,09/30/2012,Miami,G.Toler,CB,4,2012,ARI-2012-26
+ARI,False Start,09/30/2012,Miami,D.Batiste,G,4,2012,ARI-2012-27
+ARI,Illegal Block Above the Waist,09/30/2012,Miami,A.Smith,LB,4,2012,ARI-2012-28
+ARI,False Start,09/30/2012,Miami,B.Massie,T,4,2012,ARI-2012-29
+ARI,Defensive Pass Interference,10/04/2012,St. Louis,P.Peterson,CB,5,2012,ARI-2012-30
+ARI,Defensive Offside,10/04/2012,St. Louis,A.Smith,LB,5,2012,ARI-2012-31
+ARI,Neutral Zone Infraction,10/04/2012,St. Louis,J.Bethel,CB,5,2012,ARI-2012-32
+ARI,Offensive Holding,10/04/2012,St. Louis,B.Massie,T,5,2012,ARI-2012-33
+ARI,Illegal Touch Pass,10/04/2012,St. Louis,A.Roberts,WR,5,2012,ARI-2012-34
+ARI,Offensive Holding,10/04/2012,St. Louis,D.Batiste,G,5,2012,ARI-2012-35
+ARI,Offensive Pass Interference,10/04/2012,St. Louis,M.Floyd,WR,5,2012,ARI-2012-36
+ARI,Offensive Holding,10/14/2012,Buffalo,A.Roberts,WR,6,2012,ARI-2012-37
+ARI,Offensive Holding,10/14/2012,Buffalo,R.Maui'a,FB,6,2012,ARI-2012-38
+ARI,Offensive Holding,10/14/2012,Buffalo,J.Sanders,DB,6,2012,ARI-2012-39
+ARI,Offensive Holding,10/14/2012,Buffalo,R.Housler,TE,6,2012,ARI-2012-40
+ARI,Delay of Game,10/14/2012,Buffalo,R.Maui'a,FB,6,2012,ARI-2012-41
+ARI,False Start,10/14/2012,Buffalo,J.King,TE,6,2012,ARI-2012-42
+ARI,Offensive Holding,10/14/2012,Buffalo,D.Batiste,G,6,2012,ARI-2012-43
+ARI,Defensive Pass Interference,10/14/2012,Buffalo,S.Acho,LB,6,2012,ARI-2012-44
+ARI,Defensive Pass Interference,10/21/2012,Minnesota,W.Gay,CB,7,2012,ARI-2012-45
+ARI,Defensive Holding,10/21/2012,Minnesota,D.Dockett,DT,7,2012,ARI-2012-46
+ARI,Defensive Pass Interference,10/21/2012,Minnesota,P.Peterson,CB,7,2012,ARI-2012-47
+ARI,False Start,10/21/2012,Minnesota,D.Colledge,G,7,2012,ARI-2012-48
+ARI,False Start,10/21/2012,Minnesota,B.Massie,T,7,2012,ARI-2012-49
+ARI,Illegal Blindside Block,10/21/2012,Minnesota,R.Johnson,FS,7,2012,ARI-2012-50
+ARI,Defensive Offside,10/21/2012,Minnesota,J.Bethel,CB,7,2012,ARI-2012-51
+ARI,Offensive Holding,10/21/2012,Minnesota,R.Ohrnberger,C,7,2012,ARI-2012-52
+ARI,Delay of Game,10/21/2012,Minnesota,J.Skelton,QB,7,2012,ARI-2012-53
+ARI,Offside on Free Kick,10/21/2012,Minnesota,R.Johnson,FS,7,2012,ARI-2012-54
+ARI,Defensive Pass Interference,10/29/2012,San Francisco,W.Gay,CB,8,2012,ARI-2012-55
+ARI,Offensive Holding,10/29/2012,San Francisco,Q.Groves,LB,8,2012,ARI-2012-56
+ARI,False Start,10/29/2012,San Francisco,B.Massie,T,8,2012,ARI-2012-57
+ARI,Offensive Pass Interference,10/29/2012,San Francisco,L.Fitzgerald,WR,8,2012,ARI-2012-58
+ARI,Illegal Block Above the Waist,10/29/2012,San Francisco,J.Bethel,CB,8,2012,ARI-2012-59
+ARI,False Start,10/29/2012,San Francisco,D.Batiste,G,8,2012,ARI-2012-60
+ARI,Offensive Holding,10/29/2012,San Francisco,D.Colledge,G,8,2012,ARI-2012-61
+ARI,Defensive Offside,11/04/2012,Green Bay,P.Peterson,CB,9,2012,ARI-2012-62
+ARI,False Start,11/04/2012,Green Bay,R.Ohrnberger,C,9,2012,ARI-2012-63
+ARI,Defensive Offside,11/04/2012,Green Bay,S.Acho,LB,9,2012,ARI-2012-64
+ARI,Delay of Game,11/04/2012,Green Bay,D.Zastudil,P,9,2012,ARI-2012-65
+ARI,Neutral Zone Infraction,11/04/2012,Green Bay,Q.Groves,LB,9,2012,ARI-2012-66
+ARI,Neutral Zone Infraction,11/04/2012,Green Bay,Q.Groves,LB,9,2012,ARI-2012-67
+ARI,Personal Foul,11/04/2012,Green Bay,R.Ohrnberger,C,9,2012,ARI-2012-68
+ARI,Horse Collar Tackle,11/04/2012,Green Bay,Q.Groves,LB,9,2012,ARI-2012-69
+ARI,Illegal Block Above the Waist,11/18/2012,Atlanta,R.Walker,LB,11,2012,ARI-2012-70
+ARI,Offensive Holding,11/18/2012,Atlanta,S.Bradley,LB,11,2012,ARI-2012-71
+ARI,Offensive Holding,11/18/2012,Atlanta,S.Acho,LB,11,2012,ARI-2012-72
+ARI,Roughing the Passer,11/18/2012,Atlanta,D.Washington,ILB,11,2012,ARI-2012-73
+ARI,Offensive Pass Interference,11/18/2012,Atlanta,R.Housler,TE,11,2012,ARI-2012-74
+ARI,Encroachment,11/25/2012,St. Louis,D.Carter,DT,12,2012,ARI-2012-75
+ARI,Offensive Holding,11/25/2012,St. Louis,N.Potter,T,12,2012,ARI-2012-76
+ARI,Personal Foul,11/25/2012,St. Louis,A.Snyder,G,12,2012,ARI-2012-77
+ARI,Offside on Free Kick,11/25/2012,St. Louis,S.Bradley,LB,12,2012,ARI-2012-78
+ARI,Encroachment,11/25/2012,St. Louis,N.Eason,DE,12,2012,ARI-2012-79
+ARI,Offensive Pass Interference,11/25/2012,St. Louis,R.Housler,TE,12,2012,ARI-2012-80
+ARI,Unnecessary Roughness,11/25/2012,St. Louis,R.Talley,DE,12,2012,ARI-2012-81
+ARI,Defensive Offside,12/02/2012,N.Y. Jets,D.Williams,DT,13,2012,ARI-2012-82
+ARI,Defensive Offside,12/02/2012,N.Y. Jets,A.Wilson,SS,13,2012,ARI-2012-83
+ARI,Unnecessary Roughness,12/02/2012,N.Y. Jets,D.Williams,DT,13,2012,ARI-2012-84
+ARI,Illegal Contact,12/02/2012,N.Y. Jets,G.Toler,CB,13,2012,ARI-2012-85
+ARI,Defensive Offside,12/02/2012,N.Y. Jets,A.Wilson,SS,13,2012,ARI-2012-86
+ARI,Tripping,12/09/2012,Seattle,J.Skelton,QB,14,2012,ARI-2012-87
+ARI,Defensive Offside,12/09/2012,Seattle,Q.Groves,LB,14,2012,ARI-2012-88
+ARI,False Start,12/09/2012,Seattle,D.Colledge,G,14,2012,ARI-2012-89
+ARI,False Start,12/09/2012,Seattle,D.Colledge,G,14,2012,ARI-2012-90
+ARI,False Start,12/09/2012,Seattle,R.Walker,LB,14,2012,ARI-2012-91
+ARI,Offensive Holding,12/09/2012,Seattle,R.Walker,LB,14,2012,ARI-2012-92
+ARI,Unnecessary Roughness,12/09/2012,Seattle,D.Colledge,G,14,2012,ARI-2012-93
+ARI,Unnecessary Roughness,12/09/2012,Seattle,R.Johnson,FS,14,2012,ARI-2012-94
+ARI,Unsportsmanlike Conduct,12/09/2012,Seattle,D.Washington,ILB,14,2012,ARI-2012-95
+ARI,Offensive Holding,12/09/2012,Seattle,J.King,TE,14,2012,ARI-2012-96
+ARI,Offensive Holding,12/16/2012,Detroit,J.King,TE,15,2012,ARI-2012-97
+ARI,False Start,12/16/2012,Detroit,W.Powell,RB,15,2012,ARI-2012-98
+ARI,Offensive Pass Interference,12/16/2012,Detroit,J.King,TE,15,2012,ARI-2012-99
+ARI,Unnecessary Roughness,12/16/2012,Detroit,M.Adams,DB,15,2012,ARI-2012-100
+ARI,Illegal Contact,12/16/2012,Detroit,D.Washington,ILB,15,2012,ARI-2012-101
+ARI,False Start,12/16/2012,Detroit,D.Colledge,G,15,2012,ARI-2012-102
+ARI,Illegal Block Above the Waist,12/16/2012,Detroit,G.Toler,CB,15,2012,ARI-2012-103
+ARI,Offensive Holding,12/16/2012,Detroit,Z.Nash,LB,15,2012,ARI-2012-104
+ARI,Defensive Holding,12/23/2012,Chicago,G.Toler,CB,16,2012,ARI-2012-105
+ARI,Offensive Holding,12/23/2012,Chicago,N.Potter,T,16,2012,ARI-2012-106
+ARI,Offensive Holding,12/23/2012,Chicago,B.Massie,T,16,2012,ARI-2012-107
+ARI,False Start,12/23/2012,Chicago,B.Hoyer,QB,16,2012,ARI-2012-108
+ARI,False Start,12/30/2012,San Francisco,D.Colledge,G,17,2012,ARI-2012-109
+ARI,Face Mask (15 Yards),12/30/2012,San Francisco,N.Eason,DE,17,2012,ARI-2012-110
+ARI,Offensive Holding,12/30/2012,San Francisco,S.Kelemete,G,17,2012,ARI-2012-111
+ARI,Offside on Free Kick,12/30/2012,San Francisco,J.Sanders,DB,17,2012,ARI-2012-112

@@ -1,0 +1,141 @@
+team,penalty,game,opponent,player,position,week,year,penaltyindex
+BAL,Personal Foul,09/07/2014,Cincinnati,K.Aiken,WR,1,2014,BAL-2014-0
+BAL,Personal Foul,09/07/2014,Cincinnati,C.Mosley,ILB,1,2014,BAL-2014-1
+BAL,Illegal Formation,09/07/2014,Cincinnati,E.Monroe,T,1,2014,BAL-2014-2
+BAL,Offensive Holding,09/07/2014,Cincinnati,E.Monroe,T,1,2014,BAL-2014-3
+BAL,Roughing the Passer,09/11/2014,Pittsburgh,C.Upshaw,OLB,2,2014,BAL-2014-4
+BAL,Offensive Holding,09/11/2014,Pittsburgh,J.Zuttah,C,2,2014,BAL-2014-5
+BAL,False Start,09/11/2014,Pittsburgh,D.Pitta,TE,2,2014,BAL-2014-6
+BAL,False Start,09/11/2014,Pittsburgh,O.Daniels,TE,2,2014,BAL-2014-7
+BAL,False Start,09/21/2014,Cleveland,E.Monroe,T,3,2014,BAL-2014-8
+BAL,Defensive Pass Interference,09/21/2014,Cleveland,M.Elam,SS,3,2014,BAL-2014-9
+BAL,Unnecessary Roughness,09/21/2014,Cleveland,C.Mosley,ILB,3,2014,BAL-2014-10
+BAL,False Start,09/21/2014,Cleveland,O.Daniels,TE,3,2014,BAL-2014-11
+BAL,Offensive Pass Interference,09/21/2014,Cleveland,S.Smith,WR,3,2014,BAL-2014-12
+BAL,Defensive Holding,09/28/2014,Carolina,C.Upshaw,OLB,4,2014,BAL-2014-13
+BAL,Neutral Zone Infraction,09/28/2014,Carolina,H.Ngata,DT,4,2014,BAL-2014-14
+BAL,Personal Foul,09/28/2014,Carolina,A.McClellan,OLB,4,2014,BAL-2014-15
+BAL,Roughing the Passer,09/28/2014,Carolina,C.Canty,DE,4,2014,BAL-2014-16
+BAL,Defensive Holding,10/05/2014,Indianapolis,J.Smith,CB,5,2014,BAL-2014-17
+BAL,Defensive Holding,10/05/2014,Indianapolis,P.McPhee,LB,5,2014,BAL-2014-18
+BAL,Neutral Zone Infraction,10/05/2014,Indianapolis,T.Suggs,OLB,5,2014,BAL-2014-19
+BAL,Illegal Use of Hands,10/05/2014,Indianapolis,K.Osemele,G,5,2014,BAL-2014-20
+BAL,Offensive Holding,10/05/2014,Indianapolis,M.Yanda,G,5,2014,BAL-2014-21
+BAL,Illegal Use of Hands,10/05/2014,Indianapolis,Z.Orr,LB,5,2014,BAL-2014-22
+BAL,Defensive Holding,10/05/2014,Indianapolis,M.Elam,SS,5,2014,BAL-2014-23
+BAL,Defensive Offside,10/05/2014,Indianapolis,T.Suggs,OLB,5,2014,BAL-2014-24
+BAL,Illegal Contact,10/05/2014,Indianapolis,L.Webb,CB,5,2014,BAL-2014-25
+BAL,False Start,10/12/2014,Tampa Bay,M.Yanda,G,6,2014,BAL-2014-26
+BAL,Illegal Use of Hands,10/12/2014,Tampa Bay,J.Zuttah,C,6,2014,BAL-2014-27
+BAL,Offensive Holding,10/12/2014,Tampa Bay,J.Hurst,T,6,2014,BAL-2014-28
+BAL,Defensive Holding,10/12/2014,Tampa Bay,M.Elam,SS,6,2014,BAL-2014-29
+BAL,Neutral Zone Infraction,10/12/2014,Tampa Bay,D.Smith,ILB,6,2014,BAL-2014-30
+BAL,Offensive Holding,10/12/2014,Tampa Bay,J.Urschel,G,6,2014,BAL-2014-31
+BAL,Unsportsmanlike Conduct,10/12/2014,Tampa Bay,J.Smith,CB,6,2014,BAL-2014-32
+BAL,Defensive Pass Interference,10/12/2014,Tampa Bay,J.Smith,CB,6,2014,BAL-2014-33
+BAL,Offensive Holding,10/19/2014,Atlanta,D.Franks,CB,7,2014,BAL-2014-34
+BAL,Offensive Holding,10/19/2014,Atlanta,J.Hurst,T,7,2014,BAL-2014-35
+BAL,Offensive Holding,10/19/2014,Atlanta,J.Hurst,T,7,2014,BAL-2014-36
+BAL,Encroachment,10/19/2014,Atlanta,H.Ngata,DT,7,2014,BAL-2014-37
+BAL,Offensive Holding,10/19/2014,Atlanta,J.Hurst,T,7,2014,BAL-2014-38
+BAL,Personal Foul,10/19/2014,Atlanta,S.Smith,WR,7,2014,BAL-2014-39
+BAL,Delay of Game,10/19/2014,Atlanta,S.Koch,P,7,2014,BAL-2014-40
+BAL,False Start,10/19/2014,Atlanta,Z.Orr,LB,7,2014,BAL-2014-41
+BAL,Face Mask (15 Yards),10/19/2014,Atlanta,J.Smith,CB,7,2014,BAL-2014-42
+BAL,False Start,10/19/2014,Atlanta,M.Yanda,G,7,2014,BAL-2014-43
+BAL,Defensive Offside,10/26/2014,Cincinnati,T.Suggs,OLB,8,2014,BAL-2014-44
+BAL,Offensive Holding,10/26/2014,Cincinnati,Z.Orr,LB,8,2014,BAL-2014-45
+BAL,False Start,10/26/2014,Cincinnati,E.Monroe,T,8,2014,BAL-2014-46
+BAL,False Start,10/26/2014,Cincinnati,R.Wagner,T,8,2014,BAL-2014-47
+BAL,Neutral Zone Infraction,10/26/2014,Cincinnati,D.Smith,ILB,8,2014,BAL-2014-48
+BAL,Defensive Pass Interference,10/26/2014,Cincinnati,C.Mosley,ILB,8,2014,BAL-2014-49
+BAL,Unsportsmanlike Conduct,10/26/2014,Cincinnati,E.Monroe,T,8,2014,BAL-2014-50
+BAL,Offensive Pass Interference,10/26/2014,Cincinnati,S.Smith,WR,8,2014,BAL-2014-51
+BAL,Defensive Offside,11/02/2014,Pittsburgh,E.Dumervil,OLB,9,2014,BAL-2014-52
+BAL,Personal Foul,11/02/2014,Pittsburgh,A.McClellan,OLB,9,2014,BAL-2014-53
+BAL,Horse Collar Tackle,11/02/2014,Pittsburgh,L.Webb,CB,9,2014,BAL-2014-54
+BAL,Roughing the Passer,11/02/2014,Pittsburgh,C.Upshaw,OLB,9,2014,BAL-2014-55
+BAL,Defensive Holding,11/02/2014,Pittsburgh,M.Elam,SS,9,2014,BAL-2014-56
+BAL,Defensive Pass Interference,11/02/2014,Pittsburgh,C.Mosley,ILB,9,2014,BAL-2014-57
+BAL,Unnecessary Roughness,11/02/2014,Pittsburgh,T.Suggs,OLB,9,2014,BAL-2014-58
+BAL,Unnecessary Roughness,11/02/2014,Pittsburgh,E.Dumervil,OLB,9,2014,BAL-2014-59
+BAL,Offensive Holding,11/02/2014,Pittsburgh,K.Osemele,G,9,2014,BAL-2014-60
+BAL,Neutral Zone Infraction,11/02/2014,Pittsburgh,E.Dumervil,OLB,9,2014,BAL-2014-61
+BAL,Defensive Pass Interference,11/02/2014,Pittsburgh,L.Webb,CB,9,2014,BAL-2014-62
+BAL,Unnecessary Roughness,11/02/2014,Pittsburgh,J.Zuttah,C,9,2014,BAL-2014-63
+BAL,Defensive Offside,11/09/2014,Tennessee,T.Suggs,OLB,10,2014,BAL-2014-64
+BAL,False Start,11/09/2014,Tennessee,R.Wagner,T,10,2014,BAL-2014-65
+BAL,Offensive Holding,11/09/2014,Tennessee,A.Levine,CB,10,2014,BAL-2014-66
+BAL,Neutral Zone Infraction,11/09/2014,Tennessee,T.Suggs,OLB,10,2014,BAL-2014-67
+BAL,Offensive Holding,11/09/2014,Tennessee,P.McPhee,LB,10,2014,BAL-2014-68
+BAL,Personal Foul,11/09/2014,Tennessee,D.Stewart,DB,10,2014,BAL-2014-69
+BAL,Offensive Holding,11/09/2014,Tennessee,S.Smith,WR,10,2014,BAL-2014-70
+BAL,Horse Collar Tackle,11/24/2014,New Orleans,L.Webb,CB,12,2014,BAL-2014-71
+BAL,Illegal Use of Hands,11/24/2014,New Orleans,W.Hill,SS,12,2014,BAL-2014-72
+BAL,False Start,11/24/2014,New Orleans,O.Daniels,TE,12,2014,BAL-2014-73
+BAL,Roughing the Passer,11/24/2014,New Orleans,H.Ngata,DT,12,2014,BAL-2014-74
+BAL,Offensive Holding,11/24/2014,New Orleans,M.Elam,SS,12,2014,BAL-2014-75
+BAL,Illegal Use of Hands,11/24/2014,New Orleans,K.Osemele,G,12,2014,BAL-2014-76
+BAL,Ineligible Downfield Pass,11/24/2014,New Orleans,E.Monroe,T,12,2014,BAL-2014-77
+BAL,Delay of Game,11/30/2014,San Diego,J.Flacco,QB,13,2014,BAL-2014-78
+BAL,Illegal Use of Hands,11/30/2014,San Diego,C.Upshaw,OLB,13,2014,BAL-2014-79
+BAL,Defensive Offside,11/30/2014,San Diego,E.Dumervil,OLB,13,2014,BAL-2014-80
+BAL,Encroachment,11/30/2014,San Diego,P.McPhee,LB,13,2014,BAL-2014-81
+BAL,Defensive Holding,11/30/2014,San Diego,M.Elam,SS,13,2014,BAL-2014-82
+BAL,Illegal Use of Hands,11/30/2014,San Diego,E.Monroe,T,13,2014,BAL-2014-83
+BAL,Defensive Offside,11/30/2014,San Diego,E.Dumervil,OLB,13,2014,BAL-2014-84
+BAL,Illegal Use of Hands,11/30/2014,San Diego,T.Suggs,OLB,13,2014,BAL-2014-85
+BAL,Illegal Block Above the Waist,11/30/2014,San Diego,L.Taliaferro,RB,13,2014,BAL-2014-86
+BAL,Defensive Offside,11/30/2014,San Diego,C.Upshaw,OLB,13,2014,BAL-2014-87
+BAL,Ineligible Downfield Pass,11/30/2014,San Diego,K.Osemele,G,13,2014,BAL-2014-88
+BAL,Illegal Shift,11/30/2014,San Diego,S.Smith,WR,13,2014,BAL-2014-89
+BAL,Illegal Contact,11/30/2014,San Diego,M.Elam,SS,13,2014,BAL-2014-90
+BAL,Defensive Holding,11/30/2014,San Diego,D.Smith,ILB,13,2014,BAL-2014-91
+BAL,Defensive Offside,11/30/2014,San Diego,E.Dumervil,OLB,13,2014,BAL-2014-92
+BAL,Defensive Pass Interference,11/30/2014,San Diego,A.Levine,CB,13,2014,BAL-2014-93
+BAL,Defensive Offside,12/07/2014,Miami,T.Suggs,OLB,14,2014,BAL-2014-94
+BAL,False Start,12/07/2014,Miami,J.Zuttah,C,14,2014,BAL-2014-95
+BAL,Neutral Zone Infraction,12/07/2014,Miami,B.Williams,NT,14,2014,BAL-2014-96
+BAL,Neutral Zone Infraction,12/07/2014,Miami,C.Upshaw,OLB,14,2014,BAL-2014-97
+BAL,Illegal Formation,12/07/2014,Miami,K.Juszczyk,FB,14,2014,BAL-2014-98
+BAL,Offensive Holding,12/07/2014,Miami,D.Gorrer,DB,14,2014,BAL-2014-99
+BAL,Ineligible Downfield Pass,12/07/2014,Miami,J.Zuttah,C,14,2014,BAL-2014-100
+BAL,Illegal Block Above the Waist,12/07/2014,Miami,W.Hill,SS,14,2014,BAL-2014-101
+BAL,Offensive Offside,12/14/2014,Jacksonville,B.Trawick,DB,15,2014,BAL-2014-102
+BAL,False Start,12/14/2014,Jacksonville,J.Zuttah,C,15,2014,BAL-2014-103
+BAL,Offensive Holding,12/14/2014,Jacksonville,T.Smith,WR,15,2014,BAL-2014-104
+BAL,Offensive Holding,12/14/2014,Jacksonville,K.Osemele,G,15,2014,BAL-2014-105
+BAL,False Start,12/14/2014,Jacksonville,M.Yanda,G,15,2014,BAL-2014-106
+BAL,Offensive Holding,12/14/2014,Jacksonville,E.Monroe,T,15,2014,BAL-2014-107
+BAL,Delay of Game,12/14/2014,Jacksonville,S.Koch,P,15,2014,BAL-2014-108
+BAL,Offensive Holding,12/14/2014,Jacksonville,B.Trawick,DB,15,2014,BAL-2014-109
+BAL,Defensive Offside,12/21/2014,Houston,E.Dumervil,OLB,16,2014,BAL-2014-110
+BAL,Defensive Offside,12/21/2014,Houston,P.McPhee,LB,16,2014,BAL-2014-111
+BAL,Unnecessary Roughness,12/21/2014,Houston,D.Smith,ILB,16,2014,BAL-2014-112
+BAL,Intentional Grounding,12/21/2014,Houston,J.Flacco,QB,16,2014,BAL-2014-113
+BAL,Offensive Pass Interference,12/21/2014,Houston,T.Smith,WR,16,2014,BAL-2014-114
+BAL,Offensive Holding,12/21/2014,Houston,E.Monroe,T,16,2014,BAL-2014-115
+BAL,Offensive Holding,12/21/2014,Houston,J.Hurst,T,16,2014,BAL-2014-116
+BAL,Offensive Holding,12/21/2014,Houston,K.Osemele,G,16,2014,BAL-2014-117
+BAL,Defensive Offside,12/21/2014,Houston,T.Suggs,OLB,16,2014,BAL-2014-118
+BAL,False Start,12/21/2014,Houston,K.Aiken,WR,16,2014,BAL-2014-119
+BAL,False Start,12/28/2014,Cleveland,O.Daniels,TE,17,2014,BAL-2014-120
+BAL,Invalid Fair Catch Signal,12/28/2014,Cleveland,J.Jones,WR,17,2014,BAL-2014-121
+BAL,Ineligible Downfield Pass,12/28/2014,Cleveland,J.Urschel,G,17,2014,BAL-2014-122
+BAL,Offensive Holding,12/28/2014,Cleveland,J.Hurst,T,17,2014,BAL-2014-123
+BAL,Offside on Free Kick,12/28/2014,Cleveland,F.Toussaint,RB,17,2014,BAL-2014-124
+BAL,Defensive Holding,12/28/2014,Cleveland,R.Melvin,CB,17,2014,BAL-2014-125
+BAL,Defensive Offside,12/28/2014,Cleveland,C.Upshaw,OLB,17,2014,BAL-2014-126
+BAL,False Start,12/28/2014,Cleveland,M.Yanda,G,17,2014,BAL-2014-127
+BAL,Delay of Game,12/28/2014,Cleveland,J.Tucker,K,17,2014,BAL-2014-128
+BAL,Personal Foul,12/28/2014,Cleveland,C.Upshaw,OLB,17,2014,BAL-2014-129
+BAL,Offensive Holding,12/28/2014,Cleveland,W.Hill,SS,17,2014,BAL-2014-130
+BAL,Unnecessary Roughness,01/03/2015,Pittsburgh,R.Melvin,CB,18,2014,BAL-2014-131
+BAL,Defensive Offside,01/03/2015,Pittsburgh,E.Dumervil,OLB,18,2014,BAL-2014-132
+BAL,Unnecessary Roughness,01/10/2015,New England,T.Smith,WR,19,2014,BAL-2014-133
+BAL,Ineligible Downfield Pass,01/10/2015,New England,J.Urschel,G,19,2014,BAL-2014-134
+BAL,Illegal Contact,01/10/2015,New England,C.Mosley,ILB,19,2014,BAL-2014-135
+BAL,Illegal Contact,01/10/2015,New England,L.Webb,CB,19,2014,BAL-2014-136
+BAL,Taunting,01/10/2015,New England,T.Smith,WR,19,2014,BAL-2014-137
+BAL,Offensive Holding,01/10/2015,New England,K.Aiken,WR,19,2014,BAL-2014-138
+BAL,Illegal Block Above the Waist,01/10/2015,New England,J.Miles,DB,19,2014,BAL-2014-139

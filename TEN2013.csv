@@ -1,0 +1,103 @@
+team,penalty,game,opponent,player,position,week,year,penaltyindex
+TEN,Offensive Pass Interference,09/08/2013,Pittsburgh,D.Walker,TE,1,2013,TEN-2013-0
+TEN,Illegal Shift,09/08/2013,Pittsburgh,D.Reynaud,WR,1,2013,TEN-2013-1
+TEN,Chop Block,09/08/2013,Pittsburgh,C.Johnson,RB,1,2013,TEN-2013-2
+TEN,Offensive Holding,09/08/2013,Pittsburgh,K.Britt,WR,1,2013,TEN-2013-3
+TEN,False Start,09/08/2013,Pittsburgh,J.Battle,RB,1,2013,TEN-2013-4
+TEN,Unnecessary Roughness,09/08/2013,Pittsburgh,D.Stewart,T,1,2013,TEN-2013-5
+TEN,Face Mask (15 Yards),09/08/2013,Pittsburgh,A.Ayers,LB,1,2013,TEN-2013-6
+TEN,Unsportsmanlike Conduct,09/15/2013,Houston,K.Wright,WR,2,2013,TEN-2013-7
+TEN,Offensive Holding,09/15/2013,Houston,D.Walker,TE,2,2013,TEN-2013-8
+TEN,Offensive Holding,09/15/2013,Houston,K.Britt,WR,2,2013,TEN-2013-9
+TEN,Roughing the Passer,09/15/2013,Houston,R.Pitoitua,DE,2,2013,TEN-2013-10
+TEN,Personal Foul,09/15/2013,Houston,R.Turner,G,2,2013,TEN-2013-11
+TEN,Offensive Holding,09/15/2013,Houston,R.Turner,G,2,2013,TEN-2013-12
+TEN,Delay of Game,09/15/2013,Houston,J.Locker,QB,2,2013,TEN-2013-13
+TEN,False Start,09/15/2013,Houston,A.Levitre,G,2,2013,TEN-2013-14
+TEN,False Start,09/22/2013,San Diego,K.Britt,WR,3,2013,TEN-2013-15
+TEN,Illegal Touch Kick,09/22/2013,San Diego,T.Campbell,DB,3,2013,TEN-2013-16
+TEN,Unnecessary Roughness,09/22/2013,San Diego,M.Fokou,LB,3,2013,TEN-2013-17
+TEN,Illegal Block Above the Waist,09/22/2013,San Diego,A.Verner,CB,3,2013,TEN-2013-18
+TEN,Offensive Holding,09/22/2013,San Diego,A.Levitre,G,3,2013,TEN-2013-19
+TEN,Defensive Pass Interference,09/22/2013,San Diego,B.Pollard,SS,3,2013,TEN-2013-20
+TEN,Illegal Block Above the Waist,09/22/2013,San Diego,K.Britt,WR,3,2013,TEN-2013-21
+TEN,Defensive Pass Interference,09/22/2013,San Diego,C.Sensabaugh,CB,3,2013,TEN-2013-22
+TEN,Defensive Holding,09/22/2013,San Diego,A.Verner,CB,3,2013,TEN-2013-23
+TEN,Offensive Holding,09/22/2013,San Diego,R.Turner,G,3,2013,TEN-2013-24
+TEN,Illegal Block Above the Waist,09/22/2013,San Diego,M.Preston,WR,3,2013,TEN-2013-25
+TEN,Neutral Zone Infraction,09/29/2013,N.Y. Jets,J.Casey,DT,4,2013,TEN-2013-26
+TEN,Offensive Holding,09/29/2013,N.Y. Jets,A.Levitre,G,4,2013,TEN-2013-27
+TEN,Player Out of Bounds on Punt,09/29/2013,N.Y. Jets,T.Campbell,DB,4,2013,TEN-2013-28
+TEN,Illegal Block Above the Waist,09/29/2013,N.Y. Jets,C.Sensabaugh,CB,4,2013,TEN-2013-29
+TEN,Neutral Zone Infraction,10/06/2013,Kansas City,M.Griffin,FS,5,2013,TEN-2013-30
+TEN,Encroachment,10/06/2013,Kansas City,A.Johnson,DT,5,2013,TEN-2013-31
+TEN,Defensive Holding,10/06/2013,Kansas City,Z.Brown,ILB,5,2013,TEN-2013-32
+TEN,False Start,10/06/2013,Kansas City,M.Roos,T,5,2013,TEN-2013-33
+TEN,Unnecessary Roughness,10/06/2013,Kansas City,M.Fokou,LB,5,2013,TEN-2013-34
+TEN,Defensive Pass Interference,10/06/2013,Kansas City,G.Wilson,SS,5,2013,TEN-2013-35
+TEN,False Start,10/13/2013,Seattle,A.Levitre,G,6,2013,TEN-2013-36
+TEN,False Start,10/13/2013,Seattle,A.Levitre,G,6,2013,TEN-2013-37
+TEN,Face Mask (15 Yards),10/13/2013,Seattle,J.McCourty,CB,6,2013,TEN-2013-38
+TEN,Defensive Holding,10/13/2013,Seattle,A.Verner,CB,6,2013,TEN-2013-39
+TEN,Offensive Holding,10/13/2013,Seattle,R.Turner,G,6,2013,TEN-2013-40
+TEN,Delay of Game,10/13/2013,Seattle,B.Kern,P,6,2013,TEN-2013-41
+TEN,Defensive Offside,10/13/2013,Seattle,L.Edwards,DE,6,2013,TEN-2013-42
+TEN,Offensive Holding,10/20/2013,San Francisco,D.Stewart,T,7,2013,TEN-2013-43
+TEN,False Start,10/20/2013,San Francisco,N.Washington,WR,7,2013,TEN-2013-44
+TEN,Offensive Holding,10/20/2013,San Francisco,G.Wilson,SS,7,2013,TEN-2013-45
+TEN,Offensive Holding,10/20/2013,San Francisco,D.Walker,TE,7,2013,TEN-2013-46
+TEN,Unnecessary Roughness,10/20/2013,San Francisco,A.Ayers,LB,7,2013,TEN-2013-47
+TEN,Delay of Game,10/20/2013,San Francisco,J.Locker,QB,7,2013,TEN-2013-48
+TEN,Illegal Block Above the Waist,10/20/2013,San Francisco,T.Campbell,DB,7,2013,TEN-2013-49
+TEN,Illegal Block Above the Waist,10/20/2013,San Francisco,C.Johnson,RB,7,2013,TEN-2013-50
+TEN,Unnecessary Roughness,10/20/2013,San Francisco,K.Britt,WR,7,2013,TEN-2013-51
+TEN,Offside on Free Kick,10/20/2013,San Francisco,D.Stafford,SS,7,2013,TEN-2013-52
+TEN,Defensive Offside,11/03/2013,St. Louis,Mi.Martin,DE,9,2013,TEN-2013-53
+TEN,Horse Collar Tackle,11/03/2013,St. Louis,J.Casey,DT,9,2013,TEN-2013-54
+TEN,Illegal Block Above the Waist,11/03/2013,St. Louis,T.Campbell,DB,9,2013,TEN-2013-55
+TEN,False Start,11/10/2013,Jacksonville,D.Stafford,SS,10,2013,TEN-2013-56
+TEN,Illegal Block Above the Waist,11/10/2013,Jacksonville,K.Wright,WR,10,2013,TEN-2013-57
+TEN,Roughing the Passer,11/10/2013,Jacksonville,B.Pollard,SS,10,2013,TEN-2013-58
+TEN,Offensive Holding,11/10/2013,Jacksonville,C.Stevens,TE,10,2013,TEN-2013-59
+TEN,Neutral Zone Infraction,11/10/2013,Jacksonville,J.Casey,DT,10,2013,TEN-2013-60
+TEN,Offensive Holding,11/10/2013,Jacksonville,C.Warmack,G,10,2013,TEN-2013-61
+TEN,Defensive Pass Interference,11/14/2013,Indianapolis,J.McCourty,CB,11,2013,TEN-2013-62
+TEN,Offensive Holding,11/14/2013,Indianapolis,C.Spencer,C,11,2013,TEN-2013-63
+TEN,Unnecessary Roughness,11/14/2013,Indianapolis,A.Ayers,LB,11,2013,TEN-2013-64
+TEN,Offensive Holding,11/24/2013,Oakland,A.Levitre,G,12,2013,TEN-2013-65
+TEN,False Start,11/24/2013,Oakland,C.Warmack,G,12,2013,TEN-2013-66
+TEN,Offensive Holding,11/24/2013,Oakland,C.Mooney,RB,12,2013,TEN-2013-67
+TEN,Offensive Holding,11/24/2013,Oakland,M.Roos,T,12,2013,TEN-2013-68
+TEN,Offensive Holding,11/24/2013,Oakland,T.Thompson,TE,12,2013,TEN-2013-69
+TEN,Personal Foul,11/24/2013,Oakland,M.Griffin,FS,12,2013,TEN-2013-70
+TEN,Offensive Holding,11/24/2013,Oakland,A.Levitre,G,12,2013,TEN-2013-71
+TEN,Unnecessary Roughness,11/24/2013,Oakland,J.Hunter,WR,12,2013,TEN-2013-72
+TEN,Delay of Game,11/24/2013,Oakland,R.Fitzpatrick,QB,12,2013,TEN-2013-73
+TEN,Offensive Holding,11/24/2013,Oakland,C.Warmack,G,12,2013,TEN-2013-74
+TEN,Neutral Zone Infraction,12/01/2013,Indianapolis,A.Ayers,LB,13,2013,TEN-2013-75
+TEN,Defensive Offside,12/01/2013,Indianapolis,L.Edwards,DE,13,2013,TEN-2013-76
+TEN,Defensive Pass Interference,12/01/2013,Indianapolis,A.Verner,CB,13,2013,TEN-2013-77
+TEN,Defensive Offside,12/01/2013,Indianapolis,A.Ayers,LB,13,2013,TEN-2013-78
+TEN,Defensive Pass Interference,12/01/2013,Indianapolis,A.Verner,CB,13,2013,TEN-2013-79
+TEN,Delay of Game,12/01/2013,Indianapolis,R.Fitzpatrick,QB,13,2013,TEN-2013-80
+TEN,Unnecessary Roughness,12/01/2013,Indianapolis,M.Fokou,LB,13,2013,TEN-2013-81
+TEN,Unsportsmanlike Conduct,12/01/2013,Indianapolis,S.Greene,RB,13,2013,TEN-2013-82
+TEN,Offensive Holding,12/08/2013,Denver,C.Warmack,G,14,2013,TEN-2013-83
+TEN,False Start,12/08/2013,Denver,M.Roos,T,14,2013,TEN-2013-84
+TEN,Defensive Holding,12/08/2013,Denver,C.Sensabaugh,CB,14,2013,TEN-2013-85
+TEN,Unsportsmanlike Conduct,12/08/2013,Denver,B.Pollard,SS,14,2013,TEN-2013-86
+TEN,Defensive Pass Interference,12/08/2013,Denver,A.Verner,CB,14,2013,TEN-2013-87
+TEN,Personal Foul,12/08/2013,Denver,B.Pollard,SS,14,2013,TEN-2013-88
+TEN,Defensive Holding,12/08/2013,Denver,A.Verner,CB,14,2013,TEN-2013-89
+TEN,Defensive Holding,12/08/2013,Denver,A.Verner,CB,14,2013,TEN-2013-90
+TEN,Face Mask (15 Yards),12/08/2013,Denver,M.Griffin,FS,14,2013,TEN-2013-91
+TEN,Offensive Holding,12/08/2013,Denver,D.Stewart,T,14,2013,TEN-2013-92
+TEN,Roughing the Passer,12/15/2013,Arizona,K.Wimbley,OLB,15,2013,TEN-2013-93
+TEN,Offensive Holding,12/15/2013,Arizona,C.Warmack,G,15,2013,TEN-2013-94
+TEN,Neutral Zone Infraction,12/22/2013,Jacksonville,A.Ayers,LB,16,2013,TEN-2013-95
+TEN,Illegal Contact,12/29/2013,Houston,M.Fokou,LB,17,2013,TEN-2013-96
+TEN,Offensive Holding,12/29/2013,Houston,D.Walker,TE,17,2013,TEN-2013-97
+TEN,Offensive Holding,12/29/2013,Houston,C.McCarthy,MLB,17,2013,TEN-2013-98
+TEN,Offensive Holding,12/29/2013,Houston,D.Walker,TE,17,2013,TEN-2013-99
+TEN,Offensive Pass Interference,12/29/2013,Houston,D.Walker,TE,17,2013,TEN-2013-100
+TEN,Defensive Pass Interference,12/29/2013,Houston,A.Verner,CB,17,2013,TEN-2013-101

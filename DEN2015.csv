@@ -1,0 +1,144 @@
+team,penalty,game,opponent,player,position,week,year,penaltyindex
+DEN,False Start,09/13/2015,Baltimore,L.Vasquez,T,1,2015,DEN-2015-0
+DEN,False Start,09/13/2015,Baltimore,E.Mathis,G,1,2015,DEN-2015-1
+DEN,False Start,09/13/2015,Baltimore,P.Manning,QB,1,2015,DEN-2015-2
+DEN,Illegal Block Above the Waist,09/13/2015,Baltimore,S.Barrett,LB,1,2015,DEN-2015-3
+DEN,False Start,09/13/2015,Baltimore,T.Sambrailo,T,1,2015,DEN-2015-4
+DEN,Offensive Holding,09/13/2015,Baltimore,K.Webster,CB,1,2015,DEN-2015-5
+DEN,Delay of Game,09/13/2015,Baltimore,P.Manning,QB,1,2015,DEN-2015-6
+DEN,Defensive Pass Interference,09/13/2015,Baltimore,D.Bruton,SS,1,2015,DEN-2015-7
+DEN,Roughing the Passer,09/17/2015,Kansas City,D.Ware,LB,2,2015,DEN-2015-8
+DEN,Unnecessary Roughness,09/17/2015,Kansas City,D.Kilgo,NT,2,2015,DEN-2015-9
+DEN,Defensive Offside,09/17/2015,Kansas City,V.Miller,OLB,2,2015,DEN-2015-10
+DEN,Unnecessary Roughness,09/17/2015,Kansas City,V.Miller,OLB,2,2015,DEN-2015-11
+DEN,Unnecessary Roughness,09/17/2015,Kansas City,M.Jackson,DT,2,2015,DEN-2015-12
+DEN,Offensive Holding,09/17/2015,Kansas City,T.Davis,OLB,2,2015,DEN-2015-13
+DEN,Illegal Contact,09/17/2015,Kansas City,D.Bruton,SS,2,2015,DEN-2015-14
+DEN,Offensive Holding,09/17/2015,Kansas City,D.Bruton,SS,2,2015,DEN-2015-15
+DEN,Unsportsmanlike Conduct,09/17/2015,Kansas City,D.Bruton,SS,2,2015,DEN-2015-16
+DEN,Defensive Offside,09/27/2015,Detroit,V.Miller,OLB,3,2015,DEN-2015-17
+DEN,Defensive Pass Interference,09/27/2015,Detroit,C.Harris,CB,3,2015,DEN-2015-18
+DEN,Roughing the Passer,09/27/2015,Detroit,V.Miller,OLB,3,2015,DEN-2015-19
+DEN,Defensive Pass Interference,09/27/2015,Detroit,A.Talib,CB,3,2015,DEN-2015-20
+DEN,Unsportsmanlike Conduct,09/27/2015,Detroit,D.Thomas,WR,3,2015,DEN-2015-21
+DEN,Unnecessary Roughness,09/27/2015,Detroit,S.Williams,DT,3,2015,DEN-2015-22
+DEN,Offensive Holding,09/27/2015,Detroit,T.Sambrailo,T,3,2015,DEN-2015-23
+DEN,False Start,09/27/2015,Detroit,M.Paradis,C,3,2015,DEN-2015-24
+DEN,Illegal Contact,09/27/2015,Detroit,D.Bruton,SS,3,2015,DEN-2015-25
+DEN,Offensive Holding,10/04/2015,Minnesota,C.Latimer,WR,4,2015,DEN-2015-26
+DEN,False Start,10/04/2015,Minnesota,D.Thomas,WR,4,2015,DEN-2015-27
+DEN,Illegal Formation,10/04/2015,Minnesota,R.Harris,T,4,2015,DEN-2015-28
+DEN,Defensive Holding,10/04/2015,Minnesota,A.Talib,CB,4,2015,DEN-2015-29
+DEN,Defensive Offside,10/04/2015,Minnesota,D.Ware,LB,4,2015,DEN-2015-30
+DEN,Illegal Formation,10/04/2015,Minnesota,M.Schofield,T,4,2015,DEN-2015-31
+DEN,Defensive Offside,10/04/2015,Minnesota,T.Ward,SS,4,2015,DEN-2015-32
+DEN,Defensive Offside,10/04/2015,Minnesota,D.Ware,LB,4,2015,DEN-2015-33
+DEN,Neutral Zone Infraction,10/11/2015,Oakland,T.Ward,SS,5,2015,DEN-2015-34
+DEN,Unsportsmanlike Conduct,10/11/2015,Oakland,M.Jackson,DT,5,2015,DEN-2015-35
+DEN,Unnecessary Roughness,10/11/2015,Oakland,T.Polumbus,T,5,2015,DEN-2015-36
+DEN,Offensive Holding,10/11/2015,Oakland,M.Schofield,T,5,2015,DEN-2015-37
+DEN,Roughing the Passer,10/11/2015,Oakland,V.Miller,OLB,5,2015,DEN-2015-38
+DEN,Neutral Zone Infraction,10/11/2015,Oakland,O.Bolden,SS,5,2015,DEN-2015-39
+DEN,Defensive Pass Interference,10/11/2015,Oakland,B.Roby,CB,5,2015,DEN-2015-40
+DEN,Defensive Offside,10/18/2015,Cleveland,A.Talib,CB,6,2015,DEN-2015-41
+DEN,Face Mask (15 Yards),10/18/2015,Cleveland,M.Jackson,DT,6,2015,DEN-2015-42
+DEN,Defensive Offside,10/18/2015,Cleveland,A.Smith,DE,6,2015,DEN-2015-43
+DEN,Offensive Holding,10/18/2015,Cleveland,T.Davis,OLB,6,2015,DEN-2015-44
+DEN,Fair Catch Interference,10/18/2015,Cleveland,B.Fowler,WR,6,2015,DEN-2015-45
+DEN,Offensive Holding,10/18/2015,Cleveland,M.Garcia,C,6,2015,DEN-2015-46
+DEN,Neutral Zone Infraction,10/18/2015,Cleveland,L.McCray,OLB,6,2015,DEN-2015-47
+DEN,Defensive Offside,10/18/2015,Cleveland,M.Jackson,DT,6,2015,DEN-2015-48
+DEN,Offensive Holding,10/18/2015,Cleveland,L.Vasquez,T,6,2015,DEN-2015-49
+DEN,Roughing the Passer,10/18/2015,Cleveland,D.Wolfe,DE,6,2015,DEN-2015-50
+DEN,Illegal Use of Hands,11/01/2015,Green Bay,R.Harris,T,8,2015,DEN-2015-51
+DEN,Defensive Holding,11/01/2015,Green Bay,C.Harris,CB,8,2015,DEN-2015-52
+DEN,Offensive Holding,11/01/2015,Green Bay,K.Webster,CB,8,2015,DEN-2015-53
+DEN,Offensive Pass Interference,11/01/2015,Green Bay,A.Caldwell,WR,8,2015,DEN-2015-54
+DEN,False Start,11/01/2015,Green Bay,E.Sanders,WR,8,2015,DEN-2015-55
+DEN,Roughing the Passer,11/01/2015,Green Bay,D.Bruton,SS,8,2015,DEN-2015-56
+DEN,Offensive Holding,11/01/2015,Green Bay,M.Garcia,C,8,2015,DEN-2015-57
+DEN,Illegal Use of Hands,11/01/2015,Green Bay,M.Garcia,C,8,2015,DEN-2015-58
+DEN,Defensive Pass Interference,11/01/2015,Green Bay,T.Ward,SS,8,2015,DEN-2015-59
+DEN,Defensive Holding,11/01/2015,Green Bay,A.Talib,CB,8,2015,DEN-2015-60
+DEN,Defensive Offside,11/01/2015,Green Bay,D.Ware,LB,8,2015,DEN-2015-61
+DEN,Unnecessary Roughness,11/08/2015,Indianapolis,T.Ward,SS,9,2015,DEN-2015-62
+DEN,Illegal Use of Hands,11/08/2015,Indianapolis,K.Webster,CB,9,2015,DEN-2015-63
+DEN,Defensive Offside,11/08/2015,Indianapolis,V.Miller,OLB,9,2015,DEN-2015-64
+DEN,Face Mask (15 Yards),11/08/2015,Indianapolis,D.Trevathan,OLB,9,2015,DEN-2015-65
+DEN,Offensive Holding,11/08/2015,Indianapolis,T.Polumbus,T,9,2015,DEN-2015-66
+DEN,Defensive Holding,11/08/2015,Indianapolis,T.Ward,SS,9,2015,DEN-2015-67
+DEN,Unnecessary Roughness,11/08/2015,Indianapolis,A.Talib,CB,9,2015,DEN-2015-68
+DEN,Defensive Holding,11/08/2015,Indianapolis,D.Trevathan,OLB,9,2015,DEN-2015-69
+DEN,Unsportsmanlike Conduct,11/08/2015,Indianapolis,A.Talib,CB,9,2015,DEN-2015-70
+DEN,Intentional Grounding,11/15/2015,Kansas City,P.Manning,QB,10,2015,DEN-2015-71
+DEN,Illegal Use of Hands,11/15/2015,Kansas City,K.Webster,CB,10,2015,DEN-2015-72
+DEN,Fair Catch Interference,11/15/2015,Kansas City,O.Bolden,SS,10,2015,DEN-2015-73
+DEN,Defensive Holding,11/15/2015,Kansas City,K.Webster,CB,10,2015,DEN-2015-74
+DEN,Offensive Holding,11/15/2015,Kansas City,M.Garcia,C,10,2015,DEN-2015-75
+DEN,Disqualification,11/15/2015,Kansas City,T.Ward,SS,10,2015,DEN-2015-76
+DEN,Face Mask (15 Yards),11/22/2015,Chicago,M.Schofield,T,11,2015,DEN-2015-77
+DEN,False Start,11/22/2015,Chicago,R.Harris,T,11,2015,DEN-2015-78
+DEN,Defensive Offside,11/22/2015,Chicago,S.Ray,LB,11,2015,DEN-2015-79
+DEN,Defensive Pass Interference,11/22/2015,Chicago,B.Marshall,OLB,11,2015,DEN-2015-80
+DEN,Unnecessary Roughness,11/22/2015,Chicago,T.Ward,SS,11,2015,DEN-2015-81
+DEN,Delay of Game,11/22/2015,Chicago,B.Osweiler,QB,11,2015,DEN-2015-82
+DEN,Defensive Pass Interference,11/22/2015,Chicago,A.Talib,CB,11,2015,DEN-2015-83
+DEN,Defensive Pass Interference,11/22/2015,Chicago,B.Roby,CB,11,2015,DEN-2015-84
+DEN,Unnecessary Roughness,11/29/2015,New England,A.Talib,CB,12,2015,DEN-2015-85
+DEN,Neutral Zone Infraction,11/29/2015,New England,V.Miller,OLB,12,2015,DEN-2015-86
+DEN,Roughing the Passer,11/29/2015,New England,V.Miller,OLB,12,2015,DEN-2015-87
+DEN,Offensive Holding,11/29/2015,New England,E.Mathis,G,12,2015,DEN-2015-88
+DEN,False Start,11/29/2015,New England,B.Osweiler,QB,12,2015,DEN-2015-89
+DEN,Defensive Holding,11/29/2015,New England,C.Harris,CB,12,2015,DEN-2015-90
+DEN,Offensive Pass Interference,12/06/2015,San Diego,D.Thomas,WR,13,2015,DEN-2015-91
+DEN,Defensive Holding,12/06/2015,San Diego,C.Harris,CB,13,2015,DEN-2015-92
+DEN,Defensive Offside,12/06/2015,San Diego,M.Jackson,DT,13,2015,DEN-2015-93
+DEN,Illegal Contact,12/13/2015,Oakland,C.Harris,CB,14,2015,DEN-2015-94
+DEN,Running Into the Kicker,12/13/2015,Oakland,T.Davis,OLB,14,2015,DEN-2015-95
+DEN,Offensive Holding,12/13/2015,Oakland,L.Doss,CB,14,2015,DEN-2015-96
+DEN,Offensive Holding,12/13/2015,Oakland,V.Davis,TE,14,2015,DEN-2015-97
+DEN,Offensive Holding,12/20/2015,Pittsburgh,K.Webster,CB,15,2015,DEN-2015-98
+DEN,Illegal Use of Hands,12/20/2015,Pittsburgh,V.Walker,DE,15,2015,DEN-2015-99
+DEN,Neutral Zone Infraction,12/20/2015,Pittsburgh,V.Miller,OLB,15,2015,DEN-2015-100
+DEN,Offensive Pass Interference,12/20/2015,Pittsburgh,D.Thomas,WR,15,2015,DEN-2015-101
+DEN,Defensive Pass Interference,12/20/2015,Pittsburgh,A.Talib,CB,15,2015,DEN-2015-102
+DEN,Unnecessary Roughness,12/20/2015,Pittsburgh,A.Smith,DE,15,2015,DEN-2015-103
+DEN,Offensive Holding,12/20/2015,Pittsburgh,L.Vasquez,T,15,2015,DEN-2015-104
+DEN,Offensive Holding,12/20/2015,Pittsburgh,V.Davis,TE,15,2015,DEN-2015-105
+DEN,Offensive Holding,12/20/2015,Pittsburgh,M.Garcia,C,15,2015,DEN-2015-106
+DEN,Offensive Holding,12/20/2015,Pittsburgh,M.Schofield,T,15,2015,DEN-2015-107
+DEN,Defensive Offside,12/20/2015,Pittsburgh,D.Ware,LB,15,2015,DEN-2015-108
+DEN,Defensive Pass Interference,12/20/2015,Pittsburgh,C.Harris,CB,15,2015,DEN-2015-109
+DEN,Unnecessary Roughness,12/20/2015,Pittsburgh,D.Wolfe,DE,15,2015,DEN-2015-110
+DEN,Offensive Holding,12/20/2015,Pittsburgh,M.Garcia,C,15,2015,DEN-2015-111
+DEN,Neutral Zone Infraction,12/20/2015,Pittsburgh,D.Wolfe,DE,15,2015,DEN-2015-112
+DEN,Defensive Holding,12/28/2015,Cincinnati,B.Marshall,OLB,16,2015,DEN-2015-113
+DEN,Illegal Use of Hands,12/28/2015,Cincinnati,R.Harris,T,16,2015,DEN-2015-114
+DEN,False Start,12/28/2015,Cincinnati,D.Thomas,WR,16,2015,DEN-2015-115
+DEN,Face Mask (15 Yards),12/28/2015,Cincinnati,M.Jackson,DT,16,2015,DEN-2015-116
+DEN,Neutral Zone Infraction,12/28/2015,Cincinnati,D.Ware,LB,16,2015,DEN-2015-117
+DEN,Defensive Offside,01/03/2016,San Diego,D.Ware,LB,17,2015,DEN-2015-118
+DEN,Offensive Holding,01/03/2016,San Diego,M.Schofield,T,17,2015,DEN-2015-119
+DEN,Defensive Holding,01/03/2016,San Diego,C.Nelson,OLB,17,2015,DEN-2015-120
+DEN,False Start,01/03/2016,San Diego,E.Sanders,WR,17,2015,DEN-2015-121
+DEN,Defensive Offside,01/03/2016,San Diego,L.McCray,OLB,17,2015,DEN-2015-122
+DEN,Defensive Holding,01/03/2016,San Diego,S.Williams,DT,17,2015,DEN-2015-123
+DEN,Defensive Pass Interference,01/17/2016,Pittsburgh,B.Roby,CB,19,2015,DEN-2015-124
+DEN,Illegal Motion,01/17/2016,Pittsburgh,K.Webster,CB,19,2015,DEN-2015-125
+DEN,Illegal Contact,01/17/2016,Pittsburgh,B.Marshall,OLB,19,2015,DEN-2015-126
+DEN,Offensive Holding,01/17/2016,Pittsburgh,M.Schofield,T,19,2015,DEN-2015-127
+DEN,Defensive Pass Interference,01/17/2016,Pittsburgh,T.Ward,SS,19,2015,DEN-2015-128
+DEN,Defensive Holding,01/24/2016,New England,A.Talib,CB,20,2015,DEN-2015-129
+DEN,Unnecessary Roughness,01/24/2016,New England,T.Ward,SS,20,2015,DEN-2015-130
+DEN,Illegal Contact,01/24/2016,New England,D.Trevathan,OLB,20,2015,DEN-2015-131
+DEN,Unsportsmanlike Conduct,01/24/2016,New England,K.Webster,CB,20,2015,DEN-2015-132
+DEN,False Start,01/24/2016,New England,M.Garcia,C,20,2015,DEN-2015-133
+DEN,Unnecessary Roughness,01/24/2016,New England,S.Keo,S,20,2015,DEN-2015-134
+DEN,False Start,01/24/2016,New England,D.Thomas,WR,20,2015,DEN-2015-135
+DEN,Defensive Holding,01/24/2016,New England,B.Marshall,OLB,20,2015,DEN-2015-136
+DEN,Taunting,02/07/2016,Carolina,A.Talib,CB,21,2015,DEN-2015-137
+DEN,Face Mask (15 Yards),02/07/2016,Carolina,A.Talib,CB,21,2015,DEN-2015-138
+DEN,Defensive Offside,02/07/2016,Carolina,A.Talib,CB,21,2015,DEN-2015-139
+DEN,Ineligible Downfield Kick,02/07/2016,Carolina,T.Davis,OLB,21,2015,DEN-2015-140
+DEN,Offensive Holding,02/07/2016,Carolina,L.Vasquez,T,21,2015,DEN-2015-141
+DEN,Unnecessary Roughness,02/07/2016,Carolina,M.Jackson,DT,21,2015,DEN-2015-142

@@ -1,0 +1,136 @@
+team,penalty,game,opponent,player,position,week,year,penaltyindex
+BUF,Illegal Use of Hands,09/07/2014,Chicago,J.Wynn,DT,1,2014,BUF-2014-0
+BUF,Defensive Pass Interference,09/07/2014,Chicago,L.McKelvin,CB,1,2014,BUF-2014-1
+BUF,Unnecessary Roughness,09/07/2014,Chicago,S.Chandler,TE,1,2014,BUF-2014-2
+BUF,Defensive Holding,09/07/2014,Chicago,N.Robey,DB,1,2014,BUF-2014-3
+BUF,Personal Foul,09/07/2014,Chicago,B.Spikes,MLB,1,2014,BUF-2014-4
+BUF,Defensive Pass Interference,09/07/2014,Chicago,L.McKelvin,CB,1,2014,BUF-2014-5
+BUF,False Start,09/07/2014,Chicago,S.Watkins,WR,1,2014,BUF-2014-6
+BUF,Offensive Holding,09/07/2014,Chicago,E.Pears,T,1,2014,BUF-2014-7
+BUF,Offensive Holding,09/07/2014,Chicago,C.Williams,T,1,2014,BUF-2014-8
+BUF,Defensive Pass Interference,09/07/2014,Chicago,A.Williams,FS,1,2014,BUF-2014-9
+BUF,Offensive Holding,09/07/2014,Chicago,S.Henderson,T,1,2014,BUF-2014-10
+BUF,Delay of Game,09/07/2014,Chicago,D.Carpenter,K,1,2014,BUF-2014-11
+BUF,Illegal Contact,09/14/2014,Miami,N.Bradham,OLB,2,2014,BUF-2014-12
+BUF,Defensive Offside,09/14/2014,Miami,J.Hughes,DE,2,2014,BUF-2014-13
+BUF,Defensive Offside,09/14/2014,Miami,J.Hughes,DE,2,2014,BUF-2014-14
+BUF,Illegal Contact,09/14/2014,Miami,C.Graham,CB,2,2014,BUF-2014-15
+BUF,Defensive Holding,09/14/2014,Miami,S.Gilmore,CB,2,2014,BUF-2014-16
+BUF,Personal Foul,09/21/2014,San Diego,B.Spikes,MLB,3,2014,BUF-2014-17
+BUF,Defensive Holding,09/21/2014,San Diego,D.Williams,SS,3,2014,BUF-2014-18
+BUF,Defensive Pass Interference,09/21/2014,San Diego,P.Brown,OLB,3,2014,BUF-2014-19
+BUF,Offensive Holding,09/21/2014,San Diego,S.Chandler,TE,3,2014,BUF-2014-20
+BUF,Face Mask (15 Yards),09/21/2014,San Diego,S.Gilmore,CB,3,2014,BUF-2014-21
+BUF,Offensive Holding,09/21/2014,San Diego,R.Brooks,CB,3,2014,BUF-2014-22
+BUF,Defensive Pass Interference,09/21/2014,San Diego,L.McKelvin,CB,3,2014,BUF-2014-23
+BUF,Defensive Offside,09/21/2014,San Diego,C.Bryant,DT,3,2014,BUF-2014-24
+BUF,Illegal Formation,09/21/2014,San Diego,S.Watkins,WR,3,2014,BUF-2014-25
+BUF,Offensive Holding,09/21/2014,San Diego,Mi.Williams,WR,3,2014,BUF-2014-26
+BUF,Intentional Grounding,09/21/2014,San Diego,E.Manuel,QB,3,2014,BUF-2014-27
+BUF,Illegal Substitution,09/21/2014,San Diego,L.McKelvin,CB,3,2014,BUF-2014-28
+BUF,Illegal Use of Hands,09/28/2014,Houston,E.Wood,C,4,2014,BUF-2014-29
+BUF,False Start,09/28/2014,Houston,C.Richardson,G,4,2014,BUF-2014-30
+BUF,False Start,09/28/2014,Houston,C.Glenn,T,4,2014,BUF-2014-31
+BUF,Illegal Contact,09/28/2014,Houston,L.McKelvin,CB,4,2014,BUF-2014-32
+BUF,Defensive Offside,09/28/2014,Houston,Ky.Williams,DT,4,2014,BUF-2014-33
+BUF,Defensive Holding,09/28/2014,Houston,S.Gilmore,CB,4,2014,BUF-2014-34
+BUF,Defensive Holding,09/28/2014,Houston,L.McKelvin,CB,4,2014,BUF-2014-35
+BUF,Neutral Zone Infraction,09/28/2014,Houston,J.Hughes,DE,4,2014,BUF-2014-36
+BUF,False Start,10/05/2014,Detroit,C.Richardson,G,5,2014,BUF-2014-37
+BUF,Illegal Block Above the Waist,10/05/2014,Detroit,C.Hogan,WR,5,2014,BUF-2014-38
+BUF,False Start,10/05/2014,Detroit,L.Smith,TE,5,2014,BUF-2014-39
+BUF,Offensive Holding,10/05/2014,Detroit,L.Smith,TE,5,2014,BUF-2014-40
+BUF,Offensive Holding,10/05/2014,Detroit,C.Richardson,G,5,2014,BUF-2014-41
+BUF,Defensive Pass Interference,10/05/2014,Detroit,K.Rivers,OLB,5,2014,BUF-2014-42
+BUF,Defensive Holding,10/05/2014,Detroit,S.Gilmore,CB,5,2014,BUF-2014-43
+BUF,Defensive Holding,10/05/2014,Detroit,D.Williams,SS,5,2014,BUF-2014-44
+BUF,Unnecessary Roughness,10/05/2014,Detroit,P.Brown,OLB,5,2014,BUF-2014-45
+BUF,False Start,10/05/2014,Detroit,C.Richardson,G,5,2014,BUF-2014-46
+BUF,Unsportsmanlike Conduct,10/12/2014,New England,J.Hughes,DE,6,2014,BUF-2014-47
+BUF,Defensive Pass Interference,10/12/2014,New England,D.Williams,SS,6,2014,BUF-2014-48
+BUF,Offensive Holding,10/12/2014,New England,L.Smith,TE,6,2014,BUF-2014-49
+BUF,Offensive Holding,10/12/2014,New England,L.Dean,LB,6,2014,BUF-2014-50
+BUF,Defensive Offside,10/12/2014,New England,J.Hughes,DE,6,2014,BUF-2014-51
+BUF,Defensive Pass Interference,10/12/2014,New England,D.Williams,SS,6,2014,BUF-2014-52
+BUF,Offensive Pass Interference,10/12/2014,New England,S.Watkins,WR,6,2014,BUF-2014-53
+BUF,Offensive Pass Interference,10/12/2014,New England,R.Woods,WR,6,2014,BUF-2014-54
+BUF,Roughing the Passer,10/12/2014,New England,J.Hughes,DE,6,2014,BUF-2014-55
+BUF,Defensive Offside,10/12/2014,New England,J.Wynn,DT,6,2014,BUF-2014-56
+BUF,Defensive Offside,10/19/2014,Minnesota,M.Dareus,DT,7,2014,BUF-2014-57
+BUF,Offensive Holding,10/19/2014,Minnesota,N.Robey,DB,7,2014,BUF-2014-58
+BUF,Defensive Holding,10/19/2014,Minnesota,N.Bradham,OLB,7,2014,BUF-2014-59
+BUF,Defensive Offside,10/19/2014,Minnesota,M.Lawson,LB,7,2014,BUF-2014-60
+BUF,Illegal Formation,10/19/2014,Minnesota,R.Brooks,CB,7,2014,BUF-2014-61
+BUF,Illegal Block Above the Waist,10/19/2014,Minnesota,R.Johnson,OLB,7,2014,BUF-2014-62
+BUF,Illegal Block Above the Waist,10/19/2014,Minnesota,J.Hughes,DE,7,2014,BUF-2014-63
+BUF,False Start,10/19/2014,Minnesota,S.Henderson,T,7,2014,BUF-2014-64
+BUF,Intentional Grounding,10/19/2014,Minnesota,K.Orton,QB,7,2014,BUF-2014-65
+BUF,Taunting,10/26/2014,N.Y. Jets,N.Bradham,OLB,8,2014,BUF-2014-66
+BUF,False Start,10/26/2014,N.Y. Jets,N.Bradham,OLB,8,2014,BUF-2014-67
+BUF,Personal Foul,10/26/2014,N.Y. Jets,S.Gilmore,CB,8,2014,BUF-2014-68
+BUF,Illegal Block Above the Waist,10/26/2014,N.Y. Jets,R.Brooks,CB,8,2014,BUF-2014-69
+BUF,Roughing the Passer,10/26/2014,N.Y. Jets,N.Bradham,OLB,8,2014,BUF-2014-70
+BUF,False Start,10/26/2014,N.Y. Jets,S.Chandler,TE,8,2014,BUF-2014-71
+BUF,Offensive Holding,10/26/2014,N.Y. Jets,E.Pears,T,8,2014,BUF-2014-72
+BUF,Face Mask (15 Yards),10/26/2014,N.Y. Jets,N.Bradham,OLB,8,2014,BUF-2014-73
+BUF,Unnecessary Roughness,11/09/2014,Kansas City,A.Williams,FS,10,2014,BUF-2014-74
+BUF,False Start,11/09/2014,Kansas City,L.Smith,TE,10,2014,BUF-2014-75
+BUF,Offensive Holding,11/09/2014,Kansas City,K.Urbik,G,10,2014,BUF-2014-76
+BUF,Neutral Zone Infraction,11/09/2014,Kansas City,J.Hughes,DE,10,2014,BUF-2014-77
+BUF,False Start,11/09/2014,Kansas City,S.Henderson,T,10,2014,BUF-2014-78
+BUF,Offensive Pass Interference,11/09/2014,Kansas City,S.Chandler,TE,10,2014,BUF-2014-79
+BUF,Neutral Zone Infraction,11/13/2014,Miami,M.Dareus,DT,11,2014,BUF-2014-80
+BUF,Defensive Offside,11/13/2014,Miami,N.Bradham,OLB,11,2014,BUF-2014-81
+BUF,Illegal Contact,11/13/2014,Miami,S.Gilmore,CB,11,2014,BUF-2014-82
+BUF,Defensive Holding,11/13/2014,Miami,N.Bradham,OLB,11,2014,BUF-2014-83
+BUF,Offensive Holding,11/13/2014,Miami,E.Wood,C,11,2014,BUF-2014-84
+BUF,Intentional Grounding,11/13/2014,Miami,K.Orton,QB,11,2014,BUF-2014-85
+BUF,Defensive Pass Interference,11/13/2014,Miami,S.Gilmore,CB,11,2014,BUF-2014-86
+BUF,Defensive Offside,11/13/2014,Miami,Ma.Williams,DE,11,2014,BUF-2014-87
+BUF,Unsportsmanlike Conduct,11/13/2014,Miami,J.Hughes,DE,11,2014,BUF-2014-88
+BUF,False Start,11/24/2014,N.Y. Jets,S.Chandler,TE,12,2014,BUF-2014-89
+BUF,Offensive Holding,11/24/2014,N.Y. Jets,E.Pears,T,12,2014,BUF-2014-90
+BUF,Player Out of Bounds on Punt,11/24/2014,N.Y. Jets,D.Williams,SS,12,2014,BUF-2014-91
+BUF,Neutral Zone Infraction,11/24/2014,N.Y. Jets,J.Hughes,DE,12,2014,BUF-2014-92
+BUF,Neutral Zone Infraction,11/30/2014,Cleveland,M.Dareus,DT,13,2014,BUF-2014-93
+BUF,Taunting,11/30/2014,Cleveland,A.Williams,FS,13,2014,BUF-2014-94
+BUF,Defensive Holding,11/30/2014,Cleveland,C.Graham,CB,13,2014,BUF-2014-95
+BUF,Delay of Game,11/30/2014,Cleveland,C.Schmidt,P,13,2014,BUF-2014-96
+BUF,Illegal Block Above the Waist,11/30/2014,Cleveland,C.Bryant,DT,13,2014,BUF-2014-97
+BUF,Defensive Offside,11/30/2014,Cleveland,J.Hughes,DE,13,2014,BUF-2014-98
+BUF,False Start,12/07/2014,Denver,M.Gray,TE,14,2014,BUF-2014-99
+BUF,Illegal Contact,12/07/2014,Denver,N.Robey,DB,14,2014,BUF-2014-100
+BUF,Offensive Holding,12/07/2014,Denver,Ky.Williams,DT,14,2014,BUF-2014-101
+BUF,Neutral Zone Infraction,12/07/2014,Denver,Ma.Williams,DE,14,2014,BUF-2014-102
+BUF,Unsportsmanlike Conduct,12/07/2014,Denver,J.Hughes,DE,14,2014,BUF-2014-103
+BUF,Defensive Pass Interference,12/07/2014,Denver,S.Gilmore,CB,14,2014,BUF-2014-104
+BUF,Offensive Holding,12/07/2014,Denver,K.Urbik,G,14,2014,BUF-2014-105
+BUF,Unnecessary Roughness,12/07/2014,Denver,C.Graham,CB,14,2014,BUF-2014-106
+BUF,False Start,12/07/2014,Denver,C.Glenn,T,14,2014,BUF-2014-107
+BUF,Offensive Holding,12/07/2014,Denver,E.Pears,T,14,2014,BUF-2014-108
+BUF,Offensive Pass Interference,12/07/2014,Denver,S.Chandler,TE,14,2014,BUF-2014-109
+BUF,False Start,12/07/2014,Denver,C.Glenn,T,14,2014,BUF-2014-110
+BUF,Unnecessary Roughness,12/07/2014,Denver,E.Pears,T,14,2014,BUF-2014-111
+BUF,Offensive Pass Interference,12/14/2014,Green Bay,S.Watkins,WR,15,2014,BUF-2014-112
+BUF,Defensive Holding,12/14/2014,Green Bay,C.Graham,CB,15,2014,BUF-2014-113
+BUF,Neutral Zone Infraction,12/14/2014,Green Bay,M.Dareus,DT,15,2014,BUF-2014-114
+BUF,False Start,12/14/2014,Green Bay,C.Glenn,T,15,2014,BUF-2014-115
+BUF,Offensive Holding,12/14/2014,Green Bay,C.Glenn,T,15,2014,BUF-2014-116
+BUF,Offensive Holding,12/14/2014,Green Bay,R.Woods,WR,15,2014,BUF-2014-117
+BUF,False Start,12/14/2014,Green Bay,S.Watkins,WR,15,2014,BUF-2014-118
+BUF,Neutral Zone Infraction,12/14/2014,Green Bay,J.Hughes,DE,15,2014,BUF-2014-119
+BUF,Illegal Use of Hands,12/14/2014,Green Bay,C.Glenn,T,15,2014,BUF-2014-120
+BUF,Face Mask (15 Yards),12/14/2014,Green Bay,S.Gilmore,CB,15,2014,BUF-2014-121
+BUF,False Start,12/21/2014,Oakland,C.Spiller,RB,16,2014,BUF-2014-122
+BUF,False Start,12/21/2014,Oakland,K.Urbik,G,16,2014,BUF-2014-123
+BUF,Offensive Holding,12/21/2014,Oakland,E.Wood,C,16,2014,BUF-2014-124
+BUF,Offensive Holding,12/21/2014,Oakland,B.Rambo,SS,16,2014,BUF-2014-125
+BUF,Unsportsmanlike Conduct,12/21/2014,Oakland,P.Brown,OLB,16,2014,BUF-2014-126
+BUF,Illegal Formation,12/21/2014,Oakland,S.Watkins,WR,16,2014,BUF-2014-127
+BUF,Offensive Offside,12/21/2014,Oakland,T.Powell,LB,16,2014,BUF-2014-128
+BUF,Illegal Block Above the Waist,12/28/2014,New England,M.Gray,TE,17,2014,BUF-2014-129
+BUF,Unnecessary Roughness,12/28/2014,New England,N.Robey,DB,17,2014,BUF-2014-130
+BUF,Defensive Holding,12/28/2014,New England,C.Graham,CB,17,2014,BUF-2014-131
+BUF,Defensive Holding,12/28/2014,New England,N.Robey,DB,17,2014,BUF-2014-132
+BUF,Unnecessary Roughness,12/28/2014,New England,R.Brooks,CB,17,2014,BUF-2014-133
+BUF,False Start,12/28/2014,New England,S.Henderson,T,17,2014,BUF-2014-134

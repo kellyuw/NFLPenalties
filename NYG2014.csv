@@ -1,0 +1,117 @@
+team,penalty,game,opponent,player,position,week,year,penaltyindex
+NYG,Defensive Holding,09/08/2014,Detroit,J.Williams,OLB,1,2014,NYG-2014-0
+NYG,Offensive Holding,09/08/2014,Detroit,Q.Demps,DB,1,2014,NYG-2014-1
+NYG,False Start,09/08/2014,Detroit,W.Richburg,C,1,2014,NYG-2014-2
+NYG,False Start,09/08/2014,Detroit,J.Pugh,G,1,2014,NYG-2014-3
+NYG,Unnecessary Roughness,09/14/2014,Arizona,J.McClain,MLB,2,2014,NYG-2014-4
+NYG,Illegal Contact,09/14/2014,Arizona,D.Rodgers-Cromartie,CB,2,2014,NYG-2014-5
+NYG,Illegal Contact,09/14/2014,Arizona,P.Amukamara,CB,2,2014,NYG-2014-6
+NYG,Personal Foul,09/14/2014,Arizona,J.Pugh,G,2,2014,NYG-2014-7
+NYG,Illegal Use of Hands,09/14/2014,Arizona,Q.Demps,DB,2,2014,NYG-2014-8
+NYG,Offensive Holding,09/14/2014,Arizona,J.Walton,C,2,2014,NYG-2014-9
+NYG,Illegal Contact,09/14/2014,Arizona,A.Rolle,DB,2,2014,NYG-2014-10
+NYG,Illegal Contact,09/14/2014,Arizona,D.Rodgers-Cromartie,CB,2,2014,NYG-2014-11
+NYG,Defensive Holding,09/14/2014,Arizona,T.McBride,CB,2,2014,NYG-2014-12
+NYG,Defensive Holding,09/14/2014,Arizona,M.Herzlich,OLB,2,2014,NYG-2014-13
+NYG,False Start,09/21/2014,Houston,D.Fells,TE,3,2014,NYG-2014-14
+NYG,Offensive Holding,09/21/2014,Houston,D.Moore,DE,3,2014,NYG-2014-15
+NYG,Defensive Holding,09/21/2014,Houston,D.Rodgers-Cromartie,CB,3,2014,NYG-2014-16
+NYG,Offensive Pass Interference,09/21/2014,Houston,L.Donnell,TE,3,2014,NYG-2014-17
+NYG,Defensive Pass Interference,09/21/2014,Houston,P.Amukamara,CB,3,2014,NYG-2014-18
+NYG,Illegal Block Above the Waist,09/25/2014,Washington,N.Berhe,SS,4,2014,NYG-2014-19
+NYG,Offensive Holding,09/25/2014,Washington,J.Jerry,G,4,2014,NYG-2014-20
+NYG,Unnecessary Roughness,09/25/2014,Washington,Q.Demps,DB,4,2014,NYG-2014-21
+NYG,Neutral Zone Infraction,09/25/2014,Washington,J.Pierre-Paul,DE,4,2014,NYG-2014-22
+NYG,Offensive Holding,09/25/2014,Washington,D.Moore,DE,4,2014,NYG-2014-23
+NYG,Offensive Holding,09/25/2014,Washington,M.Kiwanuka,DE,4,2014,NYG-2014-24
+NYG,Offensive Holding,09/25/2014,Washington,B.Mosley,G,4,2014,NYG-2014-25
+NYG,False Start,10/05/2014,Atlanta,J.Pugh,G,5,2014,NYG-2014-26
+NYG,Illegal Use of Hands,10/05/2014,Atlanta,P.Amukamara,CB,5,2014,NYG-2014-27
+NYG,Defensive Holding,10/05/2014,Atlanta,P.Amukamara,CB,5,2014,NYG-2014-28
+NYG,Running Into the Kicker,10/05/2014,Atlanta,J.Pierre-Paul,DE,5,2014,NYG-2014-29
+NYG,Offensive Holding,10/12/2014,Philadelphia,J.Jerry,G,6,2014,NYG-2014-30
+NYG,Delay of Game,10/12/2014,Philadelphia,Unnamed,LB,6,2014,NYG-2014-31
+NYG,False Start,10/12/2014,Philadelphia,M.Herzlich,OLB,6,2014,NYG-2014-32
+NYG,Unnecessary Roughness,10/12/2014,Philadelphia,W.Richburg,C,6,2014,NYG-2014-33
+NYG,Defensive Offside,10/12/2014,Philadelphia,J.Pierre-Paul,DE,6,2014,NYG-2014-34
+NYG,False Start,10/12/2014,Philadelphia,J.Jerry,G,6,2014,NYG-2014-35
+NYG,Offensive Holding,10/12/2014,Philadelphia,J.Pugh,G,6,2014,NYG-2014-36
+NYG,Offensive Holding,10/12/2014,Philadelphia,W.Beatty,T,6,2014,NYG-2014-37
+NYG,False Start,10/12/2014,Philadelphia,J.Jerry,G,6,2014,NYG-2014-38
+NYG,Neutral Zone Infraction,10/12/2014,Philadelphia,A.Rolle,DB,6,2014,NYG-2014-39
+NYG,False Start,10/19/2014,Dallas,W.Beatty,T,7,2014,NYG-2014-40
+NYG,Offensive Holding,10/19/2014,Dallas,W.Beatty,T,7,2014,NYG-2014-41
+NYG,Illegal Substitution,10/19/2014,Dallas,Unnamed,LB,7,2014,NYG-2014-42
+NYG,False Start,10/19/2014,Dallas,J.Pugh,G,7,2014,NYG-2014-43
+NYG,False Start,10/19/2014,Dallas,W.Richburg,C,7,2014,NYG-2014-44
+NYG,Offensive Holding,10/19/2014,Dallas,R.Randle,WR,7,2014,NYG-2014-45
+NYG,Illegal Use of Hands,11/03/2014,Indianapolis,M.Kiwanuka,DE,9,2014,NYG-2014-46
+NYG,False Start,11/03/2014,Indianapolis,J.Pugh,G,9,2014,NYG-2014-47
+NYG,Face Mask (15 Yards),11/03/2014,Indianapolis,D.Kennard,OLB,9,2014,NYG-2014-48
+NYG,Delay of Game,11/03/2014,Indianapolis,E.Manning,QB,9,2014,NYG-2014-49
+NYG,Illegal Use of Hands,11/03/2014,Indianapolis,J.Pugh,G,9,2014,NYG-2014-50
+NYG,False Start,11/09/2014,Seattle,J.Pugh,G,10,2014,NYG-2014-51
+NYG,Offensive Holding,11/09/2014,Seattle,W.Richburg,C,10,2014,NYG-2014-52
+NYG,Offensive Pass Interference,11/09/2014,Seattle,P.Parker,WR,10,2014,NYG-2014-53
+NYG,Offensive Holding,11/09/2014,Seattle,W.Richburg,C,10,2014,NYG-2014-54
+NYG,Defensive Pass Interference,11/16/2014,San Francisco,D.Rodgers-Cromartie,CB,11,2014,NYG-2014-55
+NYG,Illegal Formation,11/16/2014,San Francisco,C.Brown,DB,11,2014,NYG-2014-56
+NYG,Illegal Blindside Block,11/16/2014,San Francisco,D.Moore,DE,11,2014,NYG-2014-57
+NYG,Offensive Holding,11/16/2014,San Francisco,J.Walton,C,11,2014,NYG-2014-58
+NYG,False Start,11/23/2014,Dallas,A.Snyder,G,12,2014,NYG-2014-59
+NYG,False Start,11/23/2014,Dallas,R.Jennings,RB,12,2014,NYG-2014-60
+NYG,Intentional Grounding,11/23/2014,Dallas,E.Manning,QB,12,2014,NYG-2014-61
+NYG,False Start,11/23/2014,Dallas,P.Parker,WR,12,2014,NYG-2014-62
+NYG,Neutral Zone Infraction,11/23/2014,Dallas,M.Kiwanuka,DE,12,2014,NYG-2014-63
+NYG,Defensive Holding,11/23/2014,Dallas,Z.Bowman,DB,12,2014,NYG-2014-64
+NYG,False Start,11/30/2014,Jacksonville,J.Brewer,T,13,2014,NYG-2014-65
+NYG,False Start,11/30/2014,Jacksonville,D.Reynolds,G,13,2014,NYG-2014-66
+NYG,Illegal Use of Hands,11/30/2014,Jacksonville,K.Wynn,DE,13,2014,NYG-2014-67
+NYG,Encroachment,11/30/2014,Jacksonville,M.Patterson,DT,13,2014,NYG-2014-68
+NYG,Encroachment,11/30/2014,Jacksonville,D.Moore,DE,13,2014,NYG-2014-69
+NYG,Personal Foul,11/30/2014,Jacksonville,A.Rolle,DB,13,2014,NYG-2014-70
+NYG,Delay of Game,12/07/2014,Tennessee,Unnamed,LB,14,2014,NYG-2014-71
+NYG,Unsportsmanlike Conduct,12/07/2014,Tennessee,O.Beckham,WR,14,2014,NYG-2014-72
+NYG,Offside on Free Kick,12/07/2014,Tennessee,P.Hazel,LB,14,2014,NYG-2014-73
+NYG,Unsportsmanlike Conduct,12/07/2014,Tennessee,A.Rolle,DB,14,2014,NYG-2014-74
+NYG,Unnecessary Roughness,12/07/2014,Tennessee,D.Moore,DE,14,2014,NYG-2014-75
+NYG,Offensive Holding,12/07/2014,Tennessee,W.Beatty,T,14,2014,NYG-2014-76
+NYG,Ineligible Downfield Pass,12/07/2014,Tennessee,W.Richburg,C,14,2014,NYG-2014-77
+NYG,Delay of Game,12/07/2014,Tennessee,Unnamed,LB,14,2014,NYG-2014-78
+NYG,Unnecessary Roughness,12/07/2014,Tennessee,C.Brown,DB,14,2014,NYG-2014-79
+NYG,Illegal Use of Hands,12/14/2014,Washington,M.Herzlich,OLB,15,2014,NYG-2014-80
+NYG,Invalid Fair Catch Signal,12/14/2014,Washington,O.Beckham,WR,15,2014,NYG-2014-81
+NYG,Defensive Holding,12/14/2014,Washington,D.Moore,DE,15,2014,NYG-2014-82
+NYG,Defensive Offside,12/14/2014,Washington,J.Pierre-Paul,DE,15,2014,NYG-2014-83
+NYG,False Start,12/14/2014,Washington,J.Walton,C,15,2014,NYG-2014-84
+NYG,Unnecessary Roughness,12/14/2014,Washington,A.Rolle,DB,15,2014,NYG-2014-85
+NYG,Offensive Holding,12/14/2014,Washington,J.Pugh,G,15,2014,NYG-2014-86
+NYG,Illegal Block Above the Waist,12/14/2014,Washington,A.Robinson,TE,15,2014,NYG-2014-87
+NYG,Offensive Holding,12/14/2014,Washington,W.Richburg,C,15,2014,NYG-2014-88
+NYG,Offensive Holding,12/21/2014,St. Louis,W.Beatty,T,16,2014,NYG-2014-89
+NYG,Taunting,12/21/2014,St. Louis,O.Beckham,WR,16,2014,NYG-2014-90
+NYG,Unnecessary Roughness,12/21/2014,St. Louis,J.Brown,K,16,2014,NYG-2014-91
+NYG,Offensive Pass Interference,12/21/2014,St. Louis,P.Parker,WR,16,2014,NYG-2014-92
+NYG,Offensive Holding,12/21/2014,St. Louis,W.Beatty,T,16,2014,NYG-2014-93
+NYG,Defensive Pass Interference,12/21/2014,St. Louis,D.Rodgers-Cromartie,CB,16,2014,NYG-2014-94
+NYG,Encroachment,12/21/2014,St. Louis,J.Hankins,DT,16,2014,NYG-2014-95
+NYG,Face Mask (15 Yards),12/21/2014,St. Louis,A.Rolle,DB,16,2014,NYG-2014-96
+NYG,Unnecessary Roughness,12/21/2014,St. Louis,Unnamed,LB,16,2014,NYG-2014-97
+NYG,Unnecessary Roughness,12/21/2014,St. Louis,Unnamed,LB,16,2014,NYG-2014-98
+NYG,Disqualification,12/21/2014,St. Louis,P.Parker,WR,16,2014,NYG-2014-99
+NYG,Disqualification,12/21/2014,St. Louis,D.Moore,DE,16,2014,NYG-2014-100
+NYG,Unnecessary Roughness,12/21/2014,St. Louis,Z.DeOssie,LS,16,2014,NYG-2014-101
+NYG,Defensive Offside,12/21/2014,St. Louis,J.Pierre-Paul,DE,16,2014,NYG-2014-102
+NYG,Offensive Holding,12/21/2014,St. Louis,W.Beatty,T,16,2014,NYG-2014-103
+NYG,Offensive Holding,12/21/2014,St. Louis,W.Beatty,T,16,2014,NYG-2014-104
+NYG,Defensive Holding,12/21/2014,St. Louis,J.Hankins,DT,16,2014,NYG-2014-105
+NYG,Roughing the Passer,12/21/2014,St. Louis,C.Jenkins,DT,16,2014,NYG-2014-106
+NYG,Illegal Use of Hands,12/28/2014,Philadelphia,C.Brown,DB,17,2014,NYG-2014-107
+NYG,Defensive Pass Interference,12/28/2014,Philadelphia,C.Brown,DB,17,2014,NYG-2014-108
+NYG,Offensive Pass Interference,12/28/2014,Philadelphia,R.Randle,WR,17,2014,NYG-2014-109
+NYG,False Start,12/28/2014,Philadelphia,S.Weatherford,P,17,2014,NYG-2014-110
+NYG,Unnecessary Roughness,12/28/2014,Philadelphia,J.Walton,C,17,2014,NYG-2014-111
+NYG,False Start,12/28/2014,Philadelphia,J.Walton,C,17,2014,NYG-2014-112
+NYG,Offensive Holding,12/28/2014,Philadelphia,W.Beatty,T,17,2014,NYG-2014-113
+NYG,Face Mask (15 Yards),12/28/2014,Philadelphia,A.Rolle,DB,17,2014,NYG-2014-114
+NYG,Encroachment,12/28/2014,Philadelphia,C.Brown,DB,17,2014,NYG-2014-115

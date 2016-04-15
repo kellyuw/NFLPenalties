@@ -1,0 +1,135 @@
+team,penalty,game,opponent,player,position,week,year,penaltyindex
+DEN,False Start,09/07/2014,Indianapolis,R.Clady,T,1,2014,DEN-2014-0
+DEN,Offensive Holding,09/07/2014,Indianapolis,L.Vasquez,T,1,2014,DEN-2014-1
+DEN,Offensive Holding,09/07/2014,Indianapolis,T.Carter,DB,1,2014,DEN-2014-2
+DEN,Illegal Contact,09/07/2014,Indianapolis,B.Roby,CB,1,2014,DEN-2014-3
+DEN,Offensive Holding,09/07/2014,Indianapolis,L.Vasquez,T,1,2014,DEN-2014-4
+DEN,Delay of Game,09/07/2014,Indianapolis,B.Colquitt,P,1,2014,DEN-2014-5
+DEN,Defensive Pass Interference,09/07/2014,Indianapolis,C.Harris,CB,1,2014,DEN-2014-6
+DEN,Offensive Holding,09/07/2014,Indianapolis,C.Clark,T,1,2014,DEN-2014-7
+DEN,Illegal Contact,09/07/2014,Indianapolis,T.Carter,DB,1,2014,DEN-2014-8
+DEN,Defensive Offside,09/14/2014,Kansas City,V.Miller,OLB,2,2014,DEN-2014-9
+DEN,Defensive Offside,09/14/2014,Kansas City,D.Ware,LB,2,2014,DEN-2014-10
+DEN,Ineligible Downfield Pass,09/14/2014,Kansas City,C.Clark,T,2,2014,DEN-2014-11
+DEN,Illegal Use of Hands,09/14/2014,Kansas City,S.Johnson,LB,2,2014,DEN-2014-12
+DEN,Roughing the Passer,09/14/2014,Kansas City,M.Jackson,DT,2,2014,DEN-2014-13
+DEN,Illegal Contact,09/14/2014,Kansas City,C.Harris,CB,2,2014,DEN-2014-14
+DEN,Clipping,09/14/2014,Kansas City,C.Clark,T,2,2014,DEN-2014-15
+DEN,False Start,09/14/2014,Kansas City,J.Thomas,TE,2,2014,DEN-2014-16
+DEN,Defensive Offside,09/14/2014,Kansas City,Q.Smith,DE,2,2014,DEN-2014-17
+DEN,Defensive Offside,09/14/2014,Kansas City,T.Knighton,DT,2,2014,DEN-2014-18
+DEN,Defensive Pass Interference,09/14/2014,Kansas City,D.Ware,LB,2,2014,DEN-2014-19
+DEN,Illegal Motion,09/21/2014,Seattle,J.Thomas,TE,3,2014,DEN-2014-20
+DEN,Defensive Holding,09/21/2014,Seattle,C.Harris,CB,3,2014,DEN-2014-21
+DEN,False Start,09/21/2014,Seattle,O.Franklin,G,3,2014,DEN-2014-22
+DEN,Unnecessary Roughness,09/21/2014,Seattle,A.Talib,CB,3,2014,DEN-2014-23
+DEN,Defensive Holding,09/21/2014,Seattle,C.Harris,CB,3,2014,DEN-2014-24
+DEN,Defensive Pass Interference,10/05/2014,Arizona,T.Ward,SS,5,2014,DEN-2014-25
+DEN,Offensive Pass Interference,10/05/2014,Arizona,E.Sanders,WR,5,2014,DEN-2014-26
+DEN,Offensive Pass Interference,10/05/2014,Arizona,D.Thomas,WR,5,2014,DEN-2014-27
+DEN,Offensive Holding,10/05/2014,Arizona,O.Franklin,G,5,2014,DEN-2014-28
+DEN,False Start,10/05/2014,Arizona,C.Clark,T,5,2014,DEN-2014-29
+DEN,Offensive Holding,10/05/2014,Arizona,L.Barrow,LB,5,2014,DEN-2014-30
+DEN,Roughing the Passer,10/12/2014,N.Y. Jets,M.Jackson,DT,6,2014,DEN-2014-31
+DEN,Offensive Holding,10/12/2014,N.Y. Jets,N.Irving,LB,6,2014,DEN-2014-32
+DEN,Offensive Holding,10/12/2014,N.Y. Jets,M.Ramirez,G,6,2014,DEN-2014-33
+DEN,Offensive Holding,10/12/2014,N.Y. Jets,R.Clady,T,6,2014,DEN-2014-34
+DEN,Unsportsmanlike Conduct,10/12/2014,N.Y. Jets,T.Knighton,DT,6,2014,DEN-2014-35
+DEN,Illegal Use of Hands,10/12/2014,N.Y. Jets,K.Webster,CB,6,2014,DEN-2014-36
+DEN,False Start,10/12/2014,N.Y. Jets,L.Vasquez,T,6,2014,DEN-2014-37
+DEN,Illegal Motion,10/12/2014,N.Y. Jets,J.Thomas,TE,6,2014,DEN-2014-38
+DEN,Personal Foul,10/12/2014,N.Y. Jets,L.Barrow,LB,6,2014,DEN-2014-39
+DEN,Offensive Holding,10/12/2014,N.Y. Jets,R.Clady,T,6,2014,DEN-2014-40
+DEN,False Start,10/12/2014,N.Y. Jets,O.Franklin,G,6,2014,DEN-2014-41
+DEN,False Start,10/19/2014,San Francisco,P.Cornick,T,7,2014,DEN-2014-42
+DEN,False Start,10/19/2014,San Francisco,T.Knighton,DT,7,2014,DEN-2014-43
+DEN,Offensive Holding,10/19/2014,San Francisco,M.Ramirez,G,7,2014,DEN-2014-44
+DEN,Defensive Holding,10/19/2014,San Francisco,K.Webster,CB,7,2014,DEN-2014-45
+DEN,Defensive Pass Interference,10/19/2014,San Francisco,B.Roby,CB,7,2014,DEN-2014-46
+DEN,Unnecessary Roughness,10/19/2014,San Francisco,O.Franklin,G,7,2014,DEN-2014-47
+DEN,Illegal Shift,10/19/2014,San Francisco,I.Burse,WR,7,2014,DEN-2014-48
+DEN,Illegal Use of Hands,10/23/2014,San Diego,L.Barrow,LB,8,2014,DEN-2014-49
+DEN,False Start,10/23/2014,San Diego,R.Clady,T,8,2014,DEN-2014-50
+DEN,Defensive Pass Interference,10/23/2014,San Diego,Q.Carter,SS,8,2014,DEN-2014-51
+DEN,Unnecessary Roughness,10/23/2014,San Diego,M.Jackson,DT,8,2014,DEN-2014-52
+DEN,Illegal Use of Hands,10/23/2014,San Diego,M.Austin,WR,8,2014,DEN-2014-53
+DEN,Offensive Holding,10/23/2014,San Diego,O.Franklin,G,8,2014,DEN-2014-54
+DEN,Defensive Holding,10/23/2014,San Diego,B.Roby,CB,8,2014,DEN-2014-55
+DEN,Illegal Contact,10/23/2014,San Diego,B.Marshall,OLB,8,2014,DEN-2014-56
+DEN,False Start,10/23/2014,San Diego,P.Cornick,T,8,2014,DEN-2014-57
+DEN,Delay of Game,11/02/2014,New England,P.Manning,QB,9,2014,DEN-2014-58
+DEN,Interference with Opportunity to Catch,11/02/2014,New England,K.Webster,CB,9,2014,DEN-2014-59
+DEN,Defensive Holding,11/02/2014,New England,N.Irving,LB,9,2014,DEN-2014-60
+DEN,Illegal Formation,11/02/2014,New England,A.Caldwell,WR,9,2014,DEN-2014-61
+DEN,Offensive Holding,11/02/2014,New England,P.Cornick,T,9,2014,DEN-2014-62
+DEN,Defensive Holding,11/02/2014,New England,A.Talib,CB,9,2014,DEN-2014-63
+DEN,Defensive Pass Interference,11/02/2014,New England,B.Roby,CB,9,2014,DEN-2014-64
+DEN,Defensive Offside,11/02/2014,New England,V.Miller,OLB,9,2014,DEN-2014-65
+DEN,Illegal Block Above the Waist,11/02/2014,New England,R.Moore,DB,9,2014,DEN-2014-66
+DEN,False Start,11/02/2014,New England,E.Sanders,WR,9,2014,DEN-2014-67
+DEN,False Start,11/09/2014,Oakland,M.Ramirez,G,10,2014,DEN-2014-68
+DEN,False Start,11/09/2014,Oakland,O.Franklin,G,10,2014,DEN-2014-69
+DEN,Roughing the Passer,11/09/2014,Oakland,D.Ware,LB,10,2014,DEN-2014-70
+DEN,Intentional Grounding,11/09/2014,Oakland,P.Manning,QB,10,2014,DEN-2014-71
+DEN,Illegal Block Above the Waist,11/09/2014,Oakland,D.Bruton,SS,10,2014,DEN-2014-72
+DEN,Ineligible Downfield Pass,11/09/2014,Oakland,W.Montgomery,C,10,2014,DEN-2014-73
+DEN,Offensive Holding,11/09/2014,Oakland,C.Nelson,OLB,10,2014,DEN-2014-74
+DEN,Tripping,11/09/2014,Oakland,J.Tamme,TE,10,2014,DEN-2014-75
+DEN,Illegal Use of Hands,11/09/2014,Oakland,B.Roby,CB,10,2014,DEN-2014-76
+DEN,False Start,11/09/2014,Oakland,O.Franklin,G,10,2014,DEN-2014-77
+DEN,False Start,11/09/2014,Oakland,L.Vasquez,T,10,2014,DEN-2014-78
+DEN,Offensive Holding,11/09/2014,Oakland,C.Clark,T,10,2014,DEN-2014-79
+DEN,Neutral Zone Infraction,11/16/2014,St. Louis,M.Jackson,DT,11,2014,DEN-2014-80
+DEN,Offensive Holding,11/16/2014,St. Louis,R.Clady,T,11,2014,DEN-2014-81
+DEN,False Start,11/16/2014,St. Louis,L.Vasquez,T,11,2014,DEN-2014-82
+DEN,False Start,11/16/2014,St. Louis,L.McCray,OLB,11,2014,DEN-2014-83
+DEN,Offensive Holding,11/16/2014,St. Louis,L.Vasquez,T,11,2014,DEN-2014-84
+DEN,Horse Collar Tackle,11/16/2014,St. Louis,L.Barrow,LB,11,2014,DEN-2014-85
+DEN,False Start,11/16/2014,St. Louis,O.Franklin,G,11,2014,DEN-2014-86
+DEN,Offensive Holding,11/16/2014,St. Louis,O.Franklin,G,11,2014,DEN-2014-87
+DEN,Unnecessary Roughness,11/23/2014,Miami,O.Bolden,SS,12,2014,DEN-2014-88
+DEN,Offensive Pass Interference,11/23/2014,Miami,D.Thomas,WR,12,2014,DEN-2014-89
+DEN,Illegal Use of Hands,11/23/2014,Miami,W.Montgomery,C,12,2014,DEN-2014-90
+DEN,Defensive Holding,11/23/2014,Miami,T.Ward,SS,12,2014,DEN-2014-91
+DEN,Offensive Holding,11/23/2014,Miami,O.Franklin,G,12,2014,DEN-2014-92
+DEN,Personal Foul,11/23/2014,Miami,M.Ramirez,G,12,2014,DEN-2014-93
+DEN,Unnecessary Roughness,11/23/2014,Miami,M.Jackson,DT,12,2014,DEN-2014-94
+DEN,Defensive Pass Interference,11/23/2014,Miami,O.Bolden,SS,12,2014,DEN-2014-95
+DEN,Defensive Pass Interference,11/23/2014,Miami,T.Ward,SS,12,2014,DEN-2014-96
+DEN,Player Out of Bounds on Punt,11/30/2014,Kansas City,A.Caldwell,WR,13,2014,DEN-2014-97
+DEN,Illegal Formation,11/30/2014,Kansas City,E.Sanders,WR,13,2014,DEN-2014-98
+DEN,Illegal Formation,11/30/2014,Kansas City,E.Sanders,WR,13,2014,DEN-2014-99
+DEN,Roughing the Passer,11/30/2014,Kansas City,V.Miller,OLB,13,2014,DEN-2014-100
+DEN,Defensive Offside,11/30/2014,Kansas City,D.Bruton,SS,13,2014,DEN-2014-101
+DEN,False Start,11/30/2014,Kansas City,D.Thomas,WR,13,2014,DEN-2014-102
+DEN,Offensive Holding,12/07/2014,Buffalo,W.Montgomery,C,14,2014,DEN-2014-103
+DEN,False Start,12/07/2014,Buffalo,P.Manning,QB,14,2014,DEN-2014-104
+DEN,Offensive Holding,12/07/2014,Buffalo,M.Ramirez,G,14,2014,DEN-2014-105
+DEN,Offensive Pass Interference,12/07/2014,Buffalo,W.Welker,WR,14,2014,DEN-2014-106
+DEN,Unnecessary Roughness,12/07/2014,Buffalo,T.Knighton,DT,14,2014,DEN-2014-107
+DEN,Offensive Holding,12/07/2014,Buffalo,P.Cornick,T,14,2014,DEN-2014-108
+DEN,Defensive Holding,12/07/2014,Buffalo,A.Talib,CB,14,2014,DEN-2014-109
+DEN,Defensive Holding,12/07/2014,Buffalo,T.Ward,SS,14,2014,DEN-2014-110
+DEN,Intentional Grounding,12/14/2014,San Diego,B.Osweiler,QB,15,2014,DEN-2014-111
+DEN,Offensive Holding,12/14/2014,San Diego,C.Clark,T,15,2014,DEN-2014-112
+DEN,Defensive Holding,12/14/2014,San Diego,C.Harris,CB,15,2014,DEN-2014-113
+DEN,Defensive Holding,12/14/2014,San Diego,D.Bruton,SS,15,2014,DEN-2014-114
+DEN,Illegal Contact,12/14/2014,San Diego,B.Roby,CB,15,2014,DEN-2014-115
+DEN,Offensive Holding,12/14/2014,San Diego,C.Nelson,OLB,15,2014,DEN-2014-116
+DEN,Offensive Holding,12/14/2014,San Diego,J.Thomas,TE,15,2014,DEN-2014-117
+DEN,Offensive Holding,12/14/2014,San Diego,W.Montgomery,C,15,2014,DEN-2014-118
+DEN,Defensive Offside,12/14/2014,San Diego,V.Miller,OLB,15,2014,DEN-2014-119
+DEN,Defensive Holding,12/14/2014,San Diego,B.Roby,CB,15,2014,DEN-2014-120
+DEN,Defensive Pass Interference,12/14/2014,San Diego,T.Ward,SS,15,2014,DEN-2014-121
+DEN,Offensive Holding,12/22/2014,Cincinnati,K.Webster,CB,16,2014,DEN-2014-122
+DEN,Offensive Holding,12/22/2014,Cincinnati,R.Clady,T,16,2014,DEN-2014-123
+DEN,Unnecessary Roughness,12/22/2014,Cincinnati,D.Wolfe,DE,16,2014,DEN-2014-124
+DEN,Offensive Holding,12/22/2014,Cincinnati,R.Clady,T,16,2014,DEN-2014-125
+DEN,Illegal Block Above the Waist,12/22/2014,Cincinnati,K.Webster,CB,16,2014,DEN-2014-126
+DEN,Face Mask (15 Yards),12/22/2014,Cincinnati,D.Thomas,WR,16,2014,DEN-2014-127
+DEN,Roughing the Passer,12/22/2014,Cincinnati,M.Austin,WR,16,2014,DEN-2014-128
+DEN,Face Mask (15 Yards),12/28/2014,Oakland,E.Sanders,WR,17,2014,DEN-2014-129
+DEN,Running Into the Kicker,01/11/2015,Indianapolis,J.Stewart,FB,19,2014,DEN-2014-130
+DEN,Defensive Holding,01/11/2015,Indianapolis,C.Harris,CB,19,2014,DEN-2014-131
+DEN,Defensive Holding,01/11/2015,Indianapolis,A.Talib,CB,19,2014,DEN-2014-132
+DEN,Defensive Holding,01/11/2015,Indianapolis,A.Talib,CB,19,2014,DEN-2014-133

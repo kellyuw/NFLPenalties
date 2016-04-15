@@ -1,0 +1,152 @@
+team,penalty,game,opponent,player,position,week,year,penaltyindex
+IND,Delay of Game,09/07/2014,Denver,P.McAfee,P,1,2014,IND-2014-0
+IND,Defensive Offside,09/07/2014,Denver,C.Redding,DE,1,2014,IND-2014-1
+IND,Defensive Holding,09/07/2014,Denver,D.Butler,CB,1,2014,IND-2014-2
+IND,Defensive Holding,09/07/2014,Denver,G.Toler,CB,1,2014,IND-2014-3
+IND,Illegal Contact,09/07/2014,Denver,G.Toler,CB,1,2014,IND-2014-4
+IND,Ineligible Downfield Pass,09/07/2014,Denver,J.Mewhort,G,1,2014,IND-2014-5
+IND,Defensive Holding,09/07/2014,Denver,G.Toler,CB,1,2014,IND-2014-6
+IND,Offensive Holding,09/07/2014,Denver,J.Mewhort,G,1,2014,IND-2014-7
+IND,False Start,09/07/2014,Denver,H.Nicks,WR,1,2014,IND-2014-8
+IND,False Start,09/07/2014,Denver,G.Cherilus,T,1,2014,IND-2014-9
+IND,Defensive Holding,09/15/2014,Philadelphia,G.Toler,CB,2,2014,IND-2014-10
+IND,Illegal Blindside Block,09/15/2014,Philadelphia,J.Newsome,OLB,2,2014,IND-2014-11
+IND,Illegal Contact,09/15/2014,Philadelphia,G.Toler,CB,2,2014,IND-2014-12
+IND,Illegal Block Above the Waist,09/15/2014,Philadelphia,S.Brown,DB,2,2014,IND-2014-13
+IND,Defensive Pass Interference,09/15/2014,Philadelphia,V.Davis,CB,2,2014,IND-2014-14
+IND,Horse Collar Tackle,09/15/2014,Philadelphia,L.Landry,FS,2,2014,IND-2014-15
+IND,Defensive Offside,09/21/2014,Jacksonville,E.Walden,OLB,3,2014,IND-2014-16
+IND,Defensive Offside,09/21/2014,Jacksonville,E.Walden,OLB,3,2014,IND-2014-17
+IND,Offensive Holding,09/21/2014,Jacksonville,J.Gordy,DB,3,2014,IND-2014-18
+IND,False Start,09/21/2014,Jacksonville,A.Castonzo,T,3,2014,IND-2014-19
+IND,Illegal Use of Hands,09/21/2014,Jacksonville,G.Cherilus,T,3,2014,IND-2014-20
+IND,Illegal Substitution,09/21/2014,Jacksonville,J.Meredith,T,3,2014,IND-2014-21
+IND,Illegal Contact,09/21/2014,Jacksonville,V.Davis,CB,3,2014,IND-2014-22
+IND,Illegal Contact,09/21/2014,Jacksonville,V.Davis,CB,3,2014,IND-2014-23
+IND,Illegal Use of Hands,09/21/2014,Jacksonville,H.Muamba,LB,3,2014,IND-2014-24
+IND,Offensive Holding,09/28/2014,Tennessee,J.Mewhort,G,4,2014,IND-2014-25
+IND,Offensive Holding,09/28/2014,Tennessee,J.Doyle,TE,4,2014,IND-2014-26
+IND,False Start,09/28/2014,Tennessee,J.Meredith,T,4,2014,IND-2014-27
+IND,False Start,09/28/2014,Tennessee,A.Shipley,C,4,2014,IND-2014-28
+IND,Defensive Holding,09/28/2014,Tennessee,M.Overton,LS,4,2014,IND-2014-29
+IND,Illegal Use of Hands,09/28/2014,Tennessee,R.Jean Francois,DT,4,2014,IND-2014-30
+IND,Unnecessary Roughness,09/28/2014,Tennessee,B.Werner,OLB,4,2014,IND-2014-31
+IND,Roughing the Passer,09/28/2014,Tennessee,C.Redding,DE,4,2014,IND-2014-32
+IND,Offensive Holding,09/28/2014,Tennessee,D.Moncrief,WR,4,2014,IND-2014-33
+IND,Offensive Holding,09/28/2014,Tennessee,D.Moncrief,WR,4,2014,IND-2014-34
+IND,Offensive Holding,09/28/2014,Tennessee,J.Gordy,DB,4,2014,IND-2014-35
+IND,False Start,09/28/2014,Tennessee,L.Louis,G,4,2014,IND-2014-36
+IND,False Start,10/05/2014,Baltimore,J.Doyle,TE,5,2014,IND-2014-37
+IND,Offensive Pass Interference,10/05/2014,Baltimore,R.Wayne,WR,5,2014,IND-2014-38
+IND,Defensive Pass Interference,10/05/2014,Baltimore,G.Toler,CB,5,2014,IND-2014-39
+IND,Offensive Holding,10/05/2014,Baltimore,H.Thornton,G,5,2014,IND-2014-40
+IND,Offensive Holding,10/05/2014,Baltimore,R.Wayne,WR,5,2014,IND-2014-41
+IND,Defensive Pass Interference,10/05/2014,Baltimore,V.Davis,CB,5,2014,IND-2014-42
+IND,False Start,10/05/2014,Baltimore,G.Cherilus,T,5,2014,IND-2014-43
+IND,Offensive Holding,10/09/2014,Houston,A.Jackson,G,6,2014,IND-2014-44
+IND,Defensive Pass Interference,10/09/2014,Houston,V.Davis,CB,6,2014,IND-2014-45
+IND,Illegal Formation,10/09/2014,Houston,Z.Kerr,NT,6,2014,IND-2014-46
+IND,Offensive Holding,10/09/2014,Houston,D.Allen,TE,6,2014,IND-2014-47
+IND,Offensive Holding,10/09/2014,Houston,A.Castonzo,T,6,2014,IND-2014-48
+IND,False Start,10/19/2014,Cincinnati,J.Mewhort,G,7,2014,IND-2014-49
+IND,Offensive Holding,10/19/2014,Cincinnati,D.McDonald,DB,7,2014,IND-2014-50
+IND,Disqualification,10/19/2014,Cincinnati,E.Walden,OLB,7,2014,IND-2014-51
+IND,Defensive Offside,10/19/2014,Cincinnati,B.Werner,OLB,7,2014,IND-2014-52
+IND,Offensive Holding,10/19/2014,Cincinnati,L.Purifoy,CB,7,2014,IND-2014-53
+IND,False Start,10/19/2014,Cincinnati,H.Thornton,G,7,2014,IND-2014-54
+IND,Defensive Offside,10/19/2014,Cincinnati,C.Redding,DE,7,2014,IND-2014-55
+IND,Roughing the Passer,10/19/2014,Cincinnati,J.Newsome,OLB,7,2014,IND-2014-56
+IND,Illegal Contact,10/26/2014,Pittsburgh,D.Jackson,ILB,8,2014,IND-2014-57
+IND,Illegal Use of Hands,10/26/2014,Pittsburgh,G.Cherilus,T,8,2014,IND-2014-58
+IND,Illegal Use of Hands,10/26/2014,Pittsburgh,G.Toler,CB,8,2014,IND-2014-59
+IND,Defensive Offside,10/26/2014,Pittsburgh,C.Anderson,FS,8,2014,IND-2014-60
+IND,Delay of Game,10/26/2014,Pittsburgh,A.Luck,QB,8,2014,IND-2014-61
+IND,Offensive Holding,10/26/2014,Pittsburgh,A.Castonzo,T,8,2014,IND-2014-62
+IND,Defensive Pass Interference,10/26/2014,Pittsburgh,D.Butler,CB,8,2014,IND-2014-63
+IND,Illegal Contact,10/26/2014,Pittsburgh,J.Gordy,DB,8,2014,IND-2014-64
+IND,Intentional Grounding,10/26/2014,Pittsburgh,A.Luck,QB,8,2014,IND-2014-65
+IND,Defensive Holding,10/26/2014,Pittsburgh,D.Butler,CB,8,2014,IND-2014-66
+IND,Offensive Holding,10/26/2014,Pittsburgh,A.Castonzo,T,8,2014,IND-2014-67
+IND,Offensive Holding,11/03/2014,N.Y. Giants,C.Fleener,TE,9,2014,IND-2014-68
+IND,Illegal Use of Hands,11/03/2014,N.Y. Giants,C.Redding,DE,9,2014,IND-2014-69
+IND,False Start,11/03/2014,N.Y. Giants,A.Castonzo,T,9,2014,IND-2014-70
+IND,Ineligible Downfield Pass,11/03/2014,N.Y. Giants,J.Mewhort,G,9,2014,IND-2014-71
+IND,Delay of Game,11/03/2014,N.Y. Giants,P.McAfee,P,9,2014,IND-2014-72
+IND,Offensive Holding,11/03/2014,N.Y. Giants,J.Harrison,C,9,2014,IND-2014-73
+IND,False Start,11/16/2014,New England,G.Cherilus,T,11,2014,IND-2014-74
+IND,Defensive Holding,11/16/2014,New England,M.Adams,SS,11,2014,IND-2014-75
+IND,Illegal Contact,11/16/2014,New England,G.Toler,CB,11,2014,IND-2014-76
+IND,Defensive Offside,11/16/2014,New England,Z.Kerr,NT,11,2014,IND-2014-77
+IND,Face Mask (15 Yards),11/16/2014,New England,J.Freeman,ILB,11,2014,IND-2014-78
+IND,Defensive Pass Interference,11/16/2014,New England,S.Brown,DB,11,2014,IND-2014-79
+IND,Illegal Touch Pass,11/16/2014,New England,H.Thornton,G,11,2014,IND-2014-80
+IND,False Start,11/23/2014,Jacksonville,C.Fleener,TE,12,2014,IND-2014-81
+IND,Offensive Holding,11/23/2014,Jacksonville,H.Thornton,G,12,2014,IND-2014-82
+IND,False Start,11/23/2014,Jacksonville,J.Harrison,C,12,2014,IND-2014-83
+IND,Unnecessary Roughness,11/23/2014,Jacksonville,J.McNary,ILB,12,2014,IND-2014-84
+IND,Illegal Block Above the Waist,11/23/2014,Jacksonville,D.Moncrief,WR,12,2014,IND-2014-85
+IND,Unnecessary Roughness,11/23/2014,Jacksonville,J.Gordy,DB,12,2014,IND-2014-86
+IND,Illegal Contact,11/23/2014,Jacksonville,J.Gordy,DB,12,2014,IND-2014-87
+IND,Defensive Holding,11/30/2014,Washington,J.McNary,ILB,13,2014,IND-2014-88
+IND,Defensive Holding,11/30/2014,Washington,H.Muamba,LB,13,2014,IND-2014-89
+IND,Defensive Holding,11/30/2014,Washington,G.Toler,CB,13,2014,IND-2014-90
+IND,Taunting,11/30/2014,Washington,V.Davis,CB,13,2014,IND-2014-91
+IND,Intentional Grounding,11/30/2014,Washington,A.Luck,QB,13,2014,IND-2014-92
+IND,Illegal Contact,11/30/2014,Washington,D.Butler,CB,13,2014,IND-2014-93
+IND,Running Into the Kicker,11/30/2014,Washington,J.McNary,ILB,13,2014,IND-2014-94
+IND,Defensive Pass Interference,11/30/2014,Washington,J.Gordy,DB,13,2014,IND-2014-95
+IND,Defensive Holding,11/30/2014,Washington,D.Butler,CB,13,2014,IND-2014-96
+IND,Offensive Holding,11/30/2014,Washington,J.Reitz,G,13,2014,IND-2014-97
+IND,Delay of Game,11/30/2014,Washington,P.McAfee,P,13,2014,IND-2014-98
+IND,Defensive Offside,12/07/2014,Cleveland,R.Jean Francois,DT,14,2014,IND-2014-99
+IND,Offensive Holding,12/07/2014,Cleveland,R.Jean Francois,DT,14,2014,IND-2014-100
+IND,False Start,12/07/2014,Cleveland,A.Castonzo,T,14,2014,IND-2014-101
+IND,Neutral Zone Infraction,12/07/2014,Cleveland,B.Werner,OLB,14,2014,IND-2014-102
+IND,Delay of Game,12/07/2014,Cleveland,A.Luck,QB,14,2014,IND-2014-103
+IND,Roughing the Passer,12/07/2014,Cleveland,C.Redding,DE,14,2014,IND-2014-104
+IND,False Start,12/14/2014,Houston,J.Harrison,C,15,2014,IND-2014-105
+IND,Offensive Holding,12/14/2014,Houston,J.Gordy,DB,15,2014,IND-2014-106
+IND,Offensive Holding,12/14/2014,Houston,A.Castonzo,T,15,2014,IND-2014-107
+IND,Defensive Offside,12/14/2014,Houston,E.Walden,OLB,15,2014,IND-2014-108
+IND,Defensive Offside,12/14/2014,Houston,S.Phillips,OLB,15,2014,IND-2014-109
+IND,Defensive Holding,12/14/2014,Houston,G.Toler,CB,15,2014,IND-2014-110
+IND,Defensive Offside,12/14/2014,Houston,A.Studebaker,LB,15,2014,IND-2014-111
+IND,Taunting,12/21/2014,Dallas,J.Freeman,ILB,16,2014,IND-2014-112
+IND,Defensive Holding,12/21/2014,Dallas,G.Toler,CB,16,2014,IND-2014-113
+IND,Defensive Holding,12/21/2014,Dallas,V.Davis,CB,16,2014,IND-2014-114
+IND,False Start,12/21/2014,Dallas,L.Louis,G,16,2014,IND-2014-115
+IND,Offensive Holding,12/21/2014,Dallas,X.Nixon,T,16,2014,IND-2014-116
+IND,Encroachment,12/21/2014,Dallas,A.Jones,DE,16,2014,IND-2014-117
+IND,False Start,12/21/2014,Dallas,X.Nixon,T,16,2014,IND-2014-118
+IND,Illegal Motion,12/21/2014,Dallas,X.Nixon,T,16,2014,IND-2014-119
+IND,Offensive Holding,12/21/2014,Dallas,K.Holmes,C,16,2014,IND-2014-120
+IND,Ineligible Downfield Kick,12/21/2014,Dallas,J.McNary,ILB,16,2014,IND-2014-121
+IND,Defensive Holding,12/21/2014,Dallas,J.Freeman,ILB,16,2014,IND-2014-122
+IND,Defensive Offside,12/28/2014,Tennessee,A.Jones,DE,17,2014,IND-2014-123
+IND,False Start,12/28/2014,Tennessee,L.Louis,G,17,2014,IND-2014-124
+IND,False Start,12/28/2014,Tennessee,L.Louis,G,17,2014,IND-2014-125
+IND,Delay of Game,12/28/2014,Tennessee,M.Hasselbeck,QB,17,2014,IND-2014-126
+IND,False Start,12/28/2014,Tennessee,J.Brown,DB,17,2014,IND-2014-127
+IND,Defensive 12 On-field,01/04/2015,Cincinnati,V.Davis,CB,18,2014,IND-2014-128
+IND,False Start,01/04/2015,Cincinnati,D.Allen,TE,18,2014,IND-2014-129
+IND,False Start,01/04/2015,Cincinnati,D.Allen,TE,18,2014,IND-2014-130
+IND,Face Mask (15 Yards),01/04/2015,Cincinnati,A.Jackson,G,18,2014,IND-2014-131
+IND,Defensive Holding,01/04/2015,Cincinnati,G.Toler,CB,18,2014,IND-2014-132
+IND,Offensive Holding,01/04/2015,Cincinnati,J.Mewhort,G,18,2014,IND-2014-133
+IND,Illegal Use of Hands,01/04/2015,Cincinnati,A.Castonzo,T,18,2014,IND-2014-134
+IND,Illegal Block Above the Waist,01/04/2015,Cincinnati,D.Moncrief,WR,18,2014,IND-2014-135
+IND,Offensive Holding,01/04/2015,Cincinnati,D.McDonald,DB,18,2014,IND-2014-136
+IND,Delay of Game,01/04/2015,Cincinnati,A.Luck,QB,18,2014,IND-2014-137
+IND,Roughing the Passer,01/11/2015,Denver,A.Jones,DE,19,2014,IND-2014-138
+IND,Defensive Holding,01/11/2015,Denver,M.Adams,SS,19,2014,IND-2014-139
+IND,Neutral Zone Infraction,01/11/2015,Denver,J.Newsome,OLB,19,2014,IND-2014-140
+IND,False Start,01/11/2015,Denver,K.Holmes,C,19,2014,IND-2014-141
+IND,False Start,01/11/2015,Denver,L.Louis,G,19,2014,IND-2014-142
+IND,Defensive Holding,01/11/2015,Denver,V.Davis,CB,19,2014,IND-2014-143
+IND,Offensive Holding,01/11/2015,Denver,A.Castonzo,T,19,2014,IND-2014-144
+IND,Illegal Use of Hands,01/11/2015,Denver,D.Herron,RB,19,2014,IND-2014-145
+IND,Offensive Holding,01/11/2015,Denver,K.Holmes,C,19,2014,IND-2014-146
+IND,Neutral Zone Infraction,01/11/2015,Denver,S.Phillips,OLB,19,2014,IND-2014-147
+IND,Offside on Free Kick,01/18/2015,New England,D.McDonald,DB,20,2014,IND-2014-148
+IND,Roughing the Passer,01/18/2015,New England,J.Freeman,ILB,20,2014,IND-2014-149
+IND,Ineligible Downfield Kick,01/18/2015,New England,D.Allen,TE,20,2014,IND-2014-150

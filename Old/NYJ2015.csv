@@ -1,0 +1,105 @@
+PenaltyIndex,team,penalty,game,opponent,player,position,week
+NYJ-2015-0,NYJ,Defensive Offside,09/13/2015,Cleveland,L.Douzable,DE,1-2015
+NYJ-2015-1,NYJ,Offensive Holding,09/13/2015,Cleveland,B.Marshall,WR,1-2015
+NYJ-2015-2,NYJ,Neutral Zone Infraction,09/13/2015,Cleveland,Q.Coples,OLB,1-2015
+NYJ-2015-3,NYJ,Illegal Block Above the Waist,09/13/2015,Cleveland,M.Williams,CB,1-2015
+NYJ-2015-4,NYJ,Offensive Pass Interference,09/21/2015,Indianapolis,E.Decker,WR,2-2015
+NYJ-2015-5,NYJ,Defensive Offside,09/21/2015,Indianapolis,L.Williams,DE,2-2015
+NYJ-2015-6,NYJ,Unnecessary Roughness,09/21/2015,Indianapolis,B.Skrine,DB,2-2015
+NYJ-2015-7,NYJ,False Start,09/21/2015,Indianapolis,K.Davis,TE,2-2015
+NYJ-2015-8,NYJ,Defensive Holding,09/21/2015,Indianapolis,A.Cromartie,DB,2-2015
+NYJ-2015-9,NYJ,Unsportsmanlike Conduct,09/21/2015,Indianapolis,D.Davis,ILB,2-2015
+NYJ-2015-10,NYJ,Unnecessary Roughness,09/21/2015,Indianapolis,B.Giacomini,T,2-2015
+NYJ-2015-11,NYJ,Unnecessary Roughness,09/21/2015,Indianapolis,Q.Coples,OLB,2-2015
+NYJ-2015-12,NYJ,Roughing the Passer,09/21/2015,Indianapolis,Q.Coples,OLB,2-2015
+NYJ-2015-13,NYJ,False Start,09/21/2015,Indianapolis,B.Marshall,WR,2-2015
+NYJ-2015-14,NYJ,False Start,09/27/2015,Philadelphia,Q.Enunwa,WR,3-2015
+NYJ-2015-15,NYJ,Defensive Holding,09/27/2015,Philadelphia,A.Cromartie,DB,3-2015
+NYJ-2015-16,NYJ,Unnecessary Roughness,09/27/2015,Philadelphia,D.Davis,ILB,3-2015
+NYJ-2015-17,NYJ,Defensive Pass Interference,09/27/2015,Philadelphia,B.Skrine,DB,3-2015
+NYJ-2015-18,NYJ,Illegal Formation,09/27/2015,Philadelphia,B.Giacomini,T,3-2015
+NYJ-2015-19,NYJ,False Start,09/27/2015,Philadelphia,D.Ferguson,T,3-2015
+NYJ-2015-20,NYJ,Illegal Use of Hands,09/27/2015,Philadelphia,Q.Coples,OLB,3-2015
+NYJ-2015-21,NYJ,Illegal Block Above the Waist,10/04/2015,Miami,M.Williams,CB,4-2015
+NYJ-2015-22,NYJ,Delay of Game,10/04/2015,Miami,R.Fitzpatrick,QB,4-2015
+NYJ-2015-23,NYJ,Offensive Holding,10/04/2015,Miami,N.Mangold,C,4-2015
+NYJ-2015-24,NYJ,Defensive Pass Interference,10/04/2015,Miami,D.Revis,DB,4-2015
+NYJ-2015-25,NYJ,Defensive Pass Interference,10/04/2015,Miami,M.Gilchrist,DB,4-2015
+NYJ-2015-26,NYJ,False Start,10/04/2015,Miami,B.Marshall,WR,4-2015
+NYJ-2015-27,NYJ,Illegal Block Above the Waist,10/04/2015,Miami,D.McDougle,CB,4-2015
+NYJ-2015-28,NYJ,Unnecessary Roughness,10/04/2015,Miami,L.Mauldin,OLB,4-2015
+NYJ-2015-29,NYJ,False Start,10/04/2015,Miami,B.Winters,G,4-2015
+NYJ-2015-30,NYJ,Defensive Pass Interference,10/04/2015,Miami,A.Cromartie,DB,4-2015
+NYJ-2015-31,NYJ,Delay of Game,10/04/2015,Miami,R.Fitzpatrick,QB,4-2015
+NYJ-2015-32,NYJ,Offensive Holding,10/04/2015,Miami,B.Winters,G,4-2015
+NYJ-2015-33,NYJ,Offensive Holding,10/04/2015,Miami,B.Giacomini,T,4-2015
+NYJ-2015-34,NYJ,Defensive Holding,10/04/2015,Miami,M.Gilchrist,DB,4-2015
+NYJ-2015-35,NYJ,Defensive Holding,10/04/2015,Miami,B.Skrine,DB,4-2015
+NYJ-2015-36,NYJ,Illegal Use of Hands,10/18/2015,Washington,S.Richardson,DE,6-2015
+NYJ-2015-37,NYJ,False Start,10/25/2015,New England,B.Qvale,T,7-2015
+NYJ-2015-38,NYJ,Low Block,10/25/2015,New England,Dar.Walls,CB,7-2015
+NYJ-2015-39,NYJ,Offensive Holding,10/25/2015,New England,N.Mangold,C,7-2015
+NYJ-2015-40,NYJ,False Start,10/25/2015,New England,J.Carpenter,G,7-2015
+NYJ-2015-41,NYJ,False Start,10/25/2015,New England,B.Marshall,WR,7-2015
+NYJ-2015-42,NYJ,Neutral Zone Infraction,11/01/2015,Oakland,L.Williams,DE,8-2015
+NYJ-2015-43,NYJ,Defensive 12 On-field,11/01/2015,Oakland,B.Skrine,DB,8-2015
+NYJ-2015-44,NYJ,False Start,11/01/2015,Oakland,D.Ferguson,T,8-2015
+NYJ-2015-45,NYJ,Delay of Game,11/01/2015,Oakland,R.Quigley,P,8-2015
+NYJ-2015-46,NYJ,Illegal Block Above the Waist,11/01/2015,Oakland,L.Mauldin,OLB,8-2015
+NYJ-2015-47,NYJ,Offensive Holding,11/01/2015,Oakland,W.Colon,G,8-2015
+NYJ-2015-48,NYJ,Illegal Block Above the Waist,11/01/2015,Oakland,Z.Stacy,RB,8-2015
+NYJ-2015-49,NYJ,False Start,11/08/2015,Jacksonville,D.Ferguson,T,9-2015
+NYJ-2015-50,NYJ,False Start,11/08/2015,Jacksonville,E.Decker,WR,9-2015
+NYJ-2015-51,NYJ,False Start,11/08/2015,Jacksonville,B.Marshall,WR,9-2015
+NYJ-2015-52,NYJ,Unnecessary Roughness,11/08/2015,Jacksonville,D.Ferguson,T,9-2015
+NYJ-2015-53,NYJ,Offensive Holding,11/08/2015,Jacksonville,W.Johnson,OL,9-2015
+NYJ-2015-54,NYJ,False Start,11/08/2015,Jacksonville,B.Qvale,T,9-2015
+NYJ-2015-55,NYJ,Defensive Offside,11/08/2015,Jacksonville,Q.Coples,OLB,9-2015
+NYJ-2015-56,NYJ,Delay of Game,11/12/2015,Buffalo,R.Fitzpatrick,QB,10-2015
+NYJ-2015-57,NYJ,Offensive Pass Interference,11/12/2015,Buffalo,E.Decker,WR,10-2015
+NYJ-2015-58,NYJ,False Start,11/12/2015,Buffalo,B.Giacomini,T,10-2015
+NYJ-2015-59,NYJ,Offensive Holding,11/12/2015,Buffalo,R.Miles,S,10-2015
+NYJ-2015-60,NYJ,Offensive Holding,11/22/2015,Houston,B.Giacomini,T,11-2015
+NYJ-2015-61,NYJ,Defensive Holding,11/22/2015,Houston,A.Cromartie,DB,11-2015
+NYJ-2015-62,NYJ,Defensive Offside,11/22/2015,Houston,L.Williams,DE,11-2015
+NYJ-2015-63,NYJ,Offensive Holding,11/22/2015,Houston,D.Ferguson,T,11-2015
+NYJ-2015-64,NYJ,Unnecessary Roughness,11/22/2015,Houston,B.Skrine,DB,11-2015
+NYJ-2015-65,NYJ,False Start,11/22/2015,Houston,E.Decker,WR,11-2015
+NYJ-2015-66,NYJ,Encroachment,11/29/2015,Miami,D.Harrison,NT,12-2015
+NYJ-2015-67,NYJ,Offensive Holding,11/29/2015,Miami,B.Giacomini,T,12-2015
+NYJ-2015-68,NYJ,False Start,11/29/2015,Miami,D.Ferguson,T,12-2015
+NYJ-2015-69,NYJ,Offensive Holding,11/29/2015,Miami,B.Powell,RB,12-2015
+NYJ-2015-70,NYJ,False Start,11/29/2015,Miami,B.Giacomini,T,12-2015
+NYJ-2015-71,NYJ,False Start,11/29/2015,Miami,D.Ferguson,T,12-2015
+NYJ-2015-72,NYJ,Offensive Holding,11/29/2015,Miami,B.Winters,G,12-2015
+NYJ-2015-73,NYJ,Unnecessary Roughness,12/06/2015,N.Y. Giants,J.Carpenter,G,13-2015
+NYJ-2015-74,NYJ,Offensive Holding,12/06/2015,N.Y. Giants,B.Winters,G,13-2015
+NYJ-2015-75,NYJ,False Start,12/06/2015,N.Y. Giants,D.McDougle,CB,13-2015
+NYJ-2015-76,NYJ,Defensive Offside,12/06/2015,N.Y. Giants,R.Miles,S,13-2015
+NYJ-2015-77,NYJ,Illegal Contact,12/06/2015,N.Y. Giants,Dar.Walls,CB,13-2015
+NYJ-2015-78,NYJ,Defensive Pass Interference,12/06/2015,N.Y. Giants,B.Skrine,DB,13-2015
+NYJ-2015-79,NYJ,Running Into the Kicker,12/06/2015,N.Y. Giants,J.Cumberland,TE,13-2015
+NYJ-2015-80,NYJ,Delay of Game,12/06/2015,N.Y. Giants,R.Fitzpatrick,QB,13-2015
+NYJ-2015-81,NYJ,Chop Block,12/13/2015,Tennessee,Q.Enunwa,WR,14-2015
+NYJ-2015-82,NYJ,Defensive Holding,12/13/2015,Tennessee,D.Harris,ILB,14-2015
+NYJ-2015-83,NYJ,Defensive Holding,12/13/2015,Tennessee,D.Revis,DB,14-2015
+NYJ-2015-84,NYJ,Offensive Holding,12/13/2015,Tennessee,K.Davis,TE,14-2015
+NYJ-2015-85,NYJ,False Start,12/19/2015,Dallas,B.Winters,G,15-2015
+NYJ-2015-86,NYJ,Illegal Use of Hands,12/19/2015,Dallas,J.Cumberland,TE,15-2015
+NYJ-2015-87,NYJ,Offensive Holding,12/19/2015,Dallas,B.Winters,G,15-2015
+NYJ-2015-88,NYJ,False Start,12/19/2015,Dallas,K.Davis,TE,15-2015
+NYJ-2015-89,NYJ,Illegal Use of Hands,12/19/2015,Dallas,B.Winters,G,15-2015
+NYJ-2015-90,NYJ,Horse Collar Tackle,12/19/2015,Dallas,C.Pace,OLB,15-2015
+NYJ-2015-91,NYJ,Offensive Holding,12/19/2015,Dallas,B.Giacomini,T,15-2015
+NYJ-2015-92,NYJ,Encroachment,12/27/2015,New England,L.Mauldin,OLB,16-2015
+NYJ-2015-93,NYJ,Illegal Use of Hands,12/27/2015,New England,J.Lattimore,LB,16-2015
+NYJ-2015-94,NYJ,Offensive Holding,12/27/2015,New England,J.Carpenter,G,16-2015
+NYJ-2015-95,NYJ,False Start,12/27/2015,New England,B.Marshall,WR,16-2015
+NYJ-2015-96,NYJ,Defensive Pass Interference,12/27/2015,New England,B.Skrine,DB,16-2015
+NYJ-2015-97,NYJ,Delay of Game,12/27/2015,New England,R.Quigley,P,16-2015
+NYJ-2015-98,NYJ,Illegal Touch Pass,01/03/2016,Buffalo,E.Decker,WR,17-2015
+NYJ-2015-99,NYJ,Offensive Holding,01/03/2016,Buffalo,D.McDougle,CB,17-2015
+NYJ-2015-100,NYJ,Offensive 12 On-field,01/03/2016,Buffalo,C.Ivory,RB,17-2015
+NYJ-2015-101,NYJ,Unnecessary Roughness,01/03/2016,Buffalo,L.Williams,DE,17-2015
+NYJ-2015-102,NYJ,Neutral Zone Infraction,01/03/2016,Buffalo,S.Richardson,DE,17-2015
+NYJ-2015-103,NYJ,Illegal Use of Hands,01/03/2016,Buffalo,D.Revis,DB,17-2015

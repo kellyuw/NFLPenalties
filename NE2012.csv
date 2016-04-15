@@ -1,0 +1,118 @@
+team,penalty,game,opponent,player,position,week,year,penaltyindex
+NE,Defensive Pass Interference,09/09/2012,Tennessee,R.Dowling,DB,1,2012,NE-2012-0
+NE,Defensive Offside,09/09/2012,Tennessee,Cha.Jones,DE,1,2012,NE-2012-1
+NE,Defensive Holding,09/09/2012,Tennessee,B.Spikes,MLB,1,2012,NE-2012-2
+NE,Defensive Pass Interference,09/09/2012,Tennessee,J.Mayo,MLB,1,2012,NE-2012-3
+NE,Encroachment,09/16/2012,Arizona,V.Wilfork,NT,2,2012,NE-2012-4
+NE,False Start,09/16/2012,Arizona,D.Aiken,LS,2,2012,NE-2012-5
+NE,False Start,09/16/2012,Arizona,D.Thomas,G,2,2012,NE-2012-6
+NE,Personal Foul,09/16/2012,Arizona,S.Gregory,DB,2,2012,NE-2012-7
+NE,Roughing the Passer,09/16/2012,Arizona,B.Spikes,MLB,2,2012,NE-2012-8
+NE,Offensive Holding,09/16/2012,Arizona,R.Gronkowski,TE,2,2012,NE-2012-9
+NE,False Start,09/16/2012,Arizona,R.Gronkowski,TE,2,2012,NE-2012-10
+NE,Illegal Block Above the Waist,09/23/2012,Baltimore,N.Koutouvides,LB,3,2012,NE-2012-11
+NE,Offensive Holding,09/23/2012,Baltimore,R.Gronkowski,TE,3,2012,NE-2012-12
+NE,Offensive Pass Interference,09/23/2012,Baltimore,J.Edelman,WR,3,2012,NE-2012-13
+NE,Defensive Pass Interference,09/23/2012,Baltimore,J.Mayo,MLB,3,2012,NE-2012-14
+NE,False Start,09/23/2012,Baltimore,J.Edelman,WR,3,2012,NE-2012-15
+NE,Defensive Holding,09/23/2012,Baltimore,K.Arrington,DB,3,2012,NE-2012-16
+NE,Defensive Holding,09/23/2012,Baltimore,S.Moore,DB,3,2012,NE-2012-17
+NE,Defensive Offside,09/23/2012,Baltimore,N.Koutouvides,LB,3,2012,NE-2012-18
+NE,Defensive Holding,09/23/2012,Baltimore,D.McCourty,FS,3,2012,NE-2012-19
+NE,Defensive Holding,09/23/2012,Baltimore,B.Spikes,MLB,3,2012,NE-2012-20
+NE,Defensive Pass Interference,09/23/2012,Baltimore,D.McCourty,FS,3,2012,NE-2012-21
+NE,Offensive Holding,09/30/2012,Buffalo,T.Wilson,SS,4,2012,NE-2012-22
+NE,Defensive Pass Interference,10/07/2012,Denver,D.McCourty,FS,5,2012,NE-2012-23
+NE,False Start,10/07/2012,Denver,L.Mankins,G,5,2012,NE-2012-24
+NE,Offensive Holding,10/07/2012,Denver,R.Wendell,G,5,2012,NE-2012-25
+NE,False Start,10/07/2012,Denver,N.Solder,T,5,2012,NE-2012-26
+NE,Offensive Pass Interference,10/07/2012,Denver,R.Gronkowski,TE,5,2012,NE-2012-27
+NE,Offensive Holding,10/07/2012,Denver,N.Ebner,DB,5,2012,NE-2012-28
+NE,Defensive Offside,10/14/2012,Seattle,V.Wilfork,NT,6,2012,NE-2012-29
+NE,Illegal Contact,10/14/2012,Seattle,P.Chung,SS,6,2012,NE-2012-30
+NE,False Start,10/14/2012,Seattle,S.Vollmer,T,6,2012,NE-2012-31
+NE,Intentional Grounding,10/14/2012,Seattle,T.Brady,QB,6,2012,NE-2012-32
+NE,Defensive Pass Interference,10/14/2012,Seattle,P.Chung,SS,6,2012,NE-2012-33
+NE,Unnecessary Roughness,10/14/2012,Seattle,B.Spikes,MLB,6,2012,NE-2012-34
+NE,Defensive Pass Interference,10/14/2012,Seattle,A.Dennard,CB,6,2012,NE-2012-35
+NE,Intentional Grounding,10/14/2012,Seattle,T.Brady,QB,6,2012,NE-2012-36
+NE,Defensive Holding,10/21/2012,N.Y. Jets,R.Dowling,DB,7,2012,NE-2012-37
+NE,Offensive Holding,10/21/2012,N.Y. Jets,D.Thomas,G,7,2012,NE-2012-38
+NE,Defensive Holding,10/21/2012,N.Y. Jets,D.Hightower,OLB,7,2012,NE-2012-39
+NE,False Start,10/21/2012,N.Y. Jets,A.Hernandez,TE,7,2012,NE-2012-40
+NE,Defensive Holding,10/21/2012,N.Y. Jets,R.Dowling,DB,7,2012,NE-2012-41
+NE,Illegal Contact,10/21/2012,N.Y. Jets,A.Dennard,CB,7,2012,NE-2012-42
+NE,Offensive Pass Interference,10/21/2012,N.Y. Jets,B.Lloyd,WR,7,2012,NE-2012-43
+NE,Defensive Holding,10/21/2012,N.Y. Jets,A.Dennard,CB,7,2012,NE-2012-44
+NE,Encroachment,10/28/2012,St. Louis,V.Wilfork,NT,8,2012,NE-2012-45
+NE,Offside on Free Kick,10/28/2012,St. Louis,M.Slater,WR,8,2012,NE-2012-46
+NE,Offensive Holding,10/28/2012,St. Louis,N.Solder,T,8,2012,NE-2012-47
+NE,Encroachment,10/28/2012,St. Louis,Cha.Jones,DE,8,2012,NE-2012-48
+NE,Illegal Formation,10/28/2012,St. Louis,S.Vollmer,T,8,2012,NE-2012-49
+NE,False Start,10/28/2012,St. Louis,D.Fells,TE,8,2012,NE-2012-50
+NE,Encroachment,10/28/2012,St. Louis,J.Bequette,DE,8,2012,NE-2012-51
+NE,Offensive Pass Interference,10/28/2012,St. Louis,D.Fells,TE,8,2012,NE-2012-52
+NE,Face Mask (15 Yards),11/11/2012,Buffalo,V.Wilfork,NT,10,2012,NE-2012-53
+NE,Unnecessary Roughness,11/11/2012,Buffalo,A.Dennard,CB,10,2012,NE-2012-54
+NE,Encroachment,11/11/2012,Buffalo,B.Spikes,MLB,10,2012,NE-2012-55
+NE,Encroachment,11/11/2012,Buffalo,J.Cunningham,LB,10,2012,NE-2012-56
+NE,Roughing the Passer,11/11/2012,Buffalo,B.Spikes,MLB,10,2012,NE-2012-57
+NE,Unnecessary Roughness,11/11/2012,Buffalo,J.Mayo,MLB,10,2012,NE-2012-58
+NE,Encroachment,11/11/2012,Buffalo,R.Ninkovich,DE,10,2012,NE-2012-59
+NE,False Start,11/11/2012,Buffalo,S.Ridley,RB,10,2012,NE-2012-60
+NE,Defensive Pass Interference,11/18/2012,Indianapolis,K.Arrington,DB,11,2012,NE-2012-61
+NE,Defensive Holding,11/18/2012,Indianapolis,K.Arrington,DB,11,2012,NE-2012-62
+NE,Offensive Holding,11/18/2012,Indianapolis,N.Solder,T,11,2012,NE-2012-63
+NE,Offensive Holding,11/18/2012,Indianapolis,N.Solder,T,11,2012,NE-2012-64
+NE,Illegal Contact,11/18/2012,Indianapolis,J.Mayo,MLB,11,2012,NE-2012-65
+NE,Roughing the Passer,11/18/2012,Indianapolis,J.Mayo,MLB,11,2012,NE-2012-66
+NE,Illegal Contact,11/18/2012,Indianapolis,A.Talib,CB,11,2012,NE-2012-67
+NE,Intentional Grounding,11/22/2012,N.Y. Jets,T.Brady,QB,12,2012,NE-2012-68
+NE,Encroachment,11/22/2012,N.Y. Jets,V.Wilfork,NT,12,2012,NE-2012-69
+NE,Defensive Holding,11/22/2012,N.Y. Jets,J.Cunningham,LB,12,2012,NE-2012-70
+NE,Encroachment,11/22/2012,N.Y. Jets,B.Spikes,MLB,12,2012,NE-2012-71
+NE,Chop Block,11/22/2012,N.Y. Jets,S.Ridley,RB,12,2012,NE-2012-72
+NE,Defensive Holding,11/22/2012,N.Y. Jets,B.Spikes,MLB,12,2012,NE-2012-73
+NE,Offensive Pass Interference,11/22/2012,N.Y. Jets,A.Hernandez,TE,12,2012,NE-2012-74
+NE,Unnecessary Roughness,11/22/2012,N.Y. Jets,A.Dennard,CB,12,2012,NE-2012-75
+NE,Offensive Holding,12/02/2012,Miami,D.Thomas,G,13,2012,NE-2012-76
+NE,Offensive Holding,12/02/2012,Miami,S.Vollmer,T,13,2012,NE-2012-77
+NE,False Start,12/02/2012,Miami,N.Ebner,DB,13,2012,NE-2012-78
+NE,Offensive Holding,12/02/2012,Miami,D.Fells,TE,13,2012,NE-2012-79
+NE,Defensive Pass Interference,12/02/2012,Miami,A.Talib,CB,13,2012,NE-2012-80
+NE,Defensive Offside,12/10/2012,Houston,J.Francis,DE,14,2012,NE-2012-81
+NE,Offensive Pass Interference,12/10/2012,Houston,A.Hernandez,TE,14,2012,NE-2012-82
+NE,Neutral Zone Infraction,12/10/2012,Houston,T.Scott,DE,14,2012,NE-2012-83
+NE,Illegal Use of Hands,12/10/2012,Houston,D.Hightower,OLB,14,2012,NE-2012-84
+NE,Defensive Pass Interference,12/10/2012,Houston,K.Arrington,DB,14,2012,NE-2012-85
+NE,Offensive Holding,12/10/2012,Houston,S.Vollmer,T,14,2012,NE-2012-86
+NE,Face Mask (15 Yards),12/10/2012,Houston,P.Chung,SS,14,2012,NE-2012-87
+NE,Offensive Holding,12/10/2012,Houston,D.Connolly,G,14,2012,NE-2012-88
+NE,Offensive Holding,12/16/2012,San Francisco,M.Rivera,MLB,15,2012,NE-2012-89
+NE,False Start,12/16/2012,San Francisco,L.Mankins,G,15,2012,NE-2012-90
+NE,Defensive Pass Interference,12/16/2012,San Francisco,A.Talib,CB,15,2012,NE-2012-91
+NE,Defensive Offside,12/16/2012,San Francisco,Cha.Jones,DE,15,2012,NE-2012-92
+NE,Low Block,12/16/2012,San Francisco,L.Mankins,G,15,2012,NE-2012-93
+NE,Offensive Holding,12/16/2012,San Francisco,M.Cole,DB,15,2012,NE-2012-94
+NE,Illegal Use of Hands,12/16/2012,San Francisco,S.Vollmer,T,15,2012,NE-2012-95
+NE,Offensive Holding,12/16/2012,San Francisco,J.Develin,FB,15,2012,NE-2012-96
+NE,Defensive Offside,12/23/2012,Jacksonville,V.Wilfork,NT,16,2012,NE-2012-97
+NE,Illegal Motion,12/23/2012,Jacksonville,A.Hernandez,TE,16,2012,NE-2012-98
+NE,Defensive Pass Interference,12/23/2012,Jacksonville,K.Arrington,DB,16,2012,NE-2012-99
+NE,Unnecessary Roughness,12/23/2012,Jacksonville,V.Wilfork,NT,16,2012,NE-2012-100
+NE,Unnecessary Roughness,12/23/2012,Jacksonville,P.Chung,SS,16,2012,NE-2012-101
+NE,Illegal Block Above the Waist,12/30/2012,Miami,D.Martin,DB,17,2012,NE-2012-102
+NE,False Start,12/30/2012,Miami,N.Solder,T,17,2012,NE-2012-103
+NE,False Start,12/30/2012,Miami,A.Hernandez,TE,17,2012,NE-2012-104
+NE,Roughing the Passer,12/30/2012,Miami,D.Hightower,OLB,17,2012,NE-2012-105
+NE,False Start,12/30/2012,Miami,L.Mankins,G,17,2012,NE-2012-106
+NE,Offensive Holding,12/30/2012,Miami,R.Wendell,G,17,2012,NE-2012-107
+NE,Unsportsmanlike Conduct,01/13/2013,Houston,B.Lloyd,WR,19,2012,NE-2012-108
+NE,Horse Collar Tackle,01/13/2013,Houston,S.Gostkowski,K,19,2012,NE-2012-109
+NE,Offensive Pass Interference,01/13/2013,Houston,A.Hernandez,TE,19,2012,NE-2012-110
+NE,Unnecessary Roughness,01/13/2013,Houston,S.Gregory,DB,19,2012,NE-2012-111
+NE,Defensive Offside,01/13/2013,Houston,J.Francis,DE,19,2012,NE-2012-112
+NE,Offensive Holding,01/20/2013,Baltimore,A.Talib,CB,20,2012,NE-2012-113
+NE,Offensive Holding,01/20/2013,Baltimore,P.Chung,SS,20,2012,NE-2012-114
+NE,Defensive Pass Interference,01/20/2013,Baltimore,A.Dennard,CB,20,2012,NE-2012-115
+NE,Offensive Holding,01/20/2013,Baltimore,N.Solder,T,20,2012,NE-2012-116

@@ -1,0 +1,124 @@
+team,penalty,game,opponent,player,position,week,year,penaltyindex
+BAL,Offensive Pass Interference,09/05/2013,Denver,J.Jones,WR,1,2013,BAL-2013-0
+BAL,False Start,09/05/2013,Denver,T.Smith,WR,1,2013,BAL-2013-1
+BAL,Illegal Contact,09/05/2013,Denver,C.Graham,CB,1,2013,BAL-2013-2
+BAL,False Start,09/05/2013,Denver,K.Osemele,G,1,2013,BAL-2013-3
+BAL,Unnecessary Roughness,09/05/2013,Denver,A.McClellan,OLB,1,2013,BAL-2013-4
+BAL,Offensive Holding,09/05/2013,Denver,J.Ihedigbo,SS,1,2013,BAL-2013-5
+BAL,Illegal Use of Hands,09/05/2013,Denver,T.Suggs,OLB,1,2013,BAL-2013-6
+BAL,Unnecessary Roughness,09/05/2013,Denver,J.Smith,CB,1,2013,BAL-2013-7
+BAL,Unnecessary Roughness,09/05/2013,Denver,G.Gradkowski,C,1,2013,BAL-2013-8
+BAL,Defensive Offside,09/05/2013,Denver,E.Dumervil,OLB,1,2013,BAL-2013-9
+BAL,Offensive Holding,09/15/2013,Cleveland,J.Ihedigbo,SS,2,2013,BAL-2013-10
+BAL,Offensive Holding,09/15/2013,Cleveland,E.Dickson,TE,2,2013,BAL-2013-11
+BAL,Defensive Pass Interference,09/15/2013,Cleveland,M.Elam,SS,2,2013,BAL-2013-12
+BAL,Illegal Contact,09/22/2013,Houston,J.Smith,CB,3,2013,BAL-2013-13
+BAL,Illegal Substitution,09/22/2013,Houston,A.Levine,CB,3,2013,BAL-2013-14
+BAL,Offensive Holding,09/22/2013,Houston,J.Simon,LB,3,2013,BAL-2013-15
+BAL,Personal Foul,09/22/2013,Houston,B.Trawick,DB,3,2013,BAL-2013-16
+BAL,Defensive Offside,09/22/2013,Houston,E.Dumervil,OLB,3,2013,BAL-2013-17
+BAL,Personal Foul,09/22/2013,Houston,B.McKinnie,T,3,2013,BAL-2013-18
+BAL,Personal Foul,09/22/2013,Houston,B.McKinnie,T,3,2013,BAL-2013-19
+BAL,Offensive Holding,09/22/2013,Houston,K.Osemele,G,3,2013,BAL-2013-20
+BAL,Offensive Holding,09/22/2013,Houston,C.Upshaw,OLB,3,2013,BAL-2013-21
+BAL,False Start,09/22/2013,Houston,V.Leach,FB,3,2013,BAL-2013-22
+BAL,Personal Foul,09/29/2013,Buffalo,K.Osemele,G,4,2013,BAL-2013-23
+BAL,False Start,09/29/2013,Buffalo,R.Rice,RB,4,2013,BAL-2013-24
+BAL,False Start,09/29/2013,Buffalo,M.Yanda,G,4,2013,BAL-2013-25
+BAL,Defensive Pass Interference,09/29/2013,Buffalo,J.Smith,CB,4,2013,BAL-2013-26
+BAL,Offensive Holding,09/29/2013,Buffalo,M.Oher,T,4,2013,BAL-2013-27
+BAL,False Start,09/29/2013,Buffalo,E.Dickson,TE,4,2013,BAL-2013-28
+BAL,Defensive Offside,09/29/2013,Buffalo,T.Suggs,OLB,4,2013,BAL-2013-29
+BAL,Illegal Formation,09/29/2013,Buffalo,K.Osemele,G,4,2013,BAL-2013-30
+BAL,Encroachment,09/29/2013,Buffalo,J.Bynes,LB,4,2013,BAL-2013-31
+BAL,Unnecessary Roughness,09/29/2013,Buffalo,C.Upshaw,OLB,4,2013,BAL-2013-32
+BAL,Defensive Holding,10/06/2013,Miami,J.Smith,CB,5,2013,BAL-2013-33
+BAL,Offensive Pass Interference,10/06/2013,Miami,T.Smith,WR,5,2013,BAL-2013-34
+BAL,Face Mask (15 Yards),10/06/2013,Miami,D.Thompson,WR,5,2013,BAL-2013-35
+BAL,Illegal Block Above the Waist,10/06/2013,Miami,A.Levine,CB,5,2013,BAL-2013-36
+BAL,Face Mask (15 Yards),10/06/2013,Miami,A.Shipley,C,5,2013,BAL-2013-37
+BAL,Unnecessary Roughness,10/06/2013,Miami,J.Simon,LB,5,2013,BAL-2013-38
+BAL,False Start,10/13/2013,Green Bay,B.Bajema,TE,6,2013,BAL-2013-39
+BAL,Illegal Use of Hands,10/13/2013,Green Bay,M.Yanda,G,6,2013,BAL-2013-40
+BAL,Offensive Holding,10/13/2013,Green Bay,R.Wagner,T,6,2013,BAL-2013-41
+BAL,False Start,10/13/2013,Green Bay,D.Clark,TE,6,2013,BAL-2013-42
+BAL,False Start,10/13/2013,Green Bay,M.Yanda,G,6,2013,BAL-2013-43
+BAL,False Start,10/13/2013,Green Bay,K.Osemele,G,6,2013,BAL-2013-44
+BAL,Offensive Holding,10/13/2013,Green Bay,G.Gradkowski,C,6,2013,BAL-2013-45
+BAL,Defensive Offside,10/20/2013,Pittsburgh,Ch.Brown,CB,7,2013,BAL-2013-46
+BAL,Delay of Game,10/20/2013,Pittsburgh,S.Koch,P,7,2013,BAL-2013-47
+BAL,Delay of Game,10/20/2013,Pittsburgh,J.Flacco,QB,7,2013,BAL-2013-48
+BAL,False Start,10/20/2013,Pittsburgh,M.Brown,WR,7,2013,BAL-2013-49
+BAL,Unnecessary Roughness,10/20/2013,Pittsburgh,E.Dumervil,OLB,7,2013,BAL-2013-50
+BAL,Defensive Offside,10/20/2013,Pittsburgh,E.Dumervil,OLB,7,2013,BAL-2013-51
+BAL,Face Mask (15 Yards),10/20/2013,Pittsburgh,E.Dumervil,OLB,7,2013,BAL-2013-52
+BAL,Offside on Free Kick,10/20/2013,Pittsburgh,J.Tucker,K,7,2013,BAL-2013-53
+BAL,Illegal Kick,10/20/2013,Pittsburgh,J.Miles,DB,7,2013,BAL-2013-54
+BAL,Offensive Holding,10/20/2013,Pittsburgh,M.Oher,T,7,2013,BAL-2013-55
+BAL,Illegal Contact,10/20/2013,Pittsburgh,L.Webb,CB,7,2013,BAL-2013-56
+BAL,Defensive Pass Interference,11/03/2013,Cleveland,M.Elam,SS,9,2013,BAL-2013-57
+BAL,Unnecessary Roughness,11/03/2013,Cleveland,H.Ngata,DT,9,2013,BAL-2013-58
+BAL,Offensive Holding,11/03/2013,Cleveland,C.Upshaw,OLB,9,2013,BAL-2013-59
+BAL,Offensive Holding,11/03/2013,Cleveland,G.Gradkowski,C,9,2013,BAL-2013-60
+BAL,False Start,11/03/2013,Cleveland,A.Shipley,C,9,2013,BAL-2013-61
+BAL,Illegal Touch Pass,11/03/2013,Cleveland,D.Thompson,WR,9,2013,BAL-2013-62
+BAL,Unnecessary Roughness,11/03/2013,Cleveland,D.Smith,ILB,9,2013,BAL-2013-63
+BAL,Horse Collar Tackle,11/03/2013,Cleveland,J.Ihedigbo,SS,9,2013,BAL-2013-64
+BAL,Roughing the Passer,11/10/2013,Cincinnati,H.Ngata,DT,10,2013,BAL-2013-65
+BAL,Offensive Holding,11/10/2013,Cincinnati,M.Brown,WR,10,2013,BAL-2013-66
+BAL,False Start,11/10/2013,Cincinnati,T.Smith,WR,10,2013,BAL-2013-67
+BAL,Player Out of Bounds on Punt,11/10/2013,Cincinnati,Ch.Brown,CB,10,2013,BAL-2013-68
+BAL,False Start,11/10/2013,Cincinnati,A.Shipley,C,10,2013,BAL-2013-69
+BAL,Neutral Zone Infraction,11/10/2013,Cincinnati,E.Dumervil,OLB,10,2013,BAL-2013-70
+BAL,Defensive Offside,11/10/2013,Cincinnati,L.Webb,CB,10,2013,BAL-2013-71
+BAL,Personal Foul,11/10/2013,Cincinnati,T.Smith,WR,10,2013,BAL-2013-72
+BAL,Offensive Holding,11/17/2013,Chicago,M.Yanda,G,11,2013,BAL-2013-73
+BAL,Horse Collar Tackle,11/17/2013,Chicago,L.Webb,CB,11,2013,BAL-2013-74
+BAL,Defensive Holding,11/17/2013,Chicago,J.Smith,CB,11,2013,BAL-2013-75
+BAL,False Start,11/17/2013,Chicago,M.Yanda,G,11,2013,BAL-2013-76
+BAL,Roughing the Passer,11/17/2013,Chicago,E.Dumervil,OLB,11,2013,BAL-2013-77
+BAL,Illegal Block Above the Waist,11/24/2013,N.Y. Jets,A.Shipley,C,12,2013,BAL-2013-78
+BAL,False Start,11/24/2013,N.Y. Jets,T.Smith,WR,12,2013,BAL-2013-79
+BAL,Offside on Free Kick,11/24/2013,N.Y. Jets,J.Bynes,LB,12,2013,BAL-2013-80
+BAL,Personal Foul,11/24/2013,N.Y. Jets,C.Upshaw,OLB,12,2013,BAL-2013-81
+BAL,False Start,11/24/2013,N.Y. Jets,M.Cox,LS,12,2013,BAL-2013-82
+BAL,Defensive Offside,11/28/2013,Pittsburgh,E.Dumervil,OLB,13,2013,BAL-2013-83
+BAL,False Start,11/28/2013,Pittsburgh,A.Shipley,C,13,2013,BAL-2013-84
+BAL,False Start,11/28/2013,Pittsburgh,M.Oher,T,13,2013,BAL-2013-85
+BAL,False Start,11/28/2013,Pittsburgh,M.Oher,T,13,2013,BAL-2013-86
+BAL,Unsportsmanlike Conduct,11/28/2013,Pittsburgh,R.Rice,RB,13,2013,BAL-2013-87
+BAL,False Start,11/28/2013,Pittsburgh,M.Oher,T,13,2013,BAL-2013-88
+BAL,Defensive Holding,11/28/2013,Pittsburgh,L.Webb,CB,13,2013,BAL-2013-89
+BAL,Defensive Holding,11/28/2013,Pittsburgh,C.Graham,CB,13,2013,BAL-2013-90
+BAL,False Start,11/28/2013,Pittsburgh,T.Smith,WR,13,2013,BAL-2013-91
+BAL,Offensive Holding,12/08/2013,Minnesota,M.Oher,T,14,2013,BAL-2013-92
+BAL,Illegal Block Above the Waist,12/08/2013,Minnesota,J.Miles,DB,14,2013,BAL-2013-93
+BAL,Offensive Holding,12/08/2013,Minnesota,E.Monroe,T,14,2013,BAL-2013-94
+BAL,Roughing the Passer,12/08/2013,Minnesota,C.Upshaw,OLB,14,2013,BAL-2013-95
+BAL,Offensive Holding,12/08/2013,Minnesota,G.Gradkowski,C,14,2013,BAL-2013-96
+BAL,False Start,12/08/2013,Minnesota,M.Yanda,G,14,2013,BAL-2013-97
+BAL,Unnecessary Roughness,12/16/2013,Detroit,M.Elam,SS,15,2013,BAL-2013-98
+BAL,Neutral Zone Infraction,12/16/2013,Detroit,T.Suggs,OLB,15,2013,BAL-2013-99
+BAL,Encroachment,12/16/2013,Detroit,H.Ngata,DT,15,2013,BAL-2013-100
+BAL,Offensive Holding,12/16/2013,Detroit,M.Cox,LS,15,2013,BAL-2013-101
+BAL,Offensive Holding,12/16/2013,Detroit,E.Monroe,T,15,2013,BAL-2013-102
+BAL,False Start,12/16/2013,Detroit,M.Yanda,G,15,2013,BAL-2013-103
+BAL,Defensive Offside,12/16/2013,Detroit,H.Ngata,DT,15,2013,BAL-2013-104
+BAL,False Start,12/16/2013,Detroit,E.Monroe,T,15,2013,BAL-2013-105
+BAL,Unnecessary Roughness,12/16/2013,Detroit,C.Upshaw,OLB,15,2013,BAL-2013-106
+BAL,Personal Foul,12/22/2013,New England,J.Smith,CB,16,2013,BAL-2013-107
+BAL,Defensive Pass Interference,12/22/2013,New England,J.Smith,CB,16,2013,BAL-2013-108
+BAL,Illegal Contact,12/22/2013,New England,L.Webb,CB,16,2013,BAL-2013-109
+BAL,False Start,12/22/2013,New England,J.Bynes,LB,16,2013,BAL-2013-110
+BAL,Illegal Use of Hands,12/22/2013,New England,A.Jones,DE,16,2013,BAL-2013-111
+BAL,Illegal Formation,12/22/2013,New England,K.Juszczyk,FB,16,2013,BAL-2013-112
+BAL,Running Into the Kicker,12/22/2013,New England,P.McPhee,LB,16,2013,BAL-2013-113
+BAL,Illegal Use of Hands,12/22/2013,New England,A.Shipley,C,16,2013,BAL-2013-114
+BAL,Personal Foul,12/22/2013,New England,L.Webb,CB,16,2013,BAL-2013-115
+BAL,Illegal Block Above the Waist,12/29/2013,Cincinnati,C.Graham,CB,17,2013,BAL-2013-116
+BAL,False Start,12/29/2013,Cincinnati,A.Shipley,C,17,2013,BAL-2013-117
+BAL,Offensive Holding,12/29/2013,Cincinnati,J.Miles,DB,17,2013,BAL-2013-118
+BAL,False Start,12/29/2013,Cincinnati,E.Monroe,T,17,2013,BAL-2013-119
+BAL,Defensive Pass Interference,12/29/2013,Cincinnati,J.Smith,CB,17,2013,BAL-2013-120
+BAL,Unnecessary Roughness,12/29/2013,Cincinnati,J.Ihedigbo,SS,17,2013,BAL-2013-121
+BAL,Illegal Contact,12/29/2013,Cincinnati,J.Ihedigbo,SS,17,2013,BAL-2013-122

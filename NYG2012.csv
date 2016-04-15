@@ -1,0 +1,89 @@
+team,penalty,game,opponent,player,position,week,year,penaltyindex
+NYG,Clipping,09/05/2012,Dallas,J.Hosley,CB,1,2012,NYG-2012-0
+NYG,False Start,09/05/2012,Dallas,V.Cruz,WR,1,2012,NYG-2012-1
+NYG,Illegal Block Above the Waist,09/05/2012,Dallas,V.Cruz,WR,1,2012,NYG-2012-2
+NYG,Defensive Offside,09/05/2012,Dallas,L.Joseph,DT,1,2012,NYG-2012-3
+NYG,False Start,09/16/2012,Tampa Bay,W.Beatty,T,2,2012,NYG-2012-4
+NYG,Horse Collar Tackle,09/16/2012,Tampa Bay,A.Brown,RB,2,2012,NYG-2012-5
+NYG,Offensive Holding,09/16/2012,Tampa Bay,D.Baas,C,2,2012,NYG-2012-6
+NYG,Illegal Block Above the Waist,09/16/2012,Tampa Bay,J.Williams,OLB,2,2012,NYG-2012-7
+NYG,Offensive Holding,09/16/2012,Tampa Bay,A.Tracy,LB,2,2012,NYG-2012-8
+NYG,False Start,09/16/2012,Tampa Bay,W.Beatty,T,2,2012,NYG-2012-9
+NYG,Defensive Offside,09/16/2012,Tampa Bay,J.Tuck,DE,2,2012,NYG-2012-10
+NYG,False Start,09/16/2012,Tampa Bay,S.Locklear,G,2,2012,NYG-2012-11
+NYG,False Start,09/16/2012,Tampa Bay,K.Boothe,G,2,2012,NYG-2012-12
+NYG,Defensive Pass Interference,09/20/2012,Carolina,C.Webster,CB,3,2012,NYG-2012-13
+NYG,Offensive Holding,09/20/2012,Carolina,M.Bennett,TE,3,2012,NYG-2012-14
+NYG,Unnecessary Roughness,09/20/2012,Carolina,P.Amukamara,CB,3,2012,NYG-2012-15
+NYG,Illegal Contact,09/20/2012,Carolina,C.Webster,CB,3,2012,NYG-2012-16
+NYG,Offensive Holding,09/20/2012,Carolina,J.Cordle,C,3,2012,NYG-2012-17
+NYG,Defensive Holding,09/20/2012,Carolina,J.Tryon,DB,3,2012,NYG-2012-18
+NYG,Offensive Holding,09/30/2012,Philadelphia,W.Beatty,T,4,2012,NYG-2012-19
+NYG,Neutral Zone Infraction,09/30/2012,Philadelphia,M.Kiwanuka,DE,4,2012,NYG-2012-20
+NYG,Offensive Holding,09/30/2012,Philadelphia,S.Locklear,G,4,2012,NYG-2012-21
+NYG,Defensive Offside,09/30/2012,Philadelphia,O.Umenyiora,DE,4,2012,NYG-2012-22
+NYG,Offensive Holding,09/30/2012,Philadelphia,S.Paysinger,LB,4,2012,NYG-2012-23
+NYG,Neutral Zone Infraction,09/30/2012,Philadelphia,J.Pierre-Paul,DE,4,2012,NYG-2012-24
+NYG,Offensive Pass Interference,09/30/2012,Philadelphia,R.Barden,WR,4,2012,NYG-2012-25
+NYG,False Start,10/07/2012,Cleveland,C.Snee,G,5,2012,NYG-2012-26
+NYG,Chop Block,10/07/2012,Cleveland,A.Bradshaw,RB,5,2012,NYG-2012-27
+NYG,Offensive Holding,10/07/2012,Cleveland,Unnamed,LB,5,2012,NYG-2012-28
+NYG,Illegal Use of Hands,10/07/2012,Cleveland,P.Amukamara,CB,5,2012,NYG-2012-29
+NYG,Defensive Offside,10/07/2012,Cleveland,O.Umenyiora,DE,5,2012,NYG-2012-30
+NYG,Offensive Holding,10/14/2012,San Francisco,J.Williams,OLB,6,2012,NYG-2012-31
+NYG,Illegal Block Above the Waist,10/14/2012,San Francisco,A.Rolle,DB,6,2012,NYG-2012-32
+NYG,False Start,10/21/2012,Washington,S.Locklear,G,7,2012,NYG-2012-33
+NYG,Unnecessary Roughness,10/21/2012,Washington,M.Boley,LB,7,2012,NYG-2012-34
+NYG,Offensive Holding,10/21/2012,Washington,W.Beatty,T,7,2012,NYG-2012-35
+NYG,Illegal Touch Pass,10/28/2012,Dallas,S.Locklear,G,8,2012,NYG-2012-36
+NYG,Illegal Contact,10/28/2012,Dallas,J.Hosley,CB,8,2012,NYG-2012-37
+NYG,Defensive Pass Interference,10/28/2012,Dallas,P.Amukamara,CB,8,2012,NYG-2012-38
+NYG,Offensive Holding,10/28/2012,Dallas,W.Beatty,T,8,2012,NYG-2012-39
+NYG,Defensive Offside,10/28/2012,Dallas,J.Tuck,DE,8,2012,NYG-2012-40
+NYG,Illegal Contact,10/28/2012,Dallas,J.Hosley,CB,8,2012,NYG-2012-41
+NYG,Defensive Holding,10/28/2012,Dallas,J.Hosley,CB,8,2012,NYG-2012-42
+NYG,Defensive Offside,11/04/2012,Pittsburgh,J.Pierre-Paul,DE,9,2012,NYG-2012-43
+NYG,False Start,11/04/2012,Pittsburgh,M.Bennett,TE,9,2012,NYG-2012-44
+NYG,False Start,11/04/2012,Pittsburgh,D.Diehl,G,9,2012,NYG-2012-45
+NYG,Illegal Use of Hands,11/04/2012,Pittsburgh,M.Kiwanuka,DE,9,2012,NYG-2012-46
+NYG,Delay of Game,11/04/2012,Pittsburgh,E.Manning,QB,9,2012,NYG-2012-47
+NYG,Defensive Offside,11/04/2012,Pittsburgh,J.Hosley,CB,9,2012,NYG-2012-48
+NYG,Offensive Holding,11/04/2012,Pittsburgh,T.Sash,DB,9,2012,NYG-2012-49
+NYG,Player Out of Bounds on Punt,11/11/2012,Cincinnati,J.Tryon,DB,10,2012,NYG-2012-50
+NYG,False Start,11/25/2012,Green Bay,E.Manning,QB,12,2012,NYG-2012-51
+NYG,Neutral Zone Infraction,11/25/2012,Green Bay,J.Pierre-Paul,DE,12,2012,NYG-2012-52
+NYG,Defensive Holding,11/25/2012,Green Bay,C.Webster,CB,12,2012,NYG-2012-53
+NYG,Offensive Holding,11/25/2012,Green Bay,W.Beatty,T,12,2012,NYG-2012-54
+NYG,Offensive Holding,11/25/2012,Green Bay,W.Beatty,T,12,2012,NYG-2012-55
+NYG,Illegal Block Above the Waist,12/03/2012,Washington,T.Sash,DB,13,2012,NYG-2012-56
+NYG,False Start,12/03/2012,Washington,S.Locklear,G,13,2012,NYG-2012-57
+NYG,Intentional Grounding,12/03/2012,Washington,E.Manning,QB,13,2012,NYG-2012-58
+NYG,False Start,12/03/2012,Washington,H.Nicks,WR,13,2012,NYG-2012-59
+NYG,Delay of Game,12/03/2012,Washington,E.Manning,QB,13,2012,NYG-2012-60
+NYG,Offensive Holding,12/03/2012,Washington,S.Locklear,G,13,2012,NYG-2012-61
+NYG,Offensive Holding,12/03/2012,Washington,J.Cordle,C,13,2012,NYG-2012-62
+NYG,Unnecessary Roughness,12/03/2012,Washington,L.Joseph,DT,13,2012,NYG-2012-63
+NYG,Offensive Holding,12/03/2012,Washington,J.Cordle,C,13,2012,NYG-2012-64
+NYG,Offensive Holding,12/03/2012,Washington,W.Beatty,T,13,2012,NYG-2012-65
+NYG,False Start,12/09/2012,New Orleans,D.Baas,C,14,2012,NYG-2012-66
+NYG,Offensive Pass Interference,12/09/2012,New Orleans,R.Barden,WR,14,2012,NYG-2012-67
+NYG,Illegal Shift,12/09/2012,New Orleans,Unnamed,LB,14,2012,NYG-2012-68
+NYG,Offensive Pass Interference,12/09/2012,New Orleans,H.Nicks,WR,14,2012,NYG-2012-69
+NYG,Offensive Holding,12/09/2012,New Orleans,A.Bradshaw,RB,14,2012,NYG-2012-70
+NYG,Horse Collar Tackle,12/09/2012,New Orleans,P.Amukamara,CB,14,2012,NYG-2012-71
+NYG,Intentional Grounding,12/09/2012,New Orleans,E.Manning,QB,14,2012,NYG-2012-72
+NYG,Defensive Holding,12/16/2012,Atlanta,C.Webster,CB,15,2012,NYG-2012-73
+NYG,Offensive Holding,12/16/2012,Atlanta,J.Tryon,DB,15,2012,NYG-2012-74
+NYG,Illegal Shift,12/16/2012,Atlanta,Unnamed,LB,15,2012,NYG-2012-75
+NYG,Personal Foul,12/16/2012,Atlanta,C.Webster,CB,15,2012,NYG-2012-76
+NYG,Defensive Offside,12/16/2012,Atlanta,O.Umenyiora,DE,15,2012,NYG-2012-77
+NYG,Personal Foul,12/16/2012,Atlanta,W.Beatty,T,15,2012,NYG-2012-78
+NYG,False Start,12/23/2012,Baltimore,C.Snee,G,16,2012,NYG-2012-79
+NYG,Offensive Holding,12/23/2012,Baltimore,C.Snee,G,16,2012,NYG-2012-80
+NYG,Offensive Pass Interference,12/23/2012,Baltimore,D.Hixon,WR,16,2012,NYG-2012-81
+NYG,Defensive 12 On-field,12/23/2012,Baltimore,Unnamed,LB,16,2012,NYG-2012-82
+NYG,Defensive Offside,12/23/2012,Baltimore,J.Pierre-Paul,DE,16,2012,NYG-2012-83
+NYG,Defensive Pass Interference,12/23/2012,Baltimore,C.Webster,CB,16,2012,NYG-2012-84
+NYG,Neutral Zone Infraction,12/23/2012,Baltimore,J.Pierre-Paul,DE,16,2012,NYG-2012-85
+NYG,Illegal Contact,12/30/2012,Philadelphia,K.Phillips,DB,17,2012,NYG-2012-86
+NYG,Personal Foul,12/30/2012,Philadelphia,A.Rolle,DB,17,2012,NYG-2012-87

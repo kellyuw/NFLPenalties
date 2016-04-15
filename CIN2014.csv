@@ -1,0 +1,116 @@
+team,penalty,game,opponent,player,position,week,year,penaltyindex
+CIN,False Start,09/07/2014,Baltimore,J.Gresham,TE,1,2014,CIN-2014-0
+CIN,Defensive Pass Interference,09/07/2014,Baltimore,T.Newman,DB,1,2014,CIN-2014-1
+CIN,Offensive Holding,09/07/2014,Baltimore,R.Bodine,C,1,2014,CIN-2014-2
+CIN,Defensive Holding,09/14/2014,Atlanta,A.Jones,CB,2,2014,CIN-2014-3
+CIN,Offensive Holding,09/14/2014,Atlanta,D.Dennard,CB,2,2014,CIN-2014-4
+CIN,Illegal Use of Hands,09/14/2014,Atlanta,V.Burfict,OLB,2,2014,CIN-2014-5
+CIN,Offensive Holding,09/14/2014,Atlanta,D.Sanzenbacher,WR,2,2014,CIN-2014-6
+CIN,Offensive Holding,09/14/2014,Atlanta,A.Whitworth,T,2,2014,CIN-2014-7
+CIN,False Start,09/14/2014,Atlanta,M.Flowers,OLB,2,2014,CIN-2014-8
+CIN,Defensive Holding,09/14/2014,Atlanta,A.Jones,CB,2,2014,CIN-2014-9
+CIN,Personal Foul,09/14/2014,Atlanta,S.Williams,SS,2,2014,CIN-2014-10
+CIN,Offensive Holding,09/21/2014,Tennessee,C.Boling,G,3,2014,CIN-2014-11
+CIN,Illegal Contact,09/21/2014,Tennessee,A.Jones,CB,3,2014,CIN-2014-12
+CIN,Unsportsmanlike Conduct,09/21/2014,Tennessee,C.Dunlap,DE,3,2014,CIN-2014-13
+CIN,Unnecessary Roughness,09/21/2014,Tennessee,D.Kirkpatrick,CB,3,2014,CIN-2014-14
+CIN,Face Mask (15 Yards),09/21/2014,Tennessee,D.Kirkpatrick,CB,3,2014,CIN-2014-15
+CIN,Personal Foul,09/21/2014,Tennessee,V.Rey,OLB,3,2014,CIN-2014-16
+CIN,False Start,10/05/2014,New England,A.Smith,T,5,2014,CIN-2014-17
+CIN,Defensive Pass Interference,10/05/2014,New England,R.Nelson,FS,5,2014,CIN-2014-18
+CIN,False Start,10/05/2014,New England,A.Whitworth,T,5,2014,CIN-2014-19
+CIN,Illegal Contact,10/05/2014,New England,A.Jones,CB,5,2014,CIN-2014-20
+CIN,Defensive Holding,10/12/2014,Carolina,T.Newman,DB,6,2014,CIN-2014-21
+CIN,Roughing the Passer,10/12/2014,Carolina,V.Burfict,OLB,6,2014,CIN-2014-22
+CIN,Unnecessary Roughness,10/12/2014,Carolina,D.Dennard,CB,6,2014,CIN-2014-23
+CIN,Unnecessary Roughness,10/12/2014,Carolina,V.Burfict,OLB,6,2014,CIN-2014-24
+CIN,Defensive Holding,10/12/2014,Carolina,C.Dunlap,DE,6,2014,CIN-2014-25
+CIN,Illegal Motion,10/12/2014,Carolina,J.Gresham,TE,6,2014,CIN-2014-26
+CIN,False Start,10/12/2014,Carolina,G.Bernard,RB,6,2014,CIN-2014-27
+CIN,Roughing the Passer,10/12/2014,Carolina,W.Gilberry,DE,6,2014,CIN-2014-28
+CIN,Defensive Pass Interference,10/12/2014,Carolina,T.Newman,DB,6,2014,CIN-2014-29
+CIN,False Start,10/12/2014,Carolina,D.Sanzenbacher,WR,6,2014,CIN-2014-30
+CIN,Illegal Block Above the Waist,10/12/2014,Carolina,A.Whitworth,T,6,2014,CIN-2014-31
+CIN,Offensive Holding,10/12/2014,Carolina,A.Smith,T,6,2014,CIN-2014-32
+CIN,False Start,10/12/2014,Carolina,A.Smith,T,6,2014,CIN-2014-33
+CIN,Illegal Contact,10/12/2014,Carolina,V.Burfict,OLB,6,2014,CIN-2014-34
+CIN,Neutral Zone Infraction,10/19/2014,Indianapolis,J.DiManche,OLB,7,2014,CIN-2014-35
+CIN,Illegal Use of Hands,10/19/2014,Indianapolis,D.Peko,DT,7,2014,CIN-2014-36
+CIN,Illegal Formation,10/19/2014,Indianapolis,A.Smith,T,7,2014,CIN-2014-37
+CIN,False Start,10/19/2014,Indianapolis,C.Boling,G,7,2014,CIN-2014-38
+CIN,False Start,10/19/2014,Indianapolis,A.Smith,T,7,2014,CIN-2014-39
+CIN,False Start,10/26/2014,Baltimore,G.Bernard,RB,8,2014,CIN-2014-40
+CIN,Defensive Offside,10/26/2014,Baltimore,R.Geathers,DE,8,2014,CIN-2014-41
+CIN,Offensive Holding,10/26/2014,Baltimore,R.Bodine,C,8,2014,CIN-2014-42
+CIN,Offensive Holding,10/26/2014,Baltimore,A.Smith,T,8,2014,CIN-2014-43
+CIN,Illegal Contact,10/26/2014,Baltimore,L.Hall,CB,8,2014,CIN-2014-44
+CIN,Offensive Holding,10/26/2014,Baltimore,A.Smith,T,8,2014,CIN-2014-45
+CIN,False Start,11/02/2014,Jacksonville,M.Newhouse,G,9,2014,CIN-2014-46
+CIN,Horse Collar Tackle,11/02/2014,Jacksonville,C.Dunlap,DE,9,2014,CIN-2014-47
+CIN,Offensive Offside,11/02/2014,Jacksonville,A.Green,WR,9,2014,CIN-2014-48
+CIN,Defensive Offside,11/02/2014,Jacksonville,G.Atkins,DT,9,2014,CIN-2014-49
+CIN,Encroachment,11/02/2014,Jacksonville,B.Thompson,DT,9,2014,CIN-2014-50
+CIN,Defensive Offside,11/06/2014,Cleveland,R.Nelson,FS,10,2014,CIN-2014-51
+CIN,Unnecessary Roughness,11/06/2014,Cleveland,G.Little,WR,10,2014,CIN-2014-52
+CIN,Illegal Forward Pass,11/06/2014,Cleveland,A.Dalton,QB,10,2014,CIN-2014-53
+CIN,Offensive Holding,11/06/2014,Cleveland,M.Newhouse,G,10,2014,CIN-2014-54
+CIN,Offensive Holding,11/06/2014,Cleveland,M.Newhouse,G,10,2014,CIN-2014-55
+CIN,Defensive Holding,11/06/2014,Cleveland,G.Iloka,SS,10,2014,CIN-2014-56
+CIN,Defensive Offside,11/06/2014,Cleveland,C.Dunlap,DE,10,2014,CIN-2014-57
+CIN,Ineligible Downfield Pass,11/06/2014,Cleveland,C.Boling,G,10,2014,CIN-2014-58
+CIN,Unnecessary Roughness,11/16/2014,New Orleans,G.Iloka,SS,11,2014,CIN-2014-59
+CIN,Unnecessary Roughness,11/16/2014,New Orleans,D.Peko,DT,11,2014,CIN-2014-60
+CIN,Illegal Contact,11/16/2014,New Orleans,A.Jones,CB,11,2014,CIN-2014-61
+CIN,Offensive Pass Interference,11/16/2014,New Orleans,A.Green,WR,11,2014,CIN-2014-62
+CIN,Illegal Formation,11/16/2014,New Orleans,A.Whitworth,T,11,2014,CIN-2014-63
+CIN,Defensive Pass Interference,11/23/2014,Houston,T.Newman,DB,12,2014,CIN-2014-64
+CIN,Illegal Block Above the Waist,11/23/2014,Houston,N.Johnson,ILB,12,2014,CIN-2014-65
+CIN,Illegal Contact,11/23/2014,Houston,E.Lamur,OLB,12,2014,CIN-2014-66
+CIN,False Start,11/23/2014,Houston,J.Gresham,TE,12,2014,CIN-2014-67
+CIN,Horse Collar Tackle,11/23/2014,Houston,R.Nelson,FS,12,2014,CIN-2014-68
+CIN,Illegal Block Above the Waist,11/23/2014,Houston,D.Dennard,CB,12,2014,CIN-2014-69
+CIN,Offensive Holding,11/23/2014,Houston,R.Hewitt,TE,12,2014,CIN-2014-70
+CIN,False Start,11/30/2014,Tampa Bay,R.Bodine,C,13,2014,CIN-2014-71
+CIN,Face Mask (15 Yards),11/30/2014,Tampa Bay,G.Atkins,DT,13,2014,CIN-2014-72
+CIN,False Start,11/30/2014,Tampa Bay,A.Whitworth,T,13,2014,CIN-2014-73
+CIN,Illegal Blindside Block,11/30/2014,Tampa Bay,D.Dennard,CB,13,2014,CIN-2014-74
+CIN,Offside on Free Kick,11/30/2014,Tampa Bay,N.Johnson,ILB,13,2014,CIN-2014-75
+CIN,Unnecessary Roughness,11/30/2014,Tampa Bay,B.Thompson,DT,13,2014,CIN-2014-76
+CIN,Offensive Pass Interference,11/30/2014,Tampa Bay,A.Green,WR,13,2014,CIN-2014-77
+CIN,Encroachment,11/30/2014,Tampa Bay,W.Gilberry,DE,13,2014,CIN-2014-78
+CIN,False Start,12/07/2014,Pittsburgh,R.Bodine,C,14,2014,CIN-2014-79
+CIN,Illegal Contact,12/07/2014,Pittsburgh,L.Hall,CB,14,2014,CIN-2014-80
+CIN,False Start,12/07/2014,Pittsburgh,J.Gresham,TE,14,2014,CIN-2014-81
+CIN,Defensive Holding,12/07/2014,Pittsburgh,R.Nelson,FS,14,2014,CIN-2014-82
+CIN,Unnecessary Roughness,12/07/2014,Pittsburgh,D.Kirkpatrick,CB,14,2014,CIN-2014-83
+CIN,Illegal Block Above the Waist,12/07/2014,Pittsburgh,M.Sanu,WR,14,2014,CIN-2014-84
+CIN,Offensive Holding,12/07/2014,Pittsburgh,K.Zeitler,G,14,2014,CIN-2014-85
+CIN,False Start,12/07/2014,Pittsburgh,M.Sanu,WR,14,2014,CIN-2014-86
+CIN,Offensive Holding,12/14/2014,Cleveland,R.Bodine,C,15,2014,CIN-2014-87
+CIN,Illegal Use of Hands,12/14/2014,Cleveland,L.Hall,CB,15,2014,CIN-2014-88
+CIN,Taunting,12/14/2014,Cleveland,R.Maualuga,MLB,15,2014,CIN-2014-89
+CIN,Neutral Zone Infraction,12/14/2014,Cleveland,W.Gilberry,DE,15,2014,CIN-2014-90
+CIN,Offensive Pass Interference,12/14/2014,Cleveland,A.Green,WR,15,2014,CIN-2014-91
+CIN,False Start,12/14/2014,Cleveland,A.Green,WR,15,2014,CIN-2014-92
+CIN,Illegal Formation,12/14/2014,Cleveland,E.Winston,T,15,2014,CIN-2014-93
+CIN,False Start,12/22/2014,Denver,K.Zeitler,G,16,2014,CIN-2014-94
+CIN,Defensive Pass Interference,12/22/2014,Denver,T.Newman,DB,16,2014,CIN-2014-95
+CIN,Neutral Zone Infraction,12/22/2014,Denver,W.Gilberry,DE,16,2014,CIN-2014-96
+CIN,Defensive Pass Interference,12/22/2014,Denver,T.Newman,DB,16,2014,CIN-2014-97
+CIN,False Start,12/22/2014,Denver,E.Winston,T,16,2014,CIN-2014-98
+CIN,Defensive Offside,12/22/2014,Denver,W.Gilberry,DE,16,2014,CIN-2014-99
+CIN,Taunting,12/22/2014,Denver,R.Nelson,FS,16,2014,CIN-2014-100
+CIN,Offensive Holding,12/22/2014,Denver,C.Peerman,RB,16,2014,CIN-2014-101
+CIN,Delay of Game,12/22/2014,Denver,K.Huber,P,16,2014,CIN-2014-102
+CIN,Illegal Use of Hands,12/28/2014,Pittsburgh,A.Jones,CB,17,2014,CIN-2014-103
+CIN,Defensive Pass Interference,12/28/2014,Pittsburgh,L.Hall,CB,17,2014,CIN-2014-104
+CIN,Offensive Holding,12/28/2014,Pittsburgh,J.Gresham,TE,17,2014,CIN-2014-105
+CIN,Illegal Block Above the Waist,12/28/2014,Pittsburgh,A.Jones,CB,17,2014,CIN-2014-106
+CIN,Illegal Contact,12/28/2014,Pittsburgh,D.Kirkpatrick,CB,17,2014,CIN-2014-107
+CIN,Neutral Zone Infraction,01/04/2015,Indianapolis,G.Atkins,DT,18,2014,CIN-2014-108
+CIN,False Start,01/04/2015,Indianapolis,R.Hewitt,TE,18,2014,CIN-2014-109
+CIN,Unnecessary Roughness,01/04/2015,Indianapolis,D.Dennard,CB,18,2014,CIN-2014-110
+CIN,Illegal Use of Hands,01/04/2015,Indianapolis,R.Bodine,C,18,2014,CIN-2014-111
+CIN,Offensive Holding,01/04/2015,Indianapolis,R.Bodine,C,18,2014,CIN-2014-112
+CIN,Defensive Holding,01/04/2015,Indianapolis,E.Lamur,OLB,18,2014,CIN-2014-113
+CIN,Defensive Holding,01/04/2015,Indianapolis,C.Peerman,RB,18,2014,CIN-2014-114

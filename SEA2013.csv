@@ -1,0 +1,160 @@
+team,penalty,game,opponent,player,position,week,year,penaltyindex
+SEA,Defensive Pass Interference,09/08/2013,Carolina,W.Thurmond,DB,1,2013,SEA-2013-0
+SEA,Offensive Holding,09/08/2013,Carolina,M.Person,G,1,2013,SEA-2013-1
+SEA,False Start,09/08/2013,Carolina,M.Person,G,1,2013,SEA-2013-2
+SEA,Offensive Holding,09/08/2013,Carolina,P.McQuistan,G,1,2013,SEA-2013-3
+SEA,Offensive Holding,09/08/2013,Carolina,R.Okung,T,1,2013,SEA-2013-4
+SEA,Taunting,09/08/2013,Carolina,K.Wright,OLB,1,2013,SEA-2013-5
+SEA,Intentional Grounding,09/08/2013,Carolina,R.Wilson,QB,1,2013,SEA-2013-6
+SEA,Personal Foul,09/08/2013,Carolina,M.Bennett,DE,1,2013,SEA-2013-7
+SEA,Personal Foul,09/08/2013,Carolina,K.Chancellor,SS,1,2013,SEA-2013-8
+SEA,False Start,09/15/2013,San Francisco,D.Baldwin,WR,2,2013,SEA-2013-9
+SEA,Offensive Holding,09/15/2013,San Francisco,J.Sweezy,G,2,2013,SEA-2013-10
+SEA,Unsportsmanlike Conduct,09/15/2013,San Francisco,S.Rice,WR,2,2013,SEA-2013-11
+SEA,Offensive Holding,09/15/2013,San Francisco,B.Giacomini,T,2,2013,SEA-2013-12
+SEA,False Start,09/15/2013,San Francisco,K.Davis,TE,2,2013,SEA-2013-13
+SEA,Offensive Holding,09/15/2013,San Francisco,S.Rice,WR,2,2013,SEA-2013-14
+SEA,Offensive Holding,09/15/2013,San Francisco,M.Unger,C,2,2013,SEA-2013-15
+SEA,Defensive Holding,09/15/2013,San Francisco,B.Maxwell,DB,2,2013,SEA-2013-16
+SEA,Offensive Holding,09/15/2013,San Francisco,M.Unger,C,2,2013,SEA-2013-17
+SEA,Offensive Holding,09/15/2013,San Francisco,B.Giacomini,T,2,2013,SEA-2013-18
+SEA,False Start,09/22/2013,Jacksonville,J.Sweezy,G,3,2013,SEA-2013-19
+SEA,Illegal Block Above the Waist,09/22/2013,Jacksonville,G.Tate,WR,3,2013,SEA-2013-20
+SEA,Offensive Holding,09/22/2013,Jacksonville,J.Carpenter,G,3,2013,SEA-2013-21
+SEA,Defensive Offside,09/22/2013,Jacksonville,M.Bennett,DE,3,2013,SEA-2013-22
+SEA,Unnecessary Roughness,09/22/2013,Jacksonville,M.Bennett,DE,3,2013,SEA-2013-23
+SEA,Offensive Holding,09/29/2013,Houston,K.Davis,TE,4,2013,SEA-2013-24
+SEA,False Start,09/29/2013,Houston,K.Davis,TE,4,2013,SEA-2013-25
+SEA,Defensive Pass Interference,09/29/2013,Houston,K.Chancellor,SS,4,2013,SEA-2013-26
+SEA,False Start,09/29/2013,Houston,J.Sweezy,G,4,2013,SEA-2013-27
+SEA,Defensive Offside,09/29/2013,Houston,C.Clemons,DE,4,2013,SEA-2013-28
+SEA,Offensive Holding,09/29/2013,Houston,K.Davis,TE,4,2013,SEA-2013-29
+SEA,Offensive Pass Interference,09/29/2013,Houston,J.Kearse,WR,4,2013,SEA-2013-30
+SEA,Defensive Pass Interference,09/29/2013,Houston,B.Browner,DB,4,2013,SEA-2013-31
+SEA,Neutral Zone Infraction,10/06/2013,Indianapolis,M.Bennett,DE,5,2013,SEA-2013-32
+SEA,Offensive Pass Interference,10/06/2013,Indianapolis,G.Tate,WR,5,2013,SEA-2013-33
+SEA,Defensive Offside,10/06/2013,Indianapolis,C.Clemons,DE,5,2013,SEA-2013-34
+SEA,Defensive Pass Interference,10/06/2013,Indianapolis,B.Browner,DB,5,2013,SEA-2013-35
+SEA,Ineligible Downfield Pass,10/06/2013,Indianapolis,J.Sweezy,G,5,2013,SEA-2013-36
+SEA,Defensive Pass Interference,10/06/2013,Indianapolis,R.Sherman,CB,5,2013,SEA-2013-37
+SEA,Delay of Game,10/06/2013,Indianapolis,R.Wilson,QB,5,2013,SEA-2013-38
+SEA,Unnecessary Roughness,10/13/2013,Tennessee,R.Sherman,CB,6,2013,SEA-2013-39
+SEA,Offensive Holding,10/13/2013,Tennessee,J.Carpenter,G,6,2013,SEA-2013-40
+SEA,False Start,10/13/2013,Tennessee,J.Carpenter,G,6,2013,SEA-2013-41
+SEA,Unnecessary Roughness,10/13/2013,Tennessee,M.Bowie,T,6,2013,SEA-2013-42
+SEA,False Start,10/13/2013,Tennessee,J.Carpenter,G,6,2013,SEA-2013-43
+SEA,Unnecessary Roughness,10/13/2013,Tennessee,E.Thomas,FS,6,2013,SEA-2013-44
+SEA,False Start,10/17/2013,Arizona,P.McQuistan,G,7,2013,SEA-2013-45
+SEA,Illegal Block Above the Waist,10/17/2013,Arizona,M.Morgan,OLB,7,2013,SEA-2013-46
+SEA,False Start,10/17/2013,Arizona,M.Bowie,T,7,2013,SEA-2013-47
+SEA,Offensive Holding,10/17/2013,Arizona,M.Unger,C,7,2013,SEA-2013-48
+SEA,Defensive Pass Interference,10/17/2013,Arizona,R.Sherman,CB,7,2013,SEA-2013-49
+SEA,Neutral Zone Infraction,10/17/2013,Arizona,C.Avril,DE,7,2013,SEA-2013-50
+SEA,False Start,10/17/2013,Arizona,J.Carpenter,G,7,2013,SEA-2013-51
+SEA,Defensive Pass Interference,10/17/2013,Arizona,K.Wright,OLB,7,2013,SEA-2013-52
+SEA,Delay of Game,10/17/2013,Arizona,R.Wilson,QB,7,2013,SEA-2013-53
+SEA,Defensive Holding,10/17/2013,Arizona,K.Wright,OLB,7,2013,SEA-2013-54
+SEA,Defensive Holding,10/17/2013,Arizona,B.Maxwell,DB,7,2013,SEA-2013-55
+SEA,Illegal Use of Hands,10/28/2013,St. Louis,J.Sweezy,G,8,2013,SEA-2013-56
+SEA,Offensive Holding,10/28/2013,St. Louis,J.Sweezy,G,8,2013,SEA-2013-57
+SEA,Neutral Zone Infraction,10/28/2013,St. Louis,M.Bennett,DE,8,2013,SEA-2013-58
+SEA,Defensive Holding,10/28/2013,St. Louis,W.Thurmond,DB,8,2013,SEA-2013-59
+SEA,Taunting,10/28/2013,St. Louis,G.Tate,WR,8,2013,SEA-2013-60
+SEA,Unnecessary Roughness,10/28/2013,St. Louis,B.Browner,DB,8,2013,SEA-2013-61
+SEA,Encroachment,10/28/2013,St. Louis,M.Bennett,DE,8,2013,SEA-2013-62
+SEA,Defensive Holding,10/28/2013,St. Louis,B.Browner,DB,8,2013,SEA-2013-63
+SEA,Unnecessary Roughness,10/28/2013,St. Louis,K.Wright,OLB,8,2013,SEA-2013-64
+SEA,Defensive Offside,10/28/2013,St. Louis,C.Clemons,DE,8,2013,SEA-2013-65
+SEA,Defensive Offside,11/03/2013,Tampa Bay,R.Bryant,DT,9,2013,SEA-2013-66
+SEA,Defensive Pass Interference,11/03/2013,Tampa Bay,B.Browner,DB,9,2013,SEA-2013-67
+SEA,Defensive Pass Interference,11/03/2013,Tampa Bay,E.Thomas,FS,9,2013,SEA-2013-68
+SEA,Defensive Offside,11/03/2013,Tampa Bay,R.Bryant,DT,9,2013,SEA-2013-69
+SEA,Unnecessary Roughness,11/03/2013,Tampa Bay,E.Thomas,FS,9,2013,SEA-2013-70
+SEA,Offensive Holding,11/03/2013,Tampa Bay,Z.Miller,TE,9,2013,SEA-2013-71
+SEA,Face Mask (15 Yards),11/03/2013,Tampa Bay,R.Wilson,QB,9,2013,SEA-2013-72
+SEA,Defensive Offside,11/10/2013,Atlanta,B.Irvin,OLB,10,2013,SEA-2013-73
+SEA,False Start,11/10/2013,Atlanta,J.Kearse,WR,10,2013,SEA-2013-74
+SEA,False Start,11/10/2013,Atlanta,M.Bowie,T,10,2013,SEA-2013-75
+SEA,Unnecessary Roughness,11/10/2013,Atlanta,B.Irvin,OLB,10,2013,SEA-2013-76
+SEA,Roughing the Passer,11/10/2013,Atlanta,M.Bennett,DE,10,2013,SEA-2013-77
+SEA,Defensive Offside,11/10/2013,Atlanta,C.Clemons,DE,10,2013,SEA-2013-78
+SEA,Horse Collar Tackle,11/10/2013,Atlanta,C.Avril,DE,10,2013,SEA-2013-79
+SEA,Defensive Holding,11/10/2013,Atlanta,K.Chancellor,SS,10,2013,SEA-2013-80
+SEA,Offensive Holding,11/10/2013,Atlanta,R.Lockette,WR,10,2013,SEA-2013-81
+SEA,Defensive Pass Interference,11/17/2013,Minnesota,R.Sherman,CB,11,2013,SEA-2013-82
+SEA,Defensive Pass Interference,11/17/2013,Minnesota,J.Lane,CB,11,2013,SEA-2013-83
+SEA,Unnecessary Roughness,11/17/2013,Minnesota,R.Lockette,WR,11,2013,SEA-2013-84
+SEA,Offensive Holding,11/17/2013,Minnesota,C.Gresham,LS,11,2013,SEA-2013-85
+SEA,False Start,11/17/2013,Minnesota,M.Lynch,RB,11,2013,SEA-2013-86
+SEA,Defensive Offside,11/17/2013,Minnesota,M.Bennett,DE,11,2013,SEA-2013-87
+SEA,Offensive Holding,11/17/2013,Minnesota,K.Davis,TE,11,2013,SEA-2013-88
+SEA,Offensive Holding,12/02/2013,New Orleans,J.Lane,CB,13,2013,SEA-2013-89
+SEA,Neutral Zone Infraction,12/02/2013,New Orleans,C.Avril,DE,13,2013,SEA-2013-90
+SEA,Unnecessary Roughness,12/02/2013,New Orleans,R.Sherman,CB,13,2013,SEA-2013-91
+SEA,Illegal Use of Hands,12/02/2013,New Orleans,R.Okung,T,13,2013,SEA-2013-92
+SEA,False Start,12/02/2013,New Orleans,R.Wilson,QB,13,2013,SEA-2013-93
+SEA,Offensive Holding,12/02/2013,New Orleans,M.Morgan,OLB,13,2013,SEA-2013-94
+SEA,Roughing the Passer,12/02/2013,New Orleans,E.Thomas,FS,13,2013,SEA-2013-95
+SEA,Illegal Forward Pass,12/02/2013,New Orleans,R.Wilson,QB,13,2013,SEA-2013-96
+SEA,Defensive Offside,12/02/2013,New Orleans,C.Clemons,DE,13,2013,SEA-2013-97
+SEA,Offensive Holding,12/08/2013,San Francisco,R.Okung,T,14,2013,SEA-2013-98
+SEA,Delay of Game,12/08/2013,San Francisco,R.Wilson,QB,14,2013,SEA-2013-99
+SEA,Offensive Pass Interference,12/08/2013,San Francisco,G.Tate,WR,14,2013,SEA-2013-100
+SEA,Illegal Bat,12/08/2013,San Francisco,C.Maragos,FS,14,2013,SEA-2013-101
+SEA,Defensive Holding,12/08/2013,San Francisco,R.Sherman,CB,14,2013,SEA-2013-102
+SEA,Defensive Holding,12/08/2013,San Francisco,B.Maxwell,DB,14,2013,SEA-2013-103
+SEA,Defensive Holding,12/08/2013,San Francisco,R.Sherman,CB,14,2013,SEA-2013-104
+SEA,Personal Foul,12/08/2013,San Francisco,J.Lane,CB,14,2013,SEA-2013-105
+SEA,Face Mask (15 Yards),12/08/2013,San Francisco,M.Robinson,FB,14,2013,SEA-2013-106
+SEA,Fair Catch Interference,12/08/2013,San Francisco,O.Schofield,LB,14,2013,SEA-2013-107
+SEA,False Start,12/08/2013,San Francisco,H.Farwell,LB,14,2013,SEA-2013-108
+SEA,Delay of Game,12/15/2013,N.Y. Giants,R.Wilson,QB,15,2013,SEA-2013-109
+SEA,Defensive Offside,12/15/2013,N.Y. Giants,B.Irvin,OLB,15,2013,SEA-2013-110
+SEA,Neutral Zone Infraction,12/15/2013,N.Y. Giants,M.Bennett,DE,15,2013,SEA-2013-111
+SEA,False Start,12/15/2013,N.Y. Giants,B.Giacomini,T,15,2013,SEA-2013-112
+SEA,False Start,12/15/2013,N.Y. Giants,B.Giacomini,T,15,2013,SEA-2013-113
+SEA,Illegal Touch Pass,12/15/2013,N.Y. Giants,G.Tate,WR,15,2013,SEA-2013-114
+SEA,False Start,12/15/2013,N.Y. Giants,B.Giacomini,T,15,2013,SEA-2013-115
+SEA,Illegal Touch Kick,12/15/2013,N.Y. Giants,D.Shead,SS,15,2013,SEA-2013-116
+SEA,Personal Foul,12/15/2013,N.Y. Giants,K.Chancellor,SS,15,2013,SEA-2013-117
+SEA,Defensive Offside,12/22/2013,Arizona,C.Clemons,DE,16,2013,SEA-2013-118
+SEA,Delay of Game,12/22/2013,Arizona,R.Wilson,QB,16,2013,SEA-2013-119
+SEA,Face Mask (15 Yards),12/22/2013,Arizona,K.Chancellor,SS,16,2013,SEA-2013-120
+SEA,False Start,12/22/2013,Arizona,C.Gresham,LS,16,2013,SEA-2013-121
+SEA,Defensive Pass Interference,12/22/2013,Arizona,R.Sherman,CB,16,2013,SEA-2013-122
+SEA,Offensive Holding,12/22/2013,Arizona,J.Carpenter,G,16,2013,SEA-2013-123
+SEA,Unnecessary Roughness,12/22/2013,Arizona,T.McDaniel,DT,16,2013,SEA-2013-124
+SEA,Defensive Pass Interference,12/22/2013,Arizona,R.Sherman,CB,16,2013,SEA-2013-125
+SEA,Defensive Holding,12/22/2013,Arizona,M.Smith,LB,16,2013,SEA-2013-126
+SEA,Unnecessary Roughness,12/29/2013,St. Louis,K.Chancellor,SS,17,2013,SEA-2013-127
+SEA,False Start,12/29/2013,St. Louis,R.Okung,T,17,2013,SEA-2013-128
+SEA,Offensive Holding,12/29/2013,St. Louis,W.Thurmond,DB,17,2013,SEA-2013-129
+SEA,Offensive Holding,12/29/2013,St. Louis,R.Okung,T,17,2013,SEA-2013-130
+SEA,Defensive Holding,12/29/2013,St. Louis,B.Maxwell,DB,17,2013,SEA-2013-131
+SEA,False Start,12/29/2013,St. Louis,B.Giacomini,T,17,2013,SEA-2013-132
+SEA,Intentional Grounding,12/29/2013,St. Louis,R.Wilson,QB,17,2013,SEA-2013-133
+SEA,Offensive Holding,01/11/2014,New Orleans,J.Lane,CB,19,2013,SEA-2013-134
+SEA,Offensive Holding,01/11/2014,New Orleans,B.Giacomini,T,19,2013,SEA-2013-135
+SEA,Offensive Holding,01/11/2014,New Orleans,R.Okung,T,19,2013,SEA-2013-136
+SEA,Unsportsmanlike Conduct,01/11/2014,New Orleans,B.Wagner,MLB,19,2013,SEA-2013-137
+SEA,Defensive Holding,01/11/2014,New Orleans,C.Clemons,DE,19,2013,SEA-2013-138
+SEA,Illegal Use of Hands,01/11/2014,New Orleans,C.Avril,DE,19,2013,SEA-2013-139
+SEA,Offensive Holding,01/19/2014,San Francisco,B.Giacomini,T,20,2013,SEA-2013-140
+SEA,Defensive Holding,01/19/2014,San Francisco,R.Sherman,CB,20,2013,SEA-2013-141
+SEA,False Start,01/19/2014,San Francisco,J.Kearse,WR,20,2013,SEA-2013-142
+SEA,False Start,01/19/2014,San Francisco,M.Unger,C,20,2013,SEA-2013-143
+SEA,Running Into the Kicker,01/19/2014,San Francisco,C.Maragos,FS,20,2013,SEA-2013-144
+SEA,Intentional Grounding,01/19/2014,San Francisco,R.Wilson,QB,20,2013,SEA-2013-145
+SEA,False Start,01/19/2014,San Francisco,A.Bailey,G,20,2013,SEA-2013-146
+SEA,Offensive Pass Interference,01/19/2014,San Francisco,J.Kearse,WR,20,2013,SEA-2013-147
+SEA,Taunting,01/19/2014,San Francisco,R.Sherman,CB,20,2013,SEA-2013-148
+SEA,False Start,02/02/2014,Denver,R.Okung,T,21,2013,SEA-2013-149
+SEA,False Start,02/02/2014,Denver,J.Sweezy,G,21,2013,SEA-2013-150
+SEA,Unnecessary Roughness,02/02/2014,Denver,R.Lockette,WR,21,2013,SEA-2013-151
+SEA,Offensive Holding,02/02/2014,Denver,M.Unger,C,21,2013,SEA-2013-152
+SEA,Neutral Zone Infraction,02/02/2014,Denver,R.Bryant,DT,21,2013,SEA-2013-153
+SEA,Offensive Holding,02/02/2014,Denver,R.Okung,T,21,2013,SEA-2013-154
+SEA,Defensive Pass Interference,02/02/2014,Denver,B.Maxwell,DB,21,2013,SEA-2013-155
+SEA,Offensive Holding,02/02/2014,Denver,A.Bailey,G,21,2013,SEA-2013-156
+SEA,Defensive Pass Interference,02/02/2014,Denver,W.Thurmond,DB,21,2013,SEA-2013-157
+SEA,Offensive Holding,02/02/2014,Denver,Z.Miller,TE,21,2013,SEA-2013-158

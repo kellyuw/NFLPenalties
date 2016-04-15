@@ -1,0 +1,108 @@
+team,penalty,game,opponent,player,position,week,year,penaltyindex
+DEN,Defensive Offside,09/09/2012,Pittsburgh,V.Miller,OLB,1,2012,DEN-2012-0
+DEN,Encroachment,09/09/2012,Pittsburgh,K.Vickerson,DT,1,2012,DEN-2012-1
+DEN,Neutral Zone Infraction,09/09/2012,Pittsburgh,K.Vickerson,DT,1,2012,DEN-2012-2
+DEN,Unnecessary Roughness,09/09/2012,Pittsburgh,R.Moore,DB,1,2012,DEN-2012-3
+DEN,Face Mask (15 Yards),09/09/2012,Pittsburgh,E.Dumervil,OLB,1,2012,DEN-2012-4
+DEN,Face Mask (15 Yards),09/17/2012,Atlanta,R.Moore,DB,2,2012,DEN-2012-5
+DEN,False Start,09/17/2012,Atlanta,J.Walton,C,2,2012,DEN-2012-6
+DEN,Offensive Holding,09/17/2012,Atlanta,O.Franklin,G,2,2012,DEN-2012-7
+DEN,Unnecessary Roughness,09/17/2012,Atlanta,J.Mays,LB,2,2012,DEN-2012-8
+DEN,Offensive Holding,09/17/2012,Atlanta,M.Ramirez,G,2,2012,DEN-2012-9
+DEN,Defensive Pass Interference,09/17/2012,Atlanta,T.Carter,DB,2,2012,DEN-2012-10
+DEN,Offensive Holding,09/17/2012,Atlanta,J.Dreessen,TE,2,2012,DEN-2012-11
+DEN,Offensive Holding,09/17/2012,Atlanta,R.Clady,T,2,2012,DEN-2012-12
+DEN,Defensive Holding,09/17/2012,Atlanta,C.Bailey,CB,2,2012,DEN-2012-13
+DEN,Illegal Use of Hands,09/17/2012,Atlanta,M.Ramirez,G,2,2012,DEN-2012-14
+DEN,False Start,09/17/2012,Atlanta,D.Thomas,WR,2,2012,DEN-2012-15
+DEN,False Start,09/23/2012,Houston,Z.Beadles,G,3,2012,DEN-2012-16
+DEN,Offensive Holding,09/23/2012,Houston,M.Ramirez,G,3,2012,DEN-2012-17
+DEN,Interference with Opportunity to Catch,09/23/2012,Houston,O.Bolden,SS,3,2012,DEN-2012-18
+DEN,Roughing the Passer,09/23/2012,Houston,V.Miller,OLB,3,2012,DEN-2012-19
+DEN,Roughing the Passer,09/23/2012,Houston,J.Mays,LB,3,2012,DEN-2012-20
+DEN,Offensive Holding,09/23/2012,Houston,M.Ramirez,G,3,2012,DEN-2012-21
+DEN,Offensive Holding,09/23/2012,Houston,J.Dreessen,TE,3,2012,DEN-2012-22
+DEN,Illegal Contact,09/23/2012,Houston,C.Bailey,CB,3,2012,DEN-2012-23
+DEN,False Start,09/30/2012,Oakland,O.Franklin,G,4,2012,DEN-2012-24
+DEN,Illegal Formation,09/30/2012,Oakland,J.Tamme,TE,4,2012,DEN-2012-25
+DEN,False Start,09/30/2012,Oakland,O.Franklin,G,4,2012,DEN-2012-26
+DEN,Roughing the Passer,09/30/2012,Oakland,R.Ayers,DE,4,2012,DEN-2012-27
+DEN,Running Into the Kicker,10/07/2012,New England,D.Trevathan,OLB,5,2012,DEN-2012-28
+DEN,Defensive Offside,10/07/2012,New England,E.Dumervil,OLB,5,2012,DEN-2012-29
+DEN,Defensive Pass Interference,10/07/2012,New England,J.Mays,LB,5,2012,DEN-2012-30
+DEN,Illegal Use of Hands,10/15/2012,San Diego,V.Miller,OLB,6,2012,DEN-2012-31
+DEN,Offensive Holding,10/15/2012,San Diego,C.Gronkowski,RB,6,2012,DEN-2012-32
+DEN,Offensive Holding,10/15/2012,San Diego,D.Koppen,C,6,2012,DEN-2012-33
+DEN,Neutral Zone Infraction,10/15/2012,San Diego,V.Miller,OLB,6,2012,DEN-2012-34
+DEN,Unnecessary Roughness,10/15/2012,San Diego,M.Adams,SS,6,2012,DEN-2012-35
+DEN,Delay of Game,10/15/2012,San Diego,J.Leonhard,FS,6,2012,DEN-2012-36
+DEN,Defensive Holding,10/15/2012,San Diego,D.Trevathan,OLB,6,2012,DEN-2012-37
+DEN,False Start,10/15/2012,San Diego,O.Franklin,G,6,2012,DEN-2012-38
+DEN,Offensive Holding,10/15/2012,San Diego,W.McGahee,RB,6,2012,DEN-2012-39
+DEN,Offensive Pass Interference,10/15/2012,San Diego,E.Decker,WR,6,2012,DEN-2012-40
+DEN,Offensive Holding,10/28/2012,New Orleans,O.Franklin,G,8,2012,DEN-2012-41
+DEN,Defensive Offside,10/28/2012,New Orleans,E.Dumervil,OLB,8,2012,DEN-2012-42
+DEN,Offensive Holding,10/28/2012,New Orleans,J.Dreessen,TE,8,2012,DEN-2012-43
+DEN,Offensive Holding,10/28/2012,New Orleans,D.Bruton,SS,8,2012,DEN-2012-44
+DEN,Offensive Holding,10/28/2012,New Orleans,R.Clady,T,8,2012,DEN-2012-45
+DEN,Defensive Holding,11/04/2012,Cincinnati,V.Miller,OLB,9,2012,DEN-2012-46
+DEN,Offensive Pass Interference,11/04/2012,Cincinnati,E.Decker,WR,9,2012,DEN-2012-47
+DEN,Unsportsmanlike Conduct,11/04/2012,Cincinnati,T.Carter,DB,9,2012,DEN-2012-48
+DEN,Defensive Holding,11/04/2012,Cincinnati,C.Bailey,CB,9,2012,DEN-2012-49
+DEN,False Start,11/04/2012,Cincinnati,R.Clady,T,9,2012,DEN-2012-50
+DEN,Illegal Touch Pass,11/11/2012,Carolina,W.McGahee,RB,10,2012,DEN-2012-51
+DEN,Horse Collar Tackle,11/11/2012,Carolina,K.Vickerson,DT,10,2012,DEN-2012-52
+DEN,Defensive Holding,11/11/2012,Carolina,C.Bailey,CB,10,2012,DEN-2012-53
+DEN,Defensive Pass Interference,11/11/2012,Carolina,C.Harris,CB,10,2012,DEN-2012-54
+DEN,Offensive Holding,11/11/2012,Carolina,R.Clady,T,10,2012,DEN-2012-55
+DEN,Roughing the Passer,11/11/2012,Carolina,V.Miller,OLB,10,2012,DEN-2012-56
+DEN,Neutral Zone Infraction,11/11/2012,Carolina,R.Ayers,DE,10,2012,DEN-2012-57
+DEN,Defensive Holding,11/18/2012,San Diego,M.Adams,SS,11,2012,DEN-2012-58
+DEN,Offensive Offside,11/18/2012,San Diego,M.Ramirez,G,11,2012,DEN-2012-59
+DEN,Unnecessary Roughness,11/18/2012,San Diego,W.Woodyard,ILB,11,2012,DEN-2012-60
+DEN,Delay of Game,11/18/2012,San Diego,B.Colquitt,P,11,2012,DEN-2012-61
+DEN,Offensive Holding,11/25/2012,Kansas City,Z.Beadles,G,12,2012,DEN-2012-62
+DEN,Neutral Zone Infraction,11/25/2012,Kansas City,K.Vickerson,DT,12,2012,DEN-2012-63
+DEN,Personal Foul,11/25/2012,Kansas City,W.Woodyard,ILB,12,2012,DEN-2012-64
+DEN,Neutral Zone Infraction,11/25/2012,Kansas City,V.Miller,OLB,12,2012,DEN-2012-65
+DEN,Face Mask (15 Yards),12/02/2012,Tampa Bay,J.Bannan,DT,13,2012,DEN-2012-66
+DEN,Face Mask (15 Yards),12/02/2012,Tampa Bay,O.Franklin,G,13,2012,DEN-2012-67
+DEN,Illegal Use of Hands,12/02/2012,Tampa Bay,M.Unrein,DT,13,2012,DEN-2012-68
+DEN,Offensive Holding,12/02/2012,Tampa Bay,C.Kuper,G,13,2012,DEN-2012-69
+DEN,Defensive Offside,12/02/2012,Tampa Bay,E.Dumervil,OLB,13,2012,DEN-2012-70
+DEN,Roughing the Passer,12/02/2012,Tampa Bay,V.Miller,OLB,13,2012,DEN-2012-71
+DEN,Offensive Holding,12/02/2012,Tampa Bay,Z.Beadles,G,13,2012,DEN-2012-72
+DEN,Defensive Offside,12/02/2012,Tampa Bay,E.Dumervil,OLB,13,2012,DEN-2012-73
+DEN,Offensive Holding,12/06/2012,Oakland,O.Bolden,SS,14,2012,DEN-2012-74
+DEN,Defensive Holding,12/06/2012,Oakland,C.Bailey,CB,14,2012,DEN-2012-75
+DEN,Offensive Holding,12/06/2012,Oakland,O.Franklin,G,14,2012,DEN-2012-76
+DEN,Offensive Holding,12/06/2012,Oakland,E.Decker,WR,14,2012,DEN-2012-77
+DEN,Illegal Motion,12/16/2012,Baltimore,J.Dreessen,TE,15,2012,DEN-2012-78
+DEN,Offensive Holding,12/16/2012,Baltimore,R.Clady,T,15,2012,DEN-2012-79
+DEN,Defensive Pass Interference,12/16/2012,Baltimore,T.Carter,DB,15,2012,DEN-2012-80
+DEN,Roughing the Passer,12/16/2012,Baltimore,D.Bruton,SS,15,2012,DEN-2012-81
+DEN,Delay of Game,12/16/2012,Baltimore,B.Colquitt,P,15,2012,DEN-2012-82
+DEN,False Start,12/16/2012,Baltimore,M.Willis,WR,15,2012,DEN-2012-83
+DEN,Defensive Offside,12/16/2012,Baltimore,V.Miller,OLB,15,2012,DEN-2012-84
+DEN,Offensive Holding,12/23/2012,Cleveland,Z.Beadles,G,16,2012,DEN-2012-85
+DEN,Offensive Pass Interference,12/23/2012,Cleveland,B.Stokley,WR,16,2012,DEN-2012-86
+DEN,False Start,12/23/2012,Cleveland,O.Franklin,G,16,2012,DEN-2012-87
+DEN,Personal Foul,12/23/2012,Cleveland,C.Bailey,CB,16,2012,DEN-2012-88
+DEN,Illegal Formation,12/23/2012,Cleveland,R.Clady,T,16,2012,DEN-2012-89
+DEN,Defensive Offside,12/23/2012,Cleveland,V.Miller,OLB,16,2012,DEN-2012-90
+DEN,Defensive Pass Interference,12/23/2012,Cleveland,M.Adams,SS,16,2012,DEN-2012-91
+DEN,False Start,12/23/2012,Cleveland,M.Ramirez,G,16,2012,DEN-2012-92
+DEN,False Start,12/23/2012,Cleveland,O.Franklin,G,16,2012,DEN-2012-93
+DEN,Delay of Game,12/30/2012,Kansas City,P.Manning,QB,17,2012,DEN-2012-94
+DEN,False Start,12/30/2012,Kansas City,R.Clady,T,17,2012,DEN-2012-95
+DEN,Offensive Holding,12/30/2012,Kansas City,N.Irving,LB,17,2012,DEN-2012-96
+DEN,Illegal Block Above the Waist,12/30/2012,Kansas City,A.Caldwell,WR,17,2012,DEN-2012-97
+DEN,Defensive Offside,12/30/2012,Kansas City,R.Ayers,DE,17,2012,DEN-2012-98
+DEN,Defensive Pass Interference,01/12/2013,Baltimore,T.Carter,DB,19,2012,DEN-2012-99
+DEN,Defensive Offside,01/12/2013,Baltimore,E.Dumervil,OLB,19,2012,DEN-2012-100
+DEN,Offensive Holding,01/12/2013,Baltimore,C.Kuper,G,19,2012,DEN-2012-101
+DEN,Defensive Offside,01/12/2013,Baltimore,E.Dumervil,OLB,19,2012,DEN-2012-102
+DEN,Defensive Offside,01/12/2013,Baltimore,V.Miller,OLB,19,2012,DEN-2012-103
+DEN,Offensive Holding,01/12/2013,Baltimore,C.Kuper,G,19,2012,DEN-2012-104
+DEN,Offensive Holding,01/12/2013,Baltimore,C.Kuper,G,19,2012,DEN-2012-105
+DEN,Defensive Pass Interference,01/12/2013,Baltimore,C.Bailey,CB,19,2012,DEN-2012-106

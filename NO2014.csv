@@ -1,0 +1,87 @@
+team,penalty,game,opponent,player,position,week,year,penaltyindex
+NO,Illegal Use of Hands,09/07/2014,Atlanta,Z.Strief,T,1,2014,NO-2014-0
+NO,Defensive Offside,09/07/2014,Atlanta,J.Galette,DE,1,2014,NO-2014-1
+NO,Defensive Pass Interference,09/07/2014,Atlanta,C.White,DB,1,2014,NO-2014-2
+NO,False Start,09/07/2014,Atlanta,T.Armstead,T,1,2014,NO-2014-3
+NO,Defensive Pass Interference,09/14/2014,Cleveland,P.Robinson,DB,2,2014,NO-2014-4
+NO,False Start,09/14/2014,Cleveland,T.Armstead,T,2,2014,NO-2014-5
+NO,Neutral Zone Infraction,09/14/2014,Cleveland,P.Robinson,DB,2,2014,NO-2014-6
+NO,False Start,09/14/2014,Cleveland,Z.Strief,T,2,2014,NO-2014-7
+NO,Defensive Holding,09/14/2014,Cleveland,P.Robinson,DB,2,2014,NO-2014-8
+NO,Defensive Holding,09/21/2014,Minnesota,K.Vaccaro,SS,3,2014,NO-2014-9
+NO,Offensive Holding,09/21/2014,Minnesota,B.Grubbs,G,3,2014,NO-2014-10
+NO,Defensive Holding,09/21/2014,Minnesota,K.Lewis,CB,3,2014,NO-2014-11
+NO,Offensive Holding,09/21/2014,Minnesota,T.Armstead,T,3,2014,NO-2014-12
+NO,Illegal Contact,09/28/2014,Dallas,J.Byrd,FS,4,2014,NO-2014-13
+NO,Offensive Holding,09/28/2014,Dallas,B.Harris,T,4,2014,NO-2014-14
+NO,False Start,09/28/2014,Dallas,B.Harris,T,4,2014,NO-2014-15
+NO,Offensive Holding,10/05/2014,Tampa Bay,P.Haralson,OLB,5,2014,NO-2014-16
+NO,Illegal Block Above the Waist,10/05/2014,Tampa Bay,R.Meachem,WR,5,2014,NO-2014-17
+NO,Illegal Use of Hands,10/05/2014,Tampa Bay,K.Vaccaro,SS,5,2014,NO-2014-18
+NO,Defensive Holding,10/05/2014,Tampa Bay,C.White,DB,5,2014,NO-2014-19
+NO,Roughing the Passer,10/05/2014,Tampa Bay,J.Galette,DE,5,2014,NO-2014-20
+NO,Defensive Holding,10/05/2014,Tampa Bay,C.White,DB,5,2014,NO-2014-21
+NO,Illegal Contact,10/05/2014,Tampa Bay,K.Vaccaro,SS,5,2014,NO-2014-22
+NO,False Start,10/19/2014,Detroit,B.Dixon,DB,7,2014,NO-2014-23
+NO,Offensive Holding,10/19/2014,Detroit,J.Goodwin,C,7,2014,NO-2014-24
+NO,Defensive Offside,10/19/2014,Detroit,P.Haralson,OLB,7,2014,NO-2014-25
+NO,Face Mask (15 Yards),10/19/2014,Detroit,P.Thomas,RB,7,2014,NO-2014-26
+NO,Unnecessary Roughness,10/19/2014,Detroit,A.Hicks,DE,7,2014,NO-2014-27
+NO,Defensive Pass Interference,10/19/2014,Detroit,B.Dixon,DB,7,2014,NO-2014-28
+NO,Neutral Zone Infraction,10/19/2014,Detroit,P.Haralson,OLB,7,2014,NO-2014-29
+NO,Illegal Use of Hands,10/19/2014,Detroit,P.Haralson,OLB,7,2014,NO-2014-30
+NO,Offensive Pass Interference,10/19/2014,Detroit,M.Colston,WR,7,2014,NO-2014-31
+NO,Illegal Blindside Block,10/19/2014,Detroit,T.Lelito,C,7,2014,NO-2014-32
+NO,Roughing the Passer,10/19/2014,Detroit,C.Jordan,DE,7,2014,NO-2014-33
+NO,Defensive Pass Interference,10/19/2014,Detroit,R.Bush,FS,7,2014,NO-2014-34
+NO,Offensive Holding,10/26/2014,Green Bay,B.Grubbs,G,8,2014,NO-2014-35
+NO,Delay of Game,10/26/2014,Green Bay,D.Brees,QB,8,2014,NO-2014-36
+NO,Roughing the Passer,10/26/2014,Green Bay,T.Walker,DE,8,2014,NO-2014-37
+NO,Illegal Contact,10/26/2014,Green Bay,C.White,DB,8,2014,NO-2014-38
+NO,Defensive Holding,10/26/2014,Green Bay,K.Lewis,CB,8,2014,NO-2014-39
+NO,Illegal Use of Hands,10/30/2014,Carolina,P.Haralson,OLB,9,2014,NO-2014-40
+NO,Illegal Use of Hands,10/30/2014,Carolina,B.Dixon,DB,9,2014,NO-2014-41
+NO,Defensive Pass Interference,10/30/2014,Carolina,R.Bush,FS,9,2014,NO-2014-42
+NO,Illegal Use of Hands,10/30/2014,Carolina,B.Dixon,DB,9,2014,NO-2014-43
+NO,Face Mask (15 Yards),11/09/2014,San Francisco,K.Vaccaro,SS,10,2014,NO-2014-44
+NO,Encroachment,11/09/2014,San Francisco,J.Jenkins,NT,10,2014,NO-2014-45
+NO,False Start,11/09/2014,San Francisco,J.Goodwin,C,10,2014,NO-2014-46
+NO,Offensive Holding,11/09/2014,San Francisco,T.Davis,OLB,10,2014,NO-2014-47
+NO,Offensive Pass Interference,11/09/2014,San Francisco,J.Graham,TE,10,2014,NO-2014-48
+NO,Illegal Motion,11/16/2014,Cincinnati,T.Armstead,T,11,2014,NO-2014-49
+NO,Encroachment,11/16/2014,Cincinnati,M.Ball,DB,11,2014,NO-2014-50
+NO,Offensive Holding,11/16/2014,Cincinnati,B.Grubbs,G,11,2014,NO-2014-51
+NO,Roughing the Passer,11/16/2014,Cincinnati,K.Vaccaro,SS,11,2014,NO-2014-52
+NO,Offensive Holding,11/16/2014,Cincinnati,B.Harris,T,11,2014,NO-2014-53
+NO,Defensive Pass Interference,11/16/2014,Cincinnati,C.White,DB,11,2014,NO-2014-54
+NO,False Start,11/24/2014,Baltimore,T.Armstead,T,12,2014,NO-2014-55
+NO,Offensive Holding,11/24/2014,Baltimore,J.Goodwin,C,12,2014,NO-2014-56
+NO,Personal Foul,11/24/2014,Baltimore,K.Vaccaro,SS,12,2014,NO-2014-57
+NO,Offensive Holding,11/24/2014,Baltimore,J.Evans,G,12,2014,NO-2014-58
+NO,Defensive Pass Interference,11/24/2014,Baltimore,K.Lewis,CB,12,2014,NO-2014-59
+NO,Offensive Holding,11/30/2014,Pittsburgh,T.Armstead,T,13,2014,NO-2014-60
+NO,Defensive Offside,11/30/2014,Pittsburgh,C.Jordan,DE,13,2014,NO-2014-61
+NO,Illegal Use of Hands,11/30/2014,Pittsburgh,K.Lewis,CB,13,2014,NO-2014-62
+NO,Offensive Holding,11/30/2014,Pittsburgh,M.Ball,DB,13,2014,NO-2014-63
+NO,Defensive Holding,11/30/2014,Pittsburgh,C.Lofton,LB,13,2014,NO-2014-64
+NO,False Start,11/30/2014,Pittsburgh,J.Hill,TE,13,2014,NO-2014-65
+NO,Face Mask (15 Yards),11/30/2014,Pittsburgh,C.White,DB,13,2014,NO-2014-66
+NO,Illegal Use of Hands,11/30/2014,Pittsburgh,K.Lewis,CB,13,2014,NO-2014-67
+NO,Personal Foul,11/30/2014,Pittsburgh,K.Vaccaro,SS,13,2014,NO-2014-68
+NO,Roughing the Passer,11/30/2014,Pittsburgh,K.Vaccaro,SS,13,2014,NO-2014-69
+NO,Personal Foul,12/07/2014,Carolina,C.Lofton,LB,14,2014,NO-2014-70
+NO,Illegal Formation,12/07/2014,Carolina,T.Armstead,T,14,2014,NO-2014-71
+NO,Neutral Zone Infraction,12/07/2014,Carolina,K.Edebali,OLB,14,2014,NO-2014-72
+NO,Personal Foul,12/07/2014,Carolina,C.Jordan,DE,14,2014,NO-2014-73
+NO,False Start,12/07/2014,Carolina,J.Morgan,WR,14,2014,NO-2014-74
+NO,Offensive Holding,12/15/2014,Chicago,T.Armstead,T,15,2014,NO-2014-75
+NO,False Start,12/15/2014,Chicago,J.Graham,TE,15,2014,NO-2014-76
+NO,Offensive Holding,12/15/2014,Chicago,B.Watson,TE,15,2014,NO-2014-77
+NO,Defensive Holding,12/15/2014,Chicago,K.Lewis,CB,15,2014,NO-2014-78
+NO,Personal Foul,12/15/2014,Chicago,K.Vaccaro,SS,15,2014,NO-2014-79
+NO,False Start,12/21/2014,Atlanta,B.Harris,T,16,2014,NO-2014-80
+NO,Personal Foul,12/21/2014,Atlanta,K.Stills,WR,16,2014,NO-2014-81
+NO,Illegal Use of Hands,12/21/2014,Atlanta,P.Haralson,OLB,16,2014,NO-2014-82
+NO,Defensive Holding,12/28/2014,Tampa Bay,K.Lewis,CB,17,2014,NO-2014-83
+NO,Offensive Holding,12/28/2014,Tampa Bay,Z.Strief,T,17,2014,NO-2014-84
+NO,Offensive Holding,12/28/2014,Tampa Bay,J.Evans,G,17,2014,NO-2014-85

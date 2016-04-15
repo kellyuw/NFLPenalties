@@ -1,0 +1,129 @@
+team,penalty,game,opponent,player,position,week,year,penaltyindex
+SD,False Start,09/08/2014,Arizona,J.Troutman,G,1,2014,SD-2014-0
+SD,Defensive Holding,09/08/2014,Arizona,M.Gilchrist,DB,1,2014,SD-2014-1
+SD,Roughing the Passer,09/08/2014,Arizona,M.Ingram,OLB,1,2014,SD-2014-2
+SD,Delay of Game,09/08/2014,Arizona,M.Scifres,P,1,2014,SD-2014-3
+SD,Defensive Pass Interference,09/08/2014,Arizona,S.Wright,DB,1,2014,SD-2014-4
+SD,Defensive Holding,09/08/2014,Arizona,M.Ingram,OLB,1,2014,SD-2014-5
+SD,Defensive Holding,09/08/2014,Arizona,R.Marshall,CB,1,2014,SD-2014-6
+SD,Defensive Pass Interference,09/14/2014,Seattle,S.Williams,CB,2,2014,SD-2014-7
+SD,Offensive Holding,09/14/2014,Seattle,J.Phillips,TE,2,2014,SD-2014-8
+SD,Offensive Holding,09/14/2014,Seattle,R.Ohrnberger,C,2,2014,SD-2014-9
+SD,Illegal Use of Hands,09/14/2014,Seattle,S.Ajirotutu,WR,2,2014,SD-2014-10
+SD,Offensive Holding,09/14/2014,Seattle,J.Troutman,G,2,2014,SD-2014-11
+SD,Defensive Holding,09/14/2014,Seattle,S.Wright,DB,2,2014,SD-2014-12
+SD,Offensive Holding,09/14/2014,Seattle,W.Smith,T,2,2014,SD-2014-13
+SD,Illegal Contact,09/21/2014,Buffalo,J.Addae,DB,3,2014,SD-2014-14
+SD,Offensive Holding,09/21/2014,Buffalo,D.Stuckey,DB,3,2014,SD-2014-15
+SD,Defensive Offside,09/21/2014,Buffalo,R.Walker,LB,3,2014,SD-2014-16
+SD,False Start,09/21/2014,Buffalo,D.Fluker,T,3,2014,SD-2014-17
+SD,False Start,09/21/2014,Buffalo,D.Fluker,T,3,2014,SD-2014-18
+SD,Roughing the Passer,09/21/2014,Buffalo,C.Liuget,DT,3,2014,SD-2014-19
+SD,Illegal Use of Hands,09/21/2014,Buffalo,S.Wright,DB,3,2014,SD-2014-20
+SD,Offensive Holding,09/28/2014,Jacksonville,C.Rinehart,G,4,2014,SD-2014-21
+SD,Unnecessary Roughness,09/28/2014,Jacksonville,E.Weddle,FS,4,2014,SD-2014-22
+SD,False Start,09/28/2014,Jacksonville,C.Watt,C,4,2014,SD-2014-23
+SD,Intentional Grounding,09/28/2014,Jacksonville,P.Rivers,QB,4,2014,SD-2014-24
+SD,False Start,09/28/2014,Jacksonville,D.Legursky,C,4,2014,SD-2014-25
+SD,False Start,09/28/2014,Jacksonville,J.Phillips,TE,4,2014,SD-2014-26
+SD,Unsportsmanlike Conduct,09/28/2014,Jacksonville,K.Conner,ILB,4,2014,SD-2014-27
+SD,Defensive Holding,09/28/2014,Jacksonville,S.Williams,CB,4,2014,SD-2014-28
+SD,Personal Foul,10/05/2014,N.Y. Jets,J.Johnson,OLB,5,2014,SD-2014-29
+SD,Offensive Holding,10/05/2014,N.Y. Jets,J.Troutman,G,5,2014,SD-2014-30
+SD,Illegal Block Above the Waist,10/05/2014,N.Y. Jets,C.Davis,CB,5,2014,SD-2014-31
+SD,Offensive Holding,10/05/2014,N.Y. Jets,C.Watt,C,5,2014,SD-2014-32
+SD,Offensive Holding,10/05/2014,N.Y. Jets,L.Green,TE,5,2014,SD-2014-33
+SD,Face Mask (15 Yards),10/05/2014,N.Y. Jets,C.Watt,C,5,2014,SD-2014-34
+SD,Defensive Pass Interference,10/05/2014,N.Y. Jets,R.Marshall,CB,5,2014,SD-2014-35
+SD,False Start,10/12/2014,Oakland,D.Johnson,TE,6,2014,SD-2014-36
+SD,Neutral Zone Infraction,10/12/2014,Oakland,D.Freeney,OLB,6,2014,SD-2014-37
+SD,Offensive Holding,10/12/2014,Oakland,R.Ohrnberger,C,6,2014,SD-2014-38
+SD,Illegal Use of Hands,10/12/2014,Oakland,K.Dunlap,T,6,2014,SD-2014-39
+SD,Offensive Holding,10/12/2014,Oakland,L.Green,TE,6,2014,SD-2014-40
+SD,Defensive 12 On-field,10/12/2014,Oakland,J.Addae,DB,6,2014,SD-2014-41
+SD,Face Mask (15 Yards),10/12/2014,Oakland,J.Attaochu,OLB,6,2014,SD-2014-42
+SD,Face Mask (15 Yards),10/19/2014,Kansas City,S.Ajirotutu,WR,7,2014,SD-2014-43
+SD,Roughing the Passer,10/19/2014,Kansas City,R.Walker,LB,7,2014,SD-2014-44
+SD,Defensive Holding,10/19/2014,Kansas City,R.Marshall,CB,7,2014,SD-2014-45
+SD,Face Mask (15 Yards),10/19/2014,Kansas City,C.Liuget,DT,7,2014,SD-2014-46
+SD,Defensive Holding,10/23/2014,Denver,D.Stuckey,DB,8,2014,SD-2014-47
+SD,Illegal Use of Hands,10/23/2014,Denver,K.Dunlap,T,8,2014,SD-2014-48
+SD,Defensive Pass Interference,10/23/2014,Denver,S.Wright,DB,8,2014,SD-2014-49
+SD,Defensive Holding,10/23/2014,Denver,R.Walker,LB,8,2014,SD-2014-50
+SD,Unnecessary Roughness,10/23/2014,Denver,D.Butler,ILB,8,2014,SD-2014-51
+SD,Encroachment,10/23/2014,Denver,T.Palepoi,DE,8,2014,SD-2014-52
+SD,Defensive Pass Interference,10/23/2014,Denver,R.Marshall,CB,8,2014,SD-2014-53
+SD,Defensive Holding,10/23/2014,Denver,M.Gilchrist,DB,8,2014,SD-2014-54
+SD,Offensive Holding,11/02/2014,Miami,R.Ohrnberger,C,9,2014,SD-2014-55
+SD,Encroachment,11/02/2014,Miami,K.Reyes,DE,9,2014,SD-2014-56
+SD,Illegal Use of Hands,11/02/2014,Miami,C.Liuget,DT,9,2014,SD-2014-57
+SD,False Start,11/02/2014,Miami,D.Brown,RB,9,2014,SD-2014-58
+SD,Disqualification,11/02/2014,Miami,S.Ajirotutu,WR,9,2014,SD-2014-59
+SD,Unsportsmanlike Conduct,11/02/2014,Miami,S.Ajirotutu,WR,9,2014,SD-2014-60
+SD,Offensive Holding,11/02/2014,Miami,C.Watt,C,9,2014,SD-2014-61
+SD,Offensive Pass Interference,11/16/2014,Oakland,A.Gates,TE,11,2014,SD-2014-62
+SD,Offensive Holding,11/16/2014,Oakland,A.Gates,TE,11,2014,SD-2014-63
+SD,False Start,11/16/2014,Oakland,K.Allen,WR,11,2014,SD-2014-64
+SD,Offensive Holding,11/16/2014,Oakland,K.Dunlap,T,11,2014,SD-2014-65
+SD,False Start,11/16/2014,Oakland,D.Fluker,T,11,2014,SD-2014-66
+SD,Neutral Zone Infraction,11/16/2014,Oakland,D.Freeney,OLB,11,2014,SD-2014-67
+SD,Defensive Holding,11/16/2014,Oakland,S.Wright,DB,11,2014,SD-2014-68
+SD,Illegal Contact,11/16/2014,Oakland,B.Flowers,CB,11,2014,SD-2014-69
+SD,Delay of Game,11/16/2014,Oakland,M.Scifres,P,11,2014,SD-2014-70
+SD,Offensive Holding,11/23/2014,St. Louis,C.Watt,C,12,2014,SD-2014-71
+SD,Offensive Holding,11/23/2014,St. Louis,D.Fluker,T,12,2014,SD-2014-72
+SD,Roughing the Passer,11/23/2014,St. Louis,D.Freeney,OLB,12,2014,SD-2014-73
+SD,Illegal Block Above the Waist,11/23/2014,St. Louis,T.Williams,OLB,12,2014,SD-2014-74
+SD,Defensive Pass Interference,11/23/2014,St. Louis,S.Wright,DB,12,2014,SD-2014-75
+SD,Illegal Block Above the Waist,11/23/2014,St. Louis,E.Royal,WR,12,2014,SD-2014-76
+SD,Offensive Holding,11/23/2014,St. Louis,J.Attaochu,OLB,12,2014,SD-2014-77
+SD,False Start,11/23/2014,St. Louis,D.Fluker,T,12,2014,SD-2014-78
+SD,False Start,11/23/2014,St. Louis,D.Fluker,T,12,2014,SD-2014-79
+SD,Low Block,11/23/2014,St. Louis,M.Scifres,P,12,2014,SD-2014-80
+SD,Offside on Free Kick,11/30/2014,Baltimore,R.Walker,LB,13,2014,SD-2014-81
+SD,Offensive Holding,11/30/2014,Baltimore,C.Watt,C,13,2014,SD-2014-82
+SD,Defensive Pass Interference,11/30/2014,Baltimore,M.Gilchrist,DB,13,2014,SD-2014-83
+SD,Defensive Pass Interference,11/30/2014,Baltimore,S.Wright,DB,13,2014,SD-2014-84
+SD,Roughing the Passer,11/30/2014,Baltimore,E.Weddle,FS,13,2014,SD-2014-85
+SD,False Start,11/30/2014,Baltimore,D.Fluker,T,13,2014,SD-2014-86
+SD,False Start,11/30/2014,Baltimore,S.Ajirotutu,WR,13,2014,SD-2014-87
+SD,Defensive Holding,11/30/2014,Baltimore,M.Gilchrist,DB,13,2014,SD-2014-88
+SD,Defensive Pass Interference,11/30/2014,Baltimore,S.Wright,DB,13,2014,SD-2014-89
+SD,Defensive Offside,11/30/2014,Baltimore,M.Ingram,OLB,13,2014,SD-2014-90
+SD,Illegal Use of Hands,12/07/2014,New England,D.Butler,ILB,14,2014,SD-2014-91
+SD,Defensive Offside,12/07/2014,New England,S.Wright,DB,14,2014,SD-2014-92
+SD,Defensive Holding,12/07/2014,New England,J.Addae,DB,14,2014,SD-2014-93
+SD,Offensive Holding,12/07/2014,New England,C.Rinehart,G,14,2014,SD-2014-94
+SD,Defensive Pass Interference,12/07/2014,New England,S.Wright,DB,14,2014,SD-2014-95
+SD,Offensive Pass Interference,12/07/2014,New England,M.Floyd,WR,14,2014,SD-2014-96
+SD,Defensive Holding,12/07/2014,New England,D.Butler,ILB,14,2014,SD-2014-97
+SD,Illegal Contact,12/07/2014,New England,A.Gachkar,LB,14,2014,SD-2014-98
+SD,Defensive Offside,12/14/2014,Denver,M.Ingram,OLB,15,2014,SD-2014-99
+SD,False Start,12/14/2014,Denver,K.Conner,ILB,15,2014,SD-2014-100
+SD,Defensive Holding,12/14/2014,Denver,J.Addae,DB,15,2014,SD-2014-101
+SD,Offensive Pass Interference,12/14/2014,Denver,A.Gates,TE,15,2014,SD-2014-102
+SD,Personal Foul,12/14/2014,Denver,D.Fluker,T,15,2014,SD-2014-103
+SD,Offensive Holding,12/14/2014,Denver,D.Fluker,T,15,2014,SD-2014-104
+SD,Illegal Use of Hands,12/14/2014,Denver,J.Attaochu,OLB,15,2014,SD-2014-105
+SD,Defensive Pass Interference,12/14/2014,Denver,S.Wright,DB,15,2014,SD-2014-106
+SD,Defensive Holding,12/20/2014,San Francisco,B.Flowers,CB,16,2014,SD-2014-107
+SD,Neutral Zone Infraction,12/20/2014,San Francisco,C.Liuget,DT,16,2014,SD-2014-108
+SD,Neutral Zone Infraction,12/20/2014,San Francisco,R.Mathews,DE,16,2014,SD-2014-109
+SD,Unnecessary Roughness,12/20/2014,San Francisco,R.Walker,LB,16,2014,SD-2014-110
+SD,False Start,12/20/2014,San Francisco,T.Robinson,C,16,2014,SD-2014-111
+SD,Unnecessary Roughness,12/20/2014,San Francisco,M.Ingram,OLB,16,2014,SD-2014-112
+SD,Defensive Holding,12/20/2014,San Francisco,M.Gilchrist,DB,16,2014,SD-2014-113
+SD,Defensive Offside,12/20/2014,San Francisco,J.Attaochu,OLB,16,2014,SD-2014-114
+SD,Delay of Game,12/20/2014,San Francisco,E.Royal,WR,16,2014,SD-2014-115
+SD,Defensive Pass Interference,12/20/2014,San Francisco,S.Williams,CB,16,2014,SD-2014-116
+SD,Illegal Contact,12/20/2014,San Francisco,M.Gilchrist,DB,16,2014,SD-2014-117
+SD,Illegal Shift,12/28/2014,Kansas City,E.Royal,WR,17,2014,SD-2014-118
+SD,Neutral Zone Infraction,12/28/2014,Kansas City,M.Ingram,OLB,17,2014,SD-2014-119
+SD,Defensive Pass Interference,12/28/2014,Kansas City,S.Wright,DB,17,2014,SD-2014-120
+SD,Illegal Block Above the Waist,12/28/2014,Kansas City,D.Stuckey,DB,17,2014,SD-2014-121
+SD,Offensive Holding,12/28/2014,Kansas City,C.Rinehart,G,17,2014,SD-2014-122
+SD,Offensive Holding,12/28/2014,Kansas City,J.Addae,DB,17,2014,SD-2014-123
+SD,Delay of Game,12/28/2014,Kansas City,P.Rivers,QB,17,2014,SD-2014-124
+SD,Offensive Holding,12/28/2014,Kansas City,K.Dunlap,T,17,2014,SD-2014-125
+SD,Intentional Grounding,12/28/2014,Kansas City,P.Rivers,QB,17,2014,SD-2014-126
+SD,False Start,12/28/2014,Kansas City,S.Ajirotutu,WR,17,2014,SD-2014-127

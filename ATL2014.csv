@@ -1,0 +1,114 @@
+team,penalty,game,opponent,player,position,week,year,penaltyindex
+ATL,False Start,09/07/2014,New Orleans,D.Hester,WR,1,2014,ATL-2014-0
+ATL,Illegal Use of Hands,09/07/2014,New Orleans,G.Carimi,T,1,2014,ATL-2014-1
+ATL,False Start,09/07/2014,New Orleans,G.Carimi,T,1,2014,ATL-2014-2
+ATL,Illegal Use of Hands,09/07/2014,New Orleans,J.Asamoah,G,1,2014,ATL-2014-3
+ATL,Defensive Holding,09/07/2014,New Orleans,R.McClain,CB,1,2014,ATL-2014-4
+ATL,Defensive Pass Interference,09/07/2014,New Orleans,W.Moore,SS,1,2014,ATL-2014-5
+ATL,Illegal Use of Hands,09/07/2014,New Orleans,R.McClain,CB,1,2014,ATL-2014-6
+ATL,False Start,09/07/2014,New Orleans,G.Carimi,T,1,2014,ATL-2014-7
+ATL,Offensive Holding,09/07/2014,New Orleans,K.Ishmael,SS,1,2014,ATL-2014-8
+ATL,Defensive Pass Interference,09/07/2014,New Orleans,R.Alford,CB,1,2014,ATL-2014-9
+ATL,False Start,09/14/2014,Cincinnati,J.Blalock,G,2,2014,ATL-2014-10
+ATL,Neutral Zone Infraction,09/14/2014,Cincinnati,K.Biermann,OLB,2,2014,ATL-2014-11
+ATL,Offensive Holding,09/14/2014,Cincinnati,J.Hawley,C,2,2014,ATL-2014-12
+ATL,Horse Collar Tackle,09/14/2014,Cincinnati,J.Bartu,ILB,2,2014,ATL-2014-13
+ATL,Illegal Block Above the Waist,09/14/2014,Cincinnati,D.Trufant,CB,2,2014,ATL-2014-14
+ATL,Personal Foul,09/14/2014,Cincinnati,L.Holmes,T,2,2014,ATL-2014-15
+ATL,Personal Foul,09/14/2014,Cincinnati,R.White,WR,2,2014,ATL-2014-16
+ATL,Face Mask (15 Yards),09/18/2014,Tampa Bay,E.Weems,WR,3,2014,ATL-2014-17
+ATL,Illegal Block Above the Waist,09/18/2014,Tampa Bay,R.Alford,CB,3,2014,ATL-2014-18
+ATL,Taunting,09/18/2014,Tampa Bay,D.Hester,WR,3,2014,ATL-2014-19
+ATL,Defensive Holding,09/18/2014,Tampa Bay,D.Trufant,CB,3,2014,ATL-2014-20
+ATL,Offensive Holding,09/18/2014,Tampa Bay,J.Blalock,G,3,2014,ATL-2014-21
+ATL,False Start,09/18/2014,Tampa Bay,J.Asamoah,G,3,2014,ATL-2014-22
+ATL,Offensive Holding,09/18/2014,Tampa Bay,J.Asamoah,G,3,2014,ATL-2014-23
+ATL,Illegal Block Above the Waist,09/18/2014,Tampa Bay,N.Stupar,LB,3,2014,ATL-2014-24
+ATL,Delay of Game,09/18/2014,Tampa Bay,M.Bosher,P,3,2014,ATL-2014-25
+ATL,Offensive Holding,09/28/2014,Minnesota,J.Blalock,G,4,2014,ATL-2014-26
+ATL,Offensive Holding,09/28/2014,Minnesota,J.Hawley,C,4,2014,ATL-2014-27
+ATL,Unnecessary Roughness,09/28/2014,Minnesota,J.Rodgers,RB,4,2014,ATL-2014-28
+ATL,Defensive Holding,09/28/2014,Minnesota,O.Umenyiora,DE,4,2014,ATL-2014-29
+ATL,Defensive Holding,09/28/2014,Minnesota,R.McClain,CB,4,2014,ATL-2014-30
+ATL,Offensive Holding,09/28/2014,Minnesota,J.Matthews,T,4,2014,ATL-2014-31
+ATL,Offensive Pass Interference,09/28/2014,Minnesota,J.Jones,WR,4,2014,ATL-2014-32
+ATL,Encroachment,10/05/2014,N.Y. Giants,P.Soliai,DT,5,2014,ATL-2014-33
+ATL,Defensive Holding,10/05/2014,N.Y. Giants,D.Trufant,CB,5,2014,ATL-2014-34
+ATL,Offensive Holding,10/05/2014,N.Y. Giants,L.Toilolo,TE,5,2014,ATL-2014-35
+ATL,Neutral Zone Infraction,10/05/2014,N.Y. Giants,M.Goodman,DE,5,2014,ATL-2014-36
+ATL,Defensive Pass Interference,10/05/2014,N.Y. Giants,R.Alford,CB,5,2014,ATL-2014-37
+ATL,Defensive Holding,10/05/2014,N.Y. Giants,R.Alford,CB,5,2014,ATL-2014-38
+ATL,Defensive Holding,10/05/2014,N.Y. Giants,R.Alford,CB,5,2014,ATL-2014-39
+ATL,Offensive Pass Interference,10/05/2014,N.Y. Giants,J.Jones,WR,5,2014,ATL-2014-40
+ATL,Offensive Holding,10/05/2014,N.Y. Giants,J.Matthews,T,5,2014,ATL-2014-41
+ATL,Offensive Holding,10/05/2014,N.Y. Giants,H.Gunn,G,5,2014,ATL-2014-42
+ATL,False Start,10/12/2014,Chicago,P.Konz,C,6,2014,ATL-2014-43
+ATL,Personal Foul,10/12/2014,Chicago,P.Worrilow,ILB,6,2014,ATL-2014-44
+ATL,False Start,10/12/2014,Chicago,G.Carimi,T,6,2014,ATL-2014-45
+ATL,Illegal Use of Hands,10/12/2014,Chicago,G.Carimi,T,6,2014,ATL-2014-46
+ATL,Offensive Holding,10/12/2014,Chicago,R.White,WR,6,2014,ATL-2014-47
+ATL,Offensive Holding,10/12/2014,Chicago,J.Matthews,T,6,2014,ATL-2014-48
+ATL,Offensive Holding,10/12/2014,Chicago,J.Matthews,T,6,2014,ATL-2014-49
+ATL,Offensive Holding,10/12/2014,Chicago,J.Harris,LS,6,2014,ATL-2014-50
+ATL,Illegal Use of Hands,10/19/2014,Baltimore,T.Jackson,DE,7,2014,ATL-2014-51
+ATL,Defensive Pass Interference,10/19/2014,Baltimore,R.Alford,CB,7,2014,ATL-2014-52
+ATL,Offensive Holding,10/19/2014,Baltimore,G.Carimi,T,7,2014,ATL-2014-53
+ATL,Defensive Holding,10/19/2014,Baltimore,J.Bartu,ILB,7,2014,ATL-2014-54
+ATL,False Start,10/19/2014,Baltimore,J.Matthews,T,7,2014,ATL-2014-55
+ATL,Illegal Block Above the Waist,10/19/2014,Baltimore,P.DiMarco,FB,7,2014,ATL-2014-56
+ATL,False Start,10/19/2014,Baltimore,G.Carimi,T,7,2014,ATL-2014-57
+ATL,False Start,10/26/2014,Detroit,J.Matthews,T,8,2014,ATL-2014-58
+ATL,Illegal Use of Hands,10/26/2014,Detroit,J.Matthews,T,8,2014,ATL-2014-59
+ATL,Defensive Pass Interference,10/26/2014,Detroit,R.Alford,CB,8,2014,ATL-2014-60
+ATL,Low Block,10/26/2014,Detroit,M.Ryan,QB,8,2014,ATL-2014-61
+ATL,Illegal Contact,10/26/2014,Detroit,P.Shembo,OLB,8,2014,ATL-2014-62
+ATL,Illegal Use of Hands,10/26/2014,Detroit,R.Schraeder,T,8,2014,ATL-2014-63
+ATL,Offensive Holding,10/26/2014,Detroit,N.Stupar,LB,8,2014,ATL-2014-64
+ATL,Defensive Holding,10/26/2014,Detroit,P.Soliai,DT,8,2014,ATL-2014-65
+ATL,Defensive Holding,11/09/2014,Tampa Bay,R.Alford,CB,10,2014,ATL-2014-66
+ATL,Offensive Holding,11/09/2014,Tampa Bay,J.Matthews,T,10,2014,ATL-2014-67
+ATL,False Start,11/09/2014,Tampa Bay,R.Schraeder,T,10,2014,ATL-2014-68
+ATL,False Start,11/09/2014,Tampa Bay,J.Matthews,T,10,2014,ATL-2014-69
+ATL,False Start,11/09/2014,Tampa Bay,J.Harris,LS,10,2014,ATL-2014-70
+ATL,Roughing the Passer,11/16/2014,Carolina,T.Jackson,DE,11,2014,ATL-2014-71
+ATL,Unnecessary Roughness,11/16/2014,Carolina,D.Hester,WR,11,2014,ATL-2014-72
+ATL,False Start,11/16/2014,Carolina,R.Schraeder,T,11,2014,ATL-2014-73
+ATL,Roughing the Passer,11/16/2014,Carolina,P.Soliai,DT,11,2014,ATL-2014-74
+ATL,Offensive Holding,11/16/2014,Carolina,J.Blalock,G,11,2014,ATL-2014-75
+ATL,Neutral Zone Infraction,11/23/2014,Cleveland,J.Babineaux,DT,12,2014,ATL-2014-76
+ATL,Defensive Holding,11/23/2014,Cleveland,K.Ishmael,SS,12,2014,ATL-2014-77
+ATL,Offensive Holding,11/23/2014,Cleveland,R.White,WR,12,2014,ATL-2014-78
+ATL,False Start,11/23/2014,Cleveland,D.Southward,FS,12,2014,ATL-2014-79
+ATL,Defensive Holding,11/23/2014,Cleveland,D.Trufant,CB,12,2014,ATL-2014-80
+ATL,Illegal Use of Hands,11/23/2014,Cleveland,M.Goodman,DE,12,2014,ATL-2014-81
+ATL,Face Mask (15 Yards),11/30/2014,Arizona,D.Hester,WR,13,2014,ATL-2014-82
+ATL,Defensive Holding,11/30/2014,Arizona,J.Wilson,DB,13,2014,ATL-2014-83
+ATL,Defensive Holding,11/30/2014,Arizona,C.Peters,DT,13,2014,ATL-2014-84
+ATL,Offensive Holding,11/30/2014,Arizona,S.Jackson,RB,13,2014,ATL-2014-85
+ATL,Offensive Pass Interference,11/30/2014,Arizona,H.Douglas,WR,13,2014,ATL-2014-86
+ATL,Illegal Contact,11/30/2014,Arizona,R.McClain,CB,13,2014,ATL-2014-87
+ATL,Illegal Contact,11/30/2014,Arizona,R.McClain,CB,13,2014,ATL-2014-88
+ATL,Offensive Holding,11/30/2014,Arizona,K.Ishmael,SS,13,2014,ATL-2014-89
+ATL,False Start,11/30/2014,Arizona,J.Harris,LS,13,2014,ATL-2014-90
+ATL,Defensive Pass Interference,11/30/2014,Arizona,R.McClain,CB,13,2014,ATL-2014-91
+ATL,Delay of Game,12/08/2014,Green Bay,M.Ryan,QB,14,2014,ATL-2014-92
+ATL,Unnecessary Roughness,12/08/2014,Green Bay,T.Jackson,DE,14,2014,ATL-2014-93
+ATL,Offensive Pass Interference,12/08/2014,Green Bay,L.Toilolo,TE,14,2014,ATL-2014-94
+ATL,Illegal Shift,12/08/2014,Green Bay,R.White,WR,14,2014,ATL-2014-95
+ATL,Offensive Pass Interference,12/14/2014,Pittsburgh,H.Douglas,WR,15,2014,ATL-2014-96
+ATL,Offensive Holding,12/14/2014,Pittsburgh,J.Blalock,G,15,2014,ATL-2014-97
+ATL,Offensive Pass Interference,12/14/2014,Pittsburgh,H.Douglas,WR,15,2014,ATL-2014-98
+ATL,Illegal Contact,12/14/2014,Pittsburgh,D.Trufant,CB,15,2014,ATL-2014-99
+ATL,Offensive Holding,12/21/2014,New Orleans,J.Stone,C,16,2014,ATL-2014-100
+ATL,Personal Foul,12/21/2014,New Orleans,R.White,WR,16,2014,ATL-2014-101
+ATL,Offensive Holding,12/21/2014,New Orleans,J.Wilson,DB,16,2014,ATL-2014-102
+ATL,Offensive Pass Interference,12/21/2014,New Orleans,E.Weems,WR,16,2014,ATL-2014-103
+ATL,Offensive Holding,12/21/2014,New Orleans,J.Matthews,T,16,2014,ATL-2014-104
+ATL,Offensive Holding,12/21/2014,New Orleans,J.Wilson,DB,16,2014,ATL-2014-105
+ATL,False Start,12/28/2014,Carolina,R.Schraeder,T,17,2014,ATL-2014-106
+ATL,Offensive Holding,12/28/2014,Carolina,P.Shembo,OLB,17,2014,ATL-2014-107
+ATL,Low Block,12/28/2014,Carolina,J.Rodgers,RB,17,2014,ATL-2014-108
+ATL,Offensive Holding,12/28/2014,Carolina,J.Asamoah,G,17,2014,ATL-2014-109
+ATL,False Start,12/28/2014,Carolina,J.Blalock,G,17,2014,ATL-2014-110
+ATL,False Start,12/28/2014,Carolina,R.White,WR,17,2014,ATL-2014-111
+ATL,Offensive Holding,12/28/2014,Carolina,J.Blalock,G,17,2014,ATL-2014-112

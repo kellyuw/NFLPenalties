@@ -1,0 +1,116 @@
+team,penalty,game,opponent,player,position,week,year,penaltyindex
+ARI,Delay of Game,09/08/2014,San Diego,C.Palmer,QB,1,2014,ARI-2014-0
+ARI,False Start,09/08/2014,San Diego,J.Veldheer,T,1,2014,ARI-2014-1
+ARI,Illegal Use of Hands,09/08/2014,San Diego,A.Cromartie,DB,1,2014,ARI-2014-2
+ARI,False Start,09/08/2014,San Diego,B.Massie,T,1,2014,ARI-2014-3
+ARI,Defensive Holding,09/08/2014,San Diego,T.Jefferson,SS,1,2014,ARI-2014-4
+ARI,False Start,09/08/2014,San Diego,T.Larsen,G,1,2014,ARI-2014-5
+ARI,Delay of Game,09/14/2014,N.Y. Giants,D.Stanton,QB,2,2014,ARI-2014-6
+ARI,Defensive Pass Interference,09/14/2014,N.Y. Giants,P.Peterson,CB,2,2014,ARI-2014-7
+ARI,Illegal Contact,09/14/2014,N.Y. Giants,J.Powers,CB,2,2014,ARI-2014-8
+ARI,Offensive Holding,09/14/2014,N.Y. Giants,R.Hughes,RB,2,2014,ARI-2014-9
+ARI,Face Mask (15 Yards),09/14/2014,N.Y. Giants,J.Veldheer,T,2,2014,ARI-2014-10
+ARI,Defensive Holding,09/14/2014,N.Y. Giants,J.Powers,CB,2,2014,ARI-2014-11
+ARI,Defensive Holding,09/14/2014,N.Y. Giants,P.Peterson,CB,2,2014,ARI-2014-12
+ARI,Defensive Pass Interference,09/14/2014,N.Y. Giants,P.Peterson,CB,2,2014,ARI-2014-13
+ARI,Neutral Zone Infraction,09/14/2014,N.Y. Giants,T.Kelly,DE,2,2014,ARI-2014-14
+ARI,Offensive Holding,09/14/2014,N.Y. Giants,T.Larsen,G,2,2014,ARI-2014-15
+ARI,False Start,09/21/2014,San Francisco,B.Massie,T,3,2014,ARI-2014-16
+ARI,Defensive Holding,09/21/2014,San Francisco,A.Cromartie,DB,3,2014,ARI-2014-17
+ARI,Illegal Use of Hands,09/21/2014,San Francisco,T.Larsen,G,3,2014,ARI-2014-18
+ARI,Face Mask (15 Yards),09/21/2014,San Francisco,A.Cromartie,DB,3,2014,ARI-2014-19
+ARI,False Start,09/21/2014,San Francisco,T.Larsen,G,3,2014,ARI-2014-20
+ARI,Offensive Holding,09/21/2014,San Francisco,J.Carlson,TE,3,2014,ARI-2014-21
+ARI,Offensive Pass Interference,09/21/2014,San Francisco,M.Floyd,WR,3,2014,ARI-2014-22
+ARI,Offensive Holding,09/21/2014,San Francisco,L.Sendlein,C,3,2014,ARI-2014-23
+ARI,False Start,10/05/2014,Denver,J.Carlson,TE,5,2014,ARI-2014-24
+ARI,Defensive Holding,10/05/2014,Denver,P.Peterson,CB,5,2014,ARI-2014-25
+ARI,Offensive Holding,10/05/2014,Denver,J.Veldheer,T,5,2014,ARI-2014-26
+ARI,False Start,10/12/2014,Washington,JO.Brown,WR,6,2014,ARI-2014-27
+ARI,Defensive Holding,10/12/2014,Washington,L.Foote,MLB,6,2014,ARI-2014-28
+ARI,Neutral Zone Infraction,10/12/2014,Washington,D.Williams,DT,6,2014,ARI-2014-29
+ARI,Offensive Holding,10/12/2014,Washington,T.Larsen,G,6,2014,ARI-2014-30
+ARI,Delay of Game,10/12/2014,Washington,C.Palmer,QB,6,2014,ARI-2014-31
+ARI,Illegal Use of Hands,10/12/2014,Washington,T.Kelly,DE,6,2014,ARI-2014-32
+ARI,Illegal Block Above the Waist,10/12/2014,Washington,S.Taylor,RB,6,2014,ARI-2014-33
+ARI,False Start,10/12/2014,Washington,P.Fanaika,G,6,2014,ARI-2014-34
+ARI,False Start,10/12/2014,Washington,J.Veldheer,T,6,2014,ARI-2014-35
+ARI,Offensive Holding,10/12/2014,Washington,J.Veldheer,T,6,2014,ARI-2014-36
+ARI,Defensive Pass Interference,10/12/2014,Washington,A.Cromartie,DB,6,2014,ARI-2014-37
+ARI,Neutral Zone Infraction,10/12/2014,Washington,L.Foote,MLB,6,2014,ARI-2014-38
+ARI,Defensive Pass Interference,10/12/2014,Washington,P.Peterson,CB,6,2014,ARI-2014-39
+ARI,Fair Catch Interference,10/12/2014,Washington,J.Bethel,CB,6,2014,ARI-2014-40
+ARI,Delay of Game,10/12/2014,Washington,D.Butler,P,6,2014,ARI-2014-41
+ARI,Defensive Holding,10/19/2014,Oakland,D.Bucannon,SS,7,2014,ARI-2014-42
+ARI,Defensive Holding,10/19/2014,Oakland,P.Peterson,CB,7,2014,ARI-2014-43
+ARI,False Start,10/19/2014,Oakland,P.Fanaika,G,7,2014,ARI-2014-44
+ARI,Defensive Pass Interference,10/19/2014,Oakland,P.Peterson,CB,7,2014,ARI-2014-45
+ARI,Offensive Holding,10/19/2014,Oakland,J.Veldheer,T,7,2014,ARI-2014-46
+ARI,Ineligible Downfield Pass,10/19/2014,Oakland,B.Massie,T,7,2014,ARI-2014-47
+ARI,Delay of Game,10/19/2014,Oakland,C.Palmer,QB,7,2014,ARI-2014-48
+ARI,False Start,10/26/2014,Philadelphia,R.Housler,TE,8,2014,ARI-2014-49
+ARI,False Start,10/26/2014,Philadelphia,JO.Brown,WR,8,2014,ARI-2014-50
+ARI,Roughing the Passer,10/26/2014,Philadelphia,S.Acho,LB,8,2014,ARI-2014-51
+ARI,Defensive Holding,10/26/2014,Philadelphia,P.Peterson,CB,8,2014,ARI-2014-52
+ARI,Roughing the Passer,10/26/2014,Philadelphia,T.Mathieu,FS,8,2014,ARI-2014-53
+ARI,Offensive Holding,10/26/2014,Philadelphia,T.Larsen,G,8,2014,ARI-2014-54
+ARI,Offensive Holding,10/26/2014,Philadelphia,R.Hughes,RB,8,2014,ARI-2014-55
+ARI,Neutral Zone Infraction,10/26/2014,Philadelphia,C.Campbell,DE,8,2014,ARI-2014-56
+ARI,Offensive Holding,10/26/2014,Philadelphia,P.Fanaika,G,8,2014,ARI-2014-57
+ARI,Illegal Use of Hands,10/26/2014,Philadelphia,A.Okafor,OLB,8,2014,ARI-2014-58
+ARI,Horse Collar Tackle,10/26/2014,Philadelphia,J.Powers,CB,8,2014,ARI-2014-59
+ARI,False Start,11/02/2014,Dallas,M.Floyd,WR,9,2014,ARI-2014-60
+ARI,Defensive Pass Interference,11/02/2014,Dallas,P.Peterson,CB,9,2014,ARI-2014-61
+ARI,Offensive Holding,11/02/2014,Dallas,J.Carlson,TE,9,2014,ARI-2014-62
+ARI,Tripping,11/02/2014,Dallas,S.Acho,LB,9,2014,ARI-2014-63
+ARI,Chop Block,11/02/2014,Dallas,L.Sendlein,C,9,2014,ARI-2014-64
+ARI,Illegal Use of Hands,11/02/2014,Dallas,P.Peterson,CB,9,2014,ARI-2014-65
+ARI,False Start,11/09/2014,St. Louis,P.Fanaika,G,10,2014,ARI-2014-66
+ARI,Unnecessary Roughness,11/09/2014,St. Louis,P.Fanaika,G,10,2014,ARI-2014-67
+ARI,Neutral Zone Infraction,11/09/2014,St. Louis,E.Stinson,DT,10,2014,ARI-2014-68
+ARI,Illegal Forward Pass,11/09/2014,St. Louis,C.Palmer,QB,10,2014,ARI-2014-69
+ARI,Illegal Contact,11/09/2014,St. Louis,P.Peterson,CB,10,2014,ARI-2014-70
+ARI,Defensive Holding,11/09/2014,St. Louis,J.Bethel,CB,10,2014,ARI-2014-71
+ARI,Offensive Holding,11/16/2014,Detroit,P.Fanaika,G,11,2014,ARI-2014-72
+ARI,Roughing the Passer,11/16/2014,Detroit,K.Martin,LB,11,2014,ARI-2014-73
+ARI,False Start,11/16/2014,Detroit,B.Massie,T,11,2014,ARI-2014-74
+ARI,False Start,11/16/2014,Detroit,D.Stanton,QB,11,2014,ARI-2014-75
+ARI,False Start,11/23/2014,Seattle,T.Larsen,G,12,2014,ARI-2014-76
+ARI,Offensive Holding,11/23/2014,Seattle,B.Massie,T,12,2014,ARI-2014-77
+ARI,Offensive Holding,11/23/2014,Seattle,R.Housler,TE,12,2014,ARI-2014-78
+ARI,Defensive Offside,11/30/2014,Atlanta,J.Bethel,CB,13,2014,ARI-2014-79
+ARI,Offensive Holding,11/30/2014,Atlanta,T.Larsen,G,13,2014,ARI-2014-80
+ARI,Illegal Contact,11/30/2014,Atlanta,J.Powers,CB,13,2014,ARI-2014-81
+ARI,False Start,11/30/2014,Atlanta,T.Larsen,G,13,2014,ARI-2014-82
+ARI,Offensive Pass Interference,11/30/2014,Atlanta,M.Floyd,WR,13,2014,ARI-2014-83
+ARI,Defensive Holding,11/30/2014,Atlanta,P.Peterson,CB,13,2014,ARI-2014-84
+ARI,Defensive Holding,11/30/2014,Atlanta,A.Cromartie,DB,13,2014,ARI-2014-85
+ARI,Defensive Offside,11/30/2014,Atlanta,J.Bethel,CB,13,2014,ARI-2014-86
+ARI,Illegal Motion,12/07/2014,Kansas City,L.Fitzgerald,WR,14,2014,ARI-2014-87
+ARI,Delay of Game,12/07/2014,Kansas City,D.Stanton,QB,14,2014,ARI-2014-88
+ARI,Roughing the Passer,12/07/2014,Kansas City,T.Kelly,DE,14,2014,ARI-2014-89
+ARI,False Start,12/07/2014,Kansas City,T.Larsen,G,14,2014,ARI-2014-90
+ARI,Defensive Holding,12/07/2014,Kansas City,J.Bethel,CB,14,2014,ARI-2014-91
+ARI,Illegal Contact,12/07/2014,Kansas City,A.Cromartie,DB,14,2014,ARI-2014-92
+ARI,Illegal Use of Hands,12/11/2014,St. Louis,L.Fitzgerald,WR,15,2014,ARI-2014-93
+ARI,Illegal Block Above the Waist,12/11/2014,St. Louis,R.Housler,TE,15,2014,ARI-2014-94
+ARI,Offensive Holding,12/11/2014,St. Louis,L.Sendlein,C,15,2014,ARI-2014-95
+ARI,False Start,12/11/2014,St. Louis,J.Veldheer,T,15,2014,ARI-2014-96
+ARI,Offensive Holding,12/11/2014,St. Louis,M.Benard,LB,15,2014,ARI-2014-97
+ARI,Offensive Holding,12/11/2014,St. Louis,J.Bethel,CB,15,2014,ARI-2014-98
+ARI,Encroachment,12/11/2014,St. Louis,D.Williams,DT,15,2014,ARI-2014-99
+ARI,Delay of Game,12/11/2014,St. Louis,D.Butler,P,15,2014,ARI-2014-100
+ARI,False Start,12/21/2014,Seattle,T.Larsen,G,16,2014,ARI-2014-101
+ARI,Illegal Use of Hands,12/21/2014,Seattle,B.Massie,T,16,2014,ARI-2014-102
+ARI,Offensive Holding,12/21/2014,Seattle,P.Fanaika,G,16,2014,ARI-2014-103
+ARI,Offensive Holding,12/28/2014,San Francisco,S.Taylor,RB,17,2014,ARI-2014-104
+ARI,Offensive Holding,12/28/2014,San Francisco,L.Alexander,LB,17,2014,ARI-2014-105
+ARI,Illegal Blindside Block,12/28/2014,San Francisco,T.Jefferson,SS,17,2014,ARI-2014-106
+ARI,Illegal Use of Hands,12/28/2014,San Francisco,T.Kelly,DE,17,2014,ARI-2014-107
+ARI,Offensive Pass Interference,12/28/2014,San Francisco,J.Carlson,TE,17,2014,ARI-2014-108
+ARI,Defensive Holding,01/03/2015,Carolina,T.Jefferson,SS,18,2014,ARI-2014-109
+ARI,Illegal Contact,01/03/2015,Carolina,A.Cromartie,DB,18,2014,ARI-2014-110
+ARI,Neutral Zone Infraction,01/03/2015,Carolina,D.Williams,DT,18,2014,ARI-2014-111
+ARI,Defensive Pass Interference,01/03/2015,Carolina,A.Cromartie,DB,18,2014,ARI-2014-112
+ARI,Defensive Pass Interference,01/03/2015,Carolina,T.Jefferson,SS,18,2014,ARI-2014-113
+ARI,Defensive Holding,01/03/2015,Carolina,P.Peterson,CB,18,2014,ARI-2014-114

@@ -1,0 +1,72 @@
+team,penalty,game,opponent,player,position,week,year,penaltyindex
+MIA,False Start,09/08/2013,Cleveland,M.Wallace,WR,1,2013,MIA-2013-0
+MIA,Face Mask (15 Yards),09/08/2013,Cleveland,D.Patterson,CB,1,2013,MIA-2013-1
+MIA,Defensive Holding,09/08/2013,Cleveland,D.Ellerbe,LB,1,2013,MIA-2013-2
+MIA,Offensive Holding,09/08/2013,Cleveland,N.Carroll,CB,1,2013,MIA-2013-3
+MIA,Offensive Holding,09/08/2013,Cleveland,R.Incognito,C,1,2013,MIA-2013-4
+MIA,Offensive Holding,09/08/2013,Cleveland,C.Clay,TE,1,2013,MIA-2013-5
+MIA,Illegal Motion,09/08/2013,Cleveland,C.Clay,TE,1,2013,MIA-2013-6
+MIA,Neutral Zone Infraction,09/08/2013,Cleveland,J.Odrick,DT,1,2013,MIA-2013-7
+MIA,Neutral Zone Infraction,09/08/2013,Cleveland,R.Starks,DT,1,2013,MIA-2013-8
+MIA,Face Mask (15 Yards),09/08/2013,Cleveland,D.Jordan,DE,1,2013,MIA-2013-9
+MIA,Defensive Pass Interference,09/22/2013,Atlanta,N.Carroll,CB,3,2013,MIA-2013-10
+MIA,Offensive Holding,09/22/2013,Atlanta,J.Jerry,G,3,2013,MIA-2013-11
+MIA,False Start,09/30/2013,New Orleans,B.Fields,P,4,2013,MIA-2013-12
+MIA,Illegal Formation,09/30/2013,New Orleans,M.Wallace,WR,4,2013,MIA-2013-13
+MIA,Neutral Zone Infraction,09/30/2013,New Orleans,O.Vernon,DE,4,2013,MIA-2013-14
+MIA,Encroachment,09/30/2013,New Orleans,J.Odrick,DT,4,2013,MIA-2013-15
+MIA,False Start,10/06/2013,Baltimore,J.Martin,T,5,2013,MIA-2013-16
+MIA,Defensive Pass Interference,10/06/2013,Baltimore,N.Carroll,CB,5,2013,MIA-2013-17
+MIA,Defensive Pass Interference,10/06/2013,Baltimore,B.Grimes,CB,5,2013,MIA-2013-18
+MIA,Illegal Contact,10/06/2013,Baltimore,J.Jenkins,OLB,5,2013,MIA-2013-19
+MIA,Neutral Zone Infraction,10/06/2013,Baltimore,D.Shelby,DE,5,2013,MIA-2013-20
+MIA,False Start,10/20/2013,Buffalo,J.Martin,T,7,2013,MIA-2013-21
+MIA,Offensive Holding,10/20/2013,Buffalo,R.Stanford,DB,7,2013,MIA-2013-22
+MIA,Illegal Touch Kick,10/20/2013,Buffalo,D.Jones,DB,7,2013,MIA-2013-23
+MIA,Defensive Offside,10/20/2013,Buffalo,O.Vernon,DE,7,2013,MIA-2013-24
+MIA,Roughing the Passer,10/20/2013,Buffalo,J.Jenkins,OLB,7,2013,MIA-2013-25
+MIA,Illegal Use of Hands,10/27/2013,New England,R.Incognito,C,8,2013,MIA-2013-26
+MIA,Encroachment,10/27/2013,New England,P.Soliai,DT,8,2013,MIA-2013-27
+MIA,Defensive Pass Interference,10/27/2013,New England,J.Wilson,DB,8,2013,MIA-2013-28
+MIA,Defensive Holding,10/27/2013,New England,D.Patterson,CB,8,2013,MIA-2013-29
+MIA,Illegal Use of Hands,10/27/2013,New England,P.Soliai,DT,8,2013,MIA-2013-30
+MIA,Illegal Bat,10/27/2013,New England,O.Vernon,DE,8,2013,MIA-2013-31
+MIA,Delay of Game,10/27/2013,New England,R.Tannehill,QB,8,2013,MIA-2013-32
+MIA,Horse Collar Tackle,10/31/2013,Cincinnati,R.Jones,SS,9,2013,MIA-2013-33
+MIA,Offensive Pass Interference,10/31/2013,Cincinnati,B.Hartline,WR,9,2013,MIA-2013-34
+MIA,Unnecessary Roughness,11/11/2013,Tampa Bay,M.Pouncey,C,10,2013,MIA-2013-35
+MIA,Player Out of Bounds on Punt,11/11/2013,Tampa Bay,R.Stanford,DB,10,2013,MIA-2013-36
+MIA,Defensive Pass Interference,11/11/2013,Tampa Bay,B.Grimes,CB,10,2013,MIA-2013-37
+MIA,Roughing the Passer,11/11/2013,Tampa Bay,P.Wheeler,LB,10,2013,MIA-2013-38
+MIA,False Start,11/17/2013,San Diego,J.Jerry,G,11,2013,MIA-2013-39
+MIA,False Start,11/17/2013,San Diego,J.Jerry,G,11,2013,MIA-2013-40
+MIA,Illegal Use of Hands,11/17/2013,San Diego,O.Vernon,DE,11,2013,MIA-2013-41
+MIA,False Start,11/24/2013,Carolina,J.Jerry,G,12,2013,MIA-2013-42
+MIA,Illegal Block Above the Waist,11/24/2013,Carolina,M.Egnew,TE,12,2013,MIA-2013-43
+MIA,Offensive Holding,11/24/2013,Carolina,T.Clabo,T,12,2013,MIA-2013-44
+MIA,False Start,11/24/2013,Carolina,T.Clabo,T,12,2013,MIA-2013-45
+MIA,Personal Foul,11/24/2013,Carolina,R.Jones,SS,12,2013,MIA-2013-46
+MIA,Offensive Holding,12/01/2013,N.Y. Jets,J.Freeny,LB,13,2013,MIA-2013-47
+MIA,Offensive Pass Interference,12/01/2013,N.Y. Jets,C.Clay,TE,13,2013,MIA-2013-48
+MIA,Illegal Block Above the Waist,12/01/2013,N.Y. Jets,W.Davis,SS,13,2013,MIA-2013-49
+MIA,Neutral Zone Infraction,12/08/2013,Pittsburgh,R.Starks,DT,14,2013,MIA-2013-50
+MIA,Offensive Holding,12/08/2013,Pittsburgh,M.Pouncey,C,14,2013,MIA-2013-51
+MIA,Offensive Holding,12/08/2013,Pittsburgh,L.Miller,RB,14,2013,MIA-2013-52
+MIA,Offensive Holding,12/08/2013,Pittsburgh,J.Jenkins,OLB,14,2013,MIA-2013-53
+MIA,Illegal Block Above the Waist,12/15/2013,New England,J.Trusnik,LB,15,2013,MIA-2013-54
+MIA,Defensive Pass Interference,12/15/2013,New England,D.Ellerbe,LB,15,2013,MIA-2013-55
+MIA,Offensive Holding,12/15/2013,New England,S.Brenner,C,15,2013,MIA-2013-56
+MIA,Defensive Offside,12/15/2013,New England,O.Vernon,DE,15,2013,MIA-2013-57
+MIA,Defensive Offside,12/15/2013,New England,C.Wake,DE,15,2013,MIA-2013-58
+MIA,Delay of Game,12/22/2013,Buffalo,R.Tannehill,QB,16,2013,MIA-2013-59
+MIA,Offensive Holding,12/22/2013,Buffalo,S.Brenner,C,16,2013,MIA-2013-60
+MIA,Neutral Zone Infraction,12/22/2013,Buffalo,J.Odrick,DT,16,2013,MIA-2013-61
+MIA,Illegal Use of Hands,12/22/2013,Buffalo,P.Wheeler,LB,16,2013,MIA-2013-62
+MIA,Unnecessary Roughness,12/22/2013,Buffalo,B.McKinnie,T,16,2013,MIA-2013-63
+MIA,False Start,12/22/2013,Buffalo,J.Jerry,G,16,2013,MIA-2013-64
+MIA,Face Mask (15 Yards),12/22/2013,Buffalo,R.Matthews,WR,16,2013,MIA-2013-65
+MIA,Defensive Holding,12/29/2013,N.Y. Jets,R.Jones,SS,17,2013,MIA-2013-66
+MIA,Defensive Holding,12/29/2013,N.Y. Jets,P.Wheeler,LB,17,2013,MIA-2013-67
+MIA,Offensive Holding,12/29/2013,N.Y. Jets,M.Pouncey,C,17,2013,MIA-2013-68
+MIA,Low Block,12/29/2013,N.Y. Jets,M.Pouncey,C,17,2013,MIA-2013-69
+MIA,False Start,12/29/2013,N.Y. Jets,M.Wallace,WR,17,2013,MIA-2013-70

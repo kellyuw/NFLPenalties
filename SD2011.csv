@@ -1,0 +1,104 @@
+team,penalty,game,opponent,player,position,week,year,penaltyindex
+SD,Defensive Pass Interference,09/11/2011,Minnesota,A.Cason,CB,1,2011,SD-2011-0
+SD,Encroachment,09/11/2011,Minnesota,A.Garay,DE,1,2011,SD-2011-1
+SD,Offensive Holding,09/11/2011,Minnesota,R.McMichael,TE,1,2011,SD-2011-2
+SD,False Start,09/11/2011,Minnesota,N.Hardwick,C,1,2011,SD-2011-3
+SD,False Start,09/11/2011,Minnesota,M.Floyd,WR,1,2011,SD-2011-4
+SD,False Start,09/18/2011,New England,V.Jackson,WR,2,2011,SD-2011-5
+SD,Defensive Pass Interference,09/18/2011,New England,E.Weddle,FS,2,2011,SD-2011-6
+SD,Encroachment,09/18/2011,New England,A.Barnes,LB,2,2011,SD-2011-7
+SD,Illegal Contact,09/18/2011,New England,T.Spikes,ILB,2,2011,SD-2011-8
+SD,Unnecessary Roughness,09/18/2011,New England,E.Weddle,FS,2,2011,SD-2011-9
+SD,Offensive Holding,09/18/2011,New England,J.Hester,RB,2,2011,SD-2011-10
+SD,False Start,09/18/2011,New England,M.McNeill,T,2,2011,SD-2011-11
+SD,Defensive Holding,09/18/2011,New England,A.Cason,CB,2,2011,SD-2011-12
+SD,Neutral Zone Infraction,09/18/2011,New England,C.Thomas,DE,2,2011,SD-2011-13
+SD,Offensive Pass Interference,09/25/2011,Kansas City,M.Floyd,WR,3,2011,SD-2011-14
+SD,Illegal Contact,09/25/2011,Kansas City,A.Cason,CB,3,2011,SD-2011-15
+SD,Roughing the Passer,09/25/2011,Kansas City,T.LaBoy,OLB,3,2011,SD-2011-16
+SD,False Start,09/25/2011,Kansas City,J.Clary,G,3,2011,SD-2011-17
+SD,False Start,10/02/2011,Miami,M.McNeill,T,4,2011,SD-2011-18
+SD,Personal Foul,10/02/2011,Miami,J.Clary,G,4,2011,SD-2011-19
+SD,Unsportsmanlike Conduct,10/02/2011,Miami,R.Goodman,WR,4,2011,SD-2011-20
+SD,False Start,10/02/2011,Miami,J.Clary,G,4,2011,SD-2011-21
+SD,Defensive Pass Interference,10/02/2011,Miami,M.Gilchrist,DB,4,2011,SD-2011-22
+SD,Illegal Touch Pass,10/02/2011,Miami,M.Floyd,WR,4,2011,SD-2011-23
+SD,False Start,10/02/2011,Miami,P.Crayton,WR,4,2011,SD-2011-24
+SD,Defensive Offside,10/09/2011,Denver,S.Phillips,OLB,5,2011,SD-2011-25
+SD,Unnecessary Roughness,10/09/2011,Denver,M.McNeill,T,5,2011,SD-2011-26
+SD,Defensive Offside,10/23/2011,N.Y. Jets,A.Garay,DE,7,2011,SD-2011-27
+SD,Neutral Zone Infraction,10/23/2011,N.Y. Jets,V.Martin,DT,7,2011,SD-2011-28
+SD,Defensive Offside,10/23/2011,N.Y. Jets,C.Thomas,DE,7,2011,SD-2011-29
+SD,Defensive Pass Interference,10/23/2011,N.Y. Jets,Q.Jammer,CB,7,2011,SD-2011-30
+SD,Defensive Offside,10/23/2011,N.Y. Jets,A.Garay,DE,7,2011,SD-2011-31
+SD,Defensive Pass Interference,10/23/2011,N.Y. Jets,D.Butler,ILB,7,2011,SD-2011-32
+SD,Neutral Zone Infraction,10/23/2011,N.Y. Jets,J.Cesaire,DE,7,2011,SD-2011-33
+SD,Neutral Zone Infraction,10/23/2011,N.Y. Jets,T.LaBoy,OLB,7,2011,SD-2011-34
+SD,Face Mask (15 Yards),10/23/2011,N.Y. Jets,R.Goodman,WR,7,2011,SD-2011-35
+SD,Invalid Fair Catch Signal,10/23/2011,N.Y. Jets,P.Crayton,WR,7,2011,SD-2011-36
+SD,Defensive Holding,10/23/2011,N.Y. Jets,T.Spikes,ILB,7,2011,SD-2011-37
+SD,Delay of Game,10/23/2011,N.Y. Jets,P.Rivers,QB,7,2011,SD-2011-38
+SD,Defensive Pass Interference,10/23/2011,N.Y. Jets,Q.Jammer,CB,7,2011,SD-2011-39
+SD,False Start,10/31/2011,Kansas City,M.McNeill,T,8,2011,SD-2011-40
+SD,Unnecessary Roughness,10/31/2011,Kansas City,S.Gregory,DB,8,2011,SD-2011-41
+SD,False Start,10/31/2011,Kansas City,M.McNeill,T,8,2011,SD-2011-42
+SD,Offensive Holding,10/31/2011,Kansas City,M.McNeill,T,8,2011,SD-2011-43
+SD,Unnecessary Roughness,10/31/2011,Kansas City,B.Bird,ILB,8,2011,SD-2011-44
+SD,Offensive Pass Interference,10/31/2011,Kansas City,P.Crayton,WR,8,2011,SD-2011-45
+SD,Offensive Pass Interference,10/31/2011,Kansas City,A.Gates,TE,8,2011,SD-2011-46
+SD,Offensive Holding,10/31/2011,Kansas City,J.Clary,G,8,2011,SD-2011-47
+SD,Neutral Zone Infraction,10/31/2011,Kansas City,A.Barnes,LB,8,2011,SD-2011-48
+SD,False Start,10/31/2011,Kansas City,M.McNeill,T,8,2011,SD-2011-49
+SD,False Start,10/31/2011,Kansas City,M.McNeill,T,8,2011,SD-2011-50
+SD,Offensive Holding,10/31/2011,Kansas City,J.Clary,G,8,2011,SD-2011-51
+SD,Illegal Use of Hands,10/31/2011,Kansas City,M.McNeill,T,8,2011,SD-2011-52
+SD,Defensive Pass Interference,11/06/2011,Green Bay,M.Gilchrist,DB,9,2011,SD-2011-53
+SD,Defensive Offside,11/06/2011,Green Bay,T.LaBoy,OLB,9,2011,SD-2011-54
+SD,Defensive Holding,11/06/2011,Green Bay,Q.Jammer,CB,9,2011,SD-2011-55
+SD,False Start,11/06/2011,Green Bay,J.Hester,RB,9,2011,SD-2011-56
+SD,Neutral Zone Infraction,11/06/2011,Green Bay,T.Harris,DT,9,2011,SD-2011-57
+SD,Offensive Holding,11/06/2011,Green Bay,R.McMichael,TE,9,2011,SD-2011-58
+SD,Offensive Offside,11/06/2011,Green Bay,A.Gates,TE,9,2011,SD-2011-59
+SD,Intentional Grounding,11/06/2011,Green Bay,P.Rivers,QB,9,2011,SD-2011-60
+SD,Defensive Holding,11/06/2011,Green Bay,Q.Jammer,CB,9,2011,SD-2011-61
+SD,Illegal Formation,11/10/2011,Oakland,K.Sperry,TE,10,2011,SD-2011-62
+SD,Encroachment,11/10/2011,Oakland,V.Martin,DT,10,2011,SD-2011-63
+SD,Illegal Use of Hands,11/10/2011,Oakland,C.Liuget,DT,10,2011,SD-2011-64
+SD,Ineligible Downfield Kick,11/10/2011,Oakland,B.Bird,ILB,10,2011,SD-2011-65
+SD,Encroachment,11/10/2011,Oakland,C.Thomas,DE,10,2011,SD-2011-66
+SD,Unnecessary Roughness,11/10/2011,Oakland,V.Martin,DT,10,2011,SD-2011-67
+SD,Illegal Use of Hands,11/20/2011,Chicago,J.Clary,G,11,2011,SD-2011-68
+SD,False Start,11/20/2011,Chicago,J.Clary,G,11,2011,SD-2011-69
+SD,Illegal Use of Hands,11/20/2011,Chicago,A.Cason,CB,11,2011,SD-2011-70
+SD,Defensive Holding,11/20/2011,Chicago,P.Oliver,SS,11,2011,SD-2011-71
+SD,Illegal Use of Hands,11/27/2011,Denver,J.Clary,G,12,2011,SD-2011-72
+SD,Illegal Contact,11/27/2011,Denver,Q.Jammer,CB,12,2011,SD-2011-73
+SD,Offensive Holding,11/27/2011,Denver,V.Jackson,WR,12,2011,SD-2011-74
+SD,Offensive Holding,11/27/2011,Denver,S.Schilling,C,12,2011,SD-2011-75
+SD,Delay of Game,11/27/2011,Denver,P.Rivers,QB,12,2011,SD-2011-76
+SD,Offensive Holding,12/05/2011,Jacksonville,R.McMichael,TE,13,2011,SD-2011-77
+SD,Defensive Offside,12/05/2011,Jacksonville,A.Barnes,LB,13,2011,SD-2011-78
+SD,Defensive Pass Interference,12/05/2011,Jacksonville,Q.Jammer,CB,13,2011,SD-2011-79
+SD,Offensive Holding,12/05/2011,Jacksonville,J.Gaither,T,13,2011,SD-2011-80
+SD,False Start,12/05/2011,Jacksonville,J.Clary,G,13,2011,SD-2011-81
+SD,Offensive Holding,12/05/2011,Jacksonville,D.Stuckey,DB,13,2011,SD-2011-82
+SD,Offensive Holding,12/05/2011,Jacksonville,M.Gilchrist,DB,13,2011,SD-2011-83
+SD,Chop Block,12/05/2011,Jacksonville,R.McMichael,TE,13,2011,SD-2011-84
+SD,Defensive Offside,12/11/2011,Buffalo,A.Barnes,LB,14,2011,SD-2011-85
+SD,Offensive Holding,12/11/2011,Buffalo,J.Clary,G,14,2011,SD-2011-86
+SD,Unnecessary Roughness,12/11/2011,Buffalo,A.Cason,CB,14,2011,SD-2011-87
+SD,Unnecessary Roughness,12/11/2011,Buffalo,S.Gregory,DB,14,2011,SD-2011-88
+SD,Neutral Zone Infraction,12/11/2011,Buffalo,A.Garay,DE,14,2011,SD-2011-89
+SD,Encroachment,12/18/2011,Baltimore,A.Garay,DE,15,2011,SD-2011-90
+SD,Face Mask (15 Yards),12/18/2011,Baltimore,A.Barnes,LB,15,2011,SD-2011-91
+SD,Offensive Holding,12/24/2011,Detroit,J.Gaither,T,16,2011,SD-2011-92
+SD,Defensive Pass Interference,12/24/2011,Detroit,D.Hughes,DB,16,2011,SD-2011-93
+SD,Face Mask (15 Yards),01/01/2012,Oakland,A.Cason,CB,17,2011,SD-2011-94
+SD,Unsportsmanlike Conduct,01/01/2012,Oakland,A.Barnes,LB,17,2011,SD-2011-95
+SD,False Start,01/01/2012,Oakland,J.Gaither,T,17,2011,SD-2011-96
+SD,Defensive Holding,01/01/2012,Oakland,A.Garay,DE,17,2011,SD-2011-97
+SD,Illegal Use of Hands,01/01/2012,Oakland,M.Gilchrist,DB,17,2011,SD-2011-98
+SD,Defensive Offside,01/01/2012,Oakland,D.Gamble,LB,17,2011,SD-2011-99
+SD,Defensive Offside,01/01/2012,Oakland,C.Thomas,DE,17,2011,SD-2011-100
+SD,Unnecessary Roughness,01/01/2012,Oakland,S.Gregory,DB,17,2011,SD-2011-101
+SD,Offensive Holding,01/01/2012,Oakland,J.Gaither,T,17,2011,SD-2011-102

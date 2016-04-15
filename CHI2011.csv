@@ -1,0 +1,114 @@
+team,penalty,game,opponent,player,position,week,year,penaltyindex
+CHI,Defensive Holding,09/11/2011,Atlanta,D.Moore,DB,1,2011,CHI-2011-0
+CHI,Offensive Holding,09/11/2011,Atlanta,C.Steltz,SS,1,2011,CHI-2011-1
+CHI,Defensive Offside,09/11/2011,Atlanta,I.Idonije,DE,1,2011,CHI-2011-2
+CHI,Illegal Block Above the Waist,09/11/2011,Atlanta,C.Graham,CB,1,2011,CHI-2011-3
+CHI,Offensive Holding,09/11/2011,Atlanta,T.Clutts,FB,1,2011,CHI-2011-4
+CHI,Offensive Holding,09/11/2011,Atlanta,J.Webb,T,1,2011,CHI-2011-5
+CHI,Offensive Holding,09/11/2011,Atlanta,J.Webb,T,1,2011,CHI-2011-6
+CHI,Illegal Use of Hands,09/11/2011,Atlanta,T.Jennings,DB,1,2011,CHI-2011-7
+CHI,Delay of Game,09/11/2011,Atlanta,A.Podlesh,P,1,2011,CHI-2011-8
+CHI,Intentional Grounding,09/18/2011,New Orleans,J.Cutler,QB,2,2011,CHI-2011-9
+CHI,Fair Catch Interference,09/18/2011,New Orleans,S.Hurd,WR,2,2011,CHI-2011-10
+CHI,False Start,09/18/2011,New Orleans,J.Webb,T,2,2011,CHI-2011-11
+CHI,False Start,09/18/2011,New Orleans,F.Omiyale,T,2,2011,CHI-2011-12
+CHI,False Start,09/18/2011,New Orleans,F.Omiyale,T,2,2011,CHI-2011-13
+CHI,False Start,09/18/2011,New Orleans,J.Webb,T,2,2011,CHI-2011-14
+CHI,Offensive Pass Interference,09/18/2011,New Orleans,D.Sanzenbacher,WR,2,2011,CHI-2011-15
+CHI,Defensive Offside,09/25/2011,Green Bay,L.Briggs,OLB,3,2011,CHI-2011-16
+CHI,Defensive Offside,09/25/2011,Green Bay,J.Peppers,OLB,3,2011,CHI-2011-17
+CHI,False Start,09/25/2011,Green Bay,F.Omiyale,T,3,2011,CHI-2011-18
+CHI,Neutral Zone Infraction,09/25/2011,Green Bay,J.Peppers,OLB,3,2011,CHI-2011-19
+CHI,Delay of Game,09/25/2011,Green Bay,J.Cutler,QB,3,2011,CHI-2011-20
+CHI,Encroachment,09/25/2011,Green Bay,N.Reed,DE,3,2011,CHI-2011-21
+CHI,False Start,09/25/2011,Green Bay,D.Hester,WR,3,2011,CHI-2011-22
+CHI,False Start,09/25/2011,Green Bay,F.Omiyale,T,3,2011,CHI-2011-23
+CHI,Offensive Holding,09/25/2011,Green Bay,F.Omiyale,T,3,2011,CHI-2011-24
+CHI,Offensive Holding,09/25/2011,Green Bay,C.Spencer,C,3,2011,CHI-2011-25
+CHI,Unnecessary Roughness,09/25/2011,Green Bay,D.Hester,WR,3,2011,CHI-2011-26
+CHI,Offensive Holding,09/25/2011,Green Bay,C.Graham,CB,3,2011,CHI-2011-27
+CHI,Ineligible Downfield Pass,10/02/2011,Carolina,R.Garza,C,4,2011,CHI-2011-28
+CHI,Neutral Zone Infraction,10/02/2011,Carolina,N.Reed,DE,4,2011,CHI-2011-29
+CHI,Face Mask (15 Yards),10/02/2011,Carolina,C.Tillman,DB,4,2011,CHI-2011-30
+CHI,False Start,10/02/2011,Carolina,P.Mannelly,LS,4,2011,CHI-2011-31
+CHI,False Start,10/10/2011,Detroit,K.Davis,TE,5,2011,CHI-2011-32
+CHI,False Start,10/10/2011,Detroit,C.Williams,T,5,2011,CHI-2011-33
+CHI,False Start,10/10/2011,Detroit,J.Webb,T,5,2011,CHI-2011-34
+CHI,False Start,10/10/2011,Detroit,K.Davis,TE,5,2011,CHI-2011-35
+CHI,Encroachment,10/10/2011,Detroit,A.Adams,DT,5,2011,CHI-2011-36
+CHI,False Start,10/10/2011,Detroit,J.Webb,T,5,2011,CHI-2011-37
+CHI,False Start,10/10/2011,Detroit,F.Omiyale,T,5,2011,CHI-2011-38
+CHI,Unnecessary Roughness,10/10/2011,Detroit,B.Meriweather,DB,5,2011,CHI-2011-39
+CHI,Unnecessary Roughness,10/10/2011,Detroit,B.Urlacher,MLB,5,2011,CHI-2011-40
+CHI,Offensive Holding,10/10/2011,Detroit,R.Garza,C,5,2011,CHI-2011-41
+CHI,False Start,10/10/2011,Detroit,J.Webb,T,5,2011,CHI-2011-42
+CHI,False Start,10/10/2011,Detroit,C.Conte,DB,5,2011,CHI-2011-43
+CHI,False Start,10/10/2011,Detroit,M.Forte,RB,5,2011,CHI-2011-44
+CHI,Horse Collar Tackle,10/10/2011,Detroit,C.Tillman,DB,5,2011,CHI-2011-45
+CHI,Illegal Formation,10/16/2011,Minnesota,J.Webb,T,6,2011,CHI-2011-46
+CHI,Illegal Contact,10/16/2011,Minnesota,C.Tillman,DB,6,2011,CHI-2011-47
+CHI,False Start,10/16/2011,Minnesota,C.Spencer,C,6,2011,CHI-2011-48
+CHI,False Start,10/16/2011,Minnesota,C.Williams,T,6,2011,CHI-2011-49
+CHI,Neutral Zone Infraction,10/23/2011,Tampa Bay,A.Okoye,DT,7,2011,CHI-2011-50
+CHI,Defensive Offside,10/23/2011,Tampa Bay,A.Okoye,DT,7,2011,CHI-2011-51
+CHI,Illegal Block Above the Waist,10/23/2011,Tampa Bay,T.Jennings,DB,7,2011,CHI-2011-52
+CHI,Illegal Block Above the Waist,10/23/2011,Tampa Bay,B.Iwuh,LB,7,2011,CHI-2011-53
+CHI,Unnecessary Roughness,10/23/2011,Tampa Bay,A.Adams,DT,7,2011,CHI-2011-54
+CHI,Ineligible Downfield Kick,10/23/2011,Tampa Bay,K.Bell,RB,7,2011,CHI-2011-55
+CHI,False Start,10/23/2011,Tampa Bay,C.Spencer,C,7,2011,CHI-2011-56
+CHI,Defensive Pass Interference,11/07/2011,Philadelphia,M.Wright,SS,9,2011,CHI-2011-57
+CHI,Offensive Pass Interference,11/07/2011,Philadelphia,E.Bennett,WR,9,2011,CHI-2011-58
+CHI,False Start,11/07/2011,Philadelphia,L.Louis,G,9,2011,CHI-2011-59
+CHI,Offensive Holding,11/07/2011,Philadelphia,N.Reed,DE,9,2011,CHI-2011-60
+CHI,Offensive Holding,11/07/2011,Philadelphia,M.Spaeth,TE,9,2011,CHI-2011-61
+CHI,Offensive Holding,11/13/2011,Detroit,Z.Bowman,DB,10,2011,CHI-2011-62
+CHI,Offensive Holding,11/13/2011,Detroit,C.Spencer,C,10,2011,CHI-2011-63
+CHI,Unnecessary Roughness,11/13/2011,Detroit,L.Briggs,OLB,10,2011,CHI-2011-64
+CHI,Disqualification,11/13/2011,Detroit,D.Moore,DB,10,2011,CHI-2011-65
+CHI,Unsportsmanlike Conduct,11/13/2011,Detroit,Z.Bowman,DB,10,2011,CHI-2011-66
+CHI,False Start,11/20/2011,San Diego,J.Webb,T,11,2011,CHI-2011-67
+CHI,Illegal Use of Hands,11/20/2011,San Diego,C.Spencer,C,11,2011,CHI-2011-68
+CHI,Offensive Holding,11/20/2011,San Diego,K.Bell,RB,11,2011,CHI-2011-69
+CHI,Defensive Pass Interference,11/20/2011,San Diego,T.Jennings,DB,11,2011,CHI-2011-70
+CHI,Offensive Holding,11/20/2011,San Diego,C.Steltz,SS,11,2011,CHI-2011-71
+CHI,Unsportsmanlike Conduct,11/20/2011,San Diego,M.Wright,SS,11,2011,CHI-2011-72
+CHI,False Start,11/20/2011,San Diego,E.Williams,C,11,2011,CHI-2011-73
+CHI,Offensive Holding,11/27/2011,Oakland,C.Steltz,SS,12,2011,CHI-2011-74
+CHI,Offensive Holding,11/27/2011,Oakland,Z.Bowman,DB,12,2011,CHI-2011-75
+CHI,Personal Foul,11/27/2011,Oakland,T.Clutts,FB,12,2011,CHI-2011-76
+CHI,False Start,11/27/2011,Oakland,J.Webb,T,12,2011,CHI-2011-77
+CHI,Delay of Game,11/27/2011,Oakland,C.Hanie,QB,12,2011,CHI-2011-78
+CHI,Horse Collar Tackle,11/27/2011,Oakland,L.Louis,G,12,2011,CHI-2011-79
+CHI,Offensive Holding,11/27/2011,Oakland,C.Spencer,C,12,2011,CHI-2011-80
+CHI,Intentional Grounding,11/27/2011,Oakland,C.Hanie,QB,12,2011,CHI-2011-81
+CHI,Offensive Holding,12/04/2011,Kansas City,J.Webb,T,13,2011,CHI-2011-82
+CHI,Offensive Holding,12/04/2011,Kansas City,L.Louis,G,13,2011,CHI-2011-83
+CHI,Interference with Opportunity to Catch,12/04/2011,Kansas City,Z.Bowman,DB,13,2011,CHI-2011-84
+CHI,False Start,12/04/2011,Kansas City,F.Omiyale,T,13,2011,CHI-2011-85
+CHI,Defensive Holding,12/04/2011,Kansas City,C.Tillman,DB,13,2011,CHI-2011-86
+CHI,False Start,12/11/2011,Denver,C.Spencer,C,14,2011,CHI-2011-87
+CHI,Roughing the Passer,12/11/2011,Denver,L.Briggs,OLB,14,2011,CHI-2011-88
+CHI,Roughing the Passer,12/11/2011,Denver,I.Idonije,DE,14,2011,CHI-2011-89
+CHI,False Start,12/11/2011,Denver,L.Louis,G,14,2011,CHI-2011-90
+CHI,Offensive Holding,12/11/2011,Denver,C.Tillman,DB,14,2011,CHI-2011-91
+CHI,False Start,12/11/2011,Denver,L.Louis,G,14,2011,CHI-2011-92
+CHI,Illegal Use of Hands,12/11/2011,Denver,J.Webb,T,14,2011,CHI-2011-93
+CHI,Face Mask (15 Yards),12/11/2011,Denver,D.Hester,WR,14,2011,CHI-2011-94
+CHI,Leverage,12/18/2011,Seattle,C.Graham,CB,15,2011,CHI-2011-95
+CHI,Offensive Holding,12/18/2011,Seattle,K.Davis,TE,15,2011,CHI-2011-96
+CHI,Offensive Holding,12/18/2011,Seattle,J.Webb,T,15,2011,CHI-2011-97
+CHI,Defensive Pass Interference,12/18/2011,Seattle,T.Jennings,DB,15,2011,CHI-2011-98
+CHI,Offensive Holding,12/18/2011,Seattle,J.Webb,T,15,2011,CHI-2011-99
+CHI,Delay of Game,12/25/2011,Green Bay,J.McCown,QB,16,2011,CHI-2011-100
+CHI,Illegal Shift,12/25/2011,Green Bay,E.Bennett,WR,16,2011,CHI-2011-101
+CHI,Defensive Offside,12/25/2011,Green Bay,A.Okoye,DT,16,2011,CHI-2011-102
+CHI,Defensive Offside,12/25/2011,Green Bay,A.Okoye,DT,16,2011,CHI-2011-103
+CHI,Defensive Pass Interference,12/25/2011,Green Bay,Z.Bowman,DB,16,2011,CHI-2011-104
+CHI,Defensive Holding,12/25/2011,Green Bay,Z.Bowman,DB,16,2011,CHI-2011-105
+CHI,False Start,12/25/2011,Green Bay,J.Webb,T,16,2011,CHI-2011-106
+CHI,False Start,12/25/2011,Green Bay,F.Omiyale,T,16,2011,CHI-2011-107
+CHI,Delay of Game,01/01/2012,Minnesota,J.McCown,QB,17,2011,CHI-2011-108
+CHI,Illegal Touch Kick,01/01/2012,Minnesota,Z.Bowman,DB,17,2011,CHI-2011-109
+CHI,Offensive Holding,01/01/2012,Minnesota,L.Louis,G,17,2011,CHI-2011-110
+CHI,Offensive Holding,01/01/2012,Minnesota,K.Bell,RB,17,2011,CHI-2011-111
+CHI,Delay of Game,01/01/2012,Minnesota,A.Podlesh,P,17,2011,CHI-2011-112

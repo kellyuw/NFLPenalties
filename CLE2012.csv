@@ -1,0 +1,125 @@
+team,penalty,game,opponent,player,position,week,year,penaltyindex
+CLE,Neutral Zone Infraction,09/09/2012,Philadelphia,B.Winn,DE,1,2012,CLE-2012-0
+CLE,Defensive Pass Interference,09/09/2012,Philadelphia,J.Haden,CB,1,2012,CLE-2012-1
+CLE,Interference with Opportunity to Catch,09/09/2012,Philadelphia,B.Skrine,DB,1,2012,CLE-2012-2
+CLE,Defensive Holding,09/09/2012,Philadelphia,B.Skrine,DB,1,2012,CLE-2012-3
+CLE,Roughing the Passer,09/09/2012,Philadelphia,A.Rubin,NT,1,2012,CLE-2012-4
+CLE,Offensive Holding,09/16/2012,Cincinnati,S.Lauvao,G,2,2012,CLE-2012-5
+CLE,Unnecessary Roughness,09/16/2012,Cincinnati,D.Jackson,ILB,2,2012,CLE-2012-6
+CLE,False Start,09/16/2012,Cincinnati,B.Watson,TE,2,2012,CLE-2012-7
+CLE,False Start,09/16/2012,Cincinnati,J.Thomas,T,2,2012,CLE-2012-8
+CLE,Neutral Zone Infraction,09/16/2012,Cincinnati,T.Ward,SS,2,2012,CLE-2012-9
+CLE,Defensive Pass Interference,09/16/2012,Cincinnati,B.Skrine,DB,2,2012,CLE-2012-10
+CLE,Offensive Holding,09/16/2012,Cincinnati,J.Thomas,T,2,2012,CLE-2012-11
+CLE,Illegal Block Above the Waist,09/16/2012,Cincinnati,T.Gipson,FS,2,2012,CLE-2012-12
+CLE,Offensive Holding,09/16/2012,Cincinnati,A.Mack,C,2,2012,CLE-2012-13
+CLE,Defensive Offside,09/16/2012,Cincinnati,D.Patterson,CB,2,2012,CLE-2012-14
+CLE,Defensive Offside,09/16/2012,Cincinnati,J.Hughes,DE,2,2012,CLE-2012-15
+CLE,False Start,09/23/2012,Buffalo,G.Little,WR,3,2012,CLE-2012-16
+CLE,Unnecessary Roughness,09/23/2012,Buffalo,D.Jackson,ILB,3,2012,CLE-2012-17
+CLE,Defensive Pass Interference,09/23/2012,Buffalo,S.Brown,CB,3,2012,CLE-2012-18
+CLE,Offensive Holding,09/23/2012,Buffalo,J.Thomas,T,3,2012,CLE-2012-19
+CLE,False Start,09/23/2012,Buffalo,T.Richardson,RB,3,2012,CLE-2012-20
+CLE,Offensive Holding,09/23/2012,Buffalo,M.Schwartz,T,3,2012,CLE-2012-21
+CLE,Offensive Holding,09/23/2012,Buffalo,A.Mack,C,3,2012,CLE-2012-22
+CLE,Illegal Contact,09/27/2012,Baltimore,S.Brown,CB,4,2012,CLE-2012-23
+CLE,Personal Foul,09/27/2012,Baltimore,J.Bademosi,CB,4,2012,CLE-2012-24
+CLE,Offensive Holding,09/27/2012,Baltimore,J.Thomas,T,4,2012,CLE-2012-25
+CLE,Fair Catch Interference,09/27/2012,Baltimore,J.Bademosi,CB,4,2012,CLE-2012-26
+CLE,Neutral Zone Infraction,09/27/2012,Baltimore,B.Winn,DE,4,2012,CLE-2012-27
+CLE,Intentional Grounding,09/27/2012,Baltimore,B.Weeden,QB,4,2012,CLE-2012-28
+CLE,Defensive Holding,09/27/2012,Baltimore,B.Skrine,DB,4,2012,CLE-2012-29
+CLE,Defensive Pass Interference,10/07/2012,N.Y. Giants,D.Patterson,CB,5,2012,CLE-2012-30
+CLE,Defensive Pass Interference,10/07/2012,N.Y. Giants,B.Skrine,DB,5,2012,CLE-2012-31
+CLE,Offensive Holding,10/07/2012,N.Y. Giants,B.Watson,TE,5,2012,CLE-2012-32
+CLE,Defensive Offside,10/07/2012,N.Y. Giants,J.Sheard,DE,5,2012,CLE-2012-33
+CLE,Illegal Crackback,10/07/2012,N.Y. Giants,J.Norwood,WR,5,2012,CLE-2012-34
+CLE,Illegal Block Above the Waist,10/07/2012,N.Y. Giants,A.Mack,C,5,2012,CLE-2012-35
+CLE,Defensive Pass Interference,10/07/2012,N.Y. Giants,B.Skrine,DB,5,2012,CLE-2012-36
+CLE,Defensive Offside,10/07/2012,N.Y. Giants,T.Carder,ILB,5,2012,CLE-2012-37
+CLE,False Start,10/07/2012,N.Y. Giants,M.Schwartz,T,5,2012,CLE-2012-38
+CLE,False Start,10/07/2012,N.Y. Giants,S.Lauvao,G,5,2012,CLE-2012-39
+CLE,Illegal Forward Pass,10/07/2012,N.Y. Giants,B.Weeden,QB,5,2012,CLE-2012-40
+CLE,Offensive Holding,10/14/2012,Cincinnati,K.Maiava,OLB,6,2012,CLE-2012-41
+CLE,False Start,10/14/2012,Cincinnati,J.Thomas,T,6,2012,CLE-2012-42
+CLE,Unsportsmanlike Conduct,10/14/2012,Cincinnati,A.Mack,C,6,2012,CLE-2012-43
+CLE,Ineligible Downfield Kick,10/14/2012,Cincinnati,R.Ventrone,DB,6,2012,CLE-2012-44
+CLE,Defensive Holding,10/14/2012,Cincinnati,U.Young,SS,6,2012,CLE-2012-45
+CLE,Offensive Holding,10/21/2012,Indianapolis,R.Ventrone,DB,7,2012,CLE-2012-46
+CLE,False Start,10/21/2012,Indianapolis,M.Schwartz,T,7,2012,CLE-2012-47
+CLE,Offensive Pass Interference,10/21/2012,Indianapolis,J.Cribbs,WR,7,2012,CLE-2012-48
+CLE,Illegal Contact,10/21/2012,Indianapolis,S.Brown,CB,7,2012,CLE-2012-49
+CLE,Offensive Holding,10/21/2012,Indianapolis,R.Ventrone,DB,7,2012,CLE-2012-50
+CLE,Neutral Zone Infraction,10/21/2012,Indianapolis,B.Winn,DE,7,2012,CLE-2012-51
+CLE,Illegal Block Above the Waist,10/21/2012,Indianapolis,T.Carder,ILB,7,2012,CLE-2012-52
+CLE,False Start,10/21/2012,Indianapolis,J.Cameron,TE,7,2012,CLE-2012-53
+CLE,Unnecessary Roughness,10/21/2012,Indianapolis,D.Jackson,ILB,7,2012,CLE-2012-54
+CLE,False Start,10/28/2012,San Diego,J.Greco,G,8,2012,CLE-2012-55
+CLE,Offensive Holding,10/28/2012,San Diego,J.Cameron,TE,8,2012,CLE-2012-56
+CLE,Offensive Holding,10/28/2012,San Diego,G.Little,WR,8,2012,CLE-2012-57
+CLE,Offensive Pass Interference,11/04/2012,Baltimore,J.Gordon,WR,9,2012,CLE-2012-58
+CLE,Illegal Formation,11/04/2012,Baltimore,J.Cameron,TE,9,2012,CLE-2012-59
+CLE,Unnecessary Roughness,11/04/2012,Baltimore,J.Gordon,WR,9,2012,CLE-2012-60
+CLE,False Start,11/04/2012,Baltimore,S.Lauvao,G,9,2012,CLE-2012-61
+CLE,False Start,11/04/2012,Baltimore,J.Greco,G,9,2012,CLE-2012-62
+CLE,Roughing the Passer,11/04/2012,Baltimore,T.Ward,SS,9,2012,CLE-2012-63
+CLE,Defensive Holding,11/18/2012,Dallas,P.Taylor,DE,11,2012,CLE-2012-64
+CLE,Illegal Contact,11/18/2012,Dallas,S.Brown,CB,11,2012,CLE-2012-65
+CLE,Illegal Contact,11/18/2012,Dallas,B.Skrine,DB,11,2012,CLE-2012-66
+CLE,Illegal Contact,11/18/2012,Dallas,B.Skrine,DB,11,2012,CLE-2012-67
+CLE,Face Mask (15 Yards),11/18/2012,Dallas,B.Winn,DE,11,2012,CLE-2012-68
+CLE,Defensive Pass Interference,11/18/2012,Dallas,T.Ward,SS,11,2012,CLE-2012-69
+CLE,Offensive Holding,11/18/2012,Dallas,Al.Smith,TE,11,2012,CLE-2012-70
+CLE,Defensive Holding,11/18/2012,Dallas,J.Sheard,DE,11,2012,CLE-2012-71
+CLE,Defensive Pass Interference,11/18/2012,Dallas,B.Skrine,DB,11,2012,CLE-2012-72
+CLE,Offensive Holding,11/18/2012,Dallas,L.Fort,LB,11,2012,CLE-2012-73
+CLE,Unsportsmanlike Conduct,11/18/2012,Dallas,T.Ward,SS,11,2012,CLE-2012-74
+CLE,Defensive Pass Interference,11/18/2012,Dallas,S.Brown,CB,11,2012,CLE-2012-75
+CLE,Offensive Holding,11/25/2012,Pittsburgh,A.Mack,C,12,2012,CLE-2012-76
+CLE,Defensive Pass Interference,11/25/2012,Pittsburgh,S.Brown,CB,12,2012,CLE-2012-77
+CLE,Defensive Offside,11/25/2012,Pittsburgh,F.Rucker,DE,12,2012,CLE-2012-78
+CLE,False Start,11/25/2012,Pittsburgh,B.Watson,TE,12,2012,CLE-2012-79
+CLE,Offensive Holding,11/25/2012,Pittsburgh,L.Fort,LB,12,2012,CLE-2012-80
+CLE,Offensive Holding,11/25/2012,Pittsburgh,S.Lauvao,G,12,2012,CLE-2012-81
+CLE,Offensive Holding,11/25/2012,Pittsburgh,S.Lauvao,G,12,2012,CLE-2012-82
+CLE,Offensive Holding,11/25/2012,Pittsburgh,A.Mack,C,12,2012,CLE-2012-83
+CLE,Offensive Holding,11/25/2012,Pittsburgh,J.Greco,G,12,2012,CLE-2012-84
+CLE,Illegal Use of Hands,11/25/2012,Pittsburgh,J.Sheard,DE,12,2012,CLE-2012-85
+CLE,Delay of Game,11/25/2012,Pittsburgh,C.McCoy,QB,12,2012,CLE-2012-86
+CLE,Offensive Holding,12/02/2012,Oakland,B.Watson,TE,13,2012,CLE-2012-87
+CLE,Fair Catch Interference,12/02/2012,Oakland,B.Skrine,DB,13,2012,CLE-2012-88
+CLE,False Start,12/09/2012,Kansas City,A.Mack,C,14,2012,CLE-2012-89
+CLE,Defensive Offside,12/09/2012,Kansas City,J.Parker,DE,14,2012,CLE-2012-90
+CLE,Illegal Block Above the Waist,12/09/2012,Kansas City,G.Little,WR,14,2012,CLE-2012-91
+CLE,Illegal Shift,12/09/2012,Kansas City,B.Watson,TE,14,2012,CLE-2012-92
+CLE,Offensive Pass Interference,12/09/2012,Kansas City,T.Richardson,RB,14,2012,CLE-2012-93
+CLE,False Start,12/09/2012,Kansas City,S.Lauvao,G,14,2012,CLE-2012-94
+CLE,Roughing the Passer,12/09/2012,Kansas City,J.Parker,DE,14,2012,CLE-2012-95
+CLE,Illegal Block Above the Waist,12/16/2012,Washington,J.Haden,CB,15,2012,CLE-2012-96
+CLE,False Start,12/16/2012,Washington,A.Mack,C,15,2012,CLE-2012-97
+CLE,False Start,12/16/2012,Washington,J.Thomas,T,15,2012,CLE-2012-98
+CLE,False Start,12/16/2012,Washington,M.Schwartz,T,15,2012,CLE-2012-99
+CLE,Illegal Contact,12/16/2012,Washington,S.Brown,CB,15,2012,CLE-2012-100
+CLE,False Start,12/23/2012,Denver,S.Lauvao,G,16,2012,CLE-2012-101
+CLE,False Start,12/23/2012,Denver,A.Mack,C,16,2012,CLE-2012-102
+CLE,Neutral Zone Infraction,12/23/2012,Denver,J.Sheard,DE,16,2012,CLE-2012-103
+CLE,Defensive Pass Interference,12/23/2012,Denver,J.Cribbs,WR,16,2012,CLE-2012-104
+CLE,Defensive Holding,12/23/2012,Denver,S.Brown,CB,16,2012,CLE-2012-105
+CLE,Defensive Pass Interference,12/23/2012,Denver,T.Wade,DB,16,2012,CLE-2012-106
+CLE,Offensive Holding,12/23/2012,Denver,M.Schwartz,T,16,2012,CLE-2012-107
+CLE,Illegal Use of Hands,12/23/2012,Denver,B.Skrine,DB,16,2012,CLE-2012-108
+CLE,Neutral Zone Infraction,12/23/2012,Denver,J.Parker,DE,16,2012,CLE-2012-109
+CLE,Defensive Pass Interference,12/23/2012,Denver,B.Skrine,DB,16,2012,CLE-2012-110
+CLE,False Start,12/23/2012,Denver,J.Greco,G,16,2012,CLE-2012-111
+CLE,False Start,12/23/2012,Denver,J.Thomas,T,16,2012,CLE-2012-112
+CLE,Offensive Holding,12/23/2012,Denver,S.Lauvao,G,16,2012,CLE-2012-113
+CLE,Offensive Holding,12/30/2012,Pittsburgh,J.Haden,CB,17,2012,CLE-2012-114
+CLE,False Start,12/30/2012,Pittsburgh,B.Watson,TE,17,2012,CLE-2012-115
+CLE,Defensive Pass Interference,12/30/2012,Pittsburgh,E.Hagg,FS,17,2012,CLE-2012-116
+CLE,False Start,12/30/2012,Pittsburgh,J.Greco,G,17,2012,CLE-2012-117
+CLE,Defensive Pass Interference,12/30/2012,Pittsburgh,J.Haden,CB,17,2012,CLE-2012-118
+CLE,Defensive Offside,12/30/2012,Pittsburgh,J.Parker,DE,17,2012,CLE-2012-119
+CLE,Personal Foul,12/30/2012,Pittsburgh,B.Winn,DE,17,2012,CLE-2012-120
+CLE,False Start,12/30/2012,Pittsburgh,J.Greco,G,17,2012,CLE-2012-121
+CLE,Offensive Holding,12/30/2012,Pittsburgh,J.Thomas,T,17,2012,CLE-2012-122
+CLE,Defensive Offside,12/30/2012,Pittsburgh,B.Winn,DE,17,2012,CLE-2012-123

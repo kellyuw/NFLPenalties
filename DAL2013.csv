@@ -1,0 +1,117 @@
+team,penalty,game,opponent,player,position,week,year,penaltyindex
+DAL,False Start,09/08/2013,N.Y. Giants,T.Smith,T,1,2013,DAL-2013-0
+DAL,Offensive Holding,09/08/2013,N.Y. Giants,J.Hanna,TE,1,2013,DAL-2013-1
+DAL,False Start,09/08/2013,N.Y. Giants,J.Witten,TE,1,2013,DAL-2013-2
+DAL,Offensive Holding,09/08/2013,N.Y. Giants,R.Leary,G,1,2013,DAL-2013-3
+DAL,Offensive Holding,09/08/2013,N.Y. Giants,J.Witten,TE,1,2013,DAL-2013-4
+DAL,Offensive Holding,09/08/2013,N.Y. Giants,T.Smith,T,1,2013,DAL-2013-5
+DAL,Offensive Pass Interference,09/15/2013,Kansas City,D.Bryant,WR,2,2013,DAL-2013-6
+DAL,False Start,09/15/2013,Kansas City,T.Frederick,C,2,2013,DAL-2013-7
+DAL,False Start,09/15/2013,Kansas City,R.Leary,G,2,2013,DAL-2013-8
+DAL,False Start,09/15/2013,Kansas City,D.Harris,WR,2,2013,DAL-2013-9
+DAL,Defensive Pass Interference,09/15/2013,Kansas City,M.Claiborne,CB,2,2013,DAL-2013-10
+DAL,Unsportsmanlike Conduct,09/22/2013,St. Louis,D.Bryant,WR,3,2013,DAL-2013-11
+DAL,Offensive Holding,09/22/2013,St. Louis,B.Carr,CB,3,2013,DAL-2013-12
+DAL,Offensive Holding,09/22/2013,St. Louis,B.Waters,G,3,2013,DAL-2013-13
+DAL,Offensive Holding,09/22/2013,St. Louis,T.Smith,T,3,2013,DAL-2013-14
+DAL,Illegal Block Above the Waist,09/22/2013,St. Louis,B.Church,SS,3,2013,DAL-2013-15
+DAL,Roughing the Passer,09/22/2013,St. Louis,J.Hatcher,DE,3,2013,DAL-2013-16
+DAL,Defensive Pass Interference,09/22/2013,St. Louis,M.Claiborne,CB,3,2013,DAL-2013-17
+DAL,Defensive Holding,09/22/2013,St. Louis,O.Scandrick,CB,3,2013,DAL-2013-18
+DAL,Illegal Shift,09/29/2013,San Diego,D.Free,T,4,2013,DAL-2013-19
+DAL,Defensive Offside,09/29/2013,San Diego,N.Hayden,DT,4,2013,DAL-2013-20
+DAL,False Start,09/29/2013,San Diego,C.Beasley,WR,4,2013,DAL-2013-21
+DAL,Defensive Pass Interference,09/29/2013,San Diego,O.Scandrick,CB,4,2013,DAL-2013-22
+DAL,Offensive Holding,09/29/2013,San Diego,R.Leary,G,4,2013,DAL-2013-23
+DAL,Offensive Holding,09/29/2013,San Diego,J.Parnell,T,4,2013,DAL-2013-24
+DAL,Defensive Offside,09/29/2013,San Diego,D.Ware,LB,4,2013,DAL-2013-25
+DAL,Defensive Holding,10/06/2013,Denver,M.Claiborne,CB,5,2013,DAL-2013-26
+DAL,False Start,10/06/2013,Denver,T.Smith,T,5,2013,DAL-2013-27
+DAL,Unnecessary Roughness,10/06/2013,Denver,E.Sims,ILB,5,2013,DAL-2013-28
+DAL,Defensive Holding,10/06/2013,Denver,B.Carr,CB,5,2013,DAL-2013-29
+DAL,Face Mask (15 Yards),10/06/2013,Denver,G.Selvie,DE,5,2013,DAL-2013-30
+DAL,Defensive Pass Interference,10/06/2013,Denver,S.Lee,MLB,5,2013,DAL-2013-31
+DAL,Neutral Zone Infraction,10/06/2013,Denver,K.Wilber,OLB,5,2013,DAL-2013-32
+DAL,Neutral Zone Infraction,10/06/2013,Denver,G.Selvie,DE,5,2013,DAL-2013-33
+DAL,Offensive Holding,10/06/2013,Denver,W.Allen,SS,5,2013,DAL-2013-34
+DAL,Offensive Holding,10/06/2013,Denver,D.Murray,RB,5,2013,DAL-2013-35
+DAL,Illegal Use of Hands,10/13/2013,Washington,T.Frederick,C,6,2013,DAL-2013-36
+DAL,Unnecessary Roughness,10/13/2013,Washington,B.Church,SS,6,2013,DAL-2013-37
+DAL,Offensive Holding,10/13/2013,Washington,M.Claiborne,CB,6,2013,DAL-2013-38
+DAL,Unnecessary Roughness,10/13/2013,Washington,B.Church,SS,6,2013,DAL-2013-39
+DAL,Defensive Offside,10/13/2013,Washington,C.Rayford,DE,6,2013,DAL-2013-40
+DAL,Offensive Pass Interference,10/13/2013,Washington,T.Williams,WR,6,2013,DAL-2013-41
+DAL,Illegal Use of Hands,10/13/2013,Washington,N.Hayden,DT,6,2013,DAL-2013-42
+DAL,Offensive Holding,10/20/2013,Philadelphia,M.Claiborne,CB,7,2013,DAL-2013-43
+DAL,False Start,10/20/2013,Philadelphia,D.Free,T,7,2013,DAL-2013-44
+DAL,Defensive Holding,10/20/2013,Philadelphia,B.Carter,LB,7,2013,DAL-2013-45
+DAL,False Start,10/20/2013,Philadelphia,R.Leary,G,7,2013,DAL-2013-46
+DAL,Offensive Holding,10/20/2013,Philadelphia,D.Harris,WR,7,2013,DAL-2013-47
+DAL,Offensive Holding,10/20/2013,Philadelphia,B.Carr,CB,7,2013,DAL-2013-48
+DAL,Illegal Formation,10/20/2013,Philadelphia,T.Smith,T,7,2013,DAL-2013-49
+DAL,Defensive Holding,10/20/2013,Philadelphia,J.Wilcox,FS,7,2013,DAL-2013-50
+DAL,Neutral Zone Infraction,10/20/2013,Philadelphia,K.Wilber,OLB,7,2013,DAL-2013-51
+DAL,False Start,10/20/2013,Philadelphia,D.Free,T,7,2013,DAL-2013-52
+DAL,False Start,10/20/2013,Philadelphia,D.Free,T,7,2013,DAL-2013-53
+DAL,Defensive Offside,10/20/2013,Philadelphia,J.Vega,DE,7,2013,DAL-2013-54
+DAL,Defensive Offside,10/20/2013,Philadelphia,J.Vega,DE,7,2013,DAL-2013-55
+DAL,Defensive Holding,10/20/2013,Philadelphia,O.Scandrick,CB,7,2013,DAL-2013-56
+DAL,Offensive Holding,10/27/2013,Detroit,L.Ladouceur,LS,8,2013,DAL-2013-57
+DAL,Defensive Pass Interference,10/27/2013,Detroit,O.Scandrick,CB,8,2013,DAL-2013-58
+DAL,Offensive Holding,10/27/2013,Detroit,T.Smith,T,8,2013,DAL-2013-59
+DAL,Delay of Game,11/03/2013,Minnesota,T.Romo,QB,9,2013,DAL-2013-60
+DAL,Offensive Pass Interference,11/03/2013,Minnesota,D.Bryant,WR,9,2013,DAL-2013-61
+DAL,Unsportsmanlike Conduct,11/03/2013,Minnesota,D.Bryant,WR,9,2013,DAL-2013-62
+DAL,Offensive Pass Interference,11/03/2013,Minnesota,J.Witten,TE,9,2013,DAL-2013-63
+DAL,Face Mask (15 Yards),11/03/2013,Minnesota,D.Free,T,9,2013,DAL-2013-64
+DAL,Defensive Holding,11/03/2013,Minnesota,O.Scandrick,CB,9,2013,DAL-2013-65
+DAL,Illegal Use of Hands,11/03/2013,Minnesota,M.Bernadeau,G,9,2013,DAL-2013-66
+DAL,False Start,11/10/2013,New Orleans,J.Hanna,TE,10,2013,DAL-2013-67
+DAL,Offensive Holding,11/10/2013,New Orleans,R.Leary,G,10,2013,DAL-2013-68
+DAL,Defensive Holding,11/10/2013,New Orleans,B.Church,SS,10,2013,DAL-2013-69
+DAL,Illegal Block Above the Waist,11/10/2013,New Orleans,K.Bosworth,LB,10,2013,DAL-2013-70
+DAL,Face Mask (15 Yards),11/10/2013,New Orleans,O.Scandrick,CB,10,2013,DAL-2013-71
+DAL,False Start,11/10/2013,New Orleans,K.Wilber,OLB,10,2013,DAL-2013-72
+DAL,Face Mask (15 Yards),11/10/2013,New Orleans,E.Sims,ILB,10,2013,DAL-2013-73
+DAL,Defensive Holding,11/10/2013,New Orleans,B.Carr,CB,10,2013,DAL-2013-74
+DAL,Horse Collar Tackle,11/10/2013,New Orleans,B.Carter,LB,10,2013,DAL-2013-75
+DAL,Unnecessary Roughness,11/10/2013,New Orleans,C.Lawrence,LB,10,2013,DAL-2013-76
+DAL,Intentional Grounding,11/10/2013,New Orleans,T.Romo,QB,10,2013,DAL-2013-77
+DAL,Neutral Zone Infraction,11/24/2013,N.Y. Giants,J.Hatcher,DE,12,2013,DAL-2013-78
+DAL,Illegal Use of Hands,11/24/2013,N.Y. Giants,J.Wynn,DT,12,2013,DAL-2013-79
+DAL,Defensive Pass Interference,11/24/2013,N.Y. Giants,M.Claiborne,CB,12,2013,DAL-2013-80
+DAL,Offensive Holding,11/24/2013,N.Y. Giants,C.Lawrence,LB,12,2013,DAL-2013-81
+DAL,Delay of Game,11/24/2013,N.Y. Giants,T.Romo,QB,12,2013,DAL-2013-82
+DAL,Illegal Contact,11/24/2013,N.Y. Giants,B.Carr,CB,12,2013,DAL-2013-83
+DAL,Illegal Block Above the Waist,11/24/2013,N.Y. Giants,C.Lawrence,LB,12,2013,DAL-2013-84
+DAL,False Start,11/24/2013,N.Y. Giants,R.Leary,G,12,2013,DAL-2013-85
+DAL,Offensive Holding,11/24/2013,N.Y. Giants,R.Leary,G,12,2013,DAL-2013-86
+DAL,Illegal Block Above the Waist,11/24/2013,N.Y. Giants,B.Webb,DB,12,2013,DAL-2013-87
+DAL,False Start,11/24/2013,N.Y. Giants,T.Smith,T,12,2013,DAL-2013-88
+DAL,Encroachment,11/28/2013,Oakland,G.Selvie,DE,13,2013,DAL-2013-89
+DAL,Offensive Pass Interference,11/28/2013,Oakland,J.Witten,TE,13,2013,DAL-2013-90
+DAL,Offensive Holding,11/28/2013,Oakland,D.Free,T,13,2013,DAL-2013-91
+DAL,Offside on Free Kick,11/28/2013,Oakland,L.Dunbar,RB,13,2013,DAL-2013-92
+DAL,False Start,11/28/2013,Oakland,T.Frederick,C,13,2013,DAL-2013-93
+DAL,Neutral Zone Infraction,11/28/2013,Oakland,D.Ware,LB,13,2013,DAL-2013-94
+DAL,Defensive Holding,12/09/2013,Chicago,B.Carr,CB,14,2013,DAL-2013-95
+DAL,Roughing the Passer,12/09/2013,Chicago,G.Selvie,DE,14,2013,DAL-2013-96
+DAL,Roughing the Passer,12/09/2013,Chicago,G.Selvie,DE,14,2013,DAL-2013-97
+DAL,Defensive Holding,12/09/2013,Chicago,B.Carr,CB,14,2013,DAL-2013-98
+DAL,Unnecessary Roughness,12/09/2013,Chicago,O.Scandrick,CB,14,2013,DAL-2013-99
+DAL,Defensive Pass Interference,12/15/2013,Green Bay,B.Carr,CB,15,2013,DAL-2013-100
+DAL,Offensive Pass Interference,12/15/2013,Green Bay,M.Austin,WR,15,2013,DAL-2013-101
+DAL,Defensive Offside,12/15/2013,Green Bay,J.Wynn,DT,15,2013,DAL-2013-102
+DAL,Neutral Zone Infraction,12/15/2013,Green Bay,J.Wynn,DT,15,2013,DAL-2013-103
+DAL,Offensive Holding,12/15/2013,Green Bay,D.Free,T,15,2013,DAL-2013-104
+DAL,Defensive Holding,12/15/2013,Green Bay,O.Scandrick,CB,15,2013,DAL-2013-105
+DAL,Offensive Holding,12/15/2013,Green Bay,D.Bryant,WR,15,2013,DAL-2013-106
+DAL,Defensive Pass Interference,12/15/2013,Green Bay,B.Church,SS,15,2013,DAL-2013-107
+DAL,Delay of Game,12/22/2013,Washington,T.Romo,QB,16,2013,DAL-2013-108
+DAL,Neutral Zone Infraction,12/22/2013,Washington,G.Selvie,DE,16,2013,DAL-2013-109
+DAL,Offensive Holding,12/22/2013,Washington,K.Wilber,OLB,16,2013,DAL-2013-110
+DAL,Defensive Offside,12/22/2013,Washington,B.Carter,LB,16,2013,DAL-2013-111
+DAL,Unnecessary Roughness,12/22/2013,Washington,J.Wilcox,FS,16,2013,DAL-2013-112
+DAL,False Start,12/22/2013,Washington,D.Free,T,16,2013,DAL-2013-113
+DAL,Personal Foul,12/22/2013,Washington,D.Murray,RB,16,2013,DAL-2013-114
+DAL,Delay of Game,12/29/2013,Philadelphia,K.Orton,QB,17,2013,DAL-2013-115

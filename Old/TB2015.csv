@@ -1,0 +1,160 @@
+PenaltyIndex,team,penalty,game,opponent,player,position,week
+TB-2015-0,TB,Unnecessary Roughness,09/13/2015,Tennessee,M.Wright,SS,1-2015
+TB-2015-1,TB,Neutral Zone Infraction,09/13/2015,Tennessee,D.Lansanah,OLB,1-2015
+TB-2015-2,TB,Defensive Pass Interference,09/13/2015,Tennessee,A.Verner,CB,1-2015
+TB-2015-3,TB,Illegal Block Above the Waist,09/13/2015,Tennessee,J.Banks,CB,1-2015
+TB-2015-4,TB,False Start,09/13/2015,Tennessee,G.Cherilus,T,1-2015
+TB-2015-5,TB,Offensive Holding,09/13/2015,Tennessee,D.Smith,T,1-2015
+TB-2015-6,TB,Offensive Holding,09/13/2015,Tennessee,G.Cherilus,T,1-2015
+TB-2015-7,TB,Defensive Pass Interference,09/13/2015,Tennessee,A.Verner,CB,1-2015
+TB-2015-8,TB,Offensive Holding,09/13/2015,Tennessee,L.Mankins,G,1-2015
+TB-2015-9,TB,False Start,09/13/2015,Tennessee,A.Seferian,TE,1-2015
+TB-2015-10,TB,Illegal Formation,09/13/2015,Tennessee,G.Cherilus,T,1-2015
+TB-2015-11,TB,Offensive Pass Interference,09/13/2015,Tennessee,V.Jackson,WR,1-2015
+TB-2015-12,TB,False Start,09/13/2015,Tennessee,G.Cherilus,T,1-2015
+TB-2015-13,TB,Encroachment,09/20/2015,New Orleans,C.McDonald,DT,2-2015
+TB-2015-14,TB,Defensive Holding,09/20/2015,New Orleans,T.Jennings,DB,2-2015
+TB-2015-15,TB,Offensive Holding,09/20/2015,New Orleans,D.Smith,T,2-2015
+TB-2015-16,TB,Offensive Holding,09/20/2015,New Orleans,A.Seferian,TE,2-2015
+TB-2015-17,TB,Offensive Holding,09/20/2015,New Orleans,A.Seferian,TE,2-2015
+TB-2015-18,TB,False Start,09/20/2015,New Orleans,D.Smith,T,2-2015
+TB-2015-19,TB,False Start,09/20/2015,New Orleans,L.Mankins,G,2-2015
+TB-2015-20,TB,Offensive Holding,09/20/2015,New Orleans,M.Evans,WR,2-2015
+TB-2015-21,TB,Tripping,09/20/2015,New Orleans,J.Hawley,C,2-2015
+TB-2015-22,TB,Roughing the Passer,09/20/2015,New Orleans,J.Smith,DE,2-2015
+TB-2015-23,TB,Defensive Offside,09/20/2015,New Orleans,J.Smith,DE,2-2015
+TB-2015-24,TB,False Start,09/27/2015,Houston,L.Mankins,G,3-2015
+TB-2015-25,TB,Offensive Pass Interference,09/27/2015,Houston,M.Evans,WR,3-2015
+TB-2015-26,TB,Delay of Game,09/27/2015,Houston,J.Winston,QB,3-2015
+TB-2015-27,TB,Defensive Holding,09/27/2015,Houston,J.Smith,DE,3-2015
+TB-2015-28,TB,Defensive Holding,09/27/2015,Houston,T.Jennings,DB,3-2015
+TB-2015-29,TB,Offensive Holding,09/27/2015,Houston,J.Hawley,C,3-2015
+TB-2015-30,TB,Defensive Holding,09/27/2015,Houston,M.Jenkins,CB,3-2015
+TB-2015-31,TB,Face Mask (15 Yards),09/27/2015,Houston,C.Conte,DB,3-2015
+TB-2015-32,TB,Defensive Offside,09/27/2015,Houston,W.Gholston,DE,3-2015
+TB-2015-33,TB,Face Mask (15 Yards),09/27/2015,Houston,C.Conte,DB,3-2015
+TB-2015-34,TB,Defensive Holding,09/27/2015,Houston,S.Moore,DB,3-2015
+TB-2015-35,TB,Defensive Pass Interference,09/27/2015,Houston,A.Verner,CB,3-2015
+TB-2015-36,TB,Illegal Formation,10/04/2015,Carolina,G.Cherilus,T,4-2015
+TB-2015-37,TB,Illegal Use of Hands,10/04/2015,Carolina,J.Smith,DE,4-2015
+TB-2015-38,TB,Intentional Grounding,10/04/2015,Carolina,J.Winston,QB,4-2015
+TB-2015-39,TB,Illegal Shift,10/04/2015,Carolina,L.Murphy,WR,4-2015
+TB-2015-40,TB,Face Mask (15 Yards),10/04/2015,Carolina,W.Gholston,DE,4-2015
+TB-2015-41,TB,Intentional Grounding,10/04/2015,Carolina,J.Winston,QB,4-2015
+TB-2015-42,TB,Defensive Offside,10/11/2015,Jacksonville,T.McDaniel,DT,5-2015
+TB-2015-43,TB,False Start,10/11/2015,Jacksonville,J.Hawley,C,5-2015
+TB-2015-44,TB,Neutral Zone Infraction,10/11/2015,Jacksonville,J.Smith,DE,5-2015
+TB-2015-45,TB,Ineligible Downfield Pass,10/11/2015,Jacksonville,G.Cherilus,T,5-2015
+TB-2015-46,TB,Defensive Pass Interference,10/11/2015,Jacksonville,M.Jenkins,CB,5-2015
+TB-2015-47,TB,Illegal Use of Hands,10/11/2015,Jacksonville,T.Jennings,DB,5-2015
+TB-2015-48,TB,False Start,10/11/2015,Jacksonville,R.Fragel,T,5-2015
+,TB,Offensive Holding,10/11/2015,Jacksonville,A.Marpet,5-2015,TB-2015-49
+TB-2015-50,TB,Defensive Pass Interference,10/11/2015,Jacksonville,T.Jennings,DB,5-2015
+,TB,Illegal Formation,10/11/2015,Jacksonville,A.Marpet,5-2015,TB-2015-51
+TB-2015-52,TB,Illegal Block Above the Waist,10/11/2015,Jacksonville,D.Dye,WR,5-2015
+,TB,Offensive Holding,10/11/2015,Jacksonville,A.Marpet,5-2015,TB-2015-53
+TB-2015-54,TB,Defensive Holding,10/25/2015,Washington,A.Verner,CB,7-2015
+TB-2015-55,TB,False Start,10/25/2015,Washington,K.Pamphile,T,7-2015
+TB-2015-56,TB,Offensive Holding,10/25/2015,Washington,D.Smith,T,7-2015
+TB-2015-57,TB,Unnecessary Roughness,10/25/2015,Washington,G.Cherilus,T,7-2015
+TB-2015-58,TB,Unnecessary Roughness,10/25/2015,Washington,W.Gholston,DE,7-2015
+,TB,Offensive Holding,10/25/2015,Washington,A.Marpet,7-2015,TB-2015-59
+,TB,False Start,10/25/2015,Washington,A.Marpet,7-2015,TB-2015-60
+,TB,Unnecessary Roughness,10/25/2015,Washington,A.Marpet,7-2015,TB-2015-61
+TB-2015-62,TB,Roughing the Passer,10/25/2015,Washington,G.McCoy,DT,7-2015
+TB-2015-63,TB,Defensive Holding,10/25/2015,Washington,S.Moore,DB,7-2015
+TB-2015-64,TB,Roughing the Passer,10/25/2015,Washington,W.Gholston,DE,7-2015
+TB-2015-65,TB,Defensive Holding,10/25/2015,Washington,K.Alexander,MLB,7-2015
+TB-2015-66,TB,Illegal Block Above the Waist,10/25/2015,Washington,M.Evans,WR,7-2015
+TB-2015-67,TB,Offensive Holding,10/25/2015,Washington,L.Mankins,G,7-2015
+TB-2015-68,TB,Offensive Pass Interference,10/25/2015,Washington,M.Evans,WR,7-2015
+TB-2015-69,TB,Unnecessary Roughness,10/25/2015,Washington,W.Gholston,DE,7-2015
+TB-2015-70,TB,Offensive Holding,10/25/2015,Washington,M.Wright,SS,7-2015
+TB-2015-71,TB,Neutral Zone Infraction,10/25/2015,Washington,G.Johnson,DE,7-2015
+TB-2015-72,TB,Unnecessary Roughness,11/01/2015,Atlanta,C.Conte,DB,8-2015
+TB-2015-73,TB,Defensive Offside,11/01/2015,Atlanta,J.Smith,DE,8-2015
+TB-2015-74,TB,Neutral Zone Infraction,11/01/2015,Atlanta,H.Melton,DT,8-2015
+TB-2015-75,TB,Defensive Offside,11/01/2015,Atlanta,H.Melton,DT,8-2015
+TB-2015-76,TB,Defensive Offside,11/01/2015,Atlanta,J.Banks,CB,8-2015
+TB-2015-77,TB,Offensive Holding,11/01/2015,Atlanta,G.Cherilus,T,8-2015
+TB-2015-78,TB,False Start,11/01/2015,Atlanta,L.Mankins,G,8-2015
+TB-2015-79,TB,Offensive Holding,11/01/2015,Atlanta,G.Cherilus,T,8-2015
+TB-2015-80,TB,Delay of Game,11/01/2015,Atlanta,J.Schum,P,8-2015
+TB-2015-81,TB,Unnecessary Roughness,11/08/2015,N.Y. Giants,L.David,OLB,9-2015
+TB-2015-82,TB,Offensive Pass Interference,11/08/2015,N.Y. Giants,C.Brate,TE,9-2015
+TB-2015-83,TB,Neutral Zone Infraction,11/08/2015,N.Y. Giants,W.Gholston,DE,9-2015
+TB-2015-84,TB,Defensive Pass Interference,11/08/2015,N.Y. Giants,L.David,OLB,9-2015
+TB-2015-85,TB,Neutral Zone Infraction,11/08/2015,N.Y. Giants,T.McDaniel,DT,9-2015
+TB-2015-86,TB,Offensive Holding,11/08/2015,N.Y. Giants,O.Lemon,LB,9-2015
+TB-2015-87,TB,Offensive Holding,11/08/2015,N.Y. Giants,C.Brate,TE,9-2015
+TB-2015-88,TB,Offensive Holding,11/08/2015,N.Y. Giants,L.Mankins,G,9-2015
+TB-2015-89,TB,Neutral Zone Infraction,11/08/2015,N.Y. Giants,G.McCoy,DT,9-2015
+TB-2015-90,TB,Unnecessary Roughness,11/08/2015,N.Y. Giants,A.Spence,DT,9-2015
+TB-2015-91,TB,Illegal Block Above the Waist,11/08/2015,N.Y. Giants,B.Carter,LB,9-2015
+TB-2015-92,TB,False Start,11/15/2015,Dallas,D.Smith,T,10-2015
+TB-2015-93,TB,False Start,11/15/2015,Dallas,D.Smith,T,10-2015
+TB-2015-94,TB,False Start,11/15/2015,Dallas,D.Smith,T,10-2015
+,TB,Offensive Holding,11/15/2015,Dallas,J.Shirley,10-2015,TB-2015-95
+TB-2015-96,TB,Unnecessary Roughness,11/15/2015,Dallas,H.Melton,DT,10-2015
+TB-2015-97,TB,Offensive Holding,11/15/2015,Dallas,G.Cherilus,T,10-2015
+TB-2015-98,TB,Unnecessary Roughness,11/15/2015,Dallas,M.Jenkins,CB,10-2015
+TB-2015-99,TB,Illegal Block Above the Waist,11/22/2015,Philadelphia,M.Wright,SS,11-2015
+TB-2015-100,TB,Delay of Game,11/22/2015,Philadelphia,J.Winston,QB,11-2015
+TB-2015-101,TB,Offensive Holding,11/22/2015,Philadelphia,E.Smith,C,11-2015
+TB-2015-102,TB,Roughing the Passer,11/22/2015,Philadelphia,H.Jones,DE,11-2015
+TB-2015-103,TB,Clipping,11/22/2015,Philadelphia,G.Cherilus,T,11-2015
+TB-2015-104,TB,Offensive Holding,11/22/2015,Philadelphia,E.Smith,C,11-2015
+TB-2015-105,TB,False Start,11/22/2015,Philadelphia,L.Mankins,G,11-2015
+TB-2015-106,TB,False Start,11/22/2015,Philadelphia,G.Cherilus,T,11-2015
+TB-2015-107,TB,Illegal Use of Hands,11/22/2015,Philadelphia,J.Hawley,C,11-2015
+TB-2015-108,TB,Offensive Holding,11/22/2015,Philadelphia,G.Cherilus,T,11-2015
+TB-2015-109,TB,Offensive Holding,11/22/2015,Philadelphia,A.DePaola,LS,11-2015
+TB-2015-110,TB,Neutral Zone Infraction,11/29/2015,Indianapolis,J.Smith,DE,12-2015
+TB-2015-111,TB,Neutral Zone Infraction,11/29/2015,Indianapolis,G.McCoy,DT,12-2015
+TB-2015-112,TB,Defensive Pass Interference,11/29/2015,Indianapolis,B.McDougald,SS,12-2015
+TB-2015-113,TB,False Start,11/29/2015,Indianapolis,M.Evans,WR,12-2015
+TB-2015-114,TB,Offensive Holding,11/29/2015,Indianapolis,K.Pamphile,T,12-2015
+TB-2015-115,TB,Neutral Zone Infraction,11/29/2015,Indianapolis,H.Melton,DT,12-2015
+TB-2015-116,TB,Offensive Pass Interference,11/29/2015,Indianapolis,M.Evans,WR,12-2015
+TB-2015-117,TB,Offensive Holding,11/29/2015,Indianapolis,V.Jackson,WR,12-2015
+TB-2015-118,TB,Unsportsmanlike Conduct,11/29/2015,Indianapolis,L.Mankins,G,12-2015
+TB-2015-119,TB,Defensive Holding,11/29/2015,Indianapolis,A.Verner,CB,12-2015
+TB-2015-120,TB,Illegal Use of Hands,11/29/2015,Indianapolis,H.Jones,DE,12-2015
+TB-2015-121,TB,Leaping,11/29/2015,Indianapolis,C.Conte,DB,12-2015
+TB-2015-122,TB,False Start,11/29/2015,Indianapolis,G.Cherilus,T,12-2015
+TB-2015-123,TB,Illegal Formation,12/06/2015,Atlanta,D.Dotson,T,13-2015
+TB-2015-124,TB,Illegal Use of Hands,12/06/2015,Atlanta,A.Spence,DT,13-2015
+TB-2015-125,TB,Offensive Holding,12/06/2015,Atlanta,A.Glanton,LB,13-2015
+TB-2015-126,TB,False Start,12/06/2015,Atlanta,C.Brate,TE,13-2015
+TB-2015-127,TB,Offensive Pass Interference,12/06/2015,Atlanta,M.Evans,WR,13-2015
+TB-2015-128,TB,Offensive Holding,12/06/2015,Atlanta,D.Dotson,T,13-2015
+TB-2015-129,TB,Delay of Game,12/06/2015,Atlanta,J.Winston,QB,13-2015
+TB-2015-130,TB,Offensive Holding,12/13/2015,New Orleans,D.Smith,T,14-2015
+TB-2015-131,TB,Player Out of Bounds on Punt,12/13/2015,New Orleans,D.Dye,WR,14-2015
+TB-2015-132,TB,Illegal Use of Hands,12/13/2015,New Orleans,H.Jones,DE,14-2015
+TB-2015-133,TB,Horse Collar Tackle,12/13/2015,New Orleans,C.Conte,DB,14-2015
+TB-2015-134,TB,Unnecessary Roughness,12/13/2015,New Orleans,W.Gholston,DE,14-2015
+TB-2015-135,TB,Offensive Pass Interference,12/13/2015,New Orleans,M.Evans,WR,14-2015
+TB-2015-136,TB,Unnecessary Roughness,12/13/2015,New Orleans,M.Evans,WR,14-2015
+TB-2015-137,TB,Defensive Holding,12/13/2015,New Orleans,A.Verner,CB,14-2015
+TB-2015-138,TB,Illegal Contact,12/17/2015,St. Louis,J.Adjei,DB,15-2015
+TB-2015-139,TB,Intentional Grounding,12/17/2015,St. Louis,J.Winston,QB,15-2015
+TB-2015-140,TB,Illegal Formation,12/17/2015,St. Louis,G.Cherilus,T,15-2015
+TB-2015-141,TB,Unnecessary Roughness,12/17/2015,St. Louis,W.Gholston,DE,15-2015
+TB-2015-142,TB,Delay of Game,12/17/2015,St. Louis,J.Winston,QB,15-2015
+TB-2015-143,TB,Defensive Holding,12/17/2015,St. Louis,M.Wright,SS,15-2015
+TB-2015-144,TB,Encroachment,12/17/2015,St. Louis,G.McCoy,DT,15-2015
+TB-2015-145,TB,Offensive Holding,12/17/2015,St. Louis,D.Bowers,DE,15-2015
+,TB,Offensive Holding,12/17/2015,St. Louis,A.Marpet,15-2015,TB-2015-146
+TB-2015-147,TB,Delay of Game,12/17/2015,St. Louis,A.Seferian,TE,15-2015
+TB-2015-148,TB,Illegal Use of Hands,12/27/2015,Chicago,D.Smith,T,16-2015
+TB-2015-149,TB,Face Mask (15 Yards),12/27/2015,Chicago,A.Verner,CB,16-2015
+TB-2015-150,TB,Defensive Pass Interference,12/27/2015,Chicago,S.Moore,DB,16-2015
+TB-2015-151,TB,Offensive Holding,12/27/2015,Chicago,A.Verner,CB,16-2015
+TB-2015-152,TB,Defensive Holding,01/03/2016,Carolina,G.Johnson,DE,17-2015
+TB-2015-153,TB,Encroachment,01/03/2016,Carolina,G.McCoy,DT,17-2015
+TB-2015-154,TB,Defensive Pass Interference,01/03/2016,Carolina,B.McDougald,SS,17-2015
+TB-2015-155,TB,Offensive Holding,01/03/2016,Carolina,D.Smith,T,17-2015
+TB-2015-156,TB,Offensive Holding,01/03/2016,Carolina,D.Smith,T,17-2015
+TB-2015-157,TB,Disqualification,01/03/2016,Carolina,M.Evans,WR,17-2015
+TB-2015-158,TB,Unsportsmanlike Conduct,01/03/2016,Carolina,M.Evans,WR,17-2015

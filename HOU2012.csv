@@ -1,0 +1,128 @@
+team,penalty,game,opponent,player,position,week,year,penaltyindex
+HOU,False Start,09/09/2012,Miami,O.Daniels,TE,1,2012,HOU-2012-0
+HOU,Offensive Holding,09/09/2012,Miami,J.Nading,LB,1,2012,HOU-2012-1
+HOU,Face Mask (15 Yards),09/09/2012,Miami,K.Jackson,CB,1,2012,HOU-2012-2
+HOU,Defensive Offside,09/09/2012,Miami,C.Barwin,OLB,1,2012,HOU-2012-3
+HOU,Defensive Offside,09/16/2012,Jacksonville,S.Cody,NT,2,2012,HOU-2012-4
+HOU,Defensive Offside,09/16/2012,Jacksonville,B.Reed,LB,2,2012,HOU-2012-5
+HOU,Illegal Contact,09/16/2012,Jacksonville,B.Cushing,ILB,2,2012,HOU-2012-6
+HOU,Illegal Block Above the Waist,09/16/2012,Jacksonville,M.Alexander,LB,2,2012,HOU-2012-7
+HOU,Delay of Game,09/16/2012,Jacksonville,M.Schaub,QB,2,2012,HOU-2012-8
+HOU,Illegal Block Above the Waist,09/16/2012,Jacksonville,Q.Demps,DB,2,2012,HOU-2012-9
+HOU,False Start,09/16/2012,Jacksonville,D.Newton,T,2,2012,HOU-2012-10
+HOU,False Start,09/16/2012,Jacksonville,G.Graham,TE,2,2012,HOU-2012-11
+HOU,Illegal Block Above the Waist,09/16/2012,Jacksonville,M.Alexander,LB,2,2012,HOU-2012-12
+HOU,Defensive Offside,09/16/2012,Jacksonville,W.Mercilus,OLB,2,2012,HOU-2012-13
+HOU,False Start,09/23/2012,Denver,D.Brown,T,3,2012,HOU-2012-14
+HOU,False Start,09/23/2012,Denver,D.Newton,T,3,2012,HOU-2012-15
+HOU,Defensive Holding,09/23/2012,Denver,B.McCain,DB,3,2012,HOU-2012-16
+HOU,False Start,09/23/2012,Denver,D.Newton,T,3,2012,HOU-2012-17
+HOU,Roughing the Passer,09/23/2012,Denver,C.Barwin,OLB,3,2012,HOU-2012-18
+HOU,Offensive Holding,09/23/2012,Denver,D.Newton,T,3,2012,HOU-2012-19
+HOU,Defensive Holding,09/23/2012,Denver,J.Joseph,CB,3,2012,HOU-2012-20
+HOU,Illegal Contact,09/23/2012,Denver,B.McCain,DB,3,2012,HOU-2012-21
+HOU,Defensive Pass Interference,09/23/2012,Denver,K.Jackson,CB,3,2012,HOU-2012-22
+HOU,Illegal Crackback,09/30/2012,Tennessee,K.Walter,WR,4,2012,HOU-2012-23
+HOU,Offensive Holding,09/30/2012,Tennessee,B.Jones,C,4,2012,HOU-2012-24
+HOU,Delay of Game,10/08/2012,N.Y. Jets,M.Schaub,QB,5,2012,HOU-2012-25
+HOU,Defensive Pass Interference,10/08/2012,N.Y. Jets,J.Joseph,CB,5,2012,HOU-2012-26
+HOU,Illegal Block Above the Waist,10/08/2012,N.Y. Jets,S.Keo,FS,5,2012,HOU-2012-27
+HOU,Personal Foul,10/08/2012,N.Y. Jets,B.Braman,LB,5,2012,HOU-2012-28
+HOU,Offensive Holding,10/08/2012,N.Y. Jets,J.Casey,TE,5,2012,HOU-2012-29
+HOU,Illegal Block Above the Waist,10/08/2012,N.Y. Jets,D.Posey,WR,5,2012,HOU-2012-30
+HOU,Ineligible Downfield Pass,10/08/2012,N.Y. Jets,C.Myers,C,5,2012,HOU-2012-31
+HOU,Illegal Motion,10/08/2012,N.Y. Jets,B.McCain,DB,5,2012,HOU-2012-32
+HOU,Defensive Offside,10/14/2012,Green Bay,D.Posey,WR,6,2012,HOU-2012-33
+HOU,Unnecessary Roughness,10/14/2012,Green Bay,B.James,ILB,6,2012,HOU-2012-34
+HOU,Defensive Offside,10/14/2012,Green Bay,D.Manning,SS,6,2012,HOU-2012-35
+HOU,False Start,10/14/2012,Green Bay,D.Brown,T,6,2012,HOU-2012-36
+HOU,Defensive Pass Interference,10/14/2012,Green Bay,K.Jackson,CB,6,2012,HOU-2012-37
+HOU,False Start,10/14/2012,Green Bay,B.Jones,C,6,2012,HOU-2012-38
+HOU,Defensive Holding,10/14/2012,Green Bay,B.McCain,DB,6,2012,HOU-2012-39
+HOU,Leaping,10/14/2012,Green Bay,C.Barwin,OLB,6,2012,HOU-2012-40
+HOU,Unnecessary Roughness,10/14/2012,Green Bay,D.Manning,SS,6,2012,HOU-2012-41
+HOU,Offensive Holding,10/21/2012,Baltimore,G.Graham,TE,7,2012,HOU-2012-42
+HOU,Offensive Holding,10/21/2012,Baltimore,J.Casey,TE,7,2012,HOU-2012-43
+HOU,Defensive Pass Interference,10/21/2012,Baltimore,J.Joseph,CB,7,2012,HOU-2012-44
+HOU,Offensive Holding,10/21/2012,Baltimore,C.Myers,C,7,2012,HOU-2012-45
+HOU,Defensive Pass Interference,10/21/2012,Baltimore,J.Joseph,CB,7,2012,HOU-2012-46
+HOU,False Start,11/04/2012,Buffalo,B.Ruud,ILB,9,2012,HOU-2012-47
+HOU,Offensive Holding,11/04/2012,Buffalo,J.Forsett,RB,9,2012,HOU-2012-48
+HOU,Encroachment,11/04/2012,Buffalo,A.Smith,DE,9,2012,HOU-2012-49
+HOU,False Start,11/04/2012,Buffalo,A.Caldwell,C,9,2012,HOU-2012-50
+HOU,Offensive Holding,11/04/2012,Buffalo,D.Brown,T,9,2012,HOU-2012-51
+HOU,False Start,11/04/2012,Buffalo,D.Newton,T,9,2012,HOU-2012-52
+HOU,Offensive Holding,11/04/2012,Buffalo,C.Myers,C,9,2012,HOU-2012-53
+HOU,Unnecessary Roughness,11/11/2012,Chicago,T.Dobbins,LB,10,2012,HOU-2012-54
+HOU,Offensive Holding,11/11/2012,Chicago,D.Newton,T,10,2012,HOU-2012-55
+HOU,Defensive Offside,11/18/2012,Jacksonville,J.Watt,DE,11,2012,HOU-2012-56
+HOU,False Start,11/18/2012,Jacksonville,A.Caldwell,C,11,2012,HOU-2012-57
+HOU,Unnecessary Roughness,11/18/2012,Jacksonville,A.Smith,DE,11,2012,HOU-2012-58
+HOU,Neutral Zone Infraction,11/22/2012,Detroit,J.Watt,DE,12,2012,HOU-2012-59
+HOU,False Start,11/22/2012,Detroit,D.Newton,T,12,2012,HOU-2012-60
+HOU,Unsportsmanlike Conduct,11/22/2012,Detroit,K.Martin,WR,12,2012,HOU-2012-61
+HOU,Illegal Block Above the Waist,11/22/2012,Detroit,W.Mercilus,OLB,12,2012,HOU-2012-62
+HOU,Encroachment,11/22/2012,Detroit,A.Smith,DE,12,2012,HOU-2012-63
+HOU,False Start,11/22/2012,Detroit,K.Martin,WR,12,2012,HOU-2012-64
+HOU,Interference with Opportunity to Catch,11/22/2012,Detroit,B.Harris,DB,12,2012,HOU-2012-65
+HOU,False Start,11/22/2012,Detroit,K.Walter,WR,12,2012,HOU-2012-66
+HOU,Illegal Block Above the Waist,12/02/2012,Tennessee,B.Harris,DB,13,2012,HOU-2012-67
+HOU,Offensive Holding,12/02/2012,Tennessee,B.Jones,C,13,2012,HOU-2012-68
+HOU,Offensive Holding,12/02/2012,Tennessee,R.Harris,T,13,2012,HOU-2012-69
+HOU,Illegal Contact,12/02/2012,Tennessee,B.Harris,DB,13,2012,HOU-2012-70
+HOU,Delay of Game,12/02/2012,Tennessee,M.Schaub,QB,13,2012,HOU-2012-71
+HOU,Illegal Use of Hands,12/02/2012,Tennessee,J.Watt,DE,13,2012,HOU-2012-72
+HOU,Offensive Pass Interference,12/02/2012,Tennessee,L.Jean,WR,13,2012,HOU-2012-73
+HOU,Offensive Holding,12/02/2012,Tennessee,W.Smith,G,13,2012,HOU-2012-74
+HOU,Personal Foul,12/02/2012,Tennessee,R.Carmichael,DB,13,2012,HOU-2012-75
+HOU,Defensive Pass Interference,12/02/2012,Tennessee,B.Harris,DB,13,2012,HOU-2012-76
+HOU,Personal Foul,12/02/2012,Tennessee,A.Smith,DE,13,2012,HOU-2012-77
+HOU,Illegal Formation,12/10/2012,New England,K.Walter,WR,14,2012,HOU-2012-78
+HOU,Defensive Holding,12/10/2012,New England,B.Harris,DB,14,2012,HOU-2012-79
+HOU,Defensive Pass Interference,12/10/2012,New England,D.Manning,SS,14,2012,HOU-2012-80
+HOU,Offensive Holding,12/10/2012,New England,G.Quin,FS,14,2012,HOU-2012-81
+HOU,Offensive Pass Interference,12/10/2012,New England,L.Jean,WR,14,2012,HOU-2012-82
+HOU,Illegal Block Above the Waist,12/10/2012,New England,S.Routt,CB,14,2012,HOU-2012-83
+HOU,Illegal Contact,12/10/2012,New England,B.James,ILB,14,2012,HOU-2012-84
+HOU,Defensive Holding,12/10/2012,New England,G.Quin,FS,14,2012,HOU-2012-85
+HOU,Neutral Zone Infraction,12/16/2012,Indianapolis,A.Smith,DE,15,2012,HOU-2012-86
+HOU,Illegal Use of Hands,12/16/2012,Indianapolis,J.Watt,DE,15,2012,HOU-2012-87
+HOU,Personal Foul,12/16/2012,Indianapolis,K.Jackson,CB,15,2012,HOU-2012-88
+HOU,Unsportsmanlike Conduct,12/16/2012,Indianapolis,A.Johnson,WR,15,2012,HOU-2012-89
+HOU,Defensive Holding,12/16/2012,Indianapolis,B.Harris,DB,15,2012,HOU-2012-90
+HOU,Defensive Offside,12/16/2012,Indianapolis,A.Smith,DE,15,2012,HOU-2012-91
+HOU,Illegal Contact,12/16/2012,Indianapolis,T.Dobbins,LB,15,2012,HOU-2012-92
+HOU,Offensive Holding,12/16/2012,Indianapolis,W.Smith,G,15,2012,HOU-2012-93
+HOU,Offensive Holding,12/16/2012,Indianapolis,R.Carmichael,DB,15,2012,HOU-2012-94
+HOU,False Start,12/16/2012,Indianapolis,G.Graham,TE,15,2012,HOU-2012-95
+HOU,Player Out of Bounds on Punt,12/23/2012,Minnesota,D.Posey,WR,16,2012,HOU-2012-96
+HOU,Roughing the Passer,12/23/2012,Minnesota,W.Mercilus,OLB,16,2012,HOU-2012-97
+HOU,Offensive Holding,12/23/2012,Minnesota,J.Casey,TE,16,2012,HOU-2012-98
+HOU,False Start,12/23/2012,Minnesota,D.Brown,T,16,2012,HOU-2012-99
+HOU,Offensive Holding,12/23/2012,Minnesota,D.Brown,T,16,2012,HOU-2012-100
+HOU,Defensive Holding,12/23/2012,Minnesota,B.James,ILB,16,2012,HOU-2012-101
+HOU,Defensive Offside,12/23/2012,Minnesota,S.Keo,FS,16,2012,HOU-2012-102
+HOU,Face Mask (15 Yards),12/23/2012,Minnesota,D.Manning,SS,16,2012,HOU-2012-103
+HOU,Neutral Zone Infraction,12/23/2012,Minnesota,A.Smith,DE,16,2012,HOU-2012-104
+HOU,False Start,12/23/2012,Minnesota,D.Brown,T,16,2012,HOU-2012-105
+HOU,Neutral Zone Infraction,12/30/2012,Indianapolis,C.Barwin,OLB,17,2012,HOU-2012-106
+HOU,Defensive Pass Interference,12/30/2012,Indianapolis,B.Harris,DB,17,2012,HOU-2012-107
+HOU,False Start,12/30/2012,Indianapolis,A.Johnson,WR,17,2012,HOU-2012-108
+HOU,Defensive 12 On-field,12/30/2012,Indianapolis,B.James,ILB,17,2012,HOU-2012-109
+HOU,Defensive Offside,12/30/2012,Indianapolis,J.Crick,DE,17,2012,HOU-2012-110
+HOU,Defensive Offside,12/30/2012,Indianapolis,C.Barwin,OLB,17,2012,HOU-2012-111
+HOU,Illegal Shift,12/30/2012,Indianapolis,D.Posey,WR,17,2012,HOU-2012-112
+HOU,False Start,12/30/2012,Indianapolis,B.Brooks,G,17,2012,HOU-2012-113
+HOU,Offensive Holding,12/30/2012,Indianapolis,T.Clutts,FB,17,2012,HOU-2012-114
+HOU,Illegal Use of Hands,12/30/2012,Indianapolis,C.Myers,C,17,2012,HOU-2012-115
+HOU,Defensive Pass Interference,12/30/2012,Indianapolis,K.Jackson,CB,17,2012,HOU-2012-116
+HOU,Defensive Offside,12/30/2012,Indianapolis,B.James,ILB,17,2012,HOU-2012-117
+HOU,Illegal Block Above the Waist,01/05/2013,Cincinnati,D.Manning,SS,18,2012,HOU-2012-118
+HOU,Neutral Zone Infraction,01/05/2013,Cincinnati,D.Manning,SS,18,2012,HOU-2012-119
+HOU,Offensive Holding,01/05/2013,Cincinnati,B.Brooks,G,18,2012,HOU-2012-120
+HOU,Offensive Pass Interference,01/05/2013,Cincinnati,D.Posey,WR,18,2012,HOU-2012-121
+HOU,Delay of Game,01/05/2013,Cincinnati,D.Jones,P,18,2012,HOU-2012-122
+HOU,Defensive Pass Interference,01/05/2013,Cincinnati,S.Keo,FS,18,2012,HOU-2012-123
+HOU,Offensive Holding,01/13/2013,New England,D.Newton,T,19,2012,HOU-2012-124
+HOU,False Start,01/13/2013,New England,G.Graham,TE,19,2012,HOU-2012-125
+HOU,Defensive Holding,01/13/2013,New England,K.Jackson,CB,19,2012,HOU-2012-126

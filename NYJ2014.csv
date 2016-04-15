@@ -1,0 +1,118 @@
+team,penalty,game,opponent,player,position,week,year,penaltyindex
+NYJ,False Start,09/07/2014,Oakland,B.Giacomini,T,1,2014,NYJ-2014-0
+NYJ,Offensive Holding,09/07/2014,Oakland,W.Colon,G,1,2014,NYJ-2014-1
+NYJ,Offensive Holding,09/07/2014,Oakland,D.Ferguson,T,1,2014,NYJ-2014-2
+NYJ,Defensive Offside,09/07/2014,Oakland,D.Davis,ILB,1,2014,NYJ-2014-3
+NYJ,Offensive Holding,09/07/2014,Oakland,E.Decker,WR,1,2014,NYJ-2014-4
+NYJ,False Start,09/07/2014,Oakland,W.Colon,G,1,2014,NYJ-2014-5
+NYJ,Defensive Holding,09/07/2014,Oakland,A.Allen,DB,1,2014,NYJ-2014-6
+NYJ,Defensive Offside,09/07/2014,Oakland,S.Richardson,DE,1,2014,NYJ-2014-7
+NYJ,Offensive Pass Interference,09/07/2014,Oakland,E.Decker,WR,1,2014,NYJ-2014-8
+NYJ,Face Mask (15 Yards),09/07/2014,Oakland,W.Colon,G,1,2014,NYJ-2014-9
+NYJ,Roughing the Passer,09/07/2014,Oakland,C.Pace,OLB,1,2014,NYJ-2014-10
+NYJ,Defensive Pass Interference,09/07/2014,Oakland,Dar.Walls,CB,1,2014,NYJ-2014-11
+NYJ,Illegal Block Above the Waist,09/14/2014,Green Bay,S.Hakim,WR,2,2014,NYJ-2014-12
+NYJ,Neutral Zone Infraction,09/14/2014,Green Bay,C.Pace,OLB,2,2014,NYJ-2014-13
+NYJ,Defensive Pass Interference,09/14/2014,Green Bay,A.Allen,DB,2,2014,NYJ-2014-14
+NYJ,Personal Foul,09/14/2014,Green Bay,J.Babin,DE,2,2014,NYJ-2014-15
+NYJ,Unsportsmanlike Conduct,09/14/2014,Green Bay,S.Richardson,DE,2,2014,NYJ-2014-16
+NYJ,Unsportsmanlike Conduct,09/14/2014,Green Bay,M.Wilkerson,DE,2,2014,NYJ-2014-17
+NYJ,Offensive Holding,09/14/2014,Green Bay,B.Winters,G,2,2014,NYJ-2014-18
+NYJ,Defensive Pass Interference,09/22/2014,Chicago,Dar.Walls,CB,3,2014,NYJ-2014-19
+NYJ,Roughing the Passer,09/22/2014,Chicago,S.Richardson,DE,3,2014,NYJ-2014-20
+NYJ,Defensive Holding,09/22/2014,Chicago,A.Allen,DB,3,2014,NYJ-2014-21
+NYJ,Unnecessary Roughness,09/22/2014,Chicago,N.Mangold,C,3,2014,NYJ-2014-22
+NYJ,Illegal Formation,09/22/2014,Chicago,D.Nelson,WR,3,2014,NYJ-2014-23
+NYJ,False Start,09/22/2014,Chicago,W.Colon,G,3,2014,NYJ-2014-24
+NYJ,False Start,09/28/2014,Detroit,L.Lewis,DB,4,2014,NYJ-2014-25
+NYJ,Illegal Block Above the Waist,09/28/2014,Detroit,Dar.Walls,CB,4,2014,NYJ-2014-26
+NYJ,False Start,09/28/2014,Detroit,C.Ivory,RB,4,2014,NYJ-2014-27
+NYJ,False Start,09/28/2014,Detroit,B.Giacomini,T,4,2014,NYJ-2014-28
+NYJ,False Start,09/28/2014,Detroit,B.Giacomini,T,4,2014,NYJ-2014-29
+NYJ,False Start,09/28/2014,Detroit,D.Ferguson,T,4,2014,NYJ-2014-30
+NYJ,Neutral Zone Infraction,10/05/2014,San Diego,M.Wilkerson,DE,5,2014,NYJ-2014-31
+NYJ,False Start,10/05/2014,San Diego,D.Ferguson,T,5,2014,NYJ-2014-32
+NYJ,Illegal Contact,10/05/2014,San Diego,D.Harris,ILB,5,2014,NYJ-2014-33
+NYJ,Unnecessary Roughness,10/05/2014,San Diego,Q.Coples,OLB,5,2014,NYJ-2014-34
+NYJ,Defensive Holding,10/05/2014,San Diego,J.Babin,DE,5,2014,NYJ-2014-35
+NYJ,False Start,10/05/2014,San Diego,W.Colon,G,5,2014,NYJ-2014-36
+NYJ,Offensive Pass Interference,10/05/2014,San Diego,D.Nelson,WR,5,2014,NYJ-2014-37
+NYJ,Face Mask (15 Yards),10/05/2014,San Diego,N.Mangold,C,5,2014,NYJ-2014-38
+NYJ,Unnecessary Roughness,10/05/2014,San Diego,B.Winters,G,5,2014,NYJ-2014-39
+NYJ,Unnecessary Roughness,10/05/2014,San Diego,S.Hakim,WR,5,2014,NYJ-2014-40
+NYJ,Intentional Grounding,10/05/2014,San Diego,M.Vick,QB,5,2014,NYJ-2014-41
+NYJ,False Start,10/05/2014,San Diego,W.Colon,G,5,2014,NYJ-2014-42
+NYJ,Illegal Forward Pass,10/05/2014,San Diego,M.Vick,QB,5,2014,NYJ-2014-43
+NYJ,Intentional Grounding,10/12/2014,Denver,G.Smith,QB,6,2014,NYJ-2014-44
+NYJ,Unnecessary Roughness,10/12/2014,Denver,S.Richardson,DE,6,2014,NYJ-2014-45
+NYJ,Neutral Zone Infraction,10/12/2014,Denver,Q.Coples,OLB,6,2014,NYJ-2014-46
+NYJ,Offensive Holding,10/16/2014,New England,O.Aboushi,G,7,2014,NYJ-2014-47
+NYJ,Offensive Holding,10/16/2014,New England,W.Colon,G,7,2014,NYJ-2014-48
+NYJ,Neutral Zone Infraction,10/16/2014,New England,J.Babin,DE,7,2014,NYJ-2014-49
+NYJ,Defensive Pass Interference,10/16/2014,New England,A.Allen,DB,7,2014,NYJ-2014-50
+NYJ,Defensive Offside,10/16/2014,New England,C.Pace,OLB,7,2014,NYJ-2014-51
+NYJ,Illegal Contact,10/16/2014,New England,D.Davis,ILB,7,2014,NYJ-2014-52
+NYJ,Offensive Holding,10/16/2014,New England,T.Graham,WR,7,2014,NYJ-2014-53
+NYJ,Defensive Holding,10/26/2014,Buffalo,Dar.Walls,CB,8,2014,NYJ-2014-54
+NYJ,Personal Foul,10/26/2014,Buffalo,T.Graham,WR,8,2014,NYJ-2014-55
+NYJ,Player Out of Bounds on Punt,10/26/2014,Buffalo,T.Graham,WR,8,2014,NYJ-2014-56
+NYJ,Unsportsmanlike Conduct,10/26/2014,Buffalo,M.Vick,QB,8,2014,NYJ-2014-57
+NYJ,Offensive Holding,10/26/2014,Buffalo,K.Wilson,DB,8,2014,NYJ-2014-58
+NYJ,False Start,10/26/2014,Buffalo,W.Colon,G,8,2014,NYJ-2014-59
+NYJ,Offensive Holding,10/26/2014,Buffalo,C.Ivory,RB,8,2014,NYJ-2014-60
+NYJ,Illegal Block Above the Waist,10/26/2014,Buffalo,J.Amaro,TE,8,2014,NYJ-2014-61
+NYJ,Unnecessary Roughness,10/26/2014,Buffalo,A.Barnes,LB,8,2014,NYJ-2014-62
+NYJ,Neutral Zone Infraction,10/26/2014,Buffalo,S.Richardson,DE,8,2014,NYJ-2014-63
+NYJ,Delay of Game,11/02/2014,Kansas City,R.Quigley,P,9,2014,NYJ-2014-64
+NYJ,Defensive Holding,11/02/2014,Kansas City,K.Wilson,DB,9,2014,NYJ-2014-65
+NYJ,Illegal Contact,11/02/2014,Kansas City,M.Williams,CB,9,2014,NYJ-2014-66
+NYJ,Offensive Pass Interference,11/02/2014,Kansas City,E.Decker,WR,9,2014,NYJ-2014-67
+NYJ,Horse Collar Tackle,11/02/2014,Kansas City,M.Williams,CB,9,2014,NYJ-2014-68
+NYJ,Offensive Holding,11/02/2014,Kansas City,S.Hakim,WR,9,2014,NYJ-2014-69
+NYJ,False Start,11/09/2014,Pittsburgh,W.Colon,G,10,2014,NYJ-2014-70
+NYJ,Defensive Offside,11/09/2014,Pittsburgh,A.Allen,DB,10,2014,NYJ-2014-71
+NYJ,Unnecessary Roughness,11/09/2014,Pittsburgh,J.Babin,DE,10,2014,NYJ-2014-72
+NYJ,Offensive Pass Interference,11/09/2014,Pittsburgh,J.Cumberland,TE,10,2014,NYJ-2014-73
+NYJ,Defensive Holding,11/09/2014,Pittsburgh,D.Harrison,NT,10,2014,NYJ-2014-74
+NYJ,False Start,11/09/2014,Pittsburgh,W.Colon,G,10,2014,NYJ-2014-75
+NYJ,Roughing the Passer,11/09/2014,Pittsburgh,Q.Coples,OLB,10,2014,NYJ-2014-76
+NYJ,Unsportsmanlike Conduct,11/09/2014,Pittsburgh,M.Vick,QB,10,2014,NYJ-2014-77
+NYJ,Defensive Offside,11/24/2014,Buffalo,S.Richardson,DE,12,2014,NYJ-2014-78
+NYJ,Illegal Block Above the Waist,11/24/2014,Buffalo,T.Graham,WR,12,2014,NYJ-2014-79
+NYJ,Delay of Game,11/24/2014,Buffalo,M.Vick,QB,12,2014,NYJ-2014-80
+NYJ,False Start,11/24/2014,Buffalo,B.Giacomini,T,12,2014,NYJ-2014-81
+NYJ,Defensive Pass Interference,11/24/2014,Buffalo,Dar.Walls,CB,12,2014,NYJ-2014-82
+NYJ,Defensive Offside,11/24/2014,Buffalo,Q.Coples,OLB,12,2014,NYJ-2014-83
+NYJ,Defensive Holding,11/24/2014,Buffalo,K.Wilson,DB,12,2014,NYJ-2014-84
+NYJ,False Start,11/24/2014,Buffalo,B.Giacomini,T,12,2014,NYJ-2014-85
+NYJ,Offensive Holding,11/24/2014,Buffalo,W.Colon,G,12,2014,NYJ-2014-86
+NYJ,Illegal Block Above the Waist,11/24/2014,Buffalo,S.Hakim,WR,12,2014,NYJ-2014-87
+NYJ,Offensive Holding,12/01/2014,Miami,N.Bellore,LB,13,2014,NYJ-2014-88
+NYJ,Illegal Block Above the Waist,12/01/2014,Miami,S.Hakim,WR,13,2014,NYJ-2014-89
+NYJ,Defensive Pass Interference,12/01/2014,Miami,Dar.Walls,CB,13,2014,NYJ-2014-90
+NYJ,False Start,12/01/2014,Miami,J.Cumberland,TE,13,2014,NYJ-2014-91
+NYJ,Offensive Holding,12/01/2014,Miami,I.Enemkpali,LB,13,2014,NYJ-2014-92
+NYJ,Defensive Holding,12/01/2014,Miami,S.Hakim,WR,13,2014,NYJ-2014-93
+NYJ,Unnecessary Roughness,12/01/2014,Miami,B.Giacomini,T,13,2014,NYJ-2014-94
+NYJ,Defensive Offside,12/01/2014,Miami,J.Babin,DE,13,2014,NYJ-2014-95
+NYJ,Defensive Holding,12/07/2014,Minnesota,M.Williams,CB,14,2014,NYJ-2014-96
+NYJ,Offensive Holding,12/07/2014,Minnesota,W.Colon,G,14,2014,NYJ-2014-97
+NYJ,Offensive Holding,12/07/2014,Minnesota,J.Cumberland,TE,14,2014,NYJ-2014-98
+NYJ,Unnecessary Roughness,12/07/2014,Minnesota,D.Davis,ILB,14,2014,NYJ-2014-99
+NYJ,Defensive Holding,12/07/2014,Minnesota,K.Wilson,DB,14,2014,NYJ-2014-100
+NYJ,Neutral Zone Infraction,12/07/2014,Minnesota,B.Ijalana,T,14,2014,NYJ-2014-101
+NYJ,Offensive Holding,12/14/2014,Tennessee,W.Colon,G,15,2014,NYJ-2014-102
+NYJ,Offensive Holding,12/14/2014,Tennessee,B.Giacomini,T,15,2014,NYJ-2014-103
+NYJ,Delay of Game,12/14/2014,Tennessee,G.Smith,QB,15,2014,NYJ-2014-104
+NYJ,Intentional Grounding,12/14/2014,Tennessee,G.Smith,QB,15,2014,NYJ-2014-105
+NYJ,Offensive Pass Interference,12/14/2014,Tennessee,C.Ivory,RB,15,2014,NYJ-2014-106
+NYJ,Illegal Use of Hands,12/14/2014,Tennessee,W.Colon,G,15,2014,NYJ-2014-107
+NYJ,Defensive Holding,12/14/2014,Tennessee,C.Pace,OLB,15,2014,NYJ-2014-108
+NYJ,Defensive Holding,12/14/2014,Tennessee,K.Wilson,DB,15,2014,NYJ-2014-109
+NYJ,Illegal Use of Hands,12/21/2014,New England,K.Ellis,DT,16,2014,NYJ-2014-110
+NYJ,Offensive Holding,12/21/2014,New England,D.Freeman,RB,16,2014,NYJ-2014-111
+NYJ,Defensive Offside,12/28/2014,Miami,K.Ellis,DT,17,2014,NYJ-2014-112
+NYJ,Illegal Motion,12/28/2014,Miami,J.Kerley,WR,17,2014,NYJ-2014-113
+NYJ,Offensive Holding,12/28/2014,Miami,T.Reilly,OLB,17,2014,NYJ-2014-114
+NYJ,Defensive Holding,12/28/2014,Miami,Dar.Walls,CB,17,2014,NYJ-2014-115
+NYJ,Roughing the Passer,12/28/2014,Miami,J.Babin,DE,17,2014,NYJ-2014-116

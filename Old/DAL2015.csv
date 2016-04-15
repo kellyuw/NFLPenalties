@@ -1,0 +1,127 @@
+PenaltyIndex,team,penalty,game,opponent,player,position,week
+DAL-2015-0,DAL,False Start,09/13/2015,N.Y. Giants,J.Witten,TE,1-2015
+DAL-2015-1,DAL,Unnecessary Roughness,09/13/2015,N.Y. Giants,B.Carr,CB,1-2015
+DAL-2015-2,DAL,Unnecessary Roughness,09/13/2015,N.Y. Giants,J.Mincey,DE,1-2015
+DAL-2015-3,DAL,Defensive Offside,09/13/2015,N.Y. Giants,D.Lawrence,DE,1-2015
+DAL-2015-4,DAL,False Start,09/20/2015,Philadelphia,M.Bernadeau,G,2-2015
+DAL-2015-5,DAL,Defensive Pass Interference,09/20/2015,Philadelphia,M.Claiborne,CB,2-2015
+DAL-2015-6,DAL,Offensive Holding,09/20/2015,Philadelphia,B.Carr,CB,2-2015
+DAL-2015-7,DAL,Delay of Game,09/20/2015,Philadelphia,T.Frederick,C,2-2015
+DAL-2015-8,DAL,False Start,09/20/2015,Philadelphia,M.Bernadeau,G,2-2015
+DAL-2015-9,DAL,Illegal Formation,09/20/2015,Philadelphia,T.Smith,T,2-2015
+DAL-2015-10,DAL,Offensive Holding,09/20/2015,Philadelphia,J.Wilcox,FS,2-2015
+DAL-2015-11,DAL,Illegal Block Above the Waist,09/20/2015,Philadelphia,D.Wilson,RB,2-2015
+DAL-2015-12,DAL,Ineligible Downfield Pass,09/20/2015,Philadelphia,Z.Martin,G,2-2015
+DAL-2015-13,DAL,False Start,09/20/2015,Philadelphia,J.Witten,TE,2-2015
+DAL-2015-14,DAL,False Start,09/20/2015,Philadelphia,D.Free,T,2-2015
+DAL-2015-15,DAL,Offensive Holding,09/20/2015,Philadelphia,Z.Martin,G,2-2015
+DAL-2015-16,DAL,Defensive Holding,09/20/2015,Philadelphia,D.Lawrence,DE,2-2015
+DAL-2015-17,DAL,Defensive Pass Interference,09/20/2015,Philadelphia,T.Patmon,DB,2-2015
+DAL-2015-18,DAL,False Start,09/20/2015,Philadelphia,T.Smith,T,2-2015
+DAL-2015-19,DAL,Unsportsmanlike Conduct,09/20/2015,Philadelphia,D.Bailey,K,2-2015
+DAL-2015-20,DAL,Offensive Holding,09/20/2015,Philadelphia,G.Swaim,TE,2-2015
+DAL-2015-21,DAL,Offensive Holding,09/20/2015,Philadelphia,M.Bernadeau,G,2-2015
+DAL-2015-22,DAL,Offensive Holding,09/20/2015,Philadelphia,Z.Martin,G,2-2015
+DAL-2015-23,DAL,False Start,09/20/2015,Philadelphia,D.Free,T,2-2015
+DAL-2015-24,DAL,Illegal Use of Hands,09/20/2015,Philadelphia,M.Claiborne,CB,2-2015
+DAL-2015-25,DAL,Defensive Holding,09/27/2015,Atlanta,M.Claiborne,CB,3-2015
+DAL-2015-26,DAL,Offensive Holding,09/27/2015,Atlanta,T.Smith,T,3-2015
+DAL-2015-27,DAL,Defensive Holding,09/27/2015,Atlanta,B.Church,SS,3-2015
+DAL-2015-28,DAL,False Start,09/27/2015,Atlanta,J.Witten,TE,3-2015
+DAL-2015-29,DAL,Offensive Holding,09/27/2015,Atlanta,D.Free,T,3-2015
+DAL-2015-30,DAL,Defensive Holding,10/04/2015,New Orleans,B.Carr,CB,4-2015
+DAL-2015-31,DAL,Defensive Holding,10/04/2015,New Orleans,M.Claiborne,CB,4-2015
+DAL-2015-32,DAL,Illegal Contact,10/04/2015,New Orleans,J.Wilcox,FS,4-2015
+DAL-2015-33,DAL,Illegal Touch Pass,10/04/2015,New Orleans,D.Street,WR,4-2015
+DAL-2015-34,DAL,Player Out of Bounds on Punt,10/04/2015,New Orleans,C.White,DB,4-2015
+DAL-2015-35,DAL,Illegal Use of Hands,10/04/2015,New Orleans,M.Claiborne,CB,4-2015
+DAL-2015-36,DAL,Unnecessary Roughness,10/11/2015,New England,J.Wilcox,FS,5-2015
+DAL-2015-37,DAL,Illegal Use of Hands,10/11/2015,New England,R.Leary,G,5-2015
+DAL-2015-38,DAL,Illegal Use of Hands,10/11/2015,New England,G.Hardy,DE,5-2015
+DAL-2015-39,DAL,Offensive Holding,10/11/2015,New England,R.Leary,G,5-2015
+DAL-2015-40,DAL,Illegal Use of Hands,10/11/2015,New England,M.Claiborne,CB,5-2015
+DAL-2015-41,DAL,Illegal Use of Hands,10/11/2015,New England,R.McClain,MLB,5-2015
+DAL-2015-42,DAL,False Start,10/11/2015,New England,Z.Martin,G,5-2015
+DAL-2015-43,DAL,Offensive Holding,10/11/2015,New England,J.Witten,TE,5-2015
+DAL-2015-44,DAL,False Start,10/25/2015,N.Y. Giants,G.Escobar,TE,7-2015
+DAL-2015-45,DAL,Tripping,10/25/2015,N.Y. Giants,T.Clutts,FB,7-2015
+DAL-2015-46,DAL,Defensive Pass Interference,10/25/2015,N.Y. Giants,M.Claiborne,CB,7-2015
+DAL-2015-47,DAL,Offensive Pass Interference,10/25/2015,N.Y. Giants,D.Street,WR,7-2015
+DAL-2015-48,DAL,Illegal Use of Hands,10/25/2015,N.Y. Giants,R.McClain,MLB,7-2015
+DAL-2015-49,DAL,False Start,10/25/2015,N.Y. Giants,D.Free,T,7-2015
+DAL-2015-50,DAL,False Start,10/25/2015,N.Y. Giants,T.Smith,T,7-2015
+DAL-2015-51,DAL,False Start,11/01/2015,Seattle,D.Free,T,8-2015
+DAL-2015-52,DAL,Offensive Holding,11/01/2015,Seattle,D.Wilson,RB,8-2015
+DAL-2015-53,DAL,Illegal Blindside Block,11/01/2015,Seattle,J.Heath,SS,8-2015
+DAL-2015-54,DAL,Illegal Motion,11/01/2015,Seattle,L.Whitehead,WR,8-2015
+DAL-2015-55,DAL,Offensive Pass Interference,11/01/2015,Seattle,D.Bryant,WR,8-2015
+DAL-2015-56,DAL,Running Into the Kicker,11/08/2015,Philadelphia,J.Heath,SS,9-2015
+DAL-2015-57,DAL,Offensive Pass Interference,11/08/2015,Philadelphia,C.Beasley,WR,9-2015
+DAL-2015-58,DAL,Defensive Pass Interference,11/08/2015,Philadelphia,B.Church,SS,9-2015
+DAL-2015-59,DAL,Unnecessary Roughness,11/08/2015,Philadelphia,G.Hardy,DE,9-2015
+DAL-2015-60,DAL,Offensive Pass Interference,11/08/2015,Philadelphia,T.Williams,WR,9-2015
+DAL-2015-61,DAL,Defensive Holding,11/08/2015,Philadelphia,M.Claiborne,CB,9-2015
+DAL-2015-62,DAL,Neutral Zone Infraction,11/08/2015,Philadelphia,G.Hardy,DE,9-2015
+DAL-2015-63,DAL,False Start,11/08/2015,Philadelphia,Z.Martin,G,9-2015
+DAL-2015-64,DAL,False Start,11/15/2015,Tampa Bay,J.Witten,TE,10-2015
+DAL-2015-65,DAL,Defensive Pass Interference,11/15/2015,Tampa Bay,M.Claiborne,CB,10-2015
+DAL-2015-66,DAL,Illegal Contact,11/15/2015,Tampa Bay,J.Wilcox,FS,10-2015
+DAL-2015-67,DAL,Defensive Delay of Game,11/15/2015,Tampa Bay,B.Jones,CB,10-2015
+DAL-2015-68,DAL,Offensive Holding,11/15/2015,Tampa Bay,T.Smith,T,10-2015
+DAL-2015-69,DAL,Defensive Holding,11/15/2015,Tampa Bay,B.Carr,CB,10-2015
+DAL-2015-70,DAL,Defensive Holding,11/15/2015,Tampa Bay,J.Heath,SS,10-2015
+DAL-2015-71,DAL,Defensive Offside,11/22/2015,Miami,D.Lawrence,DE,11-2015
+,DAL,False Start,11/22/2015,Miami,L.Collins,11-2015,DAL-2015-72
+DAL-2015-73,DAL,Offensive Holding,11/22/2015,Miami,D.Street,WR,11-2015
+DAL-2015-74,DAL,Offensive Holding,11/22/2015,Miami,T.Smith,T,11-2015
+DAL-2015-75,DAL,False Start,11/22/2015,Miami,D.Free,T,11-2015
+DAL-2015-76,DAL,Unsportsmanlike Conduct,11/22/2015,Miami,T.Williams,WR,11-2015
+DAL-2015-77,DAL,Unsportsmanlike Conduct,11/22/2015,Miami,D.Bryant,WR,11-2015
+DAL-2015-78,DAL,Offensive Holding,11/22/2015,Miami,T.Smith,T,11-2015
+DAL-2015-79,DAL,Defensive Offside,11/22/2015,Miami,G.Hardy,DE,11-2015
+DAL-2015-80,DAL,Offensive Holding,11/22/2015,Miami,A.Hitchens,OLB,11-2015
+DAL-2015-81,DAL,Offensive Holding,11/22/2015,Miami,Z.Martin,G,11-2015
+DAL-2015-82,DAL,Offensive Holding,11/22/2015,Miami,Z.Martin,G,11-2015
+DAL-2015-83,DAL,False Start,11/22/2015,Miami,D.Free,T,11-2015
+DAL-2015-84,DAL,False Start,11/26/2015,Carolina,D.Free,T,12-2015
+DAL-2015-85,DAL,Leaping,11/26/2015,Carolina,B.Jones,CB,12-2015
+DAL-2015-86,DAL,False Start,11/26/2015,Carolina,D.Free,T,12-2015
+DAL-2015-87,DAL,Offside on Free Kick,11/26/2015,Carolina,T.Patmon,DB,12-2015
+,DAL,Offensive Holding,11/26/2015,Carolina,L.Collins,12-2015,DAL-2015-88
+DAL-2015-89,DAL,Offensive Holding,12/07/2015,Washington,D.Street,WR,13-2015
+DAL-2015-90,DAL,Face Mask (15 Yards),12/07/2015,Washington,B.Jones,CB,13-2015
+DAL-2015-91,DAL,False Start,12/07/2015,Washington,J.Witten,TE,13-2015
+DAL-2015-92,DAL,False Start,12/07/2015,Washington,C.Brown,T,13-2015
+DAL-2015-93,DAL,Offensive Pass Interference,12/07/2015,Washington,J.Witten,TE,13-2015
+DAL-2015-94,DAL,Defensive Holding,12/07/2015,Washington,B.Carr,CB,13-2015
+DAL-2015-95,DAL,Illegal Use of Hands,12/07/2015,Washington,B.Jones,CB,13-2015
+DAL-2015-96,DAL,Face Mask (15 Yards),12/07/2015,Washington,J.Wilcox,FS,13-2015
+DAL-2015-97,DAL,Defensive Holding,12/13/2015,Green Bay,T.Patmon,DB,14-2015
+DAL-2015-98,DAL,Defensive Offside,12/13/2015,Green Bay,G.Hardy,DE,14-2015
+DAL-2015-99,DAL,Illegal Contact,12/13/2015,Green Bay,J.Wilcox,FS,14-2015
+DAL-2015-100,DAL,Defensive Offside,12/13/2015,Green Bay,T.Crawford,DT,14-2015
+DAL-2015-101,DAL,False Start,12/13/2015,Green Bay,T.Smith,T,14-2015
+DAL-2015-102,DAL,Offensive Holding,12/13/2015,Green Bay,J.Hanna,TE,14-2015
+DAL-2015-103,DAL,False Start,12/13/2015,Green Bay,T.Frederick,C,14-2015
+DAL-2015-104,DAL,Illegal Block Above the Waist,12/19/2015,N.Y. Jets,Z.Martin,G,15-2015
+DAL-2015-105,DAL,Intentional Grounding,12/19/2015,N.Y. Jets,M.Cassel,QB,15-2015
+DAL-2015-106,DAL,Ineligible Downfield Pass,12/19/2015,N.Y. Jets,Z.Martin,G,15-2015
+DAL-2015-107,DAL,Defensive Pass Interference,12/19/2015,N.Y. Jets,B.Carr,CB,15-2015
+DAL-2015-108,DAL,False Start,12/19/2015,N.Y. Jets,A.Gachkar,OLB,15-2015
+DAL-2015-109,DAL,Offensive Holding,12/19/2015,N.Y. Jets,Z.Martin,G,15-2015
+,DAL,False Start,12/19/2015,N.Y. Jets,L.Collins,15-2015,DAL-2015-110
+DAL-2015-111,DAL,Face Mask (15 Yards),12/27/2015,Buffalo,B.Jones,CB,16-2015
+DAL-2015-112,DAL,Offensive Holding,12/27/2015,Buffalo,T.Frederick,C,16-2015
+,DAL,Ineligible Downfield Pass,12/27/2015,Buffalo,L.Collins,16-2015,DAL-2015-113
+DAL-2015-114,DAL,False Start,12/27/2015,Buffalo,T.Smith,T,16-2015
+DAL-2015-115,DAL,Offside on Free Kick,12/27/2015,Buffalo,D.Wilson,RB,16-2015
+DAL-2015-116,DAL,False Start,12/27/2015,Buffalo,Z.Martin,G,16-2015
+DAL-2015-117,DAL,Offensive Holding,12/27/2015,Buffalo,L.Whitehead,WR,16-2015
+,DAL,Offensive Holding,12/27/2015,Buffalo,L.Collins,16-2015,DAL-2015-118
+DAL-2015-119,DAL,Delay of Game,12/27/2015,Buffalo,K.Moore,QB,16-2015
+DAL-2015-120,DAL,Offensive Holding,12/27/2015,Buffalo,D.Wilson,RB,16-2015
+DAL-2015-121,DAL,Unnecessary Roughness,01/03/2016,Washington,G.Swaim,TE,17-2015
+DAL-2015-122,DAL,Illegal Block Above the Waist,01/03/2016,Washington,B.Jones,CB,17-2015
+DAL-2015-123,DAL,Illegal Block Above the Waist,01/03/2016,Washington,K.Wilber,OLB,17-2015
+DAL-2015-124,DAL,Offensive Holding,01/03/2016,Washington,B.Jones,CB,17-2015
+DAL-2015-125,DAL,Offensive Holding,01/03/2016,Washington,T.Smith,T,17-2015

@@ -1,0 +1,123 @@
+PenaltyIndex,team,penalty,game,opponent,player,position,week
+SF-2015-0,SF,Offensive Holding,09/14/2015,Minnesota,M.Martin,FS,1-2015
+SF-2015-1,SF,False Start,09/14/2015,Minnesota,A.Boone,G,1-2015
+SF-2015-2,SF,Illegal Formation,09/14/2015,Minnesota,B.Ellington,WR,1-2015
+SF-2015-3,SF,False Start,09/14/2015,Minnesota,M.Martin,FS,1-2015
+SF-2015-4,SF,Offensive Holding,09/14/2015,Minnesota,J.Staley,T,1-2015
+SF-2015-5,SF,Running Into the Kicker,09/14/2015,Minnesota,Q.Patton,WR,1-2015
+SF-2015-6,SF,Illegal Block Above the Waist,09/14/2015,Minnesota,K.Reaser,CB,1-2015
+SF-2015-7,SF,Illegal Block Above the Waist,09/14/2015,Minnesota,N.Bellore,LB,1-2015
+SF-2015-8,SF,Defensive Holding,09/14/2015,Minnesota,A.Brooks,OLB,1-2015
+SF-2015-9,SF,Offensive Holding,09/14/2015,Minnesota,J.Devey,T,1-2015
+SF-2015-10,SF,Defensive Offside,09/20/2015,Pittsburgh,Q.Dial,NT,2-2015
+SF-2015-11,SF,Defensive Holding,09/20/2015,Pittsburgh,N.Bowman,ILB,2-2015
+SF-2015-12,SF,Offensive Holding,09/20/2015,Pittsburgh,E.Pears,T,2-2015
+SF-2015-13,SF,Neutral Zone Infraction,09/20/2015,Pittsburgh,A.Brooks,OLB,2-2015
+SF-2015-14,SF,Clipping,09/20/2015,Pittsburgh,E.Pears,T,2-2015
+SF-2015-15,SF,False Start,09/20/2015,Pittsburgh,E.Pears,T,2-2015
+SF-2015-16,SF,Delay of Game,09/20/2015,Pittsburgh,C.Kaepernick,QB,2-2015
+SF-2015-17,SF,Defensive Offside,09/20/2015,Pittsburgh,A.Brooks,OLB,2-2015
+SF-2015-18,SF,Offensive Holding,09/27/2015,Arizona,M.Martin,FS,3-2015
+SF-2015-19,SF,False Start,09/27/2015,Arizona,J.Staley,T,3-2015
+SF-2015-20,SF,Illegal Use of Hands,09/27/2015,Arizona,K.Acker,CB,3-2015
+SF-2015-21,SF,Face Mask (15 Yards),09/27/2015,Arizona,A.Bethea,SS,3-2015
+SF-2015-22,SF,Illegal Contact,09/27/2015,Arizona,N.Bowman,ILB,3-2015
+SF-2015-23,SF,Defensive Offside,09/27/2015,Arizona,T.Jerod,DE,3-2015
+SF-2015-24,SF,Unsportsmanlike Conduct,09/27/2015,Arizona,Q.Patton,WR,3-2015
+SF-2015-25,SF,Offensive Holding,09/27/2015,Arizona,J.Devey,T,3-2015
+SF-2015-26,SF,Unsportsmanlike Conduct,09/27/2015,Arizona,N.Bowman,ILB,3-2015
+SF-2015-27,SF,Illegal Contact,10/04/2015,Green Bay,M.Wilhoite,ILB,4-2015
+SF-2015-28,SF,False Start,10/04/2015,Green Bay,C.Kaepernick,QB,4-2015
+SF-2015-29,SF,Offensive Holding,10/04/2015,Green Bay,E.Pears,T,4-2015
+SF-2015-30,SF,Offensive Holding,10/04/2015,Green Bay,V.McDonald,TE,4-2015
+SF-2015-31,SF,Defensive Offside,10/11/2015,N.Y. Giants,J.Tartt,SS,5-2015
+SF-2015-32,SF,Offensive Holding,10/11/2015,N.Y. Giants,A.Boone,G,5-2015
+SF-2015-33,SF,Defensive Pass Interference,10/11/2015,N.Y. Giants,K.Acker,CB,5-2015
+SF-2015-34,SF,Offside on Free Kick,10/18/2015,Baltimore,S.Skov,ILB,6-2015
+SF-2015-35,SF,False Start,10/18/2015,Baltimore,G.Celek,TE,6-2015
+SF-2015-36,SF,Offensive Holding,10/18/2015,Baltimore,M.Martin,FS,6-2015
+SF-2015-37,SF,Illegal Contact,10/18/2015,Baltimore,M.Wilhoite,ILB,6-2015
+SF-2015-38,SF,Delay of Game,10/22/2015,Seattle,C.Kaepernick,QB,7-2015
+SF-2015-39,SF,Face Mask (15 Yards),10/22/2015,Seattle,A.Bethea,SS,7-2015
+SF-2015-40,SF,Offensive Pass Interference,10/22/2015,Seattle,T.Smith,WR,7-2015
+SF-2015-41,SF,Offensive Holding,10/22/2015,Seattle,A.Boone,G,7-2015
+SF-2015-42,SF,Unsportsmanlike Conduct,10/22/2015,Seattle,Q.Patton,WR,7-2015
+SF-2015-43,SF,Offensive Holding,10/22/2015,Seattle,A.Boone,G,7-2015
+SF-2015-44,SF,Defensive Offside,11/01/2015,St. Louis,A.Brooks,OLB,8-2015
+SF-2015-45,SF,Illegal Block Above the Waist,11/01/2015,St. Louis,B.Miller,FB,8-2015
+SF-2015-46,SF,Illegal Block Above the Waist,11/01/2015,St. Louis,J.Ward,SS,8-2015
+SF-2015-47,SF,False Start,11/01/2015,St. Louis,A.Tiller,G,8-2015
+SF-2015-48,SF,Offensive Holding,11/01/2015,St. Louis,E.Reid,FS,8-2015
+SF-2015-49,SF,Offensive Holding,11/01/2015,St. Louis,E.Reid,FS,8-2015
+SF-2015-50,SF,Offensive Holding,11/01/2015,St. Louis,B.Miller,FB,8-2015
+SF-2015-51,SF,Ineligible Downfield Kick,11/01/2015,St. Louis,B.Miller,FB,8-2015
+SF-2015-52,SF,Unnecessary Roughness,11/01/2015,St. Louis,T.Brock,CB,8-2015
+SF-2015-53,SF,Illegal Use of Hands,11/01/2015,St. Louis,E.Harold,OLB,8-2015
+SF-2015-54,SF,Face Mask (15 Yards),11/01/2015,St. Louis,A.Brooks,OLB,8-2015
+SF-2015-55,SF,Face Mask (15 Yards),11/01/2015,St. Louis,A.Brooks,OLB,8-2015
+SF-2015-56,SF,Offensive Holding,11/01/2015,St. Louis,E.Harold,OLB,8-2015
+SF-2015-57,SF,Illegal Motion,11/01/2015,St. Louis,J.Simpson,WR,8-2015
+SF-2015-58,SF,False Start,11/08/2015,Atlanta,M.Martin,FS,9-2015
+SF-2015-59,SF,Defensive Offside,11/08/2015,Atlanta,A.Lynch,OLB,9-2015
+SF-2015-60,SF,Offensive Holding,11/08/2015,Atlanta,E.Pears,T,9-2015
+SF-2015-61,SF,Defensive Offside,11/08/2015,Atlanta,A.Brooks,OLB,9-2015
+SF-2015-62,SF,False Start,11/22/2015,Seattle,M.Martin,FS,11-2015
+SF-2015-63,SF,Illegal Block Above the Waist,11/22/2015,Seattle,J.Ward,SS,11-2015
+SF-2015-64,SF,Unnecessary Roughness,11/22/2015,Seattle,Q.Patton,WR,11-2015
+SF-2015-65,SF,Offensive Holding,11/22/2015,Seattle,A.Tiller,G,11-2015
+SF-2015-66,SF,False Start,11/22/2015,Seattle,E.Pears,T,11-2015
+SF-2015-67,SF,Defensive Holding,11/22/2015,Seattle,J.Ward,SS,11-2015
+SF-2015-68,SF,False Start,11/29/2015,Arizona,T.Smith,WR,12-2015
+SF-2015-69,SF,Offensive Holding,11/29/2015,Arizona,A.Boldin,WR,12-2015
+SF-2015-70,SF,False Start,11/29/2015,Arizona,T.Smith,WR,12-2015
+SF-2015-71,SF,Defensive Offside,11/29/2015,Arizona,E.Harold,OLB,12-2015
+SF-2015-72,SF,Defensive Pass Interference,11/29/2015,Arizona,J.Ward,SS,12-2015
+SF-2015-73,SF,Illegal Use of Hands,11/29/2015,Arizona,T.Brock,CB,12-2015
+SF-2015-74,SF,Defensive Pass Interference,11/29/2015,Arizona,E.Reid,FS,12-2015
+SF-2015-75,SF,Defensive Pass Interference,11/29/2015,Arizona,M.Wilhoite,ILB,12-2015
+SF-2015-76,SF,Offensive Pass Interference,11/29/2015,Arizona,V.McDonald,TE,12-2015
+,SF,Illegal Use of Hands,11/29/2015,Arizona,C.Carradine,12-2015,SF-2015-77
+SF-2015-78,SF,Illegal Contact,11/29/2015,Arizona,J.Ward,SS,12-2015
+SF-2015-79,SF,Roughing the Passer,11/29/2015,Arizona,Q.Dial,NT,12-2015
+SF-2015-80,SF,Offensive Holding,12/06/2015,Chicago,T.Jerod,DE,13-2015
+SF-2015-81,SF,Offensive Holding,12/06/2015,Chicago,E.Pears,T,13-2015
+SF-2015-82,SF,Unnecessary Roughness,12/06/2015,Chicago,R.Armstrong,OLB,13-2015
+SF-2015-83,SF,Neutral Zone Infraction,12/06/2015,Chicago,A.Brooks,OLB,13-2015
+SF-2015-84,SF,False Start,12/06/2015,Chicago,A.Tiller,G,13-2015
+SF-2015-85,SF,Offensive Holding,12/13/2015,Cleveland,E.Pears,T,14-2015
+SF-2015-86,SF,Face Mask (15 Yards),12/13/2015,Cleveland,C.Lemonier,OLB,14-2015
+SF-2015-87,SF,Defensive Pass Interference,12/13/2015,Cleveland,G.Hodges,MLB,14-2015
+SF-2015-88,SF,Illegal Motion,12/13/2015,Cleveland,Q.Patton,WR,14-2015
+SF-2015-89,SF,Defensive Holding,12/13/2015,Cleveland,M.Cromartie,DB,14-2015
+SF-2015-90,SF,Unsportsmanlike Conduct,12/13/2015,Cleveland,A.Brooks,OLB,14-2015
+SF-2015-91,SF,Offensive Holding,12/20/2015,Cincinnati,R.Armstrong,OLB,15-2015
+SF-2015-92,SF,Unnecessary Roughness,12/20/2015,Cincinnati,S.Draughn,RB,15-2015
+SF-2015-93,SF,False Start,12/20/2015,Cincinnati,Q.Patton,WR,15-2015
+SF-2015-94,SF,False Start,12/20/2015,Cincinnati,T.Smith,WR,15-2015
+SF-2015-95,SF,Offensive Holding,12/20/2015,Cincinnati,E.Pears,T,15-2015
+SF-2015-96,SF,Neutral Zone Infraction,12/20/2015,Cincinnati,I.Williams,NT,15-2015
+SF-2015-97,SF,Defensive Pass Interference,12/20/2015,Cincinnati,N.Bowman,ILB,15-2015
+SF-2015-98,SF,Unnecessary Roughness,12/20/2015,Cincinnati,C.Lemonier,OLB,15-2015
+SF-2015-99,SF,Offensive Holding,12/20/2015,Cincinnati,M.Martin,FS,15-2015
+SF-2015-100,SF,Offensive Holding,12/20/2015,Cincinnati,E.Pears,T,15-2015
+SF-2015-101,SF,Offensive Holding,12/20/2015,Cincinnati,E.Pears,T,15-2015
+SF-2015-102,SF,Illegal Motion,12/27/2015,Detroit,B.Bell,TE,16-2015
+SF-2015-103,SF,Defensive Offside,12/27/2015,Detroit,A.Brooks,OLB,16-2015
+SF-2015-104,SF,Neutral Zone Infraction,12/27/2015,Detroit,G.Hodges,MLB,16-2015
+SF-2015-105,SF,Offensive Pass Interference,12/27/2015,Detroit,Q.Patton,WR,16-2015
+SF-2015-106,SF,Neutral Zone Infraction,12/27/2015,Detroit,J.Ward,SS,16-2015
+SF-2015-107,SF,Offensive Holding,12/27/2015,Detroit,R.Armstrong,OLB,16-2015
+SF-2015-108,SF,Offensive Holding,12/27/2015,Detroit,K.Acker,CB,16-2015
+SF-2015-109,SF,Neutral Zone Infraction,12/27/2015,Detroit,A.Armstead,DE,16-2015
+SF-2015-110,SF,Neutral Zone Infraction,12/27/2015,Detroit,T.Jerod,DE,16-2015
+SF-2015-111,SF,Defensive Offside,12/27/2015,Detroit,A.Lynch,OLB,16-2015
+SF-2015-112,SF,Neutral Zone Infraction,12/27/2015,Detroit,E.Harold,OLB,16-2015
+SF-2015-113,SF,Defensive Pass Interference,12/27/2015,Detroit,T.Brock,CB,16-2015
+SF-2015-114,SF,Unnecessary Roughness,01/03/2016,St. Louis,B.Miller,FB,17-2015
+SF-2015-115,SF,Illegal Formation,01/03/2016,St. Louis,J.Staley,T,17-2015
+SF-2015-116,SF,Unnecessary Roughness,01/03/2016,St. Louis,A.Brooks,OLB,17-2015
+SF-2015-117,SF,False Start,01/03/2016,St. Louis,K.Acker,CB,17-2015
+SF-2015-118,SF,Defensive Offside,01/03/2016,St. Louis,I.Williams,NT,17-2015
+SF-2015-119,SF,Offensive Holding,01/03/2016,St. Louis,A.Tiller,G,17-2015
+SF-2015-120,SF,Unsportsmanlike Conduct,01/03/2016,St. Louis,B.Ellington,WR,17-2015
+SF-2015-121,SF,False Start,01/03/2016,St. Louis,A.Tiller,G,17-2015

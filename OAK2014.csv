@@ -1,0 +1,126 @@
+team,penalty,game,opponent,player,position,week,year,penaltyindex
+OAK,Delay of Game,09/07/2014,N.Y. Jets,D.Carr,QB,1,2014,OAK-2014-0
+OAK,Defensive Holding,09/07/2014,N.Y. Jets,C.Woodson,FS,1,2014,OAK-2014-1
+OAK,Offensive Holding,09/07/2014,N.Y. Jets,T.Branch,DB,1,2014,OAK-2014-2
+OAK,False Start,09/07/2014,N.Y. Jets,J.Jones,WR,1,2014,OAK-2014-3
+OAK,False Start,09/07/2014,N.Y. Jets,K.Barnes,T,1,2014,OAK-2014-4
+OAK,Defensive Pass Interference,09/14/2014,Houston,C.Chekwa,DB,2,2014,OAK-2014-5
+OAK,Defensive Offside,09/14/2014,Houston,A.Smith,DE,2,2014,OAK-2014-6
+OAK,Offensive Holding,09/14/2014,Houston,D.McFadden,RB,2,2014,OAK-2014-7
+OAK,Unsportsmanlike Conduct,09/14/2014,Houston,S.Moore,LB,2,2014,OAK-2014-8
+OAK,Defensive Holding,09/14/2014,Houston,T.Brown,DB,2,2014,OAK-2014-9
+OAK,Offensive Holding,09/14/2014,Houston,S.Wisniewski,C,2,2014,OAK-2014-10
+OAK,Illegal Use of Hands,09/14/2014,Houston,G.Jackson,DT,2,2014,OAK-2014-11
+OAK,Delay of Game,09/14/2014,Houston,D.Carr,QB,2,2014,OAK-2014-12
+OAK,Illegal Block Above the Waist,09/21/2014,New England,N.Thorpe,DB,3,2014,OAK-2014-13
+OAK,Offensive Holding,09/21/2014,New England,M.Watson,T,3,2014,OAK-2014-14
+OAK,Illegal Substitution,09/21/2014,New England,M.Watson,T,3,2014,OAK-2014-15
+OAK,False Start,09/21/2014,New England,B.Mayowa,DE,3,2014,OAK-2014-16
+OAK,Defensive Pass Interference,09/21/2014,New England,T.Brown,DB,3,2014,OAK-2014-17
+OAK,False Start,09/21/2014,New England,D.Penn,T,3,2014,OAK-2014-18
+OAK,Offensive Holding,09/21/2014,New England,G.Jackson,DT,3,2014,OAK-2014-19
+OAK,Personal Foul,09/28/2014,Miami,A.Howard,T,4,2014,OAK-2014-20
+OAK,Encroachment,09/28/2014,Miami,A.Smith,DE,4,2014,OAK-2014-21
+OAK,Intentional Grounding,09/28/2014,Miami,D.Carr,QB,4,2014,OAK-2014-22
+OAK,Offensive Holding,09/28/2014,Miami,M.Watson,T,4,2014,OAK-2014-23
+OAK,Defensive Holding,09/28/2014,Miami,C.Chekwa,DB,4,2014,OAK-2014-24
+OAK,False Start,09/28/2014,Miami,G.Jackson,DT,4,2014,OAK-2014-25
+OAK,False Start,09/28/2014,Miami,S.Wisniewski,C,4,2014,OAK-2014-26
+OAK,Encroachment,09/28/2014,Miami,P.Sims,DT,4,2014,OAK-2014-27
+OAK,Neutral Zone Infraction,10/12/2014,San Diego,K.Mack,DE,6,2014,OAK-2014-28
+OAK,Defensive Holding,10/12/2014,San Diego,T.Brown,DB,6,2014,OAK-2014-29
+OAK,Defensive Pass Interference,10/12/2014,San Diego,T.Carrie,CB,6,2014,OAK-2014-30
+OAK,Defensive Offside,10/12/2014,San Diego,S.McGee,DT,6,2014,OAK-2014-31
+OAK,Offensive Holding,10/12/2014,San Diego,M.Watson,T,6,2014,OAK-2014-32
+OAK,Offensive Pass Interference,10/12/2014,San Diego,J.Jones,WR,6,2014,OAK-2014-33
+OAK,False Start,10/12/2014,San Diego,J.Jones,WR,6,2014,OAK-2014-34
+OAK,Illegal Use of Hands,10/12/2014,San Diego,G.Jackson,DT,6,2014,OAK-2014-35
+OAK,Intentional Grounding,10/12/2014,San Diego,D.Carr,QB,6,2014,OAK-2014-36
+OAK,Defensive Offside,10/12/2014,San Diego,C.Rogers,CB,6,2014,OAK-2014-37
+OAK,Illegal Contact,10/19/2014,Arizona,T.Carrie,CB,7,2014,OAK-2014-38
+OAK,Illegal Block Above the Waist,10/19/2014,Arizona,B.Butler,WR,7,2014,OAK-2014-39
+OAK,Illegal Contact,10/19/2014,Arizona,T.Brown,DB,7,2014,OAK-2014-40
+OAK,Defensive Pass Interference,10/19/2014,Arizona,M.Burris,MLB,7,2014,OAK-2014-41
+OAK,Roughing the Passer,10/19/2014,Arizona,S.Moore,LB,7,2014,OAK-2014-42
+OAK,Illegal Motion,10/19/2014,Arizona,J.Jones,WR,7,2014,OAK-2014-43
+OAK,Offensive Holding,10/19/2014,Arizona,L.Murray,RB,7,2014,OAK-2014-44
+OAK,Defensive Holding,10/26/2014,Cleveland,C.Rogers,CB,8,2014,OAK-2014-45
+OAK,Offensive Pass Interference,10/26/2014,Cleveland,M.Rivera,TE,8,2014,OAK-2014-46
+OAK,Unnecessary Roughness,10/26/2014,Cleveland,B.Ross,SS,8,2014,OAK-2014-47
+OAK,False Start,10/26/2014,Cleveland,J.Jones,WR,8,2014,OAK-2014-48
+OAK,Offensive Holding,10/26/2014,Cleveland,A.Howard,T,8,2014,OAK-2014-49
+OAK,Offensive Pass Interference,10/26/2014,Cleveland,A.Holmes,WR,8,2014,OAK-2014-50
+OAK,False Start,10/26/2014,Cleveland,M.Watson,T,8,2014,OAK-2014-51
+OAK,Illegal Use of Hands,10/26/2014,Cleveland,M.Watson,T,8,2014,OAK-2014-52
+OAK,Defensive Pass Interference,11/02/2014,Seattle,D.Hayden,CB,9,2014,OAK-2014-53
+OAK,Face Mask (15 Yards),11/02/2014,Seattle,J.Ellis,DT,9,2014,OAK-2014-54
+OAK,Offensive Holding,11/02/2014,Seattle,L.Asante,DB,9,2014,OAK-2014-55
+OAK,Taunting,11/02/2014,Seattle,D.Hayden,CB,9,2014,OAK-2014-56
+OAK,Defensive Holding,11/02/2014,Seattle,T.Brown,DB,9,2014,OAK-2014-57
+OAK,Defensive Holding,11/09/2014,Denver,B.Ross,SS,10,2014,OAK-2014-58
+OAK,Defensive Pass Interference,11/09/2014,Denver,T.Brown,DB,10,2014,OAK-2014-59
+OAK,Unnecessary Roughness,11/09/2014,Denver,R.Armstrong,OLB,10,2014,OAK-2014-60
+OAK,Illegal Touch Pass,11/09/2014,Denver,K.Barnes,T,10,2014,OAK-2014-61
+OAK,Illegal Block Above the Waist,11/09/2014,Denver,R.Armstrong,OLB,10,2014,OAK-2014-62
+OAK,Illegal Motion,11/16/2014,San Diego,D.Carr,QB,11,2014,OAK-2014-63
+OAK,Defensive Offside,11/16/2014,San Diego,A.Smith,DE,11,2014,OAK-2014-64
+OAK,Defensive Offside,11/16/2014,San Diego,J.Tuck,DE,11,2014,OAK-2014-65
+OAK,Offensive Holding,11/16/2014,San Diego,K.McGill,CB,11,2014,OAK-2014-66
+OAK,Neutral Zone Infraction,11/16/2014,San Diego,K.Mack,DE,11,2014,OAK-2014-67
+OAK,Offensive Holding,11/16/2014,San Diego,J.Chaney,LB,11,2014,OAK-2014-68
+OAK,Offensive Pass Interference,11/16/2014,San Diego,A.Holmes,WR,11,2014,OAK-2014-69
+OAK,Offensive Pass Interference,11/16/2014,San Diego,D.McFadden,RB,11,2014,OAK-2014-70
+OAK,Neutral Zone Infraction,11/16/2014,San Diego,B.Mayowa,DE,11,2014,OAK-2014-71
+OAK,Illegal Shift,11/16/2014,San Diego,B.Leonhardt,TE,11,2014,OAK-2014-72
+OAK,Offensive Holding,11/16/2014,San Diego,S.Wisniewski,C,11,2014,OAK-2014-73
+OAK,Offensive Holding,11/20/2014,Kansas City,J.Chaney,LB,12,2014,OAK-2014-74
+OAK,Running Into the Kicker,11/20/2014,Kansas City,R.Armstrong,OLB,12,2014,OAK-2014-75
+OAK,Offensive Holding,11/20/2014,Kansas City,S.Wisniewski,C,12,2014,OAK-2014-76
+OAK,Offensive Holding,11/20/2014,Kansas City,K.McGill,CB,12,2014,OAK-2014-77
+OAK,Offensive Holding,11/20/2014,Kansas City,J.Chaney,LB,12,2014,OAK-2014-78
+OAK,Offensive Holding,11/20/2014,Kansas City,M.Watson,T,12,2014,OAK-2014-79
+OAK,Illegal Use of Hands,11/20/2014,Kansas City,B.Mayowa,DE,12,2014,OAK-2014-80
+OAK,Defensive Holding,11/20/2014,Kansas City,C.Woodson,FS,12,2014,OAK-2014-81
+OAK,Defensive Holding,11/20/2014,Kansas City,D.Hayden,CB,12,2014,OAK-2014-82
+OAK,Encroachment,11/30/2014,St. Louis,A.Smith,DE,13,2014,OAK-2014-83
+OAK,False Start,11/30/2014,St. Louis,M.Reece,FB,13,2014,OAK-2014-84
+OAK,Encroachment,11/30/2014,St. Louis,P.Sims,DT,13,2014,OAK-2014-85
+OAK,False Start,11/30/2014,St. Louis,M.Rivera,TE,13,2014,OAK-2014-86
+OAK,Illegal Block Above the Waist,11/30/2014,St. Louis,K.Thompkins,WR,13,2014,OAK-2014-87
+OAK,Defensive Holding,11/30/2014,St. Louis,D.Hayden,CB,13,2014,OAK-2014-88
+OAK,Illegal Block Above the Waist,11/30/2014,St. Louis,G.Atkinson,RB,13,2014,OAK-2014-89
+OAK,Offensive Pass Interference,11/30/2014,St. Louis,M.Reece,FB,13,2014,OAK-2014-90
+OAK,Defensive Pass Interference,11/30/2014,St. Louis,T.Carrie,CB,13,2014,OAK-2014-91
+OAK,Unnecessary Roughness,12/07/2014,San Francisco,A.Howard,T,14,2014,OAK-2014-92
+OAK,Offensive Pass Interference,12/07/2014,San Francisco,A.Holmes,WR,14,2014,OAK-2014-93
+OAK,False Start,12/07/2014,San Francisco,M.Reece,FB,14,2014,OAK-2014-94
+OAK,Defensive Pass Interference,12/07/2014,San Francisco,T.Brown,DB,14,2014,OAK-2014-95
+OAK,Defensive Holding,12/07/2014,San Francisco,D.Hayden,CB,14,2014,OAK-2014-96
+OAK,False Start,12/07/2014,San Francisco,D.Carr,QB,14,2014,OAK-2014-97
+OAK,Offensive Holding,12/07/2014,San Francisco,K.McGill,CB,14,2014,OAK-2014-98
+OAK,Offensive Pass Interference,12/07/2014,San Francisco,L.Murray,RB,14,2014,OAK-2014-99
+OAK,Delay of Game,12/07/2014,San Francisco,D.Carr,QB,14,2014,OAK-2014-100
+OAK,Illegal Use of Hands,12/14/2014,Kansas City,R.Armstrong,OLB,15,2014,OAK-2014-101
+OAK,False Start,12/14/2014,Kansas City,K.Barnes,T,15,2014,OAK-2014-102
+OAK,Delay of Game,12/14/2014,Kansas City,D.Carr,QB,15,2014,OAK-2014-103
+OAK,Illegal Block Above the Waist,12/14/2014,Kansas City,B.Filimoeatu,LB,15,2014,OAK-2014-104
+OAK,Defensive Holding,12/14/2014,Kansas City,M.Burris,MLB,15,2014,OAK-2014-105
+OAK,False Start,12/14/2014,Kansas City,K.Barnes,T,15,2014,OAK-2014-106
+OAK,Defensive Holding,12/14/2014,Kansas City,J.Tuck,DE,15,2014,OAK-2014-107
+OAK,Offensive Holding,12/14/2014,Kansas City,D.Penn,T,15,2014,OAK-2014-108
+OAK,Roughing the Passer,12/14/2014,Kansas City,J.Tuck,DE,15,2014,OAK-2014-109
+OAK,Defensive Offside,12/14/2014,Kansas City,A.Smith,DE,15,2014,OAK-2014-110
+OAK,Offensive Pass Interference,12/14/2014,Kansas City,M.Rivera,TE,15,2014,OAK-2014-111
+OAK,Defensive Holding,12/21/2014,Buffalo,T.Carrie,CB,16,2014,OAK-2014-112
+OAK,Defensive Holding,12/21/2014,Buffalo,J.Tuck,DE,16,2014,OAK-2014-113
+OAK,Offensive Holding,12/21/2014,Buffalo,S.Wisniewski,C,16,2014,OAK-2014-114
+OAK,Unsportsmanlike Conduct,12/21/2014,Buffalo,J.Tuck,DE,16,2014,OAK-2014-115
+OAK,Defensive Holding,12/28/2014,Denver,R.Armstrong,OLB,17,2014,OAK-2014-116
+OAK,Delay of Game,12/28/2014,Denver,M.King,P,17,2014,OAK-2014-117
+OAK,False Start,12/28/2014,Denver,M.Rivera,TE,17,2014,OAK-2014-118
+OAK,False Start,12/28/2014,Denver,M.Reece,FB,17,2014,OAK-2014-119
+OAK,Defensive Holding,12/28/2014,Denver,M.Burris,MLB,17,2014,OAK-2014-120
+OAK,False Start,12/28/2014,Denver,S.Wisniewski,C,17,2014,OAK-2014-121
+OAK,Defensive Pass Interference,12/28/2014,Denver,D.Hayden,CB,17,2014,OAK-2014-122
+OAK,Offensive Holding,12/28/2014,Denver,S.Wisniewski,C,17,2014,OAK-2014-123
+OAK,Illegal Block Above the Waist,12/28/2014,Denver,D.Autry,DE,17,2014,OAK-2014-124

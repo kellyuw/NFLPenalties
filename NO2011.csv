@@ -1,0 +1,110 @@
+team,penalty,game,opponent,player,position,week,year,penaltyindex
+NO,Offside on Free Kick,09/08/2011,Green Bay,J.Dunbar,OLB,1,2011,NO-2011-0
+NO,Illegal Shift,09/08/2011,Green Bay,M.Colston,WR,1,2011,NO-2011-1
+NO,Neutral Zone Infraction,09/08/2011,Green Bay,J.Galette,DE,1,2011,NO-2011-2
+NO,Offensive Holding,09/08/2011,Green Bay,J.Evans,G,1,2011,NO-2011-3
+NO,Defensive Pass Interference,09/08/2011,Green Bay,J.Greer,CB,1,2011,NO-2011-4
+NO,Defensive Holding,09/18/2011,Chicago,S.Shanle,OLB,2,2011,NO-2011-5
+NO,Roughing the Passer,09/18/2011,Chicago,R.Harper,SS,2,2011,NO-2011-6
+NO,False Start,09/18/2011,Chicago,J.Gilmore,TE,2,2011,NO-2011-7
+NO,False Start,09/18/2011,Chicago,B.De La Puente,C,2,2011,NO-2011-8
+NO,Offensive Holding,09/18/2011,Chicago,C.Nicks,G,2,2011,NO-2011-9
+NO,False Start,09/18/2011,Chicago,Z.Strief,T,2,2011,NO-2011-10
+NO,False Start,09/25/2011,Houston,J.Gilmore,TE,3,2011,NO-2011-11
+NO,Face Mask (15 Yards),09/25/2011,Houston,O.Kreutz,C,3,2011,NO-2011-12
+NO,Illegal Block Above the Waist,09/25/2011,Houston,D.Thomas,TE,3,2011,NO-2011-13
+NO,Encroachment,09/25/2011,Houston,C.Jordan,DE,3,2011,NO-2011-14
+NO,Defensive Holding,09/25/2011,Houston,R.Harper,SS,3,2011,NO-2011-15
+NO,Illegal Block Above the Waist,09/25/2011,Houston,J.Greer,CB,3,2011,NO-2011-16
+NO,Defensive Pass Interference,10/02/2011,Jacksonville,J.Greer,CB,4,2011,NO-2011-17
+NO,Face Mask (15 Yards),10/02/2011,Jacksonville,S.Shanle,OLB,4,2011,NO-2011-18
+NO,Defensive Holding,10/02/2011,Jacksonville,S.Shanle,OLB,4,2011,NO-2011-19
+NO,Unnecessary Roughness,10/02/2011,Jacksonville,J.Casillas,LB,4,2011,NO-2011-20
+NO,Delay of Game,10/02/2011,Jacksonville,D.Brees,QB,4,2011,NO-2011-21
+NO,Personal Foul,10/09/2011,Carolina,R.Harper,SS,5,2011,NO-2011-22
+NO,Offensive Holding,10/09/2011,Carolina,M.Jenkins,FS,5,2011,NO-2011-23
+NO,False Start,10/09/2011,Carolina,J.Evans,G,5,2011,NO-2011-24
+NO,False Start,10/09/2011,Carolina,C.Brown,T,5,2011,NO-2011-25
+NO,Unsportsmanlike Conduct,10/09/2011,Carolina,M.Ingram,RB,5,2011,NO-2011-26
+NO,Roughing the Passer,10/09/2011,Carolina,T.McBride,DE,5,2011,NO-2011-27
+NO,Neutral Zone Infraction,10/09/2011,Carolina,J.Dunbar,OLB,5,2011,NO-2011-28
+NO,Roughing the Passer,10/09/2011,Carolina,S.Rogers,DT,5,2011,NO-2011-29
+NO,Defensive Pass Interference,10/09/2011,Carolina,R.Harper,SS,5,2011,NO-2011-30
+NO,Defensive Pass Interference,10/16/2011,Tampa Bay,R.Harper,SS,6,2011,NO-2011-31
+NO,Defensive Offside,10/16/2011,Tampa Bay,A.Franklin,NT,6,2011,NO-2011-32
+NO,Illegal Formation,10/16/2011,Tampa Bay,C.Brown,T,6,2011,NO-2011-33
+NO,False Start,10/16/2011,Tampa Bay,C.Brown,T,6,2011,NO-2011-34
+NO,False Start,10/16/2011,Tampa Bay,O.Kreutz,C,6,2011,NO-2011-35
+NO,Unnecessary Roughness,10/16/2011,Tampa Bay,M.Jenkins,FS,6,2011,NO-2011-36
+NO,Offensive Holding,10/23/2011,Indianapolis,J.Evans,G,7,2011,NO-2011-37
+NO,Illegal Use of Hands,10/30/2011,St. Louis,J.Galette,DE,8,2011,NO-2011-38
+NO,Defensive Holding,10/30/2011,St. Louis,P.Robinson,DB,8,2011,NO-2011-39
+NO,Illegal Use of Hands,10/30/2011,St. Louis,J.Galette,DE,8,2011,NO-2011-40
+NO,False Start,10/30/2011,St. Louis,C.Brown,T,8,2011,NO-2011-41
+NO,False Start,10/30/2011,St. Louis,R.Meachem,WR,8,2011,NO-2011-42
+NO,Unsportsmanlike Conduct,10/30/2011,St. Louis,C.Brown,T,8,2011,NO-2011-43
+NO,Illegal Formation,11/06/2011,Tampa Bay,J.Graham,TE,9,2011,NO-2011-44
+NO,False Start,11/06/2011,Tampa Bay,J.Bushrod,T,9,2011,NO-2011-45
+NO,Defensive Delay of Game,11/06/2011,Tampa Bay,P.Robinson,DB,9,2011,NO-2011-46
+NO,Encroachment,11/06/2011,Tampa Bay,W.Smith,DE,9,2011,NO-2011-47
+NO,Defensive Pass Interference,11/06/2011,Tampa Bay,M.Jenkins,FS,9,2011,NO-2011-48
+NO,Illegal Use of Hands,11/06/2011,Tampa Bay,L.Torrence,DB,9,2011,NO-2011-49
+NO,Defensive Pass Interference,11/06/2011,Tampa Bay,L.Torrence,DB,9,2011,NO-2011-50
+NO,Offensive Holding,11/06/2011,Tampa Bay,D.Henderson,WR,9,2011,NO-2011-51
+NO,Defensive Pass Interference,11/13/2011,Atlanta,T.Porter,DB,10,2011,NO-2011-52
+NO,Offensive Holding,11/13/2011,Atlanta,C.Roby,WR,10,2011,NO-2011-53
+NO,Illegal Use of Hands,11/13/2011,Atlanta,J.Greer,CB,10,2011,NO-2011-54
+NO,Offensive Holding,11/13/2011,Atlanta,J.Bushrod,T,10,2011,NO-2011-55
+NO,Unnecessary Roughness,11/13/2011,Atlanta,J.Dunbar,OLB,10,2011,NO-2011-56
+NO,Offensive Holding,11/13/2011,Atlanta,J.Graham,TE,10,2011,NO-2011-57
+NO,Defensive Pass Interference,11/13/2011,Atlanta,T.Porter,DB,10,2011,NO-2011-58
+NO,False Start,11/28/2011,N.Y. Giants,J.Bushrod,T,12,2011,NO-2011-59
+NO,Delay of Game,11/28/2011,N.Y. Giants,D.Brees,QB,12,2011,NO-2011-60
+NO,Offensive Pass Interference,11/28/2011,N.Y. Giants,J.Graham,TE,12,2011,NO-2011-61
+NO,Defensive Holding,11/28/2011,N.Y. Giants,T.Johnson,DT,12,2011,NO-2011-62
+NO,Roughing the Passer,11/28/2011,N.Y. Giants,W.Smith,DE,12,2011,NO-2011-63
+NO,Unnecessary Roughness,11/28/2011,N.Y. Giants,T.Porter,DB,12,2011,NO-2011-64
+NO,Personal Foul,11/28/2011,N.Y. Giants,I.Abdul,SS,12,2011,NO-2011-65
+NO,False Start,11/28/2011,N.Y. Giants,J.Graham,TE,12,2011,NO-2011-66
+NO,Taunting,11/28/2011,N.Y. Giants,C.Roby,WR,12,2011,NO-2011-67
+NO,Defensive Offside,11/28/2011,N.Y. Giants,P.Robinson,DB,12,2011,NO-2011-68
+NO,Unnecessary Roughness,11/28/2011,N.Y. Giants,R.Harper,SS,12,2011,NO-2011-69
+NO,Unnecessary Roughness,12/04/2011,Detroit,J.Greer,CB,13,2011,NO-2011-70
+NO,Illegal Contact,12/04/2011,Detroit,J.Greer,CB,13,2011,NO-2011-71
+NO,Offensive Holding,12/04/2011,Detroit,M.Colston,WR,13,2011,NO-2011-72
+NO,Roughing the Passer,12/04/2011,Detroit,C.Jordan,DE,13,2011,NO-2011-73
+NO,Illegal Formation,12/11/2011,Tennessee,J.Bushrod,T,14,2011,NO-2011-74
+NO,Neutral Zone Infraction,12/11/2011,Tennessee,C.Jordan,DE,14,2011,NO-2011-75
+NO,Offensive Holding,12/11/2011,Tennessee,J.Dunbar,OLB,14,2011,NO-2011-76
+NO,Offensive Holding,12/11/2011,Tennessee,R.Meachem,WR,14,2011,NO-2011-77
+NO,Unnecessary Roughness,12/11/2011,Tennessee,R.Harper,SS,14,2011,NO-2011-78
+NO,False Start,12/11/2011,Tennessee,D.Brees,QB,14,2011,NO-2011-79
+NO,Offensive Holding,12/11/2011,Tennessee,J.Collins,FB,14,2011,NO-2011-80
+NO,Offensive Holding,12/11/2011,Tennessee,J.Bushrod,T,14,2011,NO-2011-81
+NO,Offensive Holding,12/11/2011,Tennessee,S.Shanle,OLB,14,2011,NO-2011-82
+NO,Offensive Holding,12/11/2011,Tennessee,J.Collins,FB,14,2011,NO-2011-83
+NO,Face Mask (15 Yards),12/11/2011,Tennessee,R.Harper,SS,14,2011,NO-2011-84
+NO,Offensive Pass Interference,12/11/2011,Tennessee,J.Collins,FB,14,2011,NO-2011-85
+NO,Offensive Holding,12/18/2011,Minnesota,J.Collins,FB,15,2011,NO-2011-86
+NO,Illegal Shift,12/18/2011,Minnesota,M.Colston,WR,15,2011,NO-2011-87
+NO,Offensive Holding,12/18/2011,Minnesota,C.Nicks,G,15,2011,NO-2011-88
+NO,False Start,12/18/2011,Minnesota,J.Bushrod,T,15,2011,NO-2011-89
+NO,Unnecessary Roughness,12/18/2011,Minnesota,R.Harper,SS,15,2011,NO-2011-90
+NO,Offensive Holding,12/18/2011,Minnesota,J.Collins,FB,15,2011,NO-2011-91
+NO,Face Mask (15 Yards),12/18/2011,Minnesota,B.De La Puente,C,15,2011,NO-2011-92
+NO,Chop Block,12/18/2011,Minnesota,B.De La Puente,C,15,2011,NO-2011-93
+NO,Unsportsmanlike Conduct,12/26/2011,Atlanta,P.Thomas,RB,16,2011,NO-2011-94
+NO,Offensive Holding,12/26/2011,Atlanta,Z.Strief,T,16,2011,NO-2011-95
+NO,Delay of Game,12/26/2011,Atlanta,D.Brees,QB,16,2011,NO-2011-96
+NO,Unnecessary Roughness,12/26/2011,Atlanta,T.Johnson,DT,16,2011,NO-2011-97
+NO,Defensive Holding,01/01/2012,Carolina,R.Humber,ILB,17,2011,NO-2011-98
+NO,Horse Collar Tackle,01/01/2012,Carolina,C.Jordan,DE,17,2011,NO-2011-99
+NO,Offensive Holding,01/01/2012,Carolina,J.Evans,G,17,2011,NO-2011-100
+NO,Unnecessary Roughness,01/01/2012,Carolina,M.Wilson,DE,17,2011,NO-2011-101
+NO,False Start,01/01/2012,Carolina,C.Daniel,QB,17,2011,NO-2011-102
+NO,Defensive Holding,01/01/2012,Carolina,J.Drescher,LS,17,2011,NO-2011-103
+NO,Illegal Block Above the Waist,01/07/2012,Detroit,N.Bussey,LB,18,2011,NO-2011-104
+NO,Defensive Holding,01/07/2012,Detroit,P.Robinson,DB,18,2011,NO-2011-105
+NO,Delay of Game,01/07/2012,Detroit,D.Brees,QB,18,2011,NO-2011-106
+NO,False Start,01/07/2012,Detroit,J.Evans,G,18,2011,NO-2011-107
+NO,Illegal Block Above the Waist,01/14/2012,San Francisco,M.Jenkins,FS,19,2011,NO-2011-108

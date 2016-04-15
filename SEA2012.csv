@@ -1,0 +1,135 @@
+team,penalty,game,opponent,player,position,week,year,penaltyindex
+SEA,Defensive Pass Interference,09/09/2012,Arizona,R.Sherman,CB,1,2012,SEA-2012-0
+SEA,Personal Foul,09/09/2012,Arizona,C.McDonald,DT,1,2012,SEA-2012-1
+SEA,Offensive Holding,09/09/2012,Arizona,M.Lynch,RB,1,2012,SEA-2012-2
+SEA,Delay of Game,09/09/2012,Arizona,R.Wilson,QB,1,2012,SEA-2012-3
+SEA,Face Mask (15 Yards),09/09/2012,Arizona,K.Chancellor,SS,1,2012,SEA-2012-4
+SEA,Offensive Holding,09/09/2012,Arizona,J.Lane,CB,1,2012,SEA-2012-5
+SEA,False Start,09/09/2012,Arizona,R.Okung,T,1,2012,SEA-2012-6
+SEA,Defensive Holding,09/09/2012,Arizona,B.Browner,DB,1,2012,SEA-2012-7
+SEA,Defensive Offside,09/09/2012,Arizona,M.Trufant,CB,1,2012,SEA-2012-8
+SEA,Delay of Game,09/09/2012,Arizona,R.Wilson,QB,1,2012,SEA-2012-9
+SEA,False Start,09/09/2012,Arizona,R.Okung,T,1,2012,SEA-2012-10
+SEA,Intentional Grounding,09/09/2012,Arizona,R.Wilson,QB,1,2012,SEA-2012-11
+SEA,False Start,09/09/2012,Arizona,R.Okung,T,1,2012,SEA-2012-12
+SEA,Defensive Pass Interference,09/09/2012,Arizona,R.Sherman,CB,1,2012,SEA-2012-13
+SEA,False Start,09/16/2012,Dallas,P.McQuistan,G,2,2012,SEA-2012-14
+SEA,Chop Block,09/16/2012,Dallas,J.Sweezy,G,2,2012,SEA-2012-15
+SEA,False Start,09/16/2012,Dallas,B.Giacomini,T,2,2012,SEA-2012-16
+SEA,Delay of Game,09/16/2012,Dallas,R.Wilson,QB,2,2012,SEA-2012-17
+SEA,False Start,09/16/2012,Dallas,F.Omiyale,T,2,2012,SEA-2012-18
+SEA,False Start,09/24/2012,Green Bay,R.Okung,T,3,2012,SEA-2012-19
+SEA,False Start,09/24/2012,Green Bay,A.McCoy,TE,3,2012,SEA-2012-20
+SEA,Defensive Offside,09/24/2012,Green Bay,C.Clemons,DE,3,2012,SEA-2012-21
+SEA,Unnecessary Roughness,09/24/2012,Green Bay,M.Smith,LB,3,2012,SEA-2012-22
+SEA,Offensive Holding,09/24/2012,Green Bay,R.Okung,T,3,2012,SEA-2012-23
+SEA,Offensive Holding,09/24/2012,Green Bay,P.McQuistan,G,3,2012,SEA-2012-24
+SEA,Face Mask (15 Yards),09/24/2012,Green Bay,B.Mebane,DT,3,2012,SEA-2012-25
+SEA,Roughing the Passer,09/24/2012,Green Bay,B.Wagner,MLB,3,2012,SEA-2012-26
+SEA,False Start,09/24/2012,Green Bay,A.McCoy,TE,3,2012,SEA-2012-27
+SEA,Delay of Game,09/24/2012,Green Bay,R.Wilson,QB,3,2012,SEA-2012-28
+SEA,Illegal Use of Hands,09/24/2012,Green Bay,B.Browner,DB,3,2012,SEA-2012-29
+SEA,Defensive Pass Interference,09/24/2012,Green Bay,K.Chancellor,SS,3,2012,SEA-2012-30
+SEA,Unsportsmanlike Conduct,09/24/2012,Green Bay,B.Browner,DB,3,2012,SEA-2012-31
+SEA,Offensive Holding,09/24/2012,Green Bay,R.Okung,T,3,2012,SEA-2012-32
+SEA,Offensive Holding,09/24/2012,Green Bay,B.Obomanu,WR,3,2012,SEA-2012-33
+SEA,Personal Foul,09/30/2012,St. Louis,C.Clemons,DE,4,2012,SEA-2012-34
+SEA,Personal Foul,09/30/2012,St. Louis,B.Giacomini,T,4,2012,SEA-2012-35
+SEA,Neutral Zone Infraction,09/30/2012,St. Louis,J.Jones,DE,4,2012,SEA-2012-36
+SEA,False Start,09/30/2012,St. Louis,B.Giacomini,T,4,2012,SEA-2012-37
+SEA,Illegal Use of Hands,09/30/2012,St. Louis,C.McDonald,DT,4,2012,SEA-2012-38
+SEA,Personal Foul,09/30/2012,St. Louis,B.Giacomini,T,4,2012,SEA-2012-39
+SEA,Offensive Holding,10/07/2012,Carolina,B.Giacomini,T,5,2012,SEA-2012-40
+SEA,Unnecessary Roughness,10/07/2012,Carolina,B.Giacomini,T,5,2012,SEA-2012-41
+SEA,Offensive Holding,10/07/2012,Carolina,R.Okung,T,5,2012,SEA-2012-42
+SEA,Roughing the Passer,10/07/2012,Carolina,C.Clemons,DE,5,2012,SEA-2012-43
+SEA,Defensive Holding,10/07/2012,Carolina,B.Browner,DB,5,2012,SEA-2012-44
+SEA,Offensive Holding,10/07/2012,Carolina,B.Obomanu,WR,5,2012,SEA-2012-45
+SEA,Ineligible Downfield Pass,10/07/2012,Carolina,M.Unger,C,5,2012,SEA-2012-46
+SEA,False Start,10/07/2012,Carolina,J.Carpenter,G,5,2012,SEA-2012-47
+SEA,False Start,10/14/2012,New England,C.Gresham,LS,6,2012,SEA-2012-48
+SEA,False Start,10/14/2012,New England,M.Unger,C,6,2012,SEA-2012-49
+SEA,Offensive Holding,10/14/2012,New England,P.McQuistan,G,6,2012,SEA-2012-50
+SEA,Offensive Holding,10/14/2012,New England,B.Giacomini,T,6,2012,SEA-2012-51
+SEA,Unnecessary Roughness,10/14/2012,New England,J.Jones,DE,6,2012,SEA-2012-52
+SEA,Offensive Holding,10/18/2012,San Francisco,R.Okung,T,7,2012,SEA-2012-53
+SEA,Encroachment,10/18/2012,San Francisco,B.Mebane,DT,7,2012,SEA-2012-54
+SEA,False Start,10/18/2012,San Francisco,R.Okung,T,7,2012,SEA-2012-55
+SEA,Chop Block,10/18/2012,San Francisco,P.McQuistan,G,7,2012,SEA-2012-56
+SEA,Illegal Use of Hands,10/28/2012,Detroit,B.Browner,DB,8,2012,SEA-2012-57
+SEA,Defensive Holding,10/28/2012,Detroit,B.Browner,DB,8,2012,SEA-2012-58
+SEA,Defensive Offside,10/28/2012,Detroit,B.Browner,DB,8,2012,SEA-2012-59
+SEA,False Start,11/04/2012,Minnesota,R.Okung,T,9,2012,SEA-2012-60
+SEA,Defensive Pass Interference,11/04/2012,Minnesota,M.Trufant,CB,9,2012,SEA-2012-61
+SEA,False Start,11/04/2012,Minnesota,B.Giacomini,T,9,2012,SEA-2012-62
+SEA,Unsportsmanlike Conduct,11/04/2012,Minnesota,B.Browner,DB,9,2012,SEA-2012-63
+SEA,Defensive Holding,11/11/2012,N.Y. Jets,B.Browner,DB,10,2012,SEA-2012-64
+SEA,False Start,11/11/2012,N.Y. Jets,J.Lane,CB,10,2012,SEA-2012-65
+SEA,Offensive Holding,11/11/2012,N.Y. Jets,R.Okung,T,10,2012,SEA-2012-66
+SEA,Illegal Motion,11/11/2012,N.Y. Jets,D.Baldwin,WR,10,2012,SEA-2012-67
+SEA,Offensive Holding,11/11/2012,N.Y. Jets,P.McQuistan,G,10,2012,SEA-2012-68
+SEA,Defensive Holding,11/11/2012,N.Y. Jets,R.Bryant,DT,10,2012,SEA-2012-69
+SEA,Offensive Holding,11/11/2012,N.Y. Jets,J.Moffitt,G,10,2012,SEA-2012-70
+SEA,False Start,11/11/2012,N.Y. Jets,B.Edwards,WR,10,2012,SEA-2012-71
+SEA,Encroachment,11/25/2012,Miami,B.Mebane,DT,12,2012,SEA-2012-72
+SEA,Player Out of Bounds on Punt,11/25/2012,Miami,J.Lane,CB,12,2012,SEA-2012-73
+SEA,Illegal Block Above the Waist,11/25/2012,Miami,C.Clemons,DE,12,2012,SEA-2012-74
+SEA,False Start,11/25/2012,Miami,E.Moore,TE,12,2012,SEA-2012-75
+SEA,Delay of Game,11/25/2012,Miami,J.Ryan,P,12,2012,SEA-2012-76
+SEA,Defensive 12 On-field,11/25/2012,Miami,B.Mebane,DT,12,2012,SEA-2012-77
+SEA,Offensive Holding,11/25/2012,Miami,B.Giacomini,T,12,2012,SEA-2012-78
+SEA,False Start,11/25/2012,Miami,J.Moffitt,G,12,2012,SEA-2012-79
+SEA,Roughing the Passer,11/25/2012,Miami,E.Thomas,FS,12,2012,SEA-2012-80
+SEA,Defensive Holding,12/02/2012,Chicago,E.Thomas,FS,13,2012,SEA-2012-81
+SEA,Defensive Delay of Game,12/02/2012,Chicago,K.Wright,OLB,13,2012,SEA-2012-82
+SEA,Low Block,12/02/2012,Chicago,H.Farwell,LB,13,2012,SEA-2012-83
+SEA,False Start,12/02/2012,Chicago,G.Tate,WR,13,2012,SEA-2012-84
+SEA,Illegal Use of Hands,12/02/2012,Chicago,B.Irvin,OLB,13,2012,SEA-2012-85
+SEA,Unnecessary Roughness,12/02/2012,Chicago,A.Branch,NT,13,2012,SEA-2012-86
+SEA,Offensive Holding,12/02/2012,Chicago,B.Giacomini,T,13,2012,SEA-2012-87
+SEA,Delay of Game,12/02/2012,Chicago,R.Wilson,QB,13,2012,SEA-2012-88
+SEA,Unnecessary Roughness,12/09/2012,Arizona,B.Mebane,DT,14,2012,SEA-2012-89
+SEA,Offensive Pass Interference,12/09/2012,Arizona,G.Tate,WR,14,2012,SEA-2012-90
+SEA,Unnecessary Roughness,12/09/2012,Arizona,B.Giacomini,T,14,2012,SEA-2012-91
+SEA,Neutral Zone Infraction,12/09/2012,Arizona,B.Mebane,DT,14,2012,SEA-2012-92
+SEA,Illegal Blindside Block,12/09/2012,Arizona,M.Robinson,FB,14,2012,SEA-2012-93
+SEA,Illegal Block Above the Waist,12/09/2012,Arizona,B.Maxwell,DB,14,2012,SEA-2012-94
+SEA,Taunting,12/09/2012,Arizona,C.McDonald,DT,14,2012,SEA-2012-95
+SEA,Unnecessary Roughness,12/09/2012,Arizona,J.Sweezy,G,14,2012,SEA-2012-96
+SEA,Offensive Holding,12/09/2012,Arizona,J.Moffitt,G,14,2012,SEA-2012-97
+SEA,Offensive Pass Interference,12/09/2012,Arizona,E.Moore,TE,14,2012,SEA-2012-98
+SEA,False Start,12/09/2012,Arizona,E.Moore,TE,14,2012,SEA-2012-99
+SEA,Offensive Holding,12/16/2012,Buffalo,A.McCoy,TE,15,2012,SEA-2012-100
+SEA,False Start,12/16/2012,Buffalo,S.Rice,WR,15,2012,SEA-2012-101
+SEA,Illegal Block Above the Waist,12/16/2012,Buffalo,R.Parker,SS,15,2012,SEA-2012-102
+SEA,Illegal Block Above the Waist,12/16/2012,Buffalo,B.Maxwell,DB,15,2012,SEA-2012-103
+SEA,Offensive Holding,12/16/2012,Buffalo,J.Moffitt,G,15,2012,SEA-2012-104
+SEA,Unnecessary Roughness,12/23/2012,San Francisco,K.Chancellor,SS,16,2012,SEA-2012-105
+SEA,Offensive Holding,12/23/2012,San Francisco,P.McQuistan,G,16,2012,SEA-2012-106
+SEA,Offensive Holding,12/23/2012,San Francisco,J.Sweezy,G,16,2012,SEA-2012-107
+SEA,Unnecessary Roughness,12/23/2012,San Francisco,B.Irvin,OLB,16,2012,SEA-2012-108
+SEA,Offensive Pass Interference,12/30/2012,St. Louis,A.McCoy,TE,17,2012,SEA-2012-109
+SEA,False Start,12/30/2012,St. Louis,B.Giacomini,T,17,2012,SEA-2012-110
+SEA,Neutral Zone Infraction,12/30/2012,St. Louis,R.Bryant,DT,17,2012,SEA-2012-111
+SEA,Defensive Holding,12/30/2012,St. Louis,K.Wright,OLB,17,2012,SEA-2012-112
+SEA,False Start,12/30/2012,St. Louis,R.Okung,T,17,2012,SEA-2012-113
+SEA,Illegal Touch Kick,12/30/2012,St. Louis,K.Chancellor,SS,17,2012,SEA-2012-114
+SEA,Illegal Contact,12/30/2012,St. Louis,J.Lane,CB,17,2012,SEA-2012-115
+SEA,Defensive Holding,12/30/2012,St. Louis,R.Sherman,CB,17,2012,SEA-2012-116
+SEA,Offensive Holding,12/30/2012,St. Louis,A.McCoy,TE,17,2012,SEA-2012-117
+SEA,Offensive Holding,12/30/2012,St. Louis,A.Bradford,LB,17,2012,SEA-2012-118
+SEA,Roughing the Passer,12/30/2012,St. Louis,B.Irvin,OLB,17,2012,SEA-2012-119
+SEA,Defensive Pass Interference,12/30/2012,St. Louis,B.Maxwell,DB,17,2012,SEA-2012-120
+SEA,Neutral Zone Infraction,01/06/2013,Washington,C.McDonald,DT,18,2012,SEA-2012-121
+SEA,Unnecessary Roughness,01/06/2013,Washington,B.Irvin,OLB,18,2012,SEA-2012-122
+SEA,Delay of Game,01/06/2013,Washington,R.Wilson,QB,18,2012,SEA-2012-123
+SEA,Illegal Contact,01/06/2013,Washington,B.Browner,DB,18,2012,SEA-2012-124
+SEA,Delay of Game,01/06/2013,Washington,J.Ryan,P,18,2012,SEA-2012-125
+SEA,False Start,01/13/2013,Atlanta,B.Wagner,MLB,19,2012,SEA-2012-126
+SEA,Horse Collar Tackle,01/13/2013,Atlanta,B.Wagner,MLB,19,2012,SEA-2012-127
+SEA,Defensive Holding,01/13/2013,Atlanta,R.Sherman,CB,19,2012,SEA-2012-128
+SEA,Defensive Holding,01/13/2013,Atlanta,K.Chancellor,SS,19,2012,SEA-2012-129
+SEA,False Start,01/13/2013,Atlanta,R.Okung,T,19,2012,SEA-2012-130
+SEA,Defensive Offside,01/13/2013,Atlanta,R.Sherman,CB,19,2012,SEA-2012-131
+SEA,Defensive Offside,01/13/2013,Atlanta,R.Sherman,CB,19,2012,SEA-2012-132
+SEA,Chop Block,01/13/2013,Atlanta,M.Unger,C,19,2012,SEA-2012-133

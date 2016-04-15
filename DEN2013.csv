@@ -1,0 +1,139 @@
+team,penalty,game,opponent,player,position,week,year,penaltyindex
+DEN,Defensive Holding,09/05/2013,Baltimore,D.Ihenacho,DB,1,2013,DEN-2013-0
+DEN,Offensive Pass Interference,09/05/2013,Baltimore,E.Decker,WR,1,2013,DEN-2013-1
+DEN,False Start,09/05/2013,Baltimore,R.Clady,T,1,2013,DEN-2013-2
+DEN,Offensive Holding,09/05/2013,Baltimore,K.Moreno,RB,1,2013,DEN-2013-3
+DEN,Offensive Holding,09/05/2013,Baltimore,O.Franklin,G,1,2013,DEN-2013-4
+DEN,False Start,09/05/2013,Baltimore,W.Welker,WR,1,2013,DEN-2013-5
+DEN,False Start,09/05/2013,Baltimore,L.Vasquez,T,1,2013,DEN-2013-6
+DEN,Face Mask (15 Yards),09/05/2013,Baltimore,R.Moore,DB,1,2013,DEN-2013-7
+DEN,Defensive Pass Interference,09/05/2013,Baltimore,T.Carter,DB,1,2013,DEN-2013-8
+DEN,Illegal Block Above the Waist,09/15/2013,N.Y. Giants,J.Tamme,TE,2,2013,DEN-2013-9
+DEN,Offensive Pass Interference,09/15/2013,N.Y. Giants,E.Decker,WR,2,2013,DEN-2013-10
+DEN,Ineligible Downfield Pass,09/15/2013,N.Y. Giants,O.Franklin,G,2,2013,DEN-2013-11
+DEN,Illegal Contact,09/15/2013,N.Y. Giants,D.Ihenacho,DB,2,2013,DEN-2013-12
+DEN,Defensive Holding,09/15/2013,N.Y. Giants,C.Harris,CB,2,2013,DEN-2013-13
+DEN,Defensive Pass Interference,09/15/2013,N.Y. Giants,D.Rodgers-Cromartie,CB,2,2013,DEN-2013-14
+DEN,Defensive Pass Interference,09/15/2013,N.Y. Giants,T.Carter,DB,2,2013,DEN-2013-15
+DEN,Illegal Use of Hands,09/15/2013,N.Y. Giants,K.Vickerson,DT,2,2013,DEN-2013-16
+DEN,Defensive Pass Interference,09/15/2013,N.Y. Giants,D.Rodgers-Cromartie,CB,2,2013,DEN-2013-17
+DEN,Taunting,09/15/2013,N.Y. Giants,T.Knighton,DT,2,2013,DEN-2013-18
+DEN,Unnecessary Roughness,09/15/2013,N.Y. Giants,R.Moore,DB,2,2013,DEN-2013-19
+DEN,Defensive Holding,09/15/2013,N.Y. Giants,T.Carter,DB,2,2013,DEN-2013-20
+DEN,Defensive Pass Interference,09/15/2013,N.Y. Giants,T.Carter,DB,2,2013,DEN-2013-21
+DEN,Offensive Holding,09/23/2013,Oakland,O.Franklin,G,3,2013,DEN-2013-22
+DEN,Offensive Holding,09/23/2013,Oakland,C.Clark,T,3,2013,DEN-2013-23
+DEN,False Start,09/23/2013,Oakland,A.Caldwell,WR,3,2013,DEN-2013-24
+DEN,False Start,09/23/2013,Oakland,Z.Beadles,G,3,2013,DEN-2013-25
+DEN,Illegal Block Above the Waist,09/23/2013,Oakland,J.Tamme,TE,3,2013,DEN-2013-26
+DEN,Unnecessary Roughness,09/29/2013,Philadelphia,K.Vickerson,DT,4,2013,DEN-2013-27
+DEN,Unnecessary Roughness,09/29/2013,Philadelphia,K.Moreno,RB,4,2013,DEN-2013-28
+DEN,Defensive Holding,09/29/2013,Philadelphia,T.Carter,DB,4,2013,DEN-2013-29
+DEN,Illegal Use of Hands,10/06/2013,Dallas,K.Vickerson,DT,5,2013,DEN-2013-30
+DEN,Offensive Holding,10/06/2013,Dallas,L.Vasquez,T,5,2013,DEN-2013-31
+DEN,Illegal Shift,10/06/2013,Dallas,R.Hillman,RB,5,2013,DEN-2013-32
+DEN,Defensive Pass Interference,10/06/2013,Dallas,D.Rodgers-Cromartie,CB,5,2013,DEN-2013-33
+DEN,Illegal Use of Hands,10/06/2013,Dallas,K.Vickerson,DT,5,2013,DEN-2013-34
+DEN,Offensive Holding,10/06/2013,Dallas,O.Franklin,G,5,2013,DEN-2013-35
+DEN,Offensive Holding,10/13/2013,Jacksonville,C.Clark,T,6,2013,DEN-2013-36
+DEN,Defensive Offside,10/13/2013,Jacksonville,D.Wolfe,DE,6,2013,DEN-2013-37
+DEN,Offensive Pass Interference,10/13/2013,Jacksonville,D.Thomas,WR,6,2013,DEN-2013-38
+DEN,Offensive Holding,10/13/2013,Jacksonville,S.Johnson,LB,6,2013,DEN-2013-39
+DEN,Delay of Game,10/20/2013,Indianapolis,B.Colquitt,P,7,2013,DEN-2013-40
+DEN,Defensive Offside,10/20/2013,Indianapolis,S.Phillips,DE,7,2013,DEN-2013-41
+DEN,Offensive Holding,10/20/2013,Indianapolis,A.Caldwell,WR,7,2013,DEN-2013-42
+DEN,Illegal Contact,10/20/2013,Indianapolis,C.Harris,CB,7,2013,DEN-2013-43
+DEN,Offensive Pass Interference,10/20/2013,Indianapolis,K.Moreno,RB,7,2013,DEN-2013-44
+DEN,Offensive Holding,10/20/2013,Indianapolis,M.Ramirez,G,7,2013,DEN-2013-45
+DEN,Unnecessary Roughness,10/20/2013,Indianapolis,V.Green,TE,7,2013,DEN-2013-46
+DEN,Unsportsmanlike Conduct,10/20/2013,Indianapolis,K.Vickerson,DT,7,2013,DEN-2013-47
+DEN,Defensive Holding,10/20/2013,Indianapolis,D.Ihenacho,DB,7,2013,DEN-2013-48
+DEN,Unsportsmanlike Conduct,10/20/2013,Indianapolis,K.Vickerson,DT,7,2013,DEN-2013-49
+DEN,Unsportsmanlike Conduct,10/20/2013,Indianapolis,T.Knighton,DT,7,2013,DEN-2013-50
+DEN,Offensive Holding,10/20/2013,Indianapolis,C.Clark,T,7,2013,DEN-2013-51
+DEN,False Start,10/20/2013,Indianapolis,L.Vasquez,T,7,2013,DEN-2013-52
+DEN,Delay of Game,10/20/2013,Indianapolis,P.Manning,QB,7,2013,DEN-2013-53
+DEN,Defensive Holding,10/20/2013,Indianapolis,P.Lenon,MLB,7,2013,DEN-2013-54
+DEN,Roughing the Passer,10/20/2013,Indianapolis,K.Vickerson,DT,7,2013,DEN-2013-55
+DEN,Defensive Holding,10/20/2013,Indianapolis,A.Caldwell,WR,7,2013,DEN-2013-56
+DEN,Illegal Block Above the Waist,10/20/2013,Indianapolis,S.Johnson,LB,7,2013,DEN-2013-57
+DEN,Illegal Contact,10/27/2013,Washington,K.Webster,CB,8,2013,DEN-2013-58
+DEN,Offensive Holding,10/27/2013,Washington,D.Bruton,SS,8,2013,DEN-2013-59
+DEN,Defensive Holding,10/27/2013,Washington,K.Vickerson,DT,8,2013,DEN-2013-60
+DEN,Offensive Holding,10/27/2013,Washington,P.Manning,QB,8,2013,DEN-2013-61
+DEN,Unnecessary Roughness,10/27/2013,Washington,K.Vickerson,DT,8,2013,DEN-2013-62
+DEN,Offensive Holding,10/27/2013,Washington,M.Ramirez,G,8,2013,DEN-2013-63
+DEN,Unnecessary Roughness,10/27/2013,Washington,M.Jackson,DT,8,2013,DEN-2013-64
+DEN,Defensive Pass Interference,11/10/2013,San Diego,Q.Jammer,CB,10,2013,DEN-2013-65
+DEN,Defensive Pass Interference,11/10/2013,San Diego,D.Rodgers-Cromartie,CB,10,2013,DEN-2013-66
+DEN,Defensive Offside,11/10/2013,San Diego,D.Wolfe,DE,10,2013,DEN-2013-67
+DEN,Encroachment,11/17/2013,Kansas City,K.Vickerson,DT,11,2013,DEN-2013-68
+DEN,Defensive Holding,11/17/2013,Kansas City,C.Harris,CB,11,2013,DEN-2013-69
+DEN,Taunting,11/17/2013,Kansas City,D.Ihenacho,DB,11,2013,DEN-2013-70
+DEN,Encroachment,11/17/2013,Kansas City,R.Ayers,DE,11,2013,DEN-2013-71
+DEN,Defensive Holding,11/17/2013,Kansas City,D.Ihenacho,DB,11,2013,DEN-2013-72
+DEN,Defensive Holding,11/17/2013,Kansas City,W.Woodyard,ILB,11,2013,DEN-2013-73
+DEN,Offensive Holding,11/17/2013,Kansas City,O.Franklin,G,11,2013,DEN-2013-74
+DEN,Defensive Delay of Game,11/17/2013,Kansas City,K.Webster,CB,11,2013,DEN-2013-75
+DEN,Face Mask (15 Yards),11/17/2013,Kansas City,M.Adams,SS,11,2013,DEN-2013-76
+DEN,Neutral Zone Infraction,11/17/2013,Kansas City,R.Ayers,DE,11,2013,DEN-2013-77
+DEN,False Start,11/17/2013,Kansas City,Z.Beadles,G,11,2013,DEN-2013-78
+DEN,False Start,11/17/2013,Kansas City,J.Dreessen,TE,11,2013,DEN-2013-79
+DEN,Player Out of Bounds on Punt,11/17/2013,Kansas City,O.Bolden,SS,11,2013,DEN-2013-80
+DEN,Face Mask (15 Yards),11/24/2013,New England,C.Harris,CB,12,2013,DEN-2013-81
+DEN,Player Out of Bounds on Punt,11/24/2013,New England,A.Caldwell,WR,12,2013,DEN-2013-82
+DEN,Intentional Grounding,11/24/2013,New England,P.Manning,QB,12,2013,DEN-2013-83
+DEN,Unnecessary Roughness,11/24/2013,New England,S.Williams,DT,12,2013,DEN-2013-84
+DEN,Offensive Holding,11/24/2013,New England,M.Jackson,DT,12,2013,DEN-2013-85
+DEN,Illegal Use of Hands,11/24/2013,New England,K.Webster,CB,12,2013,DEN-2013-86
+DEN,Offensive Holding,11/24/2013,New England,C.Clark,T,12,2013,DEN-2013-87
+DEN,Offensive Pass Interference,11/24/2013,New England,E.Decker,WR,12,2013,DEN-2013-88
+DEN,Delay of Game,11/24/2013,New England,B.Colquitt,P,12,2013,DEN-2013-89
+DEN,Offensive Holding,12/01/2013,Kansas City,O.Franklin,G,13,2013,DEN-2013-90
+DEN,Defensive Holding,12/01/2013,Kansas City,C.Harris,CB,13,2013,DEN-2013-91
+DEN,Unnecessary Roughness,12/01/2013,Kansas City,M.Adams,SS,13,2013,DEN-2013-92
+DEN,Illegal Block Above the Waist,12/01/2013,Kansas City,O.Bolden,SS,13,2013,DEN-2013-93
+DEN,Illegal Use of Hands,12/01/2013,Kansas City,C.Harris,CB,13,2013,DEN-2013-94
+DEN,Face Mask (15 Yards),12/01/2013,Kansas City,D.Ihenacho,DB,13,2013,DEN-2013-95
+DEN,False Start,12/01/2013,Kansas City,K.Moreno,RB,13,2013,DEN-2013-96
+DEN,Illegal Shift,12/01/2013,Kansas City,C.Clark,T,13,2013,DEN-2013-97
+DEN,Unnecessary Roughness,12/01/2013,Kansas City,M.Ramirez,G,13,2013,DEN-2013-98
+DEN,Illegal Block Above the Waist,12/08/2013,Tennessee,D.Rodgers-Cromartie,CB,14,2013,DEN-2013-99
+DEN,False Start,12/08/2013,Tennessee,W.Justice,T,14,2013,DEN-2013-100
+DEN,Roughing the Passer,12/08/2013,Tennessee,V.Miller,OLB,14,2013,DEN-2013-101
+DEN,False Start,12/08/2013,Tennessee,E.Decker,WR,14,2013,DEN-2013-102
+DEN,Illegal Block Above the Waist,12/08/2013,Tennessee,S.Johnson,LB,14,2013,DEN-2013-103
+DEN,False Start,12/08/2013,Tennessee,O.Franklin,G,14,2013,DEN-2013-104
+DEN,Illegal Block Above the Waist,12/08/2013,Tennessee,K.Webster,CB,14,2013,DEN-2013-105
+DEN,Defensive Offside,12/12/2013,San Diego,V.Miller,OLB,15,2013,DEN-2013-106
+DEN,Defensive Holding,12/12/2013,San Diego,C.Harris,CB,15,2013,DEN-2013-107
+DEN,Neutral Zone Infraction,12/12/2013,San Diego,N.Irving,LB,15,2013,DEN-2013-108
+DEN,Defensive Pass Interference,12/12/2013,San Diego,D.Ihenacho,DB,15,2013,DEN-2013-109
+DEN,Offensive Holding,12/22/2013,Houston,T.Carter,DB,16,2013,DEN-2013-110
+DEN,Illegal Formation,12/22/2013,Houston,O.Franklin,G,16,2013,DEN-2013-111
+DEN,False Start,12/22/2013,Houston,Z.Beadles,G,16,2013,DEN-2013-112
+DEN,Offensive Holding,12/22/2013,Houston,M.Ramirez,G,16,2013,DEN-2013-113
+DEN,Unnecessary Roughness,12/22/2013,Houston,D.Rodgers-Cromartie,CB,16,2013,DEN-2013-114
+DEN,False Start,12/22/2013,Houston,O.Franklin,G,16,2013,DEN-2013-115
+DEN,Offensive Holding,12/22/2013,Houston,O.Franklin,G,16,2013,DEN-2013-116
+DEN,Illegal Use of Hands,12/22/2013,Houston,C.Clark,T,16,2013,DEN-2013-117
+DEN,Offensive Holding,12/29/2013,Oakland,C.Clark,T,17,2013,DEN-2013-118
+DEN,Offensive Holding,12/29/2013,Oakland,O.Franklin,G,17,2013,DEN-2013-119
+DEN,Delay of Game,12/29/2013,Oakland,B.Colquitt,P,17,2013,DEN-2013-120
+DEN,Defensive Pass Interference,12/29/2013,Oakland,Q.Jammer,CB,17,2013,DEN-2013-121
+DEN,Face Mask (15 Yards),01/12/2014,San Diego,M.Jackson,DT,19,2013,DEN-2013-122
+DEN,Offensive Pass Interference,01/12/2014,San Diego,K.Moreno,RB,19,2013,DEN-2013-123
+DEN,False Start,01/12/2014,San Diego,J.Thomas,TE,19,2013,DEN-2013-124
+DEN,Illegal Use of Hands,01/12/2014,San Diego,R.Ayers,DE,19,2013,DEN-2013-125
+DEN,Illegal Block Above the Waist,01/12/2014,San Diego,O.Bolden,SS,19,2013,DEN-2013-126
+DEN,False Start,01/12/2014,San Diego,Z.Beadles,G,19,2013,DEN-2013-127
+DEN,Offensive Holding,01/19/2014,New England,C.Clark,T,20,2013,DEN-2013-128
+DEN,Defensive Offside,01/19/2014,New England,S.Phillips,DE,20,2013,DEN-2013-129
+DEN,Offensive Holding,01/19/2014,New England,J.Thomas,TE,20,2013,DEN-2013-130
+DEN,Offensive Holding,01/19/2014,New England,Z.Beadles,G,20,2013,DEN-2013-131
+DEN,Illegal Motion,02/02/2014,Seattle,P.Manning,QB,21,2013,DEN-2013-132
+DEN,Defensive Pass Interference,02/02/2014,Seattle,T.Carter,DB,21,2013,DEN-2013-133
+DEN,Tripping,02/02/2014,Seattle,Z.Beadles,G,21,2013,DEN-2013-134
+DEN,False Start,02/02/2014,Seattle,L.Vasquez,T,21,2013,DEN-2013-135
+DEN,Unnecessary Roughness,02/02/2014,Seattle,O.Franklin,G,21,2013,DEN-2013-136
+DEN,Offensive Holding,02/02/2014,Seattle,C.Clark,T,21,2013,DEN-2013-137

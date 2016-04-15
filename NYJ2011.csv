@@ -1,0 +1,103 @@
+team,penalty,game,opponent,player,position,week,year,penaltyindex
+NYJ,Defensive Offside,09/18/2011,Jacksonville,J.Westerman,LB,2,2011,NYJ-2011-0
+NYJ,Fair Catch Interference,09/18/2011,Jacksonville,M.Cole,DB,2,2011,NYJ-2011-1
+NYJ,Face Mask (15 Yards),09/18/2011,Jacksonville,W.Hunter,T,2,2011,NYJ-2011-2
+NYJ,Offensive Holding,09/18/2011,Jacksonville,W.Hunter,T,2,2011,NYJ-2011-3
+NYJ,False Start,09/18/2011,Jacksonville,B.Moore,G,2,2011,NYJ-2011-4
+NYJ,Illegal Formation,09/18/2011,Jacksonville,S.Holmes,WR,2,2011,NYJ-2011-5
+NYJ,Ineligible Downfield Pass,09/18/2011,Jacksonville,B.Moore,G,2,2011,NYJ-2011-6
+NYJ,Defensive Pass Interference,09/25/2011,Oakland,A.Cromartie,DB,3,2011,NYJ-2011-7
+NYJ,False Start,09/25/2011,Oakland,M.Mulligan,TE,3,2011,NYJ-2011-8
+NYJ,False Start,09/25/2011,Oakland,M.Slauson,G,3,2011,NYJ-2011-9
+NYJ,Defensive Holding,09/25/2011,Oakland,A.Cromartie,DB,3,2011,NYJ-2011-10
+NYJ,Defensive Holding,09/25/2011,Oakland,A.Cromartie,DB,3,2011,NYJ-2011-11
+NYJ,Defensive Pass Interference,09/25/2011,Oakland,A.Cromartie,DB,3,2011,NYJ-2011-12
+NYJ,Defensive Holding,09/25/2011,Oakland,C.Pace,OLB,3,2011,NYJ-2011-13
+NYJ,Offensive Holding,10/02/2011,Baltimore,N.Bellore,LB,4,2011,NYJ-2011-14
+NYJ,Defensive Holding,10/02/2011,Baltimore,A.Cromartie,DB,4,2011,NYJ-2011-15
+NYJ,Face Mask (15 Yards),10/02/2011,Baltimore,P.Burress,WR,4,2011,NYJ-2011-16
+NYJ,Offensive Holding,10/02/2011,Baltimore,J.Mauga,ILB,4,2011,NYJ-2011-17
+NYJ,False Start,10/02/2011,Baltimore,V.Ducasse,T,4,2011,NYJ-2011-18
+NYJ,Offensive Holding,10/02/2011,Baltimore,M.Slauson,G,4,2011,NYJ-2011-19
+NYJ,False Start,10/02/2011,Baltimore,D.Ferguson,T,4,2011,NYJ-2011-20
+NYJ,False Start,10/02/2011,Baltimore,W.Hunter,T,4,2011,NYJ-2011-21
+NYJ,Encroachment,10/02/2011,Baltimore,G.McIntyre,OLB,4,2011,NYJ-2011-22
+NYJ,False Start,10/09/2011,New England,M.Mulligan,TE,5,2011,NYJ-2011-23
+NYJ,Defensive Pass Interference,10/09/2011,New England,D.Strickland,DB,5,2011,NYJ-2011-24
+NYJ,Unnecessary Roughness,10/09/2011,New England,N.Bellore,LB,5,2011,NYJ-2011-25
+NYJ,Illegal Contact,10/09/2011,New England,K.Wilson,DB,5,2011,NYJ-2011-26
+NYJ,Illegal Contact,10/09/2011,New England,D.Revis,DB,5,2011,NYJ-2011-27
+NYJ,Defensive Pass Interference,10/09/2011,New England,B.Pool,SS,5,2011,NYJ-2011-28
+NYJ,Offensive Holding,10/09/2011,New England,P.Turner,WR,5,2011,NYJ-2011-29
+NYJ,False Start,10/17/2011,Miami,W.Hunter,T,6,2011,NYJ-2011-30
+NYJ,Unnecessary Roughness,10/17/2011,Miami,J.Leonhard,FS,6,2011,NYJ-2011-31
+NYJ,Delay of Game,10/17/2011,Miami,M.Sanchez,QB,6,2011,NYJ-2011-32
+NYJ,Offensive Holding,10/17/2011,Miami,M.Cole,DB,6,2011,NYJ-2011-33
+NYJ,Offensive Holding,10/17/2011,Miami,J.Conner,RB,6,2011,NYJ-2011-34
+NYJ,Offensive Holding,10/17/2011,Miami,M.Mulligan,TE,6,2011,NYJ-2011-35
+NYJ,False Start,10/23/2011,San Diego,B.Moore,G,7,2011,NYJ-2011-36
+NYJ,Offensive Holding,10/23/2011,San Diego,N.Mangold,C,7,2011,NYJ-2011-37
+NYJ,Defensive Holding,10/23/2011,San Diego,A.Cromartie,DB,7,2011,NYJ-2011-38
+NYJ,Illegal Block Above the Waist,10/23/2011,San Diego,D.Strickland,DB,7,2011,NYJ-2011-39
+NYJ,Offensive Holding,10/23/2011,San Diego,E.Lankster,DB,7,2011,NYJ-2011-40
+NYJ,Ineligible Downfield Pass,10/23/2011,San Diego,N.Mangold,C,7,2011,NYJ-2011-41
+NYJ,Offensive Holding,10/23/2011,San Diego,N.Mangold,C,7,2011,NYJ-2011-42
+NYJ,Offensive Pass Interference,11/06/2011,Buffalo,S.Holmes,WR,9,2011,NYJ-2011-43
+NYJ,False Start,11/06/2011,Buffalo,M.Mulligan,TE,9,2011,NYJ-2011-44
+NYJ,Offensive Holding,11/06/2011,Buffalo,M.Mulligan,TE,9,2011,NYJ-2011-45
+NYJ,Encroachment,11/06/2011,Buffalo,M.Dixon,DE,9,2011,NYJ-2011-46
+NYJ,False Start,11/06/2011,Buffalo,W.Hunter,T,9,2011,NYJ-2011-47
+NYJ,Defensive Holding,11/06/2011,Buffalo,D.Revis,DB,9,2011,NYJ-2011-48
+NYJ,Defensive Holding,11/06/2011,Buffalo,A.Cromartie,DB,9,2011,NYJ-2011-49
+NYJ,Offensive Holding,11/06/2011,Buffalo,M.Sanchez,QB,9,2011,NYJ-2011-50
+NYJ,Offensive Pass Interference,11/13/2011,New England,P.Burress,WR,10,2011,NYJ-2011-51
+NYJ,Intentional Grounding,11/13/2011,New England,M.Sanchez,QB,10,2011,NYJ-2011-52
+NYJ,Illegal Block Above the Waist,11/13/2011,New England,K.Wilson,DB,10,2011,NYJ-2011-53
+NYJ,Defensive Holding,11/13/2011,New England,D.Revis,DB,10,2011,NYJ-2011-54
+NYJ,Face Mask (15 Yards),11/13/2011,New England,E.Smith,FS,10,2011,NYJ-2011-55
+NYJ,Defensive Offside,11/13/2011,New England,M.Wilkerson,DE,10,2011,NYJ-2011-56
+NYJ,Illegal Contact,11/13/2011,New England,J.Leonhard,FS,10,2011,NYJ-2011-57
+NYJ,Illegal Use of Hands,11/13/2011,New England,W.Hunter,T,10,2011,NYJ-2011-58
+NYJ,Offensive Pass Interference,11/17/2011,Denver,P.Burress,WR,11,2011,NYJ-2011-59
+NYJ,False Start,11/17/2011,Denver,W.Hunter,T,11,2011,NYJ-2011-60
+NYJ,Offensive Holding,11/27/2011,Buffalo,N.Bellore,LB,12,2011,NYJ-2011-61
+NYJ,Face Mask (15 Yards),11/27/2011,Buffalo,B.Pool,SS,12,2011,NYJ-2011-62
+NYJ,Personal Foul,11/27/2011,Buffalo,A.Maybin,LB,12,2011,NYJ-2011-63
+NYJ,Illegal Block Above the Waist,11/27/2011,Buffalo,M.Cole,DB,12,2011,NYJ-2011-64
+NYJ,Defensive Holding,11/27/2011,Buffalo,K.Wilson,DB,12,2011,NYJ-2011-65
+NYJ,Defensive Offside,11/27/2011,Buffalo,A.Maybin,LB,12,2011,NYJ-2011-66
+NYJ,Illegal Contact,12/04/2011,Washington,D.Strickland,DB,13,2011,NYJ-2011-67
+NYJ,Running Into the Kicker,12/04/2011,Washington,G.McIntyre,OLB,13,2011,NYJ-2011-68
+NYJ,False Start,12/04/2011,Washington,M.Mulligan,TE,13,2011,NYJ-2011-69
+NYJ,Delay of Game,12/04/2011,Washington,M.Sanchez,QB,13,2011,NYJ-2011-70
+NYJ,Illegal Formation,12/04/2011,Washington,P.Turner,WR,13,2011,NYJ-2011-71
+NYJ,Chop Block,12/04/2011,Washington,D.Keller,TE,13,2011,NYJ-2011-72
+NYJ,Ineligible Downfield Kick,12/04/2011,Washington,T.Wilson,DB,13,2011,NYJ-2011-73
+NYJ,Offensive Holding,12/11/2011,Kansas City,N.Bellore,LB,14,2011,NYJ-2011-74
+NYJ,Chop Block,12/11/2011,Kansas City,J.Conner,RB,14,2011,NYJ-2011-75
+NYJ,Offensive Holding,12/11/2011,Kansas City,V.Ducasse,T,14,2011,NYJ-2011-76
+NYJ,Delay of Game,12/11/2011,Kansas City,T.Conley,P,14,2011,NYJ-2011-77
+NYJ,Roughing the Passer,12/18/2011,Philadelphia,C.Pace,OLB,15,2011,NYJ-2011-78
+NYJ,False Start,12/18/2011,Philadelphia,W.Hunter,T,15,2011,NYJ-2011-79
+NYJ,Personal Foul,12/18/2011,Philadelphia,M.Dixon,DE,15,2011,NYJ-2011-80
+NYJ,Offensive Holding,12/18/2011,Philadelphia,J.Westerman,LB,15,2011,NYJ-2011-81
+NYJ,Neutral Zone Infraction,12/18/2011,Philadelphia,C.Pace,OLB,15,2011,NYJ-2011-82
+NYJ,Unsportsmanlike Conduct,12/18/2011,Philadelphia,S.Holmes,WR,15,2011,NYJ-2011-83
+NYJ,False Start,12/18/2011,Philadelphia,M.Slauson,G,15,2011,NYJ-2011-84
+NYJ,False Start,12/18/2011,Philadelphia,W.Hunter,T,15,2011,NYJ-2011-85
+NYJ,Unnecessary Roughness,12/18/2011,Philadelphia,J.Kerley,WR,15,2011,NYJ-2011-86
+NYJ,False Start,12/18/2011,Philadelphia,D.Keller,TE,15,2011,NYJ-2011-87
+NYJ,Offensive Holding,12/24/2011,N.Y. Giants,N.Bellore,LB,16,2011,NYJ-2011-88
+NYJ,False Start,12/24/2011,N.Y. Giants,M.Slauson,G,16,2011,NYJ-2011-89
+NYJ,False Start,12/24/2011,N.Y. Giants,P.Burress,WR,16,2011,NYJ-2011-90
+NYJ,Roughing the Passer,12/24/2011,N.Y. Giants,J.Westerman,LB,16,2011,NYJ-2011-91
+NYJ,False Start,12/24/2011,N.Y. Giants,B.Moore,G,16,2011,NYJ-2011-92
+NYJ,Offensive Pass Interference,12/24/2011,N.Y. Giants,P.Burress,WR,16,2011,NYJ-2011-93
+NYJ,Offensive Holding,12/24/2011,N.Y. Giants,B.Moore,G,16,2011,NYJ-2011-94
+NYJ,Unnecessary Roughness,12/24/2011,N.Y. Giants,A.Maybin,LB,16,2011,NYJ-2011-95
+NYJ,False Start,01/01/2012,Miami,M.Mulligan,TE,17,2011,NYJ-2011-96
+NYJ,False Start,01/01/2012,Miami,D.Ferguson,T,17,2011,NYJ-2011-97
+NYJ,False Start,01/01/2012,Miami,M.Mulligan,TE,17,2011,NYJ-2011-98
+NYJ,False Start,01/01/2012,Miami,W.Hunter,T,17,2011,NYJ-2011-99
+NYJ,False Start,01/01/2012,Miami,D.Ferguson,T,17,2011,NYJ-2011-100
+NYJ,Face Mask (15 Yards),01/01/2012,Miami,M.Mulligan,TE,17,2011,NYJ-2011-101

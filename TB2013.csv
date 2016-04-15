@@ -1,0 +1,126 @@
+team,penalty,game,opponent,player,position,week,year,penaltyindex
+TB,Delay of Game,09/08/2013,N.Y. Jets,J.Freeman,QB,1,2013,TB-2013-0
+TB,Delay of Game,09/08/2013,N.Y. Jets,J.Freeman,QB,1,2013,TB-2013-1
+TB,False Start,09/08/2013,N.Y. Jets,D.Dotson,T,1,2013,TB-2013-2
+TB,False Start,09/08/2013,N.Y. Jets,M.Williams,WR,1,2013,TB-2013-3
+TB,Face Mask (15 Yards),09/08/2013,N.Y. Jets,D.Te'o,DE,1,2013,TB-2013-4
+TB,Illegal Bat,09/08/2013,N.Y. Jets,J.Freeman,QB,1,2013,TB-2013-5
+TB,False Start,09/08/2013,N.Y. Jets,J.Zuttah,C,1,2013,TB-2013-6
+TB,Offensive Holding,09/08/2013,N.Y. Jets,D.Joseph,G,1,2013,TB-2013-7
+TB,Personal Foul,09/08/2013,N.Y. Jets,D.Goldson,DB,1,2013,TB-2013-8
+TB,Unnecessary Roughness,09/08/2013,N.Y. Jets,M.Barron,SS,1,2013,TB-2013-9
+TB,Offensive Holding,09/08/2013,N.Y. Jets,M.Adams,DB,1,2013,TB-2013-10
+TB,Defensive Holding,09/08/2013,N.Y. Jets,L.Johnson,CB,1,2013,TB-2013-11
+TB,False Start,09/08/2013,N.Y. Jets,D.Dotson,T,1,2013,TB-2013-12
+TB,Personal Foul,09/08/2013,N.Y. Jets,L.David,OLB,1,2013,TB-2013-13
+TB,False Start,09/15/2013,New Orleans,M.Williams,WR,2,2013,TB-2013-14
+TB,Unnecessary Roughness,09/15/2013,New Orleans,A.Clayborn,DE,2,2013,TB-2013-15
+TB,Unnecessary Roughness,09/15/2013,New Orleans,D.Goldson,DB,2,2013,TB-2013-16
+TB,Unnecessary Roughness,09/15/2013,New Orleans,A.Black,FS,2,2013,TB-2013-17
+TB,Defensive Offside,09/15/2013,New Orleans,L.Johnson,CB,2,2013,TB-2013-18
+TB,Defensive Pass Interference,09/15/2013,New Orleans,M.Barron,SS,2,2013,TB-2013-19
+TB,Unsportsmanlike Conduct,09/15/2013,New Orleans,J.Casillas,LB,2,2013,TB-2013-20
+TB,Unsportsmanlike Conduct,09/15/2013,New Orleans,G.McCoy,DT,2,2013,TB-2013-21
+TB,False Start,09/22/2013,New England,C.Nicks,G,3,2013,TB-2013-22
+TB,Illegal Contact,09/22/2013,New England,L.David,OLB,3,2013,TB-2013-23
+TB,Defensive Pass Interference,09/22/2013,New England,D.Goldson,DB,3,2013,TB-2013-24
+TB,Offensive Holding,09/22/2013,New England,J.Zuttah,C,3,2013,TB-2013-25
+TB,Personal Foul,09/29/2013,Arizona,D.Carr,DB,4,2013,TB-2013-26
+TB,False Start,09/29/2013,Arizona,M.Williams,WR,4,2013,TB-2013-27
+TB,Delay of Game,09/29/2013,Arizona,M.Glennon,QB,4,2013,TB-2013-28
+TB,Intentional Grounding,09/29/2013,Arizona,M.Glennon,QB,4,2013,TB-2013-29
+TB,Player Out of Bounds on Punt,09/29/2013,Arizona,R.Shepard,WR,4,2013,TB-2013-30
+TB,Defensive Pass Interference,09/29/2013,Arizona,J.Banks,CB,4,2013,TB-2013-31
+TB,Unnecessary Roughness,09/29/2013,Arizona,D.Goldson,DB,4,2013,TB-2013-32
+TB,Intentional Grounding,10/13/2013,Philadelphia,M.Glennon,QB,6,2013,TB-2013-33
+TB,Offensive Holding,10/13/2013,Philadelphia,D.Penn,T,6,2013,TB-2013-34
+TB,Offensive Holding,10/13/2013,Philadelphia,T.Larsen,G,6,2013,TB-2013-35
+TB,False Start,10/13/2013,Philadelphia,J.Meredith,T,6,2013,TB-2013-36
+TB,Offensive Pass Interference,10/13/2013,Philadelphia,T.Underwood,WR,6,2013,TB-2013-37
+TB,Offensive Holding,10/13/2013,Philadelphia,E.Lorig,FB,6,2013,TB-2013-38
+TB,Offensive Holding,10/13/2013,Philadelphia,J.Zuttah,C,6,2013,TB-2013-39
+TB,Offensive Holding,10/13/2013,Philadelphia,J.Zuttah,C,6,2013,TB-2013-40
+TB,False Start,10/20/2013,Atlanta,M.Williams,WR,7,2013,TB-2013-41
+TB,False Start,10/20/2013,Atlanta,D.Penn,T,7,2013,TB-2013-42
+TB,Roughing the Passer,10/20/2013,Atlanta,T.Scott,DE,7,2013,TB-2013-43
+TB,Defensive Pass Interference,10/20/2013,Atlanta,L.Johnson,CB,7,2013,TB-2013-44
+TB,Neutral Zone Infraction,10/20/2013,Atlanta,G.McCoy,DT,7,2013,TB-2013-45
+TB,Unnecessary Roughness,10/20/2013,Atlanta,T.Larsen,G,7,2013,TB-2013-46
+TB,Offensive Holding,10/20/2013,Atlanta,D.Joseph,G,7,2013,TB-2013-47
+TB,False Start,10/20/2013,Atlanta,V.Jackson,WR,7,2013,TB-2013-48
+TB,Unnecessary Roughness,10/20/2013,Atlanta,K.McCray,DB,7,2013,TB-2013-49
+TB,Offensive Holding,10/20/2013,Atlanta,D.Penn,T,7,2013,TB-2013-50
+TB,Illegal Use of Hands,10/20/2013,Atlanta,D.Joseph,G,7,2013,TB-2013-51
+TB,Illegal Forward Pass,10/20/2013,Atlanta,M.Glennon,QB,7,2013,TB-2013-52
+TB,Face Mask (15 Yards),10/20/2013,Atlanta,V.Jackson,WR,7,2013,TB-2013-53
+TB,Defensive Pass Interference,10/24/2013,Carolina,D.Revis,DB,8,2013,TB-2013-54
+TB,Offensive Holding,10/24/2013,Carolina,D.Penn,T,8,2013,TB-2013-55
+TB,Offensive Holding,10/24/2013,Carolina,A.Hayward,OLB,8,2013,TB-2013-56
+TB,Offensive Holding,10/24/2013,Carolina,D.Joseph,G,8,2013,TB-2013-57
+TB,Roughing the Passer,11/03/2013,Seattle,J.Casillas,LB,9,2013,TB-2013-58
+TB,False Start,11/03/2013,Seattle,M.James,RB,9,2013,TB-2013-59
+TB,Offensive Offside,11/03/2013,Seattle,M.Adams,DB,9,2013,TB-2013-60
+TB,Unnecessary Roughness,11/03/2013,Seattle,G.McCoy,DT,9,2013,TB-2013-61
+TB,Defensive Pass Interference,11/03/2013,Seattle,M.Adams,DB,9,2013,TB-2013-62
+TB,Roughing the Passer,11/03/2013,Seattle,G.McCoy,DT,9,2013,TB-2013-63
+TB,Offensive Holding,11/03/2013,Seattle,T.Crabtree,TE,9,2013,TB-2013-64
+TB,Delay of Game,11/03/2013,Seattle,M.Glennon,QB,9,2013,TB-2013-65
+TB,Illegal Motion,11/11/2013,Miami,S.Larsen,FB,10,2013,TB-2013-66
+TB,Offensive Holding,11/11/2013,Miami,J.Meredith,T,10,2013,TB-2013-67
+TB,Unnecessary Roughness,11/11/2013,Miami,D.Goldson,DB,10,2013,TB-2013-68
+TB,Delay of Game,11/11/2013,Miami,M.Glennon,QB,10,2013,TB-2013-69
+TB,Offensive Holding,11/11/2013,Miami,T.Underwood,WR,10,2013,TB-2013-70
+TB,Offensive Holding,11/11/2013,Miami,J.Zuttah,C,10,2013,TB-2013-71
+TB,Unnecessary Roughness,11/11/2013,Miami,E.Page,WR,10,2013,TB-2013-72
+TB,Illegal Use of Hands,11/17/2013,Atlanta,J.Meredith,T,11,2013,TB-2013-73
+TB,Roughing the Passer,11/17/2013,Atlanta,A.Clayborn,DE,11,2013,TB-2013-74
+TB,Encroachment,11/17/2013,Atlanta,G.McCoy,DT,11,2013,TB-2013-75
+TB,Offensive Holding,11/17/2013,Atlanta,T.Larsen,G,11,2013,TB-2013-76
+TB,Offensive Pass Interference,11/17/2013,Atlanta,V.Jackson,WR,11,2013,TB-2013-77
+TB,Unnecessary Roughness,11/17/2013,Atlanta,D.Goldson,DB,11,2013,TB-2013-78
+TB,Defensive Pass Interference,11/17/2013,Atlanta,J.Banks,CB,11,2013,TB-2013-79
+TB,Defensive Pass Interference,11/17/2013,Atlanta,M.Adams,DB,11,2013,TB-2013-80
+TB,Illegal Use of Hands,11/17/2013,Atlanta,A.Hayward,OLB,11,2013,TB-2013-81
+TB,Offensive Holding,11/17/2013,Atlanta,J.Meredith,T,11,2013,TB-2013-82
+TB,Roughing the Passer,11/17/2013,Atlanta,G.McCoy,DT,11,2013,TB-2013-83
+TB,Roughing the Passer,11/17/2013,Atlanta,G.McCoy,DT,11,2013,TB-2013-84
+TB,Encroachment,11/24/2013,Detroit,A.Spence,DT,12,2013,TB-2013-85
+TB,Offensive Holding,11/24/2013,Detroit,J.Meredith,T,12,2013,TB-2013-86
+TB,Roughing the Passer,11/24/2013,Detroit,M.Barron,SS,12,2013,TB-2013-87
+TB,False Start,11/24/2013,Detroit,J.Meredith,T,12,2013,TB-2013-88
+TB,Defensive Pass Interference,11/24/2013,Detroit,J.Banks,CB,12,2013,TB-2013-89
+TB,Defensive Pass Interference,11/24/2013,Detroit,M.Barron,SS,12,2013,TB-2013-90
+TB,Offensive Holding,11/24/2013,Detroit,D.Dotson,T,12,2013,TB-2013-91
+TB,False Start,11/24/2013,Detroit,T.Wright,TE,12,2013,TB-2013-92
+TB,Neutral Zone Infraction,11/24/2013,Detroit,M.Barron,SS,12,2013,TB-2013-93
+TB,Defensive Holding,11/24/2013,Detroit,M.Barron,SS,12,2013,TB-2013-94
+TB,Offensive Holding,12/01/2013,Carolina,V.Jackson,WR,13,2013,TB-2013-95
+TB,Delay of Game,12/01/2013,Carolina,M.Koenen,P,13,2013,TB-2013-96
+TB,False Start,12/01/2013,Carolina,T.Underwood,WR,13,2013,TB-2013-97
+TB,Offensive Holding,12/01/2013,Carolina,D.Joseph,G,13,2013,TB-2013-98
+TB,Roughing the Kicker,12/08/2013,Buffalo,D.Watson,LB,14,2013,TB-2013-99
+TB,Offensive Holding,12/08/2013,Buffalo,J.Zuttah,C,14,2013,TB-2013-100
+TB,Neutral Zone Infraction,12/08/2013,Buffalo,A.Spence,DT,14,2013,TB-2013-101
+TB,Defensive Pass Interference,12/08/2013,Buffalo,L.Johnson,CB,14,2013,TB-2013-102
+TB,Encroachment,12/08/2013,Buffalo,A.Clayborn,DE,14,2013,TB-2013-103
+TB,False Start,12/08/2013,Buffalo,J.Zuttah,C,14,2013,TB-2013-104
+TB,Unnecessary Roughness,12/08/2013,Buffalo,D.Penn,T,14,2013,TB-2013-105
+TB,Defensive Holding,12/15/2013,San Francisco,D.Watson,LB,15,2013,TB-2013-106
+TB,Defensive Offside,12/15/2013,San Francisco,G.McCoy,DT,15,2013,TB-2013-107
+TB,Defensive Offside,12/15/2013,San Francisco,G.McCoy,DT,15,2013,TB-2013-108
+TB,Offensive Holding,12/15/2013,San Francisco,D.Joseph,G,15,2013,TB-2013-109
+TB,Personal Foul,12/15/2013,San Francisco,D.Dotson,T,15,2013,TB-2013-110
+TB,Defensive Offside,12/15/2013,San Francisco,W.Gholston,DE,15,2013,TB-2013-111
+TB,Roughing the Passer,12/22/2013,St. Louis,A.Clayborn,DE,16,2013,TB-2013-112
+TB,Encroachment,12/22/2013,St. Louis,G.McCoy,DT,16,2013,TB-2013-113
+TB,Defensive Holding,12/22/2013,St. Louis,S.Means,LB,16,2013,TB-2013-114
+TB,Unnecessary Roughness,12/22/2013,St. Louis,D.Goldson,DB,16,2013,TB-2013-115
+TB,Defensive Offside,12/22/2013,St. Louis,J.Banks,CB,16,2013,TB-2013-116
+TB,Unsportsmanlike Conduct,12/29/2013,New Orleans,L.Johnson,CB,17,2013,TB-2013-117
+TB,Encroachment,12/29/2013,New Orleans,G.McCoy,DT,17,2013,TB-2013-118
+TB,False Start,12/29/2013,New Orleans,B.Leonard,RB,17,2013,TB-2013-119
+TB,Offensive Holding,12/29/2013,New Orleans,G.Carimi,T,17,2013,TB-2013-120
+TB,False Start,12/29/2013,New Orleans,T.Wright,TE,17,2013,TB-2013-121
+TB,Face Mask (15 Yards),12/29/2013,New Orleans,T.Larsen,G,17,2013,TB-2013-122
+TB,Unnecessary Roughness,12/29/2013,New Orleans,T.Larsen,G,17,2013,TB-2013-123
+TB,Offensive Holding,12/29/2013,New Orleans,B.McDougald,SS,17,2013,TB-2013-124

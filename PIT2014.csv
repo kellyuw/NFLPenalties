@@ -1,0 +1,132 @@
+team,penalty,game,opponent,player,position,week,year,penaltyindex
+PIT,False Start,09/07/2014,Cleveland,D.DeCastro,G,1,2014,PIT-2014-0
+PIT,Offensive Holding,09/07/2014,Cleveland,K.Beachum,T,1,2014,PIT-2014-1
+PIT,Unnecessary Roughness,09/07/2014,Cleveland,A.Brown,WR,1,2014,PIT-2014-2
+PIT,Illegal Block Above the Waist,09/07/2014,Cleveland,W.Allen,SS,1,2014,PIT-2014-3
+PIT,Neutral Zone Infraction,09/07/2014,Cleveland,J.Worilds,OLB,1,2014,PIT-2014-4
+PIT,Offensive Holding,09/07/2014,Cleveland,V.Williams,ILB,1,2014,PIT-2014-5
+PIT,Personal Foul,09/07/2014,Cleveland,R.Golden,S,1,2014,PIT-2014-6
+PIT,Offensive Pass Interference,09/07/2014,Cleveland,J.Brown,WR,1,2014,PIT-2014-7
+PIT,Face Mask (15 Yards),09/07/2014,Cleveland,I.Taylor,CB,1,2014,PIT-2014-8
+PIT,Illegal Block Above the Waist,09/07/2014,Cleveland,T.Garvin,ILB,1,2014,PIT-2014-9
+PIT,Offensive Holding,09/07/2014,Cleveland,M.Gilbert,T,1,2014,PIT-2014-10
+PIT,Illegal Use of Hands,09/07/2014,Cleveland,C.Thomas,DE,1,2014,PIT-2014-11
+PIT,Defensive Holding,09/07/2014,Cleveland,I.Taylor,CB,1,2014,PIT-2014-12
+PIT,Offensive Holding,09/07/2014,Cleveland,H.Miller,TE,1,2014,PIT-2014-13
+PIT,Illegal Use of Hands,09/07/2014,Cleveland,C.Heyward,DE,1,2014,PIT-2014-14
+PIT,Ineligible Downfield Pass,09/11/2014,Baltimore,D.DeCastro,G,2,2014,PIT-2014-15
+PIT,Face Mask (15 Yards),09/11/2014,Baltimore,C.Allen,CB,2,2014,PIT-2014-16
+PIT,Illegal Use of Hands,09/11/2014,Baltimore,I.Taylor,CB,2,2014,PIT-2014-17
+PIT,Illegal Use of Hands,09/11/2014,Baltimore,I.Taylor,CB,2,2014,PIT-2014-18
+PIT,Defensive Pass Interference,09/11/2014,Baltimore,C.Allen,CB,2,2014,PIT-2014-19
+PIT,Offensive Holding,09/11/2014,Baltimore,D.Heyward-Bey,WR,2,2014,PIT-2014-20
+PIT,False Start,09/11/2014,Baltimore,M.Gilbert,T,2,2014,PIT-2014-21
+PIT,Unnecessary Roughness,09/11/2014,Baltimore,T.Polamalu,SS,2,2014,PIT-2014-22
+PIT,Unnecessary Roughness,09/11/2014,Baltimore,M.Mitchell,FS,2,2014,PIT-2014-23
+PIT,Face Mask (15 Yards),09/11/2014,Baltimore,M.Mitchell,FS,2,2014,PIT-2014-24
+PIT,Encroachment,09/11/2014,Baltimore,C.Heyward,DE,2,2014,PIT-2014-25
+PIT,False Start,09/21/2014,Carolina,S.Spence,ILB,3,2014,PIT-2014-26
+PIT,Offensive Holding,09/21/2014,Carolina,A.Brown,WR,3,2014,PIT-2014-27
+PIT,Offensive Holding,09/21/2014,Carolina,M.Pouncey,C,3,2014,PIT-2014-28
+PIT,Defensive Holding,09/21/2014,Carolina,I.Taylor,CB,3,2014,PIT-2014-29
+PIT,Illegal Block Above the Waist,09/21/2014,Carolina,T.Garvin,ILB,3,2014,PIT-2014-30
+PIT,False Start,09/21/2014,Carolina,K.Beachum,T,3,2014,PIT-2014-31
+PIT,Illegal Motion,09/21/2014,Carolina,J.Brown,WR,3,2014,PIT-2014-32
+PIT,Unnecessary Roughness,09/21/2014,Carolina,D.DeCastro,G,3,2014,PIT-2014-33
+PIT,Illegal Contact,09/21/2014,Carolina,C.Allen,CB,3,2014,PIT-2014-34
+PIT,Illegal Contact,09/21/2014,Carolina,C.Allen,CB,3,2014,PIT-2014-35
+PIT,Offensive Pass Interference,09/21/2014,Carolina,M.Spaeth,TE,3,2014,PIT-2014-36
+PIT,Offensive Pass Interference,09/21/2014,Carolina,M.Palmer,TE,3,2014,PIT-2014-37
+PIT,Roughing the Passer,09/21/2014,Carolina,J.Worilds,OLB,3,2014,PIT-2014-38
+PIT,Face Mask (15 Yards),09/28/2014,Tampa Bay,C.Thomas,DE,4,2014,PIT-2014-39
+PIT,Offside on Free Kick,09/28/2014,Tampa Bay,D.Heyward-Bey,WR,4,2014,PIT-2014-40
+PIT,Illegal Formation,09/28/2014,Tampa Bay,W.Gay,CB,4,2014,PIT-2014-41
+PIT,Taunting,09/28/2014,Tampa Bay,L.Bell,RB,4,2014,PIT-2014-42
+PIT,False Start,09/28/2014,Tampa Bay,D.DeCastro,G,4,2014,PIT-2014-43
+PIT,Unsportsmanlike Conduct,09/28/2014,Tampa Bay,A.Brown,WR,4,2014,PIT-2014-44
+PIT,Defensive Offside,09/28/2014,Tampa Bay,T.Polamalu,SS,4,2014,PIT-2014-45
+PIT,Unsportsmanlike Conduct,09/28/2014,Tampa Bay,C.Heyward,DE,4,2014,PIT-2014-46
+PIT,Offensive Holding,09/28/2014,Tampa Bay,K.Beachum,T,4,2014,PIT-2014-47
+PIT,Illegal Use of Hands,09/28/2014,Tampa Bay,C.Allen,CB,4,2014,PIT-2014-48
+PIT,Illegal Use of Hands,09/28/2014,Tampa Bay,B.Keisel,DE,4,2014,PIT-2014-49
+PIT,False Start,09/28/2014,Tampa Bay,M.Gilbert,T,4,2014,PIT-2014-50
+PIT,Face Mask (15 Yards),09/28/2014,Tampa Bay,T.Polamalu,SS,4,2014,PIT-2014-51
+PIT,Illegal Use of Hands,09/28/2014,Tampa Bay,B.McCain,DB,4,2014,PIT-2014-52
+PIT,Face Mask (15 Yards),09/28/2014,Tampa Bay,R.Golden,S,4,2014,PIT-2014-53
+PIT,Neutral Zone Infraction,09/28/2014,Tampa Bay,A.Moats,OLB,4,2014,PIT-2014-54
+PIT,False Start,09/28/2014,Tampa Bay,M.Pouncey,C,4,2014,PIT-2014-55
+PIT,Offensive Holding,10/05/2014,Jacksonville,R.Golden,S,5,2014,PIT-2014-56
+PIT,Offensive Offside,10/05/2014,Jacksonville,V.Williams,ILB,5,2014,PIT-2014-57
+PIT,Offensive Offside,10/05/2014,Jacksonville,A.Blake,DB,5,2014,PIT-2014-58
+PIT,False Start,10/05/2014,Jacksonville,R.Foster,G,5,2014,PIT-2014-59
+PIT,Defensive Offside,10/05/2014,Jacksonville,T.Polamalu,SS,5,2014,PIT-2014-60
+PIT,Illegal Block Above the Waist,10/05/2014,Jacksonville,R.Golden,S,5,2014,PIT-2014-61
+PIT,Delay of Game,10/05/2014,Jacksonville,L.Moore,WR,5,2014,PIT-2014-62
+PIT,Illegal Use of Hands,10/05/2014,Jacksonville,K.Beachum,T,5,2014,PIT-2014-63
+PIT,Defensive Holding,10/05/2014,Jacksonville,C.Allen,CB,5,2014,PIT-2014-64
+PIT,Player Out of Bounds on Punt,10/12/2014,Cleveland,A.Blake,DB,6,2014,PIT-2014-65
+PIT,False Start,10/12/2014,Cleveland,S.Spence,ILB,6,2014,PIT-2014-66
+PIT,Defensive Offside,10/12/2014,Cleveland,C.Heyward,DE,6,2014,PIT-2014-67
+PIT,Defensive Pass Interference,10/12/2014,Cleveland,M.Mitchell,FS,6,2014,PIT-2014-68
+PIT,Defensive Holding,10/12/2014,Cleveland,C.Allen,CB,6,2014,PIT-2014-69
+PIT,Personal Foul,10/12/2014,Cleveland,K.Beachum,T,6,2014,PIT-2014-70
+PIT,Delay of Game,10/20/2014,Houston,B.Roethlisberger,QB,7,2014,PIT-2014-71
+PIT,False Start,10/20/2014,Houston,M.Adams,T,7,2014,PIT-2014-72
+PIT,Defensive Pass Interference,10/20/2014,Houston,C.Allen,CB,7,2014,PIT-2014-73
+PIT,Delay of Game,10/20/2014,Houston,B.Wing,P,7,2014,PIT-2014-74
+PIT,Roughing the Passer,10/20/2014,Houston,J.Harrison,OLB,7,2014,PIT-2014-75
+PIT,Encroachment,10/20/2014,Houston,T.Polamalu,SS,7,2014,PIT-2014-76
+PIT,Offensive Holding,10/26/2014,Indianapolis,D.Heyward-Bey,WR,8,2014,PIT-2014-77
+PIT,Offensive Holding,10/26/2014,Indianapolis,H.Miller,TE,8,2014,PIT-2014-78
+PIT,Defensive Holding,10/26/2014,Indianapolis,M.Mitchell,FS,8,2014,PIT-2014-79
+PIT,Illegal Use of Hands,10/26/2014,Indianapolis,C.Allen,CB,8,2014,PIT-2014-80
+PIT,Defensive Holding,10/26/2014,Indianapolis,B.McCain,DB,8,2014,PIT-2014-81
+PIT,Roughing the Passer,10/26/2014,Indianapolis,C.Heyward,DE,8,2014,PIT-2014-82
+PIT,Illegal Contact,10/26/2014,Indianapolis,T.Polamalu,SS,8,2014,PIT-2014-83
+PIT,Illegal Use of Hands,10/26/2014,Indianapolis,B.McCain,DB,8,2014,PIT-2014-84
+PIT,Illegal Use of Hands,10/26/2014,Indianapolis,T.Polamalu,SS,8,2014,PIT-2014-85
+PIT,Delay of Game,10/26/2014,Indianapolis,B.Roethlisberger,QB,8,2014,PIT-2014-86
+PIT,Illegal Contact,10/26/2014,Indianapolis,L.Timmons,ILB,8,2014,PIT-2014-87
+PIT,Defensive Holding,10/26/2014,Indianapolis,J.Harrison,OLB,8,2014,PIT-2014-88
+PIT,Illegal Use of Hands,11/02/2014,Baltimore,M.Pouncey,C,9,2014,PIT-2014-89
+PIT,Roughing the Passer,11/02/2014,Baltimore,S.McLendon,NT,9,2014,PIT-2014-90
+PIT,False Start,11/02/2014,Baltimore,A.Brown,WR,9,2014,PIT-2014-91
+PIT,False Start,11/02/2014,Baltimore,H.Miller,TE,9,2014,PIT-2014-92
+PIT,Defensive Pass Interference,11/02/2014,Baltimore,A.Blake,DB,9,2014,PIT-2014-93
+PIT,Taunting,11/02/2014,Baltimore,V.Williams,ILB,9,2014,PIT-2014-94
+PIT,Unnecessary Roughness,11/02/2014,Baltimore,C.Wallace,G,9,2014,PIT-2014-95
+PIT,False Start,11/09/2014,N.Y. Jets,M.Gilbert,T,10,2014,PIT-2014-96
+PIT,Offensive Holding,11/09/2014,N.Y. Jets,M.Pouncey,C,10,2014,PIT-2014-97
+PIT,Offensive Offside,11/09/2014,N.Y. Jets,D.Heyward-Bey,WR,10,2014,PIT-2014-98
+PIT,Face Mask (15 Yards),11/17/2014,Tennessee,B.McCain,DB,11,2014,PIT-2014-99
+PIT,Offensive Holding,11/17/2014,Tennessee,M.Palmer,TE,11,2014,PIT-2014-100
+PIT,False Start,11/17/2014,Tennessee,M.Gilbert,T,11,2014,PIT-2014-101
+PIT,Illegal Block Above the Waist,11/17/2014,Tennessee,A.Moats,OLB,11,2014,PIT-2014-102
+PIT,False Start,11/30/2014,New Orleans,K.Beachum,T,13,2014,PIT-2014-103
+PIT,False Start,11/30/2014,New Orleans,R.Foster,G,13,2014,PIT-2014-104
+PIT,Defensive Holding,11/30/2014,New Orleans,A.Blake,DB,13,2014,PIT-2014-105
+PIT,Personal Foul,11/30/2014,New Orleans,C.Thomas,DE,13,2014,PIT-2014-106
+PIT,Offensive Holding,11/30/2014,New Orleans,K.Beachum,T,13,2014,PIT-2014-107
+PIT,Offensive Holding,12/07/2014,Cincinnati,M.Adams,T,14,2014,PIT-2014-108
+PIT,Neutral Zone Infraction,12/07/2014,Cincinnati,A.Moats,OLB,14,2014,PIT-2014-109
+PIT,Delay of Game,12/14/2014,Atlanta,B.Roethlisberger,QB,15,2014,PIT-2014-110
+PIT,Roughing the Passer,12/14/2014,Atlanta,J.Worilds,OLB,15,2014,PIT-2014-111
+PIT,Taunting,12/14/2014,Atlanta,A.Brown,WR,15,2014,PIT-2014-112
+PIT,Face Mask (15 Yards),12/14/2014,Atlanta,A.Brown,WR,15,2014,PIT-2014-113
+PIT,Illegal Use of Hands,12/21/2014,Kansas City,L.Timmons,ILB,16,2014,PIT-2014-114
+PIT,False Start,12/21/2014,Kansas City,M.Pouncey,C,16,2014,PIT-2014-115
+PIT,Roughing the Passer,12/21/2014,Kansas City,W.Allen,SS,16,2014,PIT-2014-116
+PIT,Taunting,12/21/2014,Kansas City,W.Gay,CB,16,2014,PIT-2014-117
+PIT,Defensive Holding,12/21/2014,Kansas City,S.Spence,ILB,16,2014,PIT-2014-118
+PIT,Unnecessary Roughness,12/21/2014,Kansas City,R.Foster,G,16,2014,PIT-2014-119
+PIT,Unnecessary Roughness,12/28/2014,Cincinnati,H.Miller,TE,17,2014,PIT-2014-120
+PIT,Offensive Holding,12/28/2014,Cincinnati,R.Foster,G,17,2014,PIT-2014-121
+PIT,Unnecessary Roughness,01/03/2015,Baltimore,M.Mitchell,FS,18,2014,PIT-2014-122
+PIT,Unnecessary Roughness,01/03/2015,Baltimore,J.Worilds,OLB,18,2014,PIT-2014-123
+PIT,Illegal Shift,01/03/2015,Baltimore,M.Wheaton,WR,18,2014,PIT-2014-124
+PIT,Defensive Pass Interference,01/03/2015,Baltimore,A.Blake,DB,18,2014,PIT-2014-125
+PIT,False Start,01/03/2015,Baltimore,D.DeCastro,G,18,2014,PIT-2014-126
+PIT,Unnecessary Roughness,01/03/2015,Baltimore,S.Thomas,SS,18,2014,PIT-2014-127
+PIT,Face Mask (15 Yards),01/03/2015,Baltimore,A.Brown,WR,18,2014,PIT-2014-128
+PIT,Offensive Holding,01/03/2015,Baltimore,K.Beachum,T,18,2014,PIT-2014-129
+PIT,Offensive Pass Interference,01/03/2015,Baltimore,M.Bryant,WR,18,2014,PIT-2014-130

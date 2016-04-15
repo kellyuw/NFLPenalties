@@ -1,0 +1,132 @@
+team,penalty,game,opponent,player,position,week,year,penaltyindex
+SD,Face Mask (15 Yards),09/13/2015,Detroit,D.Butler,ILB,1,2015,SD-2015-0
+SD,False Start,09/13/2015,Detroit,C.Watt,C,1,2015,SD-2015-1
+SD,Delay of Game,09/13/2015,Detroit,P.Rivers,QB,1,2015,SD-2015-2
+SD,Illegal Use of Hands,09/13/2015,Detroit,D.Butler,ILB,1,2015,SD-2015-3
+SD,Offensive Holding,09/13/2015,Detroit,C.Watt,C,1,2015,SD-2015-4
+SD,Offensive Holding,09/20/2015,Cincinnati,C.Hairston,T,2,2015,SD-2015-5
+SD,False Start,09/20/2015,Cincinnati,C.Hairston,T,2,2015,SD-2015-6
+SD,Face Mask (15 Yards),09/20/2015,Cincinnati,J.Verrett,CB,2,2015,SD-2015-7
+SD,Illegal Formation,09/20/2015,Cincinnati,J.Barksdale,T,2,2015,SD-2015-8
+SD,Offensive Holding,09/20/2015,Cincinnati,C.Hairston,T,2,2015,SD-2015-9
+SD,Illegal Contact,09/20/2015,Cincinnati,M.Ingram,OLB,2,2015,SD-2015-10
+SD,Defensive Offside,09/20/2015,Cincinnati,M.Ingram,OLB,2,2015,SD-2015-11
+SD,Unsportsmanlike Conduct,09/20/2015,Cincinnati,N.Dzubnar,LB,2,2015,SD-2015-12
+SD,Unnecessary Roughness,09/20/2015,Cincinnati,J.Verrett,CB,2,2015,SD-2015-13
+SD,Offensive Holding,09/20/2015,Cincinnati,O.Franklin,G,2,2015,SD-2015-14
+SD,False Start,09/20/2015,Cincinnati,J.Barksdale,T,2,2015,SD-2015-15
+SD,Offensive Holding,09/20/2015,Cincinnati,C.Watt,C,2,2015,SD-2015-16
+SD,Offensive Holding,09/27/2015,Minnesota,N.Dzubnar,LB,3,2015,SD-2015-17
+SD,Defensive Holding,09/27/2015,Minnesota,J.Verrett,CB,3,2015,SD-2015-18
+SD,Neutral Zone Infraction,09/27/2015,Minnesota,C.Liuget,DT,3,2015,SD-2015-19
+SD,Defensive Pass Interference,09/27/2015,Minnesota,S.Williams,CB,3,2015,SD-2015-20
+SD,Offensive Holding,09/27/2015,Minnesota,D.Inman,WR,3,2015,SD-2015-21
+SD,Defensive Holding,09/27/2015,Minnesota,M.Ingram,OLB,3,2015,SD-2015-22
+SD,False Start,09/27/2015,Minnesota,J.Barksdale,T,3,2015,SD-2015-23
+SD,Offensive Holding,09/27/2015,Minnesota,D.Fluker,T,3,2015,SD-2015-24
+SD,Ineligible Downfield Pass,09/27/2015,Minnesota,D.Fluker,T,3,2015,SD-2015-25
+SD,Defensive Offside,10/04/2015,Cleveland,C.Liuget,DT,4,2015,SD-2015-26
+SD,Defensive Pass Interference,10/04/2015,Cleveland,B.Flowers,CB,4,2015,SD-2015-27
+SD,Neutral Zone Infraction,10/04/2015,Cleveland,M.Ingram,OLB,4,2015,SD-2015-28
+SD,Illegal Use of Hands,10/04/2015,Cleveland,S.Williams,CB,4,2015,SD-2015-29
+SD,False Start,10/04/2015,Cleveland,K.Allen,WR,4,2015,SD-2015-30
+SD,False Start,10/04/2015,Cleveland,C.Hairston,T,4,2015,SD-2015-31
+SD,Delay of Game,10/04/2015,Cleveland,P.Rivers,QB,4,2015,SD-2015-32
+SD,Offensive Holding,10/12/2015,Pittsburgh,C.Hairston,T,5,2015,SD-2015-33
+SD,Illegal Block Above the Waist,10/12/2015,Pittsburgh,B.Flowers,CB,5,2015,SD-2015-34
+SD,Unnecessary Roughness,10/12/2015,Pittsburgh,B.Flowers,CB,5,2015,SD-2015-35
+SD,False Start,10/12/2015,Pittsburgh,C.Hairston,T,5,2015,SD-2015-36
+SD,Offensive Holding,10/12/2015,Pittsburgh,C.Watt,C,5,2015,SD-2015-37
+SD,Offensive Holding,10/12/2015,Pittsburgh,D.Fluker,T,5,2015,SD-2015-38
+SD,Offensive Holding,10/12/2015,Pittsburgh,J.Walton,C,5,2015,SD-2015-39
+SD,Defensive Holding,10/12/2015,Pittsburgh,B.Flowers,CB,5,2015,SD-2015-40
+SD,Unnecessary Roughness,10/12/2015,Pittsburgh,J.Addae,DB,5,2015,SD-2015-41
+SD,Neutral Zone Infraction,10/18/2015,Green Bay,C.Liuget,DT,6,2015,SD-2015-42
+SD,Defensive Pass Interference,10/18/2015,Green Bay,B.Flowers,CB,6,2015,SD-2015-43
+SD,Defensive Holding,10/18/2015,Green Bay,P.Robinson,CB,6,2015,SD-2015-44
+SD,Defensive Offside,10/18/2015,Green Bay,J.Attaochu,OLB,6,2015,SD-2015-45
+SD,Defensive Holding,10/18/2015,Green Bay,P.Robinson,CB,6,2015,SD-2015-46
+SD,Neutral Zone Infraction,10/18/2015,Green Bay,R.Mathews,DE,6,2015,SD-2015-47
+SD,Offensive Holding,10/18/2015,Green Bay,D.Fluker,T,6,2015,SD-2015-48
+SD,False Start,10/18/2015,Green Bay,J.Barksdale,T,6,2015,SD-2015-49
+SD,Unsportsmanlike Conduct,10/18/2015,Green Bay,D.Inman,WR,6,2015,SD-2015-50
+SD,Unsportsmanlike Conduct,10/18/2015,Green Bay,K.Allen,WR,6,2015,SD-2015-51
+SD,Face Mask (15 Yards),10/18/2015,Green Bay,D.Fluker,T,6,2015,SD-2015-52
+SD,Defensive Holding,10/18/2015,Green Bay,B.Flowers,CB,6,2015,SD-2015-53
+SD,Illegal Use of Hands,10/25/2015,Oakland,B.Flowers,CB,7,2015,SD-2015-54
+SD,Offensive Holding,10/25/2015,Oakland,D.Fluker,T,7,2015,SD-2015-55
+SD,Neutral Zone Infraction,10/25/2015,Oakland,M.Ingram,OLB,7,2015,SD-2015-56
+SD,Offensive Holding,10/25/2015,Oakland,L.Green,TE,7,2015,SD-2015-57
+SD,Offensive Holding,10/25/2015,Oakland,N.Dzubnar,LB,7,2015,SD-2015-58
+SD,Offensive Holding,10/25/2015,Oakland,O.Franklin,G,7,2015,SD-2015-59
+SD,Intentional Grounding,10/25/2015,Oakland,P.Rivers,QB,7,2015,SD-2015-60
+SD,Unnecessary Roughness,10/25/2015,Oakland,D.Fluker,T,7,2015,SD-2015-61
+SD,Offensive Holding,10/25/2015,Oakland,T.Robinson,C,7,2015,SD-2015-62
+SD,Offensive Pass Interference,10/25/2015,Oakland,K.Allen,WR,7,2015,SD-2015-63
+SD,Unsportsmanlike Conduct,11/01/2015,Baltimore,J.Addae,DB,8,2015,SD-2015-64
+SD,Unsportsmanlike Conduct,11/01/2015,Baltimore,J.Addae,DB,8,2015,SD-2015-65
+SD,Illegal Formation,11/01/2015,Baltimore,J.Barksdale,T,8,2015,SD-2015-66
+SD,Delay of Game,11/01/2015,Baltimore,P.Rivers,QB,8,2015,SD-2015-67
+SD,False Start,11/01/2015,Baltimore,J.Barksdale,T,8,2015,SD-2015-68
+SD,Defensive Pass Interference,11/01/2015,Baltimore,S.Williams,CB,8,2015,SD-2015-69
+SD,Offensive Holding,11/09/2015,Chicago,J.Phillips,TE,9,2015,SD-2015-70
+SD,Offensive Pass Interference,11/09/2015,Chicago,J.Herndon,WR,9,2015,SD-2015-71
+SD,Offensive Holding,11/09/2015,Chicago,D.Fluker,T,9,2015,SD-2015-72
+SD,False Start,11/09/2015,Chicago,T.Robinson,C,9,2015,SD-2015-73
+SD,Offensive Holding,11/09/2015,Chicago,C.Law,LB,9,2015,SD-2015-74
+SD,Delay of Game,11/09/2015,Chicago,S.Johnson,WR,9,2015,SD-2015-75
+SD,Ineligible Downfield Pass,11/09/2015,Chicago,D.Fluker,T,9,2015,SD-2015-76
+SD,Delay of Game,11/22/2015,Kansas City,M.Scifres,P,11,2015,SD-2015-77
+SD,Unnecessary Roughness,11/22/2015,Kansas City,M.Te'o,ILB,11,2015,SD-2015-78
+SD,Offensive Holding,11/22/2015,Kansas City,K.Dunlap,T,11,2015,SD-2015-79
+SD,Defensive Holding,11/22/2015,Kansas City,P.Robinson,CB,11,2015,SD-2015-80
+SD,Offensive Holding,11/22/2015,Kansas City,M.Windt,LS,11,2015,SD-2015-81
+SD,Defensive Offside,11/22/2015,Kansas City,M.Ingram,OLB,11,2015,SD-2015-82
+SD,Defensive Holding,11/22/2015,Kansas City,B.Flowers,CB,11,2015,SD-2015-83
+SD,Encroachment,11/29/2015,Jacksonville,R.Mathews,DE,12,2015,SD-2015-84
+SD,Offensive Holding,11/29/2015,Jacksonville,T.Robinson,C,12,2015,SD-2015-85
+SD,Unnecessary Roughness,11/29/2015,Jacksonville,D.Stuckey,DB,12,2015,SD-2015-86
+SD,Unsportsmanlike Conduct,11/29/2015,Jacksonville,S.Johnson,WR,12,2015,SD-2015-87
+SD,Offensive Pass Interference,11/29/2015,Jacksonville,S.Johnson,WR,12,2015,SD-2015-88
+SD,Offensive Offside,11/29/2015,Jacksonville,A.Gates,TE,12,2015,SD-2015-89
+SD,False Start,11/29/2015,Jacksonville,M.Gordon,RB,12,2015,SD-2015-90
+SD,False Start,12/06/2015,Denver,T.Robinson,C,13,2015,SD-2015-91
+SD,Defensive Pass Interference,12/06/2015,Denver,S.Williams,CB,13,2015,SD-2015-92
+SD,Offensive Holding,12/06/2015,Denver,O.Franklin,G,13,2015,SD-2015-93
+SD,Roughing the Passer,12/06/2015,Denver,M.Ingram,OLB,13,2015,SD-2015-94
+SD,Offensive Pass Interference,12/06/2015,Denver,S.Johnson,WR,13,2015,SD-2015-95
+SD,False Start,12/06/2015,Denver,C.Hairston,T,13,2015,SD-2015-96
+SD,Offensive Holding,12/06/2015,Denver,O.Franklin,G,13,2015,SD-2015-97
+SD,Intentional Grounding,12/06/2015,Denver,P.Rivers,QB,13,2015,SD-2015-98
+SD,Offensive Holding,12/13/2015,Kansas City,J.Wilson,SS,14,2015,SD-2015-99
+SD,Defensive Holding,12/13/2015,Kansas City,S.Williams,CB,14,2015,SD-2015-100
+SD,Defensive Offside,12/13/2015,Kansas City,J.Mays,LB,14,2015,SD-2015-101
+SD,Unnecessary Roughness,12/13/2015,Kansas City,J.Addae,DB,14,2015,SD-2015-102
+SD,Defensive Holding,12/13/2015,Kansas City,P.Robinson,CB,14,2015,SD-2015-103
+SD,Offensive Holding,12/13/2015,Kansas City,C.Hairston,T,14,2015,SD-2015-104
+SD,Delay of Game,12/13/2015,Kansas City,P.Rivers,QB,14,2015,SD-2015-105
+SD,False Start,12/13/2015,Kansas City,C.Hairston,T,14,2015,SD-2015-106
+SD,False Start,12/20/2015,Miami,J.Barksdale,T,15,2015,SD-2015-107
+SD,Offensive Holding,12/20/2015,Miami,N.Dzubnar,LB,15,2015,SD-2015-108
+SD,Offensive Holding,12/20/2015,Miami,O.Franklin,G,15,2015,SD-2015-109
+SD,Offensive Holding,12/20/2015,Miami,T.Robinson,C,15,2015,SD-2015-110
+SD,Offensive Pass Interference,12/20/2015,Miami,D.Inman,WR,15,2015,SD-2015-111
+SD,Delay of Game,12/20/2015,Miami,P.Rivers,QB,15,2015,SD-2015-112
+SD,Defensive Pass Interference,12/20/2015,Miami,P.Robinson,CB,15,2015,SD-2015-113
+SD,Delay of Game,12/20/2015,Miami,P.Rivers,QB,15,2015,SD-2015-114
+SD,Neutral Zone Infraction,12/24/2015,Oakland,M.Ingram,OLB,16,2015,SD-2015-115
+SD,Offensive Holding,12/24/2015,Oakland,D.Fluker,T,16,2015,SD-2015-116
+SD,False Start,12/24/2015,Oakland,D.Fluker,T,16,2015,SD-2015-117
+SD,False Start,12/24/2015,Oakland,D.Johnson,TE,16,2015,SD-2015-118
+SD,Encroachment,12/24/2015,Oakland,R.Mathews,DE,16,2015,SD-2015-119
+SD,False Start,12/24/2015,Oakland,J.Barksdale,T,16,2015,SD-2015-120
+SD,Offensive Holding,12/24/2015,Oakland,D.Fluker,T,16,2015,SD-2015-121
+SD,Unnecessary Roughness,12/24/2015,Oakland,D.Perryman,ILB,16,2015,SD-2015-122
+SD,Defensive Offside,01/03/2016,Denver,K.Reyes,DE,17,2015,SD-2015-123
+SD,False Start,01/03/2016,Denver,T.Burwell,T,17,2015,SD-2015-124
+SD,Delay of Game,01/03/2016,Denver,P.Rivers,QB,17,2015,SD-2015-125
+SD,Illegal Use of Hands,01/03/2016,Denver,C.Mager,CB,17,2015,SD-2015-126
+SD,Neutral Zone Infraction,01/03/2016,Denver,M.Ingram,OLB,17,2015,SD-2015-127
+SD,False Start,01/03/2016,Denver,J.Barksdale,T,17,2015,SD-2015-128
+SD,Encroachment,01/03/2016,Denver,D.Square,DT,17,2015,SD-2015-129
+SD,Offensive Holding,01/03/2016,Denver,J.Walton,C,17,2015,SD-2015-130

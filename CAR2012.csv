@@ -1,0 +1,112 @@
+team,penalty,game,opponent,player,position,week,year,penaltyindex
+CAR,Fair Catch Interference,09/09/2012,Tampa Bay,C.Munnerlyn,CB,1,2012,CAR-2012-0
+CAR,Defensive Pass Interference,09/09/2012,Tampa Bay,C.Gamble,CB,1,2012,CAR-2012-1
+CAR,Defensive Pass Interference,09/09/2012,Tampa Bay,J.Norman,CB,1,2012,CAR-2012-2
+CAR,False Start,09/09/2012,Tampa Bay,A.Silatolu,G,1,2012,CAR-2012-3
+CAR,False Start,09/09/2012,Tampa Bay,G.Hangartner,G,1,2012,CAR-2012-4
+CAR,Offensive Holding,09/09/2012,Tampa Bay,A.Silatolu,G,1,2012,CAR-2012-5
+CAR,Defensive Offside,09/16/2012,New Orleans,G.Hardy,DE,2,2012,CAR-2012-6
+CAR,Offensive Holding,09/16/2012,New Orleans,B.Bell,T,2,2012,CAR-2012-7
+CAR,Unnecessary Roughness,09/16/2012,New Orleans,K.Pilares,WR,2,2012,CAR-2012-8
+CAR,Delay of Game,09/16/2012,New Orleans,B.Nortman,P,2,2012,CAR-2012-9
+CAR,Defensive Offside,09/20/2012,N.Y. Giants,C.Johnson,DE,3,2012,CAR-2012-10
+CAR,False Start,09/20/2012,N.Y. Giants,S.Smith,WR,3,2012,CAR-2012-11
+CAR,Face Mask (15 Yards),09/20/2012,N.Y. Giants,C.Godfrey,FS,3,2012,CAR-2012-12
+CAR,Offensive Holding,09/20/2012,N.Y. Giants,K.Pilares,WR,3,2012,CAR-2012-13
+CAR,Defensive Offside,09/30/2012,Atlanta,G.Hardy,DE,4,2012,CAR-2012-14
+CAR,Personal Foul,09/30/2012,Atlanta,J.Norman,CB,4,2012,CAR-2012-15
+CAR,Face Mask (15 Yards),09/30/2012,Atlanta,C.Johnson,DE,4,2012,CAR-2012-16
+CAR,Defensive Offside,09/30/2012,Atlanta,F.Alexander,DE,4,2012,CAR-2012-17
+CAR,Offensive Pass Interference,09/30/2012,Atlanta,S.Smith,WR,4,2012,CAR-2012-18
+CAR,False Start,09/30/2012,Atlanta,R.Kalil,C,4,2012,CAR-2012-19
+CAR,False Start,09/30/2012,Atlanta,A.Silatolu,G,4,2012,CAR-2012-20
+CAR,Defensive Offside,09/30/2012,Atlanta,F.Alexander,DE,4,2012,CAR-2012-21
+CAR,Face Mask (15 Yards),09/30/2012,Atlanta,J.Norman,CB,4,2012,CAR-2012-22
+CAR,Delay of Game,09/30/2012,Atlanta,C.Newton,QB,4,2012,CAR-2012-23
+CAR,Defensive Pass Interference,09/30/2012,Atlanta,C.Munnerlyn,CB,4,2012,CAR-2012-24
+CAR,Offensive Holding,10/07/2012,Seattle,J.Senn,LB,5,2012,CAR-2012-25
+CAR,Offensive Holding,10/07/2012,Seattle,S.Smith,WR,5,2012,CAR-2012-26
+CAR,False Start,10/07/2012,Seattle,B.LaFell,WR,5,2012,CAR-2012-27
+CAR,Defensive Holding,10/21/2012,Dallas,D.Edwards,DT,7,2012,CAR-2012-28
+CAR,Defensive Offside,10/21/2012,Dallas,S.Fua,DT,7,2012,CAR-2012-29
+CAR,Offensive Holding,10/21/2012,Dallas,A.Silatolu,G,7,2012,CAR-2012-30
+CAR,False Start,10/21/2012,Dallas,A.Silatolu,G,7,2012,CAR-2012-31
+CAR,Personal Foul,10/21/2012,Dallas,C.Godfrey,FS,7,2012,CAR-2012-32
+CAR,False Start,10/21/2012,Dallas,J.Gross,T,7,2012,CAR-2012-33
+CAR,Defensive Holding,10/21/2012,Dallas,J.Thomas,DB,7,2012,CAR-2012-34
+CAR,False Start,10/21/2012,Dallas,A.Silatolu,G,7,2012,CAR-2012-35
+CAR,Player Out of Bounds on Punt,10/21/2012,Dallas,C.Jones,DB,7,2012,CAR-2012-36
+CAR,Horse Collar Tackle,10/21/2012,Dallas,J.Anderson,LB,7,2012,CAR-2012-37
+CAR,Illegal Use of Hands,10/28/2012,Chicago,C.Johnson,DE,8,2012,CAR-2012-38
+CAR,Ineligible Downfield Pass,10/28/2012,Chicago,G.Hangartner,G,8,2012,CAR-2012-39
+CAR,Offensive Holding,10/28/2012,Chicago,J.Byers,G,8,2012,CAR-2012-40
+CAR,Defensive Pass Interference,10/28/2012,Chicago,T.Davis,OLB,8,2012,CAR-2012-41
+CAR,Personal Foul,10/28/2012,Chicago,J.Gross,T,8,2012,CAR-2012-42
+CAR,Roughing the Passer,11/04/2012,Washington,G.Hardy,DE,9,2012,CAR-2012-43
+CAR,Personal Foul,11/04/2012,Washington,H.Nakamura,FS,9,2012,CAR-2012-44
+CAR,Face Mask (15 Yards),11/04/2012,Washington,J.Gross,T,9,2012,CAR-2012-45
+CAR,Delay of Game,11/04/2012,Washington,C.Newton,QB,9,2012,CAR-2012-46
+CAR,Neutral Zone Infraction,11/04/2012,Washington,D.Edwards,DT,9,2012,CAR-2012-47
+CAR,Defensive Offside,11/04/2012,Washington,C.Johnson,DE,9,2012,CAR-2012-48
+CAR,Unnecessary Roughness,11/04/2012,Washington,T.Davis,OLB,9,2012,CAR-2012-49
+CAR,Delay of Game,11/04/2012,Washington,B.Nortman,P,9,2012,CAR-2012-50
+CAR,Illegal Use of Hands,11/11/2012,Denver,A.Silatolu,G,10,2012,CAR-2012-51
+CAR,False Start,11/11/2012,Denver,J.Thomas,DB,10,2012,CAR-2012-52
+CAR,Offensive Pass Interference,11/11/2012,Denver,L.Murphy,WR,10,2012,CAR-2012-53
+CAR,Defensive Holding,11/11/2012,Denver,C.Munnerlyn,CB,10,2012,CAR-2012-54
+CAR,Offensive Holding,11/11/2012,Denver,J.Dockery,DB,10,2012,CAR-2012-55
+CAR,Offensive Holding,11/11/2012,Denver,J.Gross,T,10,2012,CAR-2012-56
+CAR,Offensive Pass Interference,11/11/2012,Denver,B.LaFell,WR,10,2012,CAR-2012-57
+CAR,False Start,11/18/2012,Tampa Bay,G.Olsen,TE,11,2012,CAR-2012-58
+CAR,Unnecessary Roughness,11/18/2012,Tampa Bay,J.Anderson,LB,11,2012,CAR-2012-59
+CAR,Offensive Holding,11/18/2012,Tampa Bay,J.Senn,LB,11,2012,CAR-2012-60
+CAR,Illegal Use of Hands,11/18/2012,Tampa Bay,G.Hangartner,G,11,2012,CAR-2012-61
+CAR,False Start,11/18/2012,Tampa Bay,B.Bell,T,11,2012,CAR-2012-62
+CAR,Offensive Pass Interference,11/18/2012,Tampa Bay,S.Smith,WR,11,2012,CAR-2012-63
+CAR,Encroachment,11/18/2012,Tampa Bay,G.Hardy,DE,11,2012,CAR-2012-64
+CAR,False Start,11/18/2012,Tampa Bay,G.Olsen,TE,11,2012,CAR-2012-65
+CAR,Illegal Block Above the Waist,11/18/2012,Tampa Bay,A.Silatolu,G,11,2012,CAR-2012-66
+CAR,Defensive Pass Interference,11/18/2012,Tampa Bay,J.Thomas,DB,11,2012,CAR-2012-67
+CAR,Defensive Offside,11/18/2012,Tampa Bay,C.Johnson,DE,11,2012,CAR-2012-68
+CAR,Unnecessary Roughness,11/18/2012,Tampa Bay,T.Davis,OLB,11,2012,CAR-2012-69
+CAR,Unnecessary Roughness,11/26/2012,Philadelphia,G.Hardy,DE,12,2012,CAR-2012-70
+CAR,Fair Catch Interference,11/26/2012,Philadelphia,J.Thomas,DB,12,2012,CAR-2012-71
+CAR,Clipping,11/26/2012,Philadelphia,M.Tolbert,FB,12,2012,CAR-2012-72
+CAR,Defensive Offside,11/26/2012,Philadelphia,F.Alexander,DE,12,2012,CAR-2012-73
+CAR,Neutral Zone Infraction,11/26/2012,Philadelphia,C.Johnson,DE,12,2012,CAR-2012-74
+CAR,Defensive Pass Interference,11/26/2012,Philadelphia,H.Nakamura,FS,12,2012,CAR-2012-75
+CAR,Offensive Holding,11/26/2012,Philadelphia,B.Hartsock,TE,12,2012,CAR-2012-76
+CAR,False Start,12/02/2012,Kansas City,J.Bridges,G,13,2012,CAR-2012-77
+CAR,False Start,12/02/2012,Kansas City,N.Chandler,T,13,2012,CAR-2012-78
+CAR,Illegal Use of Hands,12/02/2012,Kansas City,G.Hardy,DE,13,2012,CAR-2012-79
+CAR,Neutral Zone Infraction,12/02/2012,Kansas City,C.Johnson,DE,13,2012,CAR-2012-80
+CAR,Encroachment,12/02/2012,Kansas City,A.Neblett,DT,13,2012,CAR-2012-81
+CAR,Personal Foul,12/02/2012,Kansas City,J.Thomas,DB,13,2012,CAR-2012-82
+CAR,False Start,12/09/2012,Atlanta,G.Olsen,TE,14,2012,CAR-2012-83
+CAR,False Start,12/09/2012,Atlanta,B.Bell,T,14,2012,CAR-2012-84
+CAR,Defensive Pass Interference,12/09/2012,Atlanta,C.Munnerlyn,CB,14,2012,CAR-2012-85
+CAR,Neutral Zone Infraction,12/16/2012,San Diego,L.Kuechly,MLB,15,2012,CAR-2012-86
+CAR,Neutral Zone Infraction,12/16/2012,San Diego,C.Johnson,DE,15,2012,CAR-2012-87
+CAR,Illegal Use of Hands,12/16/2012,San Diego,A.Smith,RB,15,2012,CAR-2012-88
+CAR,Offensive Holding,12/16/2012,San Diego,A.Silatolu,G,15,2012,CAR-2012-89
+CAR,Illegal Block Above the Waist,12/16/2012,San Diego,N.Chandler,T,15,2012,CAR-2012-90
+CAR,Offensive Pass Interference,12/16/2012,San Diego,L.Murphy,WR,15,2012,CAR-2012-91
+CAR,Defensive Pass Interference,12/16/2012,San Diego,J.Thomas,DB,15,2012,CAR-2012-92
+CAR,Offensive Holding,12/23/2012,Oakland,S.Smith,WR,16,2012,CAR-2012-93
+CAR,Offensive Holding,12/23/2012,Oakland,J.Byers,G,16,2012,CAR-2012-94
+CAR,Offensive Pass Interference,12/23/2012,Oakland,S.Smith,WR,16,2012,CAR-2012-95
+CAR,Roughing the Passer,12/23/2012,Oakland,G.Hardy,DE,16,2012,CAR-2012-96
+CAR,Unnecessary Roughness,12/23/2012,Oakland,L.Kuechly,MLB,16,2012,CAR-2012-97
+CAR,Offensive Holding,12/23/2012,Oakland,J.Byers,G,16,2012,CAR-2012-98
+CAR,Illegal Motion,12/23/2012,Oakland,C.Newton,QB,16,2012,CAR-2012-99
+CAR,Unnecessary Roughness,12/23/2012,Oakland,C.Godfrey,FS,16,2012,CAR-2012-100
+CAR,Unsportsmanlike Conduct,12/23/2012,Oakland,C.Newton,QB,16,2012,CAR-2012-101
+CAR,Face Mask (15 Yards),12/23/2012,Oakland,D.Hogue,LB,16,2012,CAR-2012-102
+CAR,False Start,12/23/2012,Oakland,G.Williams,T,16,2012,CAR-2012-103
+CAR,Illegal Touch Kick,12/30/2012,New Orleans,A.Smith,RB,17,2012,CAR-2012-104
+CAR,Illegal Contact,12/30/2012,New Orleans,C.Munnerlyn,CB,17,2012,CAR-2012-105
+CAR,Illegal Use of Hands,12/30/2012,New Orleans,B.Bell,T,17,2012,CAR-2012-106
+CAR,Offensive Holding,12/30/2012,New Orleans,J.Byers,G,17,2012,CAR-2012-107
+CAR,False Start,12/30/2012,New Orleans,B.Hartsock,TE,17,2012,CAR-2012-108
+CAR,Offensive Holding,12/30/2012,New Orleans,B.Bell,T,17,2012,CAR-2012-109
+CAR,Defensive Pass Interference,12/30/2012,New Orleans,C.Munnerlyn,CB,17,2012,CAR-2012-110

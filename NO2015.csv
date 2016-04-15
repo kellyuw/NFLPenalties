@@ -1,0 +1,138 @@
+team,penalty,game,opponent,player,position,week,year,penaltyindex
+NO,Face Mask (15 Yards),09/13/2015,Arizona,D.Swann,CB,1,2015,NO-2015-0
+NO,Defensive Holding,09/13/2015,Arizona,B.Browner,DB,1,2015,NO-2015-1
+NO,Illegal Contact,09/13/2015,Arizona,D.Breaux,DB,1,2015,NO-2015-2
+NO,Defensive Pass Interference,09/13/2015,Arizona,D.Breaux,DB,1,2015,NO-2015-3
+NO,False Start,09/13/2015,Arizona,J.Evans,G,1,2015,NO-2015-4
+NO,Offensive Holding,09/13/2015,Arizona,Z.Strief,T,1,2015,NO-2015-5
+NO,Defensive Holding,09/13/2015,Arizona,D.Breaux,DB,1,2015,NO-2015-6
+NO,Defensive Holding,09/13/2015,Arizona,D.Breaux,DB,1,2015,NO-2015-7
+NO,Defensive Pass Interference,09/13/2015,Arizona,K.Wilson,DB,1,2015,NO-2015-8
+NO,Offensive Holding,09/13/2015,Arizona,J.Evans,G,1,2015,NO-2015-9
+NO,False Start,09/20/2015,Tampa Bay,K.Robinson,RB,2,2015,NO-2015-10
+NO,False Start,09/20/2015,Tampa Bay,A.Johnson,FB,2,2015,NO-2015-11
+NO,Offensive Holding,09/20/2015,Tampa Bay,D.Jones,DB,2,2015,NO-2015-12
+NO,Defensive Holding,09/20/2015,Tampa Bay,B.Browner,DB,2,2015,NO-2015-13
+NO,Roughing the Passer,09/20/2015,Tampa Bay,K.Vaccaro,SS,2,2015,NO-2015-14
+NO,Defensive Pass Interference,09/20/2015,Tampa Bay,B.Browner,DB,2,2015,NO-2015-15
+NO,Defensive Offside,09/20/2015,Tampa Bay,H.Kikaha,OLB,2,2015,NO-2015-16
+NO,Illegal Motion,09/20/2015,Tampa Bay,J.Morgan,WR,2,2015,NO-2015-17
+NO,Defensive Holding,09/20/2015,Tampa Bay,B.Richardson,DT,2,2015,NO-2015-18
+NO,Face Mask (15 Yards),09/20/2015,Tampa Bay,B.Browner,DB,2,2015,NO-2015-19
+NO,Illegal Use of Hands,09/20/2015,Tampa Bay,T.Lelito,C,2,2015,NO-2015-20
+NO,False Start,09/27/2015,Carolina,Z.Strief,T,3,2015,NO-2015-21
+NO,Offensive Holding,09/27/2015,Carolina,T.Lelito,C,3,2015,NO-2015-22
+NO,False Start,09/27/2015,Carolina,D.Jones,DB,3,2015,NO-2015-23
+NO,Illegal Contact,09/27/2015,Carolina,B.Browner,DB,3,2015,NO-2015-24
+NO,False Start,09/27/2015,Carolina,Z.Strief,T,3,2015,NO-2015-25
+NO,Unnecessary Roughness,09/27/2015,Carolina,S.Anthony,ILB,3,2015,NO-2015-26
+NO,Illegal Shift,09/27/2015,Carolina,B.Watson,TE,3,2015,NO-2015-27
+NO,Defensive Holding,10/04/2015,Dallas,B.Browner,DB,4,2015,NO-2015-28
+NO,Illegal Use of Hands,10/04/2015,Dallas,K.Lewis,CB,4,2015,NO-2015-29
+NO,Face Mask (15 Yards),10/04/2015,Dallas,D.Swann,CB,4,2015,NO-2015-30
+NO,Defensive Pass Interference,10/04/2015,Dallas,D.Breaux,DB,4,2015,NO-2015-31
+NO,Defensive Holding,10/04/2015,Dallas,B.Browner,DB,4,2015,NO-2015-32
+NO,Offensive Holding,10/04/2015,Dallas,M.Unger,C,4,2015,NO-2015-33
+NO,Illegal Use of Hands,10/04/2015,Dallas,D.Breaux,DB,4,2015,NO-2015-34
+NO,Unsportsmanlike Conduct,10/04/2015,Dallas,K.Robinson,RB,4,2015,NO-2015-35
+NO,Defensive Pass Interference,10/11/2015,Philadelphia,D.Breaux,DB,5,2015,NO-2015-36
+NO,Face Mask (15 Yards),10/11/2015,Philadelphia,K.Lewis,CB,5,2015,NO-2015-37
+NO,Illegal Block Above the Waist,10/11/2015,Philadelphia,B.Dixon,DB,5,2015,NO-2015-38
+NO,Roughing the Passer,10/11/2015,Philadelphia,C.Jordan,DE,5,2015,NO-2015-39
+NO,Face Mask (15 Yards),10/11/2015,Philadelphia,D.Ellerbe,LB,5,2015,NO-2015-40
+NO,Neutral Zone Infraction,10/11/2015,Philadelphia,K.Williams,DT,5,2015,NO-2015-41
+NO,Face Mask (15 Yards),10/11/2015,Philadelphia,B.Browner,DB,5,2015,NO-2015-42
+NO,Defensive Holding,10/11/2015,Philadelphia,B.Browner,DB,5,2015,NO-2015-43
+NO,False Start,10/15/2015,Atlanta,T.Hills,T,6,2015,NO-2015-44
+NO,Defensive Offside,10/15/2015,Atlanta,H.Kikaha,OLB,6,2015,NO-2015-45
+NO,Delay of Game,10/15/2015,Atlanta,D.Brees,QB,6,2015,NO-2015-46
+NO,Fair Catch Interference,10/25/2015,Indianapolis,B.Dixon,DB,7,2015,NO-2015-47
+NO,Offensive Holding,10/25/2015,Indianapolis,M.Hoomanawanui,TE,7,2015,NO-2015-48
+NO,Offensive Holding,10/25/2015,Indianapolis,J.Evans,G,7,2015,NO-2015-49
+NO,Illegal Block Above the Waist,10/25/2015,Indianapolis,J.Sanford,SS,7,2015,NO-2015-50
+NO,Neutral Zone Infraction,10/25/2015,Indianapolis,B.Richardson,DT,7,2015,NO-2015-51
+NO,Offensive Pass Interference,10/25/2015,Indianapolis,J.Hill,TE,7,2015,NO-2015-52
+NO,Illegal Block Above the Waist,10/25/2015,Indianapolis,M.Mauti,LB,7,2015,NO-2015-53
+NO,Delay of Game,10/25/2015,Indianapolis,K.Forbath,K,7,2015,NO-2015-54
+NO,Defensive Holding,10/25/2015,Indianapolis,B.Browner,DB,7,2015,NO-2015-55
+NO,Defensive Offside,10/25/2015,Indianapolis,B.Browner,DB,7,2015,NO-2015-56
+NO,Unnecessary Roughness,10/25/2015,Indianapolis,B.Richardson,DT,7,2015,NO-2015-57
+NO,Fair Catch Interference,10/25/2015,Indianapolis,B.Dixon,DB,7,2015,NO-2015-58
+NO,Illegal Shift,10/25/2015,Indianapolis,W.Snead,WR,7,2015,NO-2015-59
+NO,Defensive Holding,11/01/2015,N.Y. Giants,K.Vaccaro,SS,8,2015,NO-2015-60
+NO,Unnecessary Roughness,11/01/2015,N.Y. Giants,B.Browner,DB,8,2015,NO-2015-61
+NO,Defensive Holding,11/01/2015,N.Y. Giants,B.Browner,DB,8,2015,NO-2015-62
+NO,Offensive Holding,11/01/2015,N.Y. Giants,B.Watson,TE,8,2015,NO-2015-63
+NO,False Start,11/01/2015,N.Y. Giants,W.Snead,WR,8,2015,NO-2015-64
+NO,Defensive Holding,11/01/2015,N.Y. Giants,B.Browner,DB,8,2015,NO-2015-65
+NO,Roughing the Passer,11/01/2015,N.Y. Giants,H.Kikaha,OLB,8,2015,NO-2015-66
+NO,False Start,11/01/2015,N.Y. Giants,Z.Strief,T,8,2015,NO-2015-67
+NO,Defensive Pass Interference,11/01/2015,N.Y. Giants,B.Browner,DB,8,2015,NO-2015-68
+NO,Defensive Holding,11/01/2015,N.Y. Giants,D.Breaux,DB,8,2015,NO-2015-69
+NO,Defensive Offside,11/01/2015,N.Y. Giants,T.Davison,DT,8,2015,NO-2015-70
+NO,False Start,11/01/2015,N.Y. Giants,T.Armstead,T,8,2015,NO-2015-71
+NO,False Start,11/01/2015,N.Y. Giants,Z.Strief,T,8,2015,NO-2015-72
+NO,Offensive Pass Interference,11/08/2015,Tennessee,J.Hill,TE,9,2015,NO-2015-73
+NO,Defensive Offside,11/08/2015,Tennessee,B.Richardson,DT,9,2015,NO-2015-74
+NO,Offensive Holding,11/08/2015,Tennessee,T.Armstead,T,9,2015,NO-2015-75
+NO,Illegal Contact,11/08/2015,Tennessee,K.Vaccaro,SS,9,2015,NO-2015-76
+NO,False Start,11/08/2015,Tennessee,T.Armstead,T,9,2015,NO-2015-77
+NO,Personal Foul,11/08/2015,Tennessee,M.Mauti,LB,9,2015,NO-2015-78
+NO,Roughing the Passer,11/08/2015,Tennessee,K.Wilson,DB,9,2015,NO-2015-79
+NO,Offensive Holding,11/08/2015,Tennessee,B.Cooks,WR,9,2015,NO-2015-80
+NO,Defensive Holding,11/08/2015,Tennessee,B.Browner,DB,9,2015,NO-2015-81
+NO,Defensive Pass Interference,11/08/2015,Tennessee,B.Browner,DB,9,2015,NO-2015-82
+NO,Neutral Zone Infraction,11/15/2015,Washington,H.Kikaha,OLB,10,2015,NO-2015-83
+NO,False Start,11/15/2015,Washington,T.Armstead,T,10,2015,NO-2015-84
+NO,Offensive Pass Interference,11/15/2015,Washington,B.Watson,TE,10,2015,NO-2015-85
+NO,Defensive Holding,11/15/2015,Washington,K.Wilson,DB,10,2015,NO-2015-86
+NO,Offensive Holding,11/15/2015,Washington,Z.Strief,T,10,2015,NO-2015-87
+NO,Offensive Holding,11/15/2015,Washington,J.Dunbar,OLB,10,2015,NO-2015-88
+NO,Offensive Pass Interference,11/15/2015,Washington,B.Watson,TE,10,2015,NO-2015-89
+NO,Neutral Zone Infraction,11/29/2015,Houston,K.Williams,DT,12,2015,NO-2015-90
+NO,Illegal Block Above the Waist,11/29/2015,Houston,B.Browner,DB,12,2015,NO-2015-91
+NO,Delay of Game,11/29/2015,Houston,D.Brees,QB,12,2015,NO-2015-92
+NO,Intentional Grounding,11/29/2015,Houston,D.Brees,QB,12,2015,NO-2015-93
+NO,Defensive Pass Interference,11/29/2015,Houston,D.Breaux,DB,12,2015,NO-2015-94
+NO,Defensive Holding,11/29/2015,Houston,D.Breaux,DB,12,2015,NO-2015-95
+NO,Illegal Block Above the Waist,11/29/2015,Houston,B.Coleman,WR,12,2015,NO-2015-96
+NO,Unsportsmanlike Conduct,11/29/2015,Houston,T.Graham,WR,12,2015,NO-2015-97
+NO,False Start,12/06/2015,Carolina,T.Graham,WR,13,2015,NO-2015-98
+NO,Neutral Zone Infraction,12/06/2015,Carolina,B.Richardson,DT,13,2015,NO-2015-99
+NO,Taunting,12/06/2015,Carolina,K.Vaccaro,SS,13,2015,NO-2015-100
+NO,Offensive Holding,12/06/2015,Carolina,S.Kelemete,G,13,2015,NO-2015-101
+NO,Face Mask (15 Yards),12/06/2015,Carolina,B.Browner,DB,13,2015,NO-2015-102
+NO,Unnecessary Roughness,12/06/2015,Carolina,B.Browner,DB,13,2015,NO-2015-103
+NO,Defensive Holding,12/06/2015,Carolina,B.Browner,DB,13,2015,NO-2015-104
+NO,Defensive Holding,12/06/2015,Carolina,K.Vaccaro,SS,13,2015,NO-2015-105
+NO,Illegal Block Above the Waist,12/06/2015,Carolina,K.Wilson,DB,13,2015,NO-2015-106
+NO,Unsportsmanlike Conduct,12/06/2015,Carolina,M.Ingram,RB,13,2015,NO-2015-107
+NO,Defensive Holding,12/06/2015,Carolina,J.Byrd,FS,13,2015,NO-2015-108
+NO,Offensive Holding,12/13/2015,Tampa Bay,B.Coleman,WR,14,2015,NO-2015-109
+NO,Illegal Formation,12/13/2015,Tampa Bay,Z.Strief,T,14,2015,NO-2015-110
+NO,False Start,12/13/2015,Tampa Bay,S.Kelemete,G,14,2015,NO-2015-111
+NO,Unnecessary Roughness,12/13/2015,Tampa Bay,K.Wilson,DB,14,2015,NO-2015-112
+NO,Unnecessary Roughness,12/13/2015,Tampa Bay,K.Wilson,DB,14,2015,NO-2015-113
+NO,Defensive Holding,12/13/2015,Tampa Bay,B.Browner,DB,14,2015,NO-2015-114
+NO,Delay of Game,12/13/2015,Tampa Bay,D.Brees,QB,14,2015,NO-2015-115
+NO,Illegal Contact,12/13/2015,Tampa Bay,K.Wilson,DB,14,2015,NO-2015-116
+NO,False Start,12/13/2015,Tampa Bay,M.Unger,C,14,2015,NO-2015-117
+NO,Roughing the Passer,12/13/2015,Tampa Bay,K.Vaccaro,SS,14,2015,NO-2015-118
+NO,False Start,12/13/2015,Tampa Bay,Z.Strief,T,14,2015,NO-2015-119
+NO,Unnecessary Roughness,12/21/2015,Detroit,B.Browner,DB,15,2015,NO-2015-120
+NO,False Start,12/21/2015,Detroit,B.Watson,TE,15,2015,NO-2015-121
+NO,Offensive Holding,12/21/2015,Detroit,J.Evans,G,15,2015,NO-2015-122
+NO,Illegal Use of Hands,12/21/2015,Detroit,B.Browner,DB,15,2015,NO-2015-123
+NO,False Start,12/21/2015,Detroit,T.Armstead,T,15,2015,NO-2015-124
+NO,Illegal Formation,12/21/2015,Detroit,S.Kelemete,G,15,2015,NO-2015-125
+NO,Ineligible Downfield Pass,12/21/2015,Detroit,J.Evans,G,15,2015,NO-2015-126
+NO,Offensive Holding,12/27/2015,Jacksonville,M.Hoomanawanui,TE,16,2015,NO-2015-127
+NO,Offensive Holding,12/27/2015,Jacksonville,M.Hoomanawanui,TE,16,2015,NO-2015-128
+NO,Illegal Block Above the Waist,12/27/2015,Jacksonville,B.Dixon,DB,16,2015,NO-2015-129
+NO,False Start,12/27/2015,Jacksonville,W.Snead,WR,16,2015,NO-2015-130
+NO,Delay of Game,12/27/2015,Jacksonville,D.Brees,QB,16,2015,NO-2015-131
+NO,Offensive Holding,01/03/2016,Atlanta,Z.Strief,T,17,2015,NO-2015-132
+NO,Defensive Holding,01/03/2016,Atlanta,D.Breaux,DB,17,2015,NO-2015-133
+NO,Face Mask (15 Yards),01/03/2016,Atlanta,R.Humber,ILB,17,2015,NO-2015-134
+NO,Roughing the Passer,01/03/2016,Atlanta,B.Richardson,DT,17,2015,NO-2015-135
+NO,Defensive Pass Interference,01/03/2016,Atlanta,B.Dixon,DB,17,2015,NO-2015-136

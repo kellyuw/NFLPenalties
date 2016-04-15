@@ -1,0 +1,124 @@
+team,penalty,game,opponent,player,position,week,year,penaltyindex
+MIN,Illegal Block Above the Waist,09/11/2011,San Diego,J.Sanford,SS,1,2011,MIN-2011-0
+MIN,Defensive Pass Interference,09/11/2011,San Diego,C.Cook,CB,1,2011,MIN-2011-1
+MIN,Illegal Contact,09/11/2011,San Diego,C.Cook,CB,1,2011,MIN-2011-2
+MIN,Horse Collar Tackle,09/11/2011,San Diego,E.Frampton,DB,1,2011,MIN-2011-3
+MIN,False Start,09/11/2011,San Diego,P.Loadholt,T,1,2011,MIN-2011-4
+MIN,Unnecessary Roughness,09/11/2011,San Diego,C.Griffin,CB,1,2011,MIN-2011-5
+MIN,Defensive Offside,09/11/2011,San Diego,L.Guion,NT,1,2011,MIN-2011-6
+MIN,Defensive Offside,09/11/2011,San Diego,L.Guion,NT,1,2011,MIN-2011-7
+MIN,Encroachment,09/11/2011,San Diego,F.Evans,DT,1,2011,MIN-2011-8
+MIN,Illegal Block Above the Waist,09/18/2011,Tampa Bay,H.Abdullah,FS,2,2011,MIN-2011-9
+MIN,Defensive Offside,09/18/2011,Tampa Bay,F.Evans,DT,2,2011,MIN-2011-10
+MIN,Offensive Holding,09/18/2011,Tampa Bay,J.Kleinsasser,TE,2,2011,MIN-2011-11
+MIN,False Start,09/18/2011,Tampa Bay,P.Loadholt,T,2,2011,MIN-2011-12
+MIN,Offensive Holding,09/18/2011,Tampa Bay,A.Peterson,RB,2,2011,MIN-2011-13
+MIN,Defensive Offside,09/18/2011,Tampa Bay,B.Robison,DE,2,2011,MIN-2011-14
+MIN,Roughing the Passer,09/18/2011,Tampa Bay,J.Allen,LB,2,2011,MIN-2011-15
+MIN,False Start,09/18/2011,Tampa Bay,E.Griffen,DE,2,2011,MIN-2011-16
+MIN,Offensive Holding,09/25/2011,Detroit,A.Allen,CB,3,2011,MIN-2011-17
+MIN,Offensive Holding,09/25/2011,Detroit,S.Hutchinson,G,3,2011,MIN-2011-18
+MIN,Neutral Zone Infraction,09/25/2011,Detroit,E.Griffen,DE,3,2011,MIN-2011-19
+MIN,False Start,09/25/2011,Detroit,C.Johnson,WR,3,2011,MIN-2011-20
+MIN,Player Out of Bounds on Punt,09/25/2011,Detroit,D.Aromashodu,WR,3,2011,MIN-2011-21
+MIN,Illegal Formation,09/25/2011,Detroit,C.Johnson,WR,3,2011,MIN-2011-22
+MIN,Illegal Use of Hands,09/25/2011,Detroit,C.Griffin,CB,3,2011,MIN-2011-23
+MIN,Encroachment,09/25/2011,Detroit,K.Williams,DT,3,2011,MIN-2011-24
+MIN,Offensive Holding,09/25/2011,Detroit,M.Jenkins,WR,3,2011,MIN-2011-25
+MIN,Defensive Holding,09/25/2011,Detroit,C.Griffin,CB,3,2011,MIN-2011-26
+MIN,Horse Collar Tackle,09/25/2011,Detroit,C.Greenway,OLB,3,2011,MIN-2011-27
+MIN,Unnecessary Roughness,09/25/2011,Detroit,K.Onatolu,LB,3,2011,MIN-2011-28
+MIN,Illegal Forward Pass,09/25/2011,Detroit,M.Jenkins,WR,3,2011,MIN-2011-29
+MIN,Face Mask (15 Yards),10/02/2011,Kansas City,E.Griffen,DE,4,2011,MIN-2011-30
+MIN,False Start,10/02/2011,Kansas City,C.Johnson,WR,4,2011,MIN-2011-31
+MIN,Offensive Holding,10/02/2011,Kansas City,P.Loadholt,T,4,2011,MIN-2011-32
+MIN,False Start,10/02/2011,Kansas City,V.Shiancoe,TE,4,2011,MIN-2011-33
+MIN,Illegal Use of Hands,10/02/2011,Kansas City,C.Griffin,CB,4,2011,MIN-2011-34
+MIN,Delay of Game,10/02/2011,Kansas City,C.Kluwe,P,4,2011,MIN-2011-35
+MIN,Illegal Contact,10/02/2011,Kansas City,C.Griffin,CB,4,2011,MIN-2011-36
+MIN,Offensive Holding,10/02/2011,Kansas City,P.Loadholt,T,4,2011,MIN-2011-37
+MIN,False Start,10/09/2011,Arizona,V.Shiancoe,TE,5,2011,MIN-2011-38
+MIN,Offensive Holding,10/09/2011,Arizona,J.Kleinsasser,TE,5,2011,MIN-2011-39
+MIN,Offensive Holding,10/09/2011,Arizona,V.Shiancoe,TE,5,2011,MIN-2011-40
+MIN,Neutral Zone Infraction,10/09/2011,Arizona,C.Ballard,DL,5,2011,MIN-2011-41
+MIN,Delay of Game,10/09/2011,Arizona,R.Longwell,K,5,2011,MIN-2011-42
+MIN,Horse Collar Tackle,10/16/2011,Chicago,C.Griffin,CB,6,2011,MIN-2011-43
+MIN,False Start,10/16/2011,Chicago,M.Jenkins,WR,6,2011,MIN-2011-44
+MIN,Roughing the Passer,10/16/2011,Chicago,K.Williams,DT,6,2011,MIN-2011-45
+MIN,Offensive Holding,10/16/2011,Chicago,S.Hutchinson,G,6,2011,MIN-2011-46
+MIN,Offensive Holding,10/16/2011,Chicago,P.Brown,T,6,2011,MIN-2011-47
+MIN,Illegal Block Above the Waist,10/23/2011,Green Bay,H.Abdullah,FS,7,2011,MIN-2011-48
+MIN,Defensive Pass Interference,10/23/2011,Green Bay,A.Allen,CB,7,2011,MIN-2011-49
+MIN,Unnecessary Roughness,10/23/2011,Green Bay,B.Robison,DE,7,2011,MIN-2011-50
+MIN,False Start,10/23/2011,Green Bay,S.Hutchinson,G,7,2011,MIN-2011-51
+MIN,Roughing the Passer,10/23/2011,Green Bay,L.Guion,NT,7,2011,MIN-2011-52
+MIN,Running Into the Kicker,10/23/2011,Green Bay,A.Allen,CB,7,2011,MIN-2011-53
+MIN,Defensive Pass Interference,10/23/2011,Green Bay,C.Griffin,CB,7,2011,MIN-2011-54
+MIN,Illegal Block Above the Waist,10/23/2011,Green Bay,M.Raymond,DB,7,2011,MIN-2011-55
+MIN,Offensive Holding,10/23/2011,Green Bay,J.Berger,C,7,2011,MIN-2011-56
+MIN,Face Mask (15 Yards),10/30/2011,Carolina,C.Griffin,CB,8,2011,MIN-2011-57
+MIN,Personal Foul,10/30/2011,Carolina,P.Harvin,WR,8,2011,MIN-2011-58
+MIN,Neutral Zone Infraction,10/30/2011,Carolina,C.Greenway,OLB,8,2011,MIN-2011-59
+MIN,Offensive Holding,10/30/2011,Carolina,L.Dean,LB,8,2011,MIN-2011-60
+MIN,Offensive Pass Interference,11/14/2011,Green Bay,P.Harvin,WR,10,2011,MIN-2011-61
+MIN,False Start,11/14/2011,Green Bay,F.Evans,DT,10,2011,MIN-2011-62
+MIN,Offensive Holding,11/14/2011,Green Bay,P.Harvin,WR,10,2011,MIN-2011-63
+MIN,Neutral Zone Infraction,11/14/2011,Green Bay,E.Griffen,DE,10,2011,MIN-2011-64
+MIN,Offside on Free Kick,11/14/2011,Green Bay,E.Frampton,DB,10,2011,MIN-2011-65
+MIN,Neutral Zone Infraction,11/14/2011,Green Bay,E.Griffen,DE,10,2011,MIN-2011-66
+MIN,Defensive Pass Interference,11/14/2011,Green Bay,A.Allen,CB,10,2011,MIN-2011-67
+MIN,Defensive Offside,11/14/2011,Green Bay,E.Griffen,DE,10,2011,MIN-2011-68
+MIN,Illegal Use of Hands,11/14/2011,Green Bay,T.Johnson,DT,10,2011,MIN-2011-69
+MIN,Neutral Zone Infraction,11/14/2011,Green Bay,C.Greenway,OLB,10,2011,MIN-2011-70
+MIN,Offensive Holding,11/14/2011,Green Bay,J.Kleinsasser,TE,10,2011,MIN-2011-71
+MIN,False Start,11/20/2011,Oakland,C.Johnson,WR,11,2011,MIN-2011-72
+MIN,Offensive Holding,11/20/2011,Oakland,S.Hutchinson,G,11,2011,MIN-2011-73
+MIN,Offensive Holding,11/20/2011,Oakland,M.Jenkins,WR,11,2011,MIN-2011-74
+MIN,Defensive Offside,11/20/2011,Oakland,L.Guion,NT,11,2011,MIN-2011-75
+MIN,Defensive Offside,11/20/2011,Oakland,C.Griffin,CB,11,2011,MIN-2011-76
+MIN,False Start,11/20/2011,Oakland,J.Berger,C,11,2011,MIN-2011-77
+MIN,Offensive Holding,11/20/2011,Oakland,C.Johnson,WR,11,2011,MIN-2011-78
+MIN,Illegal Shift,11/20/2011,Oakland,K.Rudolph,TE,11,2011,MIN-2011-79
+MIN,Defensive Holding,11/20/2011,Oakland,A.Allen,CB,11,2011,MIN-2011-80
+MIN,False Start,11/20/2011,Oakland,V.Shiancoe,TE,11,2011,MIN-2011-81
+MIN,Defensive Holding,11/20/2011,Oakland,K.Williams,DT,11,2011,MIN-2011-82
+MIN,Illegal Contact,11/20/2011,Oakland,C.Griffin,CB,11,2011,MIN-2011-83
+MIN,Face Mask (15 Yards),11/27/2011,Atlanta,J.Allen,LB,12,2011,MIN-2011-84
+MIN,Encroachment,11/27/2011,Atlanta,C.Ballard,DL,12,2011,MIN-2011-85
+MIN,Offensive Holding,11/27/2011,Atlanta,B.Sapp,CB,12,2011,MIN-2011-86
+MIN,Illegal Block Above the Waist,11/27/2011,Atlanta,G.Camarillo,WR,12,2011,MIN-2011-87
+MIN,False Start,11/27/2011,Atlanta,P.Loadholt,T,12,2011,MIN-2011-88
+MIN,Illegal Motion,11/27/2011,Atlanta,C.Ponder,QB,12,2011,MIN-2011-89
+MIN,Illegal Formation,11/27/2011,Atlanta,G.Camarillo,WR,12,2011,MIN-2011-90
+MIN,Offensive Holding,11/27/2011,Atlanta,P.Loadholt,T,12,2011,MIN-2011-91
+MIN,False Start,11/27/2011,Atlanta,J.Kleinsasser,TE,12,2011,MIN-2011-92
+MIN,False Start,12/04/2011,Denver,P.Harvin,WR,13,2011,MIN-2011-93
+MIN,Intentional Grounding,12/04/2011,Denver,C.Ponder,QB,13,2011,MIN-2011-94
+MIN,Offensive Holding,12/04/2011,Denver,M.Raymond,DB,13,2011,MIN-2011-95
+MIN,Illegal Block Above the Waist,12/04/2011,Denver,M.Raymond,DB,13,2011,MIN-2011-96
+MIN,Offensive Pass Interference,12/04/2011,Denver,Jo.Webb,QB,13,2011,MIN-2011-97
+MIN,Offensive Holding,12/04/2011,Denver,P.Loadholt,T,13,2011,MIN-2011-98
+MIN,Neutral Zone Infraction,12/11/2011,Detroit,B.Robison,DE,14,2011,MIN-2011-99
+MIN,Encroachment,12/11/2011,Detroit,K.Williams,DT,14,2011,MIN-2011-100
+MIN,Illegal Block Above the Waist,12/11/2011,Detroit,L.Booker,RB,14,2011,MIN-2011-101
+MIN,Horse Collar Tackle,12/11/2011,Detroit,B.Robison,DE,14,2011,MIN-2011-102
+MIN,Illegal Formation,12/18/2011,New Orleans,P.Loadholt,T,15,2011,MIN-2011-103
+MIN,Offensive Pass Interference,12/18/2011,New Orleans,V.Shiancoe,TE,15,2011,MIN-2011-104
+MIN,False Start,12/18/2011,New Orleans,P.Loadholt,T,15,2011,MIN-2011-105
+MIN,Unnecessary Roughness,12/18/2011,New Orleans,J.Sanford,SS,15,2011,MIN-2011-106
+MIN,Defensive Pass Interference,12/18/2011,New Orleans,EJ.Henderson,LB,15,2011,MIN-2011-107
+MIN,Intentional Grounding,12/18/2011,New Orleans,C.Ponder,QB,15,2011,MIN-2011-108
+MIN,Illegal Use of Hands,12/18/2011,New Orleans,F.Evans,DT,15,2011,MIN-2011-109
+MIN,Roughing the Passer,12/18/2011,New Orleans,C.Greenway,OLB,15,2011,MIN-2011-110
+MIN,Offside on Free Kick,12/18/2011,New Orleans,K.Onatolu,LB,15,2011,MIN-2011-111
+MIN,Offensive Holding,12/24/2011,Washington,P.Loadholt,T,16,2011,MIN-2011-112
+MIN,False Start,12/24/2011,Washington,A.Peterson,RB,16,2011,MIN-2011-113
+MIN,Unnecessary Roughness,12/24/2011,Washington,B.Fusco,G,16,2011,MIN-2011-114
+MIN,Offensive Holding,12/24/2011,Washington,B.Burton,DB,16,2011,MIN-2011-115
+MIN,Offensive Holding,12/24/2011,Washington,K.Onatolu,LB,16,2011,MIN-2011-116
+MIN,False Start,01/01/2012,Chicago,A.Herrera,G,17,2011,MIN-2011-117
+MIN,Fair Catch Interference,01/01/2012,Chicago,E.Griffen,DE,17,2011,MIN-2011-118
+MIN,Offside on Free Kick,01/01/2012,Chicago,E.Griffen,DE,17,2011,MIN-2011-119
+MIN,False Start,01/01/2012,Chicago,V.Shiancoe,TE,17,2011,MIN-2011-120
+MIN,Offensive Holding,01/01/2012,Chicago,J.Sullivan,C,17,2011,MIN-2011-121
+MIN,Defensive Holding,01/01/2012,Chicago,A.Allen,CB,17,2011,MIN-2011-122

@@ -1,0 +1,102 @@
+team,penalty,game,opponent,player,position,week,year,penaltyindex
+PIT,Offensive Holding,09/09/2012,Denver,H.Miller,TE,1,2012,PIT-2012-0
+PIT,Offensive Holding,09/09/2012,Denver,M.Wallace,WR,1,2012,PIT-2012-1
+PIT,Illegal Formation,09/09/2012,Denver,M.Adams,T,1,2012,PIT-2012-2
+PIT,False Start,09/09/2012,Denver,M.Starks,T,1,2012,PIT-2012-3
+PIT,False Start,09/09/2012,Denver,W.Colon,G,1,2012,PIT-2012-4
+PIT,False Start,09/09/2012,Denver,W.Colon,G,1,2012,PIT-2012-5
+PIT,False Start,09/09/2012,Denver,A.Brown,WR,1,2012,PIT-2012-6
+PIT,Defensive Pass Interference,09/09/2012,Denver,K.Lewis,CB,1,2012,PIT-2012-7
+PIT,Defensive Pass Interference,09/16/2012,N.Y. Jets,I.Taylor,CB,2,2012,PIT-2012-8
+PIT,Personal Foul,09/16/2012,N.Y. Jets,L.Timmons,ILB,2,2012,PIT-2012-9
+PIT,Defensive Holding,09/16/2012,N.Y. Jets,I.Taylor,CB,2,2012,PIT-2012-10
+PIT,Delay of Game,09/16/2012,N.Y. Jets,B.Roethlisberger,QB,2,2012,PIT-2012-11
+PIT,Offensive Holding,09/16/2012,N.Y. Jets,M.Gilbert,T,2,2012,PIT-2012-12
+PIT,Intentional Grounding,09/16/2012,N.Y. Jets,B.Roethlisberger,QB,2,2012,PIT-2012-13
+PIT,Offensive Holding,09/16/2012,N.Y. Jets,W.Allen,SS,2,2012,PIT-2012-14
+PIT,Defensive Pass Interference,09/16/2012,N.Y. Jets,I.Taylor,CB,2,2012,PIT-2012-15
+PIT,False Start,09/16/2012,N.Y. Jets,M.Pouncey,C,2,2012,PIT-2012-16
+PIT,Defensive Pass Interference,09/16/2012,N.Y. Jets,K.Lewis,CB,2,2012,PIT-2012-17
+PIT,False Start,09/23/2012,Oakland,R.Foster,G,3,2012,PIT-2012-18
+PIT,Offensive Holding,09/23/2012,Oakland,W.Colon,G,3,2012,PIT-2012-19
+PIT,Illegal Block Above the Waist,09/23/2012,Oakland,W.Johnson,FB,3,2012,PIT-2012-20
+PIT,Delay of Game,09/23/2012,Oakland,B.Roethlisberger,QB,3,2012,PIT-2012-21
+PIT,Face Mask (15 Yards),09/23/2012,Oakland,J.Worilds,OLB,3,2012,PIT-2012-22
+PIT,Neutral Zone Infraction,09/23/2012,Oakland,E.Hood,DE,3,2012,PIT-2012-23
+PIT,False Start,09/23/2012,Oakland,K.Beachum,T,3,2012,PIT-2012-24
+PIT,Illegal Formation,09/23/2012,Oakland,M.Gilbert,T,3,2012,PIT-2012-25
+PIT,Defensive Pass Interference,09/23/2012,Oakland,K.Lewis,CB,3,2012,PIT-2012-26
+PIT,Offensive Holding,09/23/2012,Oakland,W.Colon,G,3,2012,PIT-2012-27
+PIT,Defensive Pass Interference,10/07/2012,Philadelphia,I.Taylor,CB,5,2012,PIT-2012-28
+PIT,Offensive Holding,10/07/2012,Philadelphia,W.Colon,G,5,2012,PIT-2012-29
+PIT,Illegal Formation,10/07/2012,Philadelphia,M.Wallace,WR,5,2012,PIT-2012-30
+PIT,False Start,10/07/2012,Philadelphia,A.Brown,WR,5,2012,PIT-2012-31
+PIT,Offensive Holding,10/07/2012,Philadelphia,W.Colon,G,5,2012,PIT-2012-32
+PIT,Player Out of Bounds on Punt,10/07/2012,Philadelphia,D.Van Dyke,DB,5,2012,PIT-2012-33
+PIT,Offensive Holding,10/07/2012,Philadelphia,W.Colon,G,5,2012,PIT-2012-34
+PIT,Offensive Holding,10/07/2012,Philadelphia,S.Sylvester,LB,5,2012,PIT-2012-35
+PIT,Unnecessary Roughness,10/07/2012,Philadelphia,R.Clark,FS,5,2012,PIT-2012-36
+PIT,Personal Foul,10/07/2012,Philadelphia,R.Mundy,SS,5,2012,PIT-2012-37
+PIT,Offensive Holding,10/07/2012,Philadelphia,W.Colon,G,5,2012,PIT-2012-38
+PIT,Defensive Pass Interference,10/11/2012,Tennessee,I.Taylor,CB,6,2012,PIT-2012-39
+PIT,Offensive Holding,10/11/2012,Tennessee,D.Van Dyke,DB,6,2012,PIT-2012-40
+PIT,Defensive Pass Interference,10/11/2012,Tennessee,I.Taylor,CB,6,2012,PIT-2012-41
+PIT,Defensive Holding,10/11/2012,Tennessee,I.Taylor,CB,6,2012,PIT-2012-42
+PIT,Offensive Holding,10/11/2012,Tennessee,D.Van Dyke,DB,6,2012,PIT-2012-43
+PIT,Offensive Holding,10/21/2012,Cincinnati,S.Sylvester,LB,7,2012,PIT-2012-44
+PIT,Offensive Holding,10/21/2012,Cincinnati,H.Miller,TE,7,2012,PIT-2012-45
+PIT,Offensive Holding,10/21/2012,Cincinnati,D.Van Dyke,DB,7,2012,PIT-2012-46
+PIT,Offensive Holding,10/21/2012,Cincinnati,B.Batch,RB,7,2012,PIT-2012-47
+PIT,Offensive Holding,10/21/2012,Cincinnati,A.Robinson,DE,7,2012,PIT-2012-48
+PIT,Offensive Holding,10/21/2012,Cincinnati,I.Taylor,CB,7,2012,PIT-2012-49
+PIT,Defensive Offside,10/28/2012,Washington,C.Hampton,NT,8,2012,PIT-2012-50
+PIT,Unsportsmanlike Conduct,10/28/2012,Washington,A.Brown,WR,8,2012,PIT-2012-51
+PIT,Illegal Block Above the Waist,10/28/2012,Washington,C.Brown,DB,8,2012,PIT-2012-52
+PIT,Unnecessary Roughness,10/28/2012,Washington,R.Foster,G,8,2012,PIT-2012-53
+PIT,Illegal Use of Hands,10/28/2012,Washington,K.Lewis,CB,8,2012,PIT-2012-54
+PIT,Defensive Pass Interference,11/04/2012,N.Y. Giants,K.Lewis,CB,9,2012,PIT-2012-55
+PIT,Personal Foul,11/04/2012,N.Y. Giants,R.Clark,FS,9,2012,PIT-2012-56
+PIT,Defensive Pass Interference,11/04/2012,N.Y. Giants,K.Lewis,CB,9,2012,PIT-2012-57
+PIT,Personal Foul,11/04/2012,N.Y. Giants,L.Pope,TE,9,2012,PIT-2012-58
+PIT,Face Mask (15 Yards),11/04/2012,N.Y. Giants,C.Allen,CB,9,2012,PIT-2012-59
+PIT,Offensive Holding,11/04/2012,N.Y. Giants,B.Johnson,LB,9,2012,PIT-2012-60
+PIT,Unsportsmanlike Conduct,11/12/2012,Kansas City,W.Colon,G,10,2012,PIT-2012-61
+PIT,Offensive Holding,11/12/2012,Kansas City,W.Colon,G,10,2012,PIT-2012-62
+PIT,Offensive Holding,11/18/2012,Baltimore,W.Colon,G,11,2012,PIT-2012-63
+PIT,Defensive Offside,11/18/2012,Baltimore,J.Harrison,OLB,11,2012,PIT-2012-64
+PIT,False Start,11/18/2012,Baltimore,J.Cotchery,WR,11,2012,PIT-2012-65
+PIT,Illegal Block Above the Waist,11/18/2012,Baltimore,J.Cotchery,WR,11,2012,PIT-2012-66
+PIT,Defensive Holding,11/18/2012,Baltimore,K.Lewis,CB,11,2012,PIT-2012-67
+PIT,Tripping,11/18/2012,Baltimore,L.Foote,MLB,11,2012,PIT-2012-68
+PIT,Defensive Offside,11/18/2012,Baltimore,B.Keisel,DE,11,2012,PIT-2012-69
+PIT,False Start,11/25/2012,Cleveland,E.Sanders,WR,12,2012,PIT-2012-70
+PIT,Offensive Holding,11/25/2012,Cleveland,R.Foster,G,12,2012,PIT-2012-71
+PIT,Offensive Holding,11/25/2012,Cleveland,S.Sylvester,LB,12,2012,PIT-2012-72
+PIT,Offensive Holding,11/25/2012,Cleveland,M.Adams,T,12,2012,PIT-2012-73
+PIT,Delay of Game,11/25/2012,Cleveland,C.Batch,QB,12,2012,PIT-2012-74
+PIT,Offensive Holding,11/25/2012,Cleveland,H.Miller,TE,12,2012,PIT-2012-75
+PIT,Offensive Holding,11/25/2012,Cleveland,K.Beachum,T,12,2012,PIT-2012-76
+PIT,Illegal Use of Hands,11/25/2012,Cleveland,C.Hampton,NT,12,2012,PIT-2012-77
+PIT,Offensive Holding,11/25/2012,Cleveland,D.Legursky,C,12,2012,PIT-2012-78
+PIT,Defensive Pass Interference,12/02/2012,Baltimore,C.Allen,CB,13,2012,PIT-2012-79
+PIT,Defensive Holding,12/02/2012,Baltimore,K.Lewis,CB,13,2012,PIT-2012-80
+PIT,Offensive Holding,12/02/2012,Baltimore,W.Allen,SS,13,2012,PIT-2012-81
+PIT,False Start,12/02/2012,Baltimore,M.Pouncey,C,13,2012,PIT-2012-82
+PIT,Defensive Offside,12/09/2012,San Diego,T.Polamalu,SS,14,2012,PIT-2012-83
+PIT,Neutral Zone Infraction,12/09/2012,San Diego,J.Harrison,OLB,14,2012,PIT-2012-84
+PIT,False Start,12/09/2012,San Diego,W.Colon,G,14,2012,PIT-2012-85
+PIT,Offensive Holding,12/09/2012,San Diego,M.Wallace,WR,14,2012,PIT-2012-86
+PIT,Illegal Contact,12/09/2012,San Diego,C.Brown,DB,14,2012,PIT-2012-87
+PIT,Offensive Holding,12/09/2012,San Diego,C.Heyward,DE,14,2012,PIT-2012-88
+PIT,Defensive Holding,12/09/2012,San Diego,B.Johnson,LB,14,2012,PIT-2012-89
+PIT,Offensive Holding,12/09/2012,San Diego,H.Miller,TE,14,2012,PIT-2012-90
+PIT,Illegal Use of Hands,12/09/2012,San Diego,M.Starks,T,14,2012,PIT-2012-91
+PIT,Unsportsmanlike Conduct,12/23/2012,Cincinnati,B.Keisel,DE,16,2012,PIT-2012-92
+PIT,Offensive Holding,12/23/2012,Cincinnati,H.Miller,TE,16,2012,PIT-2012-93
+PIT,False Start,12/23/2012,Cincinnati,M.Starks,T,16,2012,PIT-2012-94
+PIT,Defensive Offside,12/23/2012,Cincinnati,C.Hampton,NT,16,2012,PIT-2012-95
+PIT,Defensive Pass Interference,12/23/2012,Cincinnati,C.Allen,CB,16,2012,PIT-2012-96
+PIT,Offensive Holding,12/23/2012,Cincinnati,R.Foster,G,16,2012,PIT-2012-97
+PIT,Offensive Holding,12/30/2012,Cleveland,D.Legursky,C,17,2012,PIT-2012-98
+PIT,Defensive Pass Interference,12/30/2012,Cleveland,J.Victorian,DB,17,2012,PIT-2012-99
+PIT,Roughing the Passer,12/30/2012,Cleveland,J.Harrison,OLB,17,2012,PIT-2012-100

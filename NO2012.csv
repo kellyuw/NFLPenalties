@@ -1,0 +1,108 @@
+team,penalty,game,opponent,player,position,week,year,penaltyindex
+NO,False Start,09/09/2012,Washington,Z.Strief,T,1,2012,NO-2012-0
+NO,False Start,09/09/2012,Washington,L.Moore,WR,1,2012,NO-2012-1
+NO,False Start,09/09/2012,Washington,Z.Strief,T,1,2012,NO-2012-2
+NO,Defensive Pass Interference,09/09/2012,Washington,R.Harper,SS,1,2012,NO-2012-3
+NO,Offensive Holding,09/09/2012,Washington,D.Thomas,TE,1,2012,NO-2012-4
+NO,Defensive Offside,09/09/2012,Washington,P.Robinson,DB,1,2012,NO-2012-5
+NO,Offensive Holding,09/09/2012,Washington,R.Bush,FS,1,2012,NO-2012-6
+NO,Offensive Holding,09/09/2012,Washington,J.Collins,FB,1,2012,NO-2012-7
+NO,Offensive Holding,09/09/2012,Washington,J.Evans,G,1,2012,NO-2012-8
+NO,Defensive Pass Interference,09/16/2012,Carolina,P.Robinson,DB,2,2012,NO-2012-9
+NO,Intentional Grounding,09/16/2012,Carolina,D.Brees,QB,2,2012,NO-2012-10
+NO,Offensive Holding,09/23/2012,Kansas City,C.Roby,WR,3,2012,NO-2012-11
+NO,False Start,09/23/2012,Kansas City,D.Graham,TE,3,2012,NO-2012-12
+NO,Defensive Pass Interference,09/23/2012,Kansas City,P.Robinson,DB,3,2012,NO-2012-13
+NO,Offensive Holding,09/30/2012,Green Bay,J.Evans,G,4,2012,NO-2012-14
+NO,Neutral Zone Infraction,09/30/2012,Green Bay,J.Galette,DE,4,2012,NO-2012-15
+NO,Offensive Holding,09/30/2012,Green Bay,J.Graham,TE,4,2012,NO-2012-16
+NO,Defensive Holding,09/30/2012,Green Bay,P.Robinson,DB,4,2012,NO-2012-17
+NO,Face Mask (15 Yards),09/30/2012,Green Bay,M.Jenkins,FS,4,2012,NO-2012-18
+NO,Illegal Formation,09/30/2012,Green Bay,M.Colston,WR,4,2012,NO-2012-19
+NO,Illegal Use of Hands,09/30/2012,Green Bay,C.Jordan,DE,4,2012,NO-2012-20
+NO,Face Mask (15 Yards),09/30/2012,Green Bay,M.Jenkins,FS,4,2012,NO-2012-21
+NO,False Start,09/30/2012,Green Bay,J.Morgan,WR,4,2012,NO-2012-22
+NO,Offensive Holding,09/30/2012,Green Bay,D.Thomas,TE,4,2012,NO-2012-23
+NO,Defensive Pass Interference,09/30/2012,Green Bay,J.Greer,CB,4,2012,NO-2012-24
+NO,False Start,10/07/2012,San Diego,D.Henderson,WR,5,2012,NO-2012-25
+NO,Unsportsmanlike Conduct,10/07/2012,San Diego,M.Jenkins,FS,5,2012,NO-2012-26
+NO,Offensive Holding,10/07/2012,San Diego,M.Wilson,DE,5,2012,NO-2012-27
+NO,Defensive Pass Interference,10/07/2012,San Diego,J.Greer,CB,5,2012,NO-2012-28
+NO,Roughing the Passer,10/07/2012,San Diego,W.Smith,DE,5,2012,NO-2012-29
+NO,False Start,10/07/2012,San Diego,B.Grubbs,G,5,2012,NO-2012-30
+NO,False Start,10/07/2012,San Diego,Z.Strief,T,5,2012,NO-2012-31
+NO,Offensive Holding,10/07/2012,San Diego,J.Evans,G,5,2012,NO-2012-32
+NO,False Start,10/07/2012,San Diego,D.Thomas,TE,5,2012,NO-2012-33
+NO,Illegal Use of Hands,10/07/2012,San Diego,M.Wilson,DE,5,2012,NO-2012-34
+NO,Offensive Holding,10/21/2012,Tampa Bay,B.Grubbs,G,7,2012,NO-2012-35
+NO,Offensive Holding,10/21/2012,Tampa Bay,M.Colston,WR,7,2012,NO-2012-36
+NO,Defensive Offside,10/21/2012,Tampa Bay,M.Wilson,DE,7,2012,NO-2012-37
+NO,Offensive Holding,10/21/2012,Tampa Bay,J.Galette,DE,7,2012,NO-2012-38
+NO,False Start,10/21/2012,Tampa Bay,D.Thomas,TE,7,2012,NO-2012-39
+NO,Face Mask (15 Yards),10/21/2012,Tampa Bay,M.Jenkins,FS,7,2012,NO-2012-40
+NO,Illegal Contact,10/21/2012,Tampa Bay,R.Harper,SS,7,2012,NO-2012-41
+NO,Illegal Contact,10/21/2012,Tampa Bay,R.Harper,SS,7,2012,NO-2012-42
+NO,Defensive Holding,10/21/2012,Tampa Bay,C.Lofton,LB,7,2012,NO-2012-43
+NO,Illegal Contact,10/28/2012,Denver,M.Jenkins,FS,8,2012,NO-2012-44
+NO,Defensive Holding,10/28/2012,Denver,T.McBride,DE,8,2012,NO-2012-45
+NO,Defensive Holding,10/28/2012,Denver,P.Robinson,DB,8,2012,NO-2012-46
+NO,Offensive Holding,10/28/2012,Denver,J.Evans,G,8,2012,NO-2012-47
+NO,Illegal Use of Hands,10/28/2012,Denver,T.Johnson,DT,8,2012,NO-2012-48
+NO,False Start,10/28/2012,Denver,J.Bushrod,T,8,2012,NO-2012-49
+NO,Roughing the Passer,11/05/2012,Philadelphia,M.Wilson,DE,9,2012,NO-2012-50
+NO,False Start,11/05/2012,Philadelphia,D.Thomas,TE,9,2012,NO-2012-51
+NO,Offensive Holding,11/05/2012,Philadelphia,M.Colston,WR,9,2012,NO-2012-52
+NO,Neutral Zone Infraction,11/05/2012,Philadelphia,C.Jordan,DE,9,2012,NO-2012-53
+NO,Personal Foul,11/11/2012,Atlanta,E.Olsen,G,10,2012,NO-2012-54
+NO,Defensive Holding,11/11/2012,Atlanta,C.Jordan,DE,10,2012,NO-2012-55
+NO,False Start,11/11/2012,Atlanta,J.Graham,TE,10,2012,NO-2012-56
+NO,False Start,11/11/2012,Atlanta,D.Brees,QB,10,2012,NO-2012-57
+NO,Illegal Use of Hands,11/11/2012,Atlanta,W.Smith,DE,10,2012,NO-2012-58
+NO,Defensive Offside,11/18/2012,Oakland,M.Ingram,RB,11,2012,NO-2012-59
+NO,Fair Catch Interference,11/18/2012,Oakland,C.Roby,WR,11,2012,NO-2012-60
+NO,Unsportsmanlike Conduct,11/18/2012,Oakland,M.Jenkins,FS,11,2012,NO-2012-61
+NO,False Start,11/18/2012,Oakland,C.Brown,T,11,2012,NO-2012-62
+NO,Defensive Pass Interference,11/18/2012,Oakland,P.Robinson,DB,11,2012,NO-2012-63
+NO,Offensive Holding,11/18/2012,Oakland,T.McBride,DE,11,2012,NO-2012-64
+NO,Intentional Grounding,11/18/2012,Oakland,D.Brees,QB,11,2012,NO-2012-65
+NO,Intentional Grounding,11/25/2012,San Francisco,D.Brees,QB,12,2012,NO-2012-66
+NO,Offensive Pass Interference,11/25/2012,San Francisco,J.Morgan,WR,12,2012,NO-2012-67
+NO,Face Mask (15 Yards),11/25/2012,San Francisco,C.Lofton,LB,12,2012,NO-2012-68
+NO,Personal Foul,11/25/2012,San Francisco,B.Bunkley,NT,12,2012,NO-2012-69
+NO,Player Out of Bounds on Punt,11/29/2012,Atlanta,E.Mack,DB,13,2012,NO-2012-70
+NO,Delay of Game,11/29/2012,Atlanta,D.Brees,QB,13,2012,NO-2012-71
+NO,Offensive Pass Interference,11/29/2012,Atlanta,J.Graham,TE,13,2012,NO-2012-72
+NO,False Start,11/29/2012,Atlanta,J.Bushrod,T,13,2012,NO-2012-73
+NO,False Start,11/29/2012,Atlanta,J.Evans,G,13,2012,NO-2012-74
+NO,Offensive Holding,12/09/2012,N.Y. Giants,Z.Strief,T,14,2012,NO-2012-75
+NO,Defensive Pass Interference,12/09/2012,N.Y. Giants,P.Robinson,DB,14,2012,NO-2012-76
+NO,Defensive Holding,12/09/2012,N.Y. Giants,C.Lofton,LB,14,2012,NO-2012-77
+NO,Offensive Holding,12/09/2012,N.Y. Giants,J.Collins,FB,14,2012,NO-2012-78
+NO,Intentional Grounding,12/09/2012,N.Y. Giants,D.Brees,QB,14,2012,NO-2012-79
+NO,Offensive Holding,12/09/2012,N.Y. Giants,W.Herring,LB,14,2012,NO-2012-80
+NO,Illegal Use of Hands,12/09/2012,N.Y. Giants,S.Ellis,DT,14,2012,NO-2012-81
+NO,Defensive Pass Interference,12/09/2012,N.Y. Giants,P.Robinson,DB,14,2012,NO-2012-82
+NO,Offensive Holding,12/09/2012,N.Y. Giants,D.Thomas,TE,14,2012,NO-2012-83
+NO,Illegal Block Above the Waist,12/09/2012,N.Y. Giants,E.Olsen,G,14,2012,NO-2012-84
+NO,Offensive Holding,12/09/2012,N.Y. Giants,B.De La Puente,C,14,2012,NO-2012-85
+NO,False Start,12/09/2012,N.Y. Giants,J.Bushrod,T,14,2012,NO-2012-86
+NO,Offensive Holding,12/16/2012,Tampa Bay,D.Henderson,WR,15,2012,NO-2012-87
+NO,Offensive Holding,12/16/2012,Tampa Bay,P.Robinson,DB,15,2012,NO-2012-88
+NO,False Start,12/16/2012,Tampa Bay,J.Bushrod,T,15,2012,NO-2012-89
+NO,Offensive Holding,12/16/2012,Tampa Bay,J.Drescher,LS,15,2012,NO-2012-90
+NO,Offensive Holding,12/16/2012,Tampa Bay,J.Bushrod,T,15,2012,NO-2012-91
+NO,Offensive Holding,12/16/2012,Tampa Bay,B.De La Puente,C,15,2012,NO-2012-92
+NO,False Start,12/23/2012,Dallas,J.Bushrod,T,16,2012,NO-2012-93
+NO,False Start,12/23/2012,Dallas,J.Graham,TE,16,2012,NO-2012-94
+NO,Offensive Holding,12/23/2012,Dallas,D.Thomas,TE,16,2012,NO-2012-95
+NO,Offensive Holding,12/23/2012,Dallas,Z.Strief,T,16,2012,NO-2012-96
+NO,Defensive Holding,12/23/2012,Dallas,M.Higgins,TE,16,2012,NO-2012-97
+NO,Defensive Offside,12/23/2012,Dallas,C.Jordan,DE,16,2012,NO-2012-98
+NO,Offensive Holding,12/23/2012,Dallas,E.Olsen,G,16,2012,NO-2012-99
+NO,False Start,12/23/2012,Dallas,J.Graham,TE,16,2012,NO-2012-100
+NO,Illegal Contact,12/30/2012,Carolina,P.Robinson,DB,17,2012,NO-2012-101
+NO,Personal Foul,12/30/2012,Carolina,T.McBride,DE,17,2012,NO-2012-102
+NO,Defensive Holding,12/30/2012,Carolina,J.Patrick,CB,17,2012,NO-2012-103
+NO,Personal Foul,12/30/2012,Carolina,J.Graham,TE,17,2012,NO-2012-104
+NO,Personal Foul,12/30/2012,Carolina,W.Herring,LB,17,2012,NO-2012-105
+NO,Illegal Use of Hands,12/30/2012,Carolina,B.Bunkley,NT,17,2012,NO-2012-106

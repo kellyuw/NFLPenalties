@@ -1,0 +1,129 @@
+team,penalty,game,opponent,player,position,week,year,penaltyindex
+WAS,Personal Foul,09/09/2012,New Orleans,D.Gomes,DB,1,2012,WAS-2012-0
+WAS,Offensive Holding,09/09/2012,New Orleans,K.Robinson,ILB,1,2012,WAS-2012-1
+WAS,Illegal Block Above the Waist,09/09/2012,New Orleans,R.Helu,RB,1,2012,WAS-2012-2
+WAS,Offensive Holding,09/09/2012,New Orleans,F.Davis,TE,1,2012,WAS-2012-3
+WAS,Offensive Holding,09/09/2012,New Orleans,K.Lichtensteiger,C,1,2012,WAS-2012-4
+WAS,Defensive Pass Interference,09/09/2012,New Orleans,Mad.Williams,FS,1,2012,WAS-2012-5
+WAS,Illegal Use of Hands,09/09/2012,New Orleans,J.Jenkins,DT,1,2012,WAS-2012-6
+WAS,Defensive Pass Interference,09/09/2012,New Orleans,D.Gomes,DB,1,2012,WAS-2012-7
+WAS,False Start,09/09/2012,New Orleans,Trent.Williams,T,1,2012,WAS-2012-8
+WAS,Offensive Holding,09/09/2012,New Orleans,K.Lichtensteiger,C,1,2012,WAS-2012-9
+WAS,Personal Foul,09/09/2012,New Orleans,Mad.Williams,FS,1,2012,WAS-2012-10
+WAS,Defensive Holding,09/16/2012,St. Louis,D.Hall,CB,2,2012,WAS-2012-11
+WAS,Personal Foul,09/16/2012,St. Louis,L.Fletcher,ILB,2,2012,WAS-2012-12
+WAS,Intentional Grounding,09/16/2012,St. Louis,R.Griffin,QB,2,2012,WAS-2012-13
+WAS,False Start,09/16/2012,St. Louis,K.Lichtensteiger,C,2,2012,WAS-2012-14
+WAS,Defensive Offside,09/16/2012,St. Louis,B.Orakpo,LB,2,2012,WAS-2012-15
+WAS,False Start,09/16/2012,St. Louis,N.Paul,TE,2,2012,WAS-2012-16
+WAS,Horse Collar Tackle,09/16/2012,St. Louis,L.Alexander,LB,2,2012,WAS-2012-17
+WAS,False Start,09/16/2012,St. Louis,S.Moss,WR,2,2012,WAS-2012-18
+WAS,Offensive Holding,09/16/2012,St. Louis,Trent.Williams,T,2,2012,WAS-2012-19
+WAS,Defensive Offside,09/16/2012,St. Louis,S.Bowen,DE,2,2012,WAS-2012-20
+WAS,Unsportsmanlike Conduct,09/16/2012,St. Louis,J.Morgan,WR,2,2012,WAS-2012-21
+WAS,Defensive Pass Interference,09/23/2012,Cincinnati,J.Wilson,DB,3,2012,WAS-2012-22
+WAS,Face Mask (15 Yards),09/23/2012,Cincinnati,D.Hall,CB,3,2012,WAS-2012-23
+WAS,Defensive Holding,09/23/2012,Cincinnati,J.Wilson,DB,3,2012,WAS-2012-24
+WAS,Personal Foul,09/23/2012,Cincinnati,C.Wilson,LB,3,2012,WAS-2012-25
+WAS,Offensive Holding,09/23/2012,Cincinnati,J.Black,T,3,2012,WAS-2012-26
+WAS,False Start,09/23/2012,Cincinnati,F.Davis,TE,3,2012,WAS-2012-27
+WAS,Offensive Holding,09/30/2012,Tampa Bay,J.Morgan,WR,4,2012,WAS-2012-28
+WAS,Offensive Holding,09/30/2012,Tampa Bay,L.Paulsen,TE,4,2012,WAS-2012-29
+WAS,False Start,09/30/2012,Tampa Bay,C.Chester,C,4,2012,WAS-2012-30
+WAS,Clipping,09/30/2012,Tampa Bay,W.Montgomery,C,4,2012,WAS-2012-31
+WAS,Offensive Pass Interference,09/30/2012,Tampa Bay,P.Garcon,WR,4,2012,WAS-2012-32
+WAS,Unnecessary Roughness,09/30/2012,Tampa Bay,P.Garcon,WR,4,2012,WAS-2012-33
+WAS,Neutral Zone Infraction,09/30/2012,Tampa Bay,R.Kerrigan,OLB,4,2012,WAS-2012-34
+WAS,False Start,09/30/2012,Tampa Bay,K.Lichtensteiger,C,4,2012,WAS-2012-35
+WAS,Offensive Holding,10/07/2012,Atlanta,Trent.Williams,T,5,2012,WAS-2012-36
+WAS,Defensive Holding,10/07/2012,Atlanta,L.Fletcher,ILB,5,2012,WAS-2012-37
+WAS,Encroachment,10/07/2012,Atlanta,B.Cofield,NT,5,2012,WAS-2012-38
+WAS,Defensive Holding,10/07/2012,Atlanta,L.Alexander,LB,5,2012,WAS-2012-39
+WAS,Illegal Block Above the Waist,10/07/2012,Atlanta,A.Robinson,WR,5,2012,WAS-2012-40
+WAS,Illegal Contact,10/07/2012,Atlanta,R.Doughty,SS,5,2012,WAS-2012-41
+WAS,Offensive Holding,10/14/2012,Minnesota,N.Paul,TE,6,2012,WAS-2012-42
+WAS,Offensive Pass Interference,10/14/2012,Minnesota,F.Davis,TE,6,2012,WAS-2012-43
+WAS,Offensive Holding,10/14/2012,Minnesota,D.Jones,DB,6,2012,WAS-2012-44
+WAS,False Start,10/14/2012,Minnesota,Trent.Williams,T,6,2012,WAS-2012-45
+WAS,Defensive Pass Interference,10/14/2012,Minnesota,R.Kerrigan,OLB,6,2012,WAS-2012-46
+WAS,Offensive Holding,10/14/2012,Minnesota,F.Davis,TE,6,2012,WAS-2012-47
+WAS,Defensive Pass Interference,10/14/2012,Minnesota,J.Wilson,DB,6,2012,WAS-2012-48
+WAS,Offside on Free Kick,10/21/2012,N.Y. Giants,C.Wilson,LB,7,2012,WAS-2012-49
+WAS,Defensive Offside,10/21/2012,N.Y. Giants,R.Kerrigan,OLB,7,2012,WAS-2012-50
+WAS,False Start,10/21/2012,N.Y. Giants,L.Hankerson,WR,7,2012,WAS-2012-51
+WAS,Illegal Shift,10/21/2012,N.Y. Giants,F.Davis,TE,7,2012,WAS-2012-52
+WAS,Unnecessary Roughness,10/21/2012,N.Y. Giants,D.Hall,CB,7,2012,WAS-2012-53
+WAS,Defensive Offside,10/21/2012,N.Y. Giants,S.Bowen,DE,7,2012,WAS-2012-54
+WAS,Personal Foul,10/21/2012,N.Y. Giants,T.Polumbus,T,7,2012,WAS-2012-55
+WAS,False Start,10/28/2012,Pittsburgh,L.Paulsen,TE,8,2012,WAS-2012-56
+WAS,Encroachment,10/28/2012,Pittsburgh,C.Griffin,CB,8,2012,WAS-2012-57
+WAS,Offensive Pass Interference,10/28/2012,Pittsburgh,R.Griffin,QB,8,2012,WAS-2012-58
+WAS,Player Out of Bounds on Punt,10/28/2012,Pittsburgh,D.Jones,DB,8,2012,WAS-2012-59
+WAS,False Start,10/28/2012,Pittsburgh,K.Lichtensteiger,C,8,2012,WAS-2012-60
+WAS,Unsportsmanlike Conduct,10/28/2012,Pittsburgh,J.Wilson,DB,8,2012,WAS-2012-61
+WAS,False Start,10/28/2012,Pittsburgh,L.Paulsen,TE,8,2012,WAS-2012-62
+WAS,Unsportsmanlike Conduct,10/28/2012,Pittsburgh,D.Hall,CB,8,2012,WAS-2012-63
+WAS,Unsportsmanlike Conduct,10/28/2012,Pittsburgh,D.Hall,CB,8,2012,WAS-2012-64
+WAS,Offensive Holding,11/04/2012,Carolina,Trent.Williams,T,9,2012,WAS-2012-65
+WAS,False Start,11/04/2012,Carolina,N.Paul,TE,9,2012,WAS-2012-66
+WAS,False Start,11/04/2012,Carolina,L.Paulsen,TE,9,2012,WAS-2012-67
+WAS,Roughing the Passer,11/04/2012,Carolina,L.Fletcher,ILB,9,2012,WAS-2012-68
+WAS,Defensive Pass Interference,11/04/2012,Carolina,J.Wilson,DB,9,2012,WAS-2012-69
+WAS,Illegal Block Above the Waist,11/04/2012,Carolina,R.Doughty,SS,9,2012,WAS-2012-70
+WAS,Illegal Block Above the Waist,11/04/2012,Carolina,C.Cooley,TE,9,2012,WAS-2012-71
+WAS,Offensive Holding,11/04/2012,Carolina,D.Young,FB,9,2012,WAS-2012-72
+WAS,Ineligible Downfield Pass,11/04/2012,Carolina,K.Lichtensteiger,C,9,2012,WAS-2012-73
+WAS,Defensive Pass Interference,11/04/2012,Carolina,J.Wilson,DB,9,2012,WAS-2012-74
+WAS,Offensive Holding,11/04/2012,Carolina,W.Montgomery,C,9,2012,WAS-2012-75
+WAS,Neutral Zone Infraction,11/04/2012,Carolina,R.Kerrigan,OLB,9,2012,WAS-2012-76
+WAS,Running Into the Kicker,11/04/2012,Carolina,K.Robinson,ILB,9,2012,WAS-2012-77
+WAS,Neutral Zone Infraction,11/18/2012,Philadelphia,L.Fletcher,ILB,11,2012,WAS-2012-78
+WAS,Illegal Formation,11/18/2012,Philadelphia,P.Riley,ILB,11,2012,WAS-2012-79
+WAS,False Start,11/18/2012,Philadelphia,K.Lichtensteiger,C,11,2012,WAS-2012-80
+WAS,Illegal Formation,11/18/2012,Philadelphia,T.Polumbus,T,11,2012,WAS-2012-81
+WAS,False Start,11/18/2012,Philadelphia,A.Morris,RB,11,2012,WAS-2012-82
+WAS,False Start,11/18/2012,Philadelphia,A.Morris,RB,11,2012,WAS-2012-83
+WAS,False Start,11/18/2012,Philadelphia,P.Riley,ILB,11,2012,WAS-2012-84
+WAS,Defensive Delay of Game,11/18/2012,Philadelphia,C.Griffin,CB,11,2012,WAS-2012-85
+WAS,Offensive Holding,11/18/2012,Philadelphia,K.Lichtensteiger,C,11,2012,WAS-2012-86
+WAS,Unnecessary Roughness,11/18/2012,Philadelphia,P.Riley,ILB,11,2012,WAS-2012-87
+WAS,Defensive Holding,11/18/2012,Philadelphia,D.Hall,CB,11,2012,WAS-2012-88
+WAS,False Start,11/18/2012,Philadelphia,R.Griffin,QB,11,2012,WAS-2012-89
+WAS,Defensive Offside,11/18/2012,Philadelphia,L.Alexander,LB,11,2012,WAS-2012-90
+WAS,Intentional Grounding,11/22/2012,Dallas,R.Griffin,QB,12,2012,WAS-2012-91
+WAS,Defensive Pass Interference,11/22/2012,Dallas,J.Wilson,DB,12,2012,WAS-2012-92
+WAS,False Start,11/22/2012,Dallas,A.Robinson,WR,12,2012,WAS-2012-93
+WAS,False Start,11/22/2012,Dallas,N.Paul,TE,12,2012,WAS-2012-94
+WAS,False Start,11/22/2012,Dallas,Trent.Williams,T,12,2012,WAS-2012-95
+WAS,Defensive Offside,11/22/2012,Dallas,B.Cofield,NT,12,2012,WAS-2012-96
+WAS,Offensive Holding,12/03/2012,N.Y. Giants,L.Paulsen,TE,13,2012,WAS-2012-97
+WAS,Defensive Pass Interference,12/03/2012,N.Y. Giants,C.Griffin,CB,13,2012,WAS-2012-98
+WAS,Unnecessary Roughness,12/03/2012,N.Y. Giants,K.Lichtensteiger,C,13,2012,WAS-2012-99
+WAS,Offensive Pass Interference,12/03/2012,N.Y. Giants,L.Paulsen,TE,13,2012,WAS-2012-100
+WAS,Horse Collar Tackle,12/03/2012,N.Y. Giants,Mad.Williams,FS,13,2012,WAS-2012-101
+WAS,Running Into the Kicker,12/03/2012,N.Y. Giants,B.Kehl,LB,13,2012,WAS-2012-102
+WAS,Offensive Holding,12/09/2012,Baltimore,P.Garcon,WR,14,2012,WAS-2012-103
+WAS,Illegal Block Above the Waist,12/09/2012,Baltimore,J.Morgan,WR,14,2012,WAS-2012-104
+WAS,Neutral Zone Infraction,12/09/2012,Baltimore,L.Alexander,LB,14,2012,WAS-2012-105
+WAS,Encroachment,12/09/2012,Baltimore,J.Jenkins,DT,14,2012,WAS-2012-106
+WAS,Offensive Holding,12/09/2012,Baltimore,L.Paulsen,TE,14,2012,WAS-2012-107
+WAS,False Start,12/09/2012,Baltimore,L.Hankerson,WR,14,2012,WAS-2012-108
+WAS,Personal Foul,12/09/2012,Baltimore,D.Hall,CB,14,2012,WAS-2012-109
+WAS,Intentional Grounding,12/09/2012,Baltimore,R.Griffin,QB,14,2012,WAS-2012-110
+WAS,False Start,12/16/2012,Cleveland,K.Lichtensteiger,C,15,2012,WAS-2012-111
+WAS,Illegal Use of Hands,12/16/2012,Cleveland,J.Jenkins,DT,15,2012,WAS-2012-112
+WAS,False Start,12/16/2012,Cleveland,K.Lichtensteiger,C,15,2012,WAS-2012-113
+WAS,Defensive Offside,12/16/2012,Cleveland,P.Riley,ILB,15,2012,WAS-2012-114
+WAS,Taunting,12/16/2012,Cleveland,P.Garcon,WR,15,2012,WAS-2012-115
+WAS,Intentional Grounding,12/16/2012,Cleveland,K.Cousins,QB,15,2012,WAS-2012-116
+WAS,False Start,12/16/2012,Cleveland,C.Chester,C,15,2012,WAS-2012-117
+WAS,Defensive Offside,12/23/2012,Philadelphia,R.Kerrigan,OLB,16,2012,WAS-2012-118
+WAS,Offensive Holding,12/23/2012,Philadelphia,C.Wilson,LB,16,2012,WAS-2012-119
+WAS,Offensive Holding,12/23/2012,Philadelphia,J.Pugh,DB,16,2012,WAS-2012-120
+WAS,Delay of Game,12/23/2012,Philadelphia,R.Griffin,QB,16,2012,WAS-2012-121
+WAS,False Start,12/30/2012,Dallas,Trent.Williams,T,17,2012,WAS-2012-122
+WAS,Illegal Formation,12/30/2012,Dallas,Trent.Williams,T,17,2012,WAS-2012-123
+WAS,Face Mask (15 Yards),12/30/2012,Dallas,S.Rocca,P,17,2012,WAS-2012-124
+WAS,Defensive Offside,01/06/2013,Seattle,R.Jackson,OLB,18,2012,WAS-2012-125
+WAS,Defensive Holding,01/06/2013,Seattle,D.Hall,CB,18,2012,WAS-2012-126
+WAS,Offensive Holding,01/06/2013,Seattle,B.Kehl,LB,18,2012,WAS-2012-127

@@ -1,0 +1,117 @@
+team,penalty,game,opponent,player,position,week,year,penaltyindex
+CIN,Personal Foul,09/10/2012,Baltimore,T.Mays,DB,1,2012,CIN-2012-0
+CIN,Defensive Pass Interference,09/10/2012,Baltimore,L.Hall,CB,1,2012,CIN-2012-1
+CIN,Defensive Pass Interference,09/10/2012,Baltimore,N.Clements,SS,1,2012,CIN-2012-2
+CIN,Offensive Holding,09/16/2012,Cleveland,D.Skuta,LB,2,2012,CIN-2012-3
+CIN,False Start,09/16/2012,Cleveland,J.Gresham,TE,2,2012,CIN-2012-4
+CIN,Personal Foul,09/16/2012,Cleveland,L.Hall,CB,2,2012,CIN-2012-5
+CIN,False Start,09/16/2012,Cleveland,A.Smith,T,2,2012,CIN-2012-6
+CIN,Offensive Holding,09/16/2012,Cleveland,J.Gresham,TE,2,2012,CIN-2012-7
+CIN,Offensive Holding,09/16/2012,Cleveland,A.Binns,WR,2,2012,CIN-2012-8
+CIN,Defensive Offside,09/16/2012,Cleveland,M.Johnson,DE,2,2012,CIN-2012-9
+CIN,False Start,09/23/2012,Washington,J.Gresham,TE,3,2012,CIN-2012-10
+CIN,Offensive Holding,09/23/2012,Washington,A.Whitworth,T,3,2012,CIN-2012-11
+CIN,Offensive Holding,09/23/2012,Washington,J.Faine,C,3,2012,CIN-2012-12
+CIN,Defensive Pass Interference,09/23/2012,Washington,N.Clements,SS,3,2012,CIN-2012-13
+CIN,Offensive Holding,09/23/2012,Washington,A.Whitworth,T,3,2012,CIN-2012-14
+CIN,Offside on Free Kick,09/23/2012,Washington,J.Miles,DB,3,2012,CIN-2012-15
+CIN,Horse Collar Tackle,09/23/2012,Washington,A.Jones,CB,3,2012,CIN-2012-16
+CIN,Delay of Game,09/23/2012,Washington,A.Dalton,QB,3,2012,CIN-2012-17
+CIN,Personal Foul,09/23/2012,Washington,T.Newman,DB,3,2012,CIN-2012-18
+CIN,Defensive Offside,09/30/2012,Jacksonville,M.Johnson,DE,4,2012,CIN-2012-19
+CIN,Defensive Offside,09/30/2012,Jacksonville,R.Maualuga,MLB,4,2012,CIN-2012-20
+CIN,Illegal Block Above the Waist,09/30/2012,Jacksonville,J.Miles,DB,4,2012,CIN-2012-21
+CIN,False Start,09/30/2012,Jacksonville,A.Hawkins,WR,4,2012,CIN-2012-22
+CIN,Face Mask (15 Yards),09/30/2012,Jacksonville,C.Dunlap,DE,4,2012,CIN-2012-23
+CIN,Offensive Holding,09/30/2012,Jacksonville,O.Charles,TE,4,2012,CIN-2012-24
+CIN,False Start,10/07/2012,Miami,A.Smith,T,5,2012,CIN-2012-25
+CIN,Offensive Holding,10/07/2012,Miami,J.Gresham,TE,5,2012,CIN-2012-26
+CIN,Illegal Contact,10/07/2012,Miami,R.Maualuga,MLB,5,2012,CIN-2012-27
+CIN,Defensive Holding,10/07/2012,Miami,D.Skuta,LB,5,2012,CIN-2012-28
+CIN,Defensive Pass Interference,10/07/2012,Miami,T.Newman,DB,5,2012,CIN-2012-29
+CIN,Offensive Holding,10/07/2012,Miami,J.Faine,C,5,2012,CIN-2012-30
+CIN,Illegal Shift,10/14/2012,Cleveland,A.Dalton,QB,6,2012,CIN-2012-31
+CIN,Offensive Holding,10/14/2012,Cleveland,A.Whitworth,T,6,2012,CIN-2012-32
+CIN,False Start,10/14/2012,Cleveland,C.Boling,G,6,2012,CIN-2012-33
+CIN,Illegal Block Above the Waist,10/14/2012,Cleveland,A.Hawkins,WR,6,2012,CIN-2012-34
+CIN,Delay of Game,10/14/2012,Cleveland,A.Dalton,QB,6,2012,CIN-2012-35
+CIN,Offensive Holding,10/14/2012,Cleveland,C.Peerman,RB,6,2012,CIN-2012-36
+CIN,Offensive Pass Interference,10/14/2012,Cleveland,A.Green,WR,6,2012,CIN-2012-37
+CIN,Offensive Holding,10/21/2012,Pittsburgh,T.Robinson,C,7,2012,CIN-2012-38
+CIN,Offensive Holding,10/21/2012,Pittsburgh,C.Peerman,RB,7,2012,CIN-2012-39
+CIN,Fair Catch Interference,10/21/2012,Pittsburgh,J.Miles,DB,7,2012,CIN-2012-40
+CIN,Illegal Block Above the Waist,10/21/2012,Pittsburgh,M.Sanu,WR,7,2012,CIN-2012-41
+CIN,Offensive Holding,11/04/2012,Denver,B.Leonard,RB,9,2012,CIN-2012-42
+CIN,Offensive Holding,11/04/2012,Denver,A.Binns,WR,9,2012,CIN-2012-43
+CIN,Offensive Holding,11/04/2012,Denver,D.Skuta,LB,9,2012,CIN-2012-44
+CIN,Offensive Offside,11/04/2012,Denver,D.Kirkpatrick,CB,9,2012,CIN-2012-45
+CIN,Defensive Pass Interference,11/04/2012,Denver,A.Jones,CB,9,2012,CIN-2012-46
+CIN,Offensive Holding,11/04/2012,Denver,A.Whitworth,T,9,2012,CIN-2012-47
+CIN,False Start,11/04/2012,Denver,A.Whitworth,T,9,2012,CIN-2012-48
+CIN,Offensive Holding,11/04/2012,Denver,J.Faine,C,9,2012,CIN-2012-49
+CIN,Defensive Pass Interference,11/04/2012,Denver,T.Newman,DB,9,2012,CIN-2012-50
+CIN,Personal Foul,11/11/2012,N.Y. Giants,R.Maualuga,MLB,10,2012,CIN-2012-51
+CIN,Offensive Holding,11/11/2012,N.Y. Giants,J.Gresham,TE,10,2012,CIN-2012-52
+CIN,Illegal Contact,11/11/2012,N.Y. Giants,R.Maualuga,MLB,10,2012,CIN-2012-53
+CIN,Defensive Holding,11/11/2012,N.Y. Giants,G.Atkins,DT,10,2012,CIN-2012-54
+CIN,False Start,11/18/2012,Kansas City,J.Gresham,TE,11,2012,CIN-2012-55
+CIN,Defensive Holding,11/18/2012,Kansas City,T.Newman,DB,11,2012,CIN-2012-56
+CIN,Offensive Holding,11/18/2012,Kansas City,O.Charles,TE,11,2012,CIN-2012-57
+CIN,False Start,11/18/2012,Kansas City,A.Whitworth,T,11,2012,CIN-2012-58
+CIN,Neutral Zone Infraction,11/18/2012,Kansas City,M.Johnson,DE,11,2012,CIN-2012-59
+CIN,Offensive Holding,11/18/2012,Kansas City,D.Roland,T,11,2012,CIN-2012-60
+CIN,Defensive Offside,11/18/2012,Kansas City,C.Crocker,DB,11,2012,CIN-2012-61
+CIN,Delay of Game,11/18/2012,Kansas City,K.Huber,P,11,2012,CIN-2012-62
+CIN,Illegal Touch Kick,11/18/2012,Kansas City,C.Peerman,RB,11,2012,CIN-2012-63
+CIN,Illegal Block Above the Waist,11/25/2012,Oakland,T.Newman,DB,12,2012,CIN-2012-64
+CIN,Offensive Holding,11/25/2012,Oakland,J.Gresham,TE,12,2012,CIN-2012-65
+CIN,False Start,11/25/2012,Oakland,A.Smith,T,12,2012,CIN-2012-66
+CIN,Offensive Pass Interference,12/02/2012,San Diego,A.Green,WR,13,2012,CIN-2012-67
+CIN,False Start,12/02/2012,San Diego,A.Whitworth,T,13,2012,CIN-2012-68
+CIN,Defensive Offside,12/02/2012,San Diego,M.Johnson,DE,13,2012,CIN-2012-69
+CIN,Defensive Offside,12/02/2012,San Diego,P.Sims,DT,13,2012,CIN-2012-70
+CIN,Illegal Block Above the Waist,12/02/2012,San Diego,M.Lawson,LB,13,2012,CIN-2012-71
+CIN,Offensive Holding,12/02/2012,San Diego,J.Gresham,TE,13,2012,CIN-2012-72
+CIN,Illegal Formation,12/02/2012,San Diego,D.Roland,T,13,2012,CIN-2012-73
+CIN,Defensive Holding,12/02/2012,San Diego,A.Jones,CB,13,2012,CIN-2012-74
+CIN,False Start,12/09/2012,Dallas,K.Cook,C,14,2012,CIN-2012-75
+CIN,Illegal Use of Hands,12/09/2012,Dallas,T.Mays,DB,14,2012,CIN-2012-76
+CIN,Face Mask (15 Yards),12/09/2012,Dallas,C.Dunlap,DE,14,2012,CIN-2012-77
+CIN,False Start,12/09/2012,Dallas,A.Whitworth,T,14,2012,CIN-2012-78
+CIN,Illegal Touch Pass,12/09/2012,Dallas,M.Jones,WR,14,2012,CIN-2012-79
+CIN,Personal Foul,12/09/2012,Dallas,R.Nelson,FS,14,2012,CIN-2012-80
+CIN,Illegal Block Above the Waist,12/09/2012,Dallas,A.Green,WR,14,2012,CIN-2012-81
+CIN,Offensive Holding,12/09/2012,Dallas,K.Cook,C,14,2012,CIN-2012-82
+CIN,Illegal Use of Hands,12/09/2012,Dallas,L.Hall,CB,14,2012,CIN-2012-83
+CIN,Defensive Offside,12/13/2012,Philadelphia,M.Johnson,DE,15,2012,CIN-2012-84
+CIN,Defensive Offside,12/13/2012,Philadelphia,C.Dunlap,DE,15,2012,CIN-2012-85
+CIN,Defensive Offside,12/13/2012,Philadelphia,M.Lawson,LB,15,2012,CIN-2012-86
+CIN,False Start,12/13/2012,Philadelphia,M.Jones,WR,15,2012,CIN-2012-87
+CIN,Defensive Holding,12/13/2012,Philadelphia,V.Burfict,OLB,15,2012,CIN-2012-88
+CIN,Unnecessary Roughness,12/13/2012,Philadelphia,A.Jones,CB,15,2012,CIN-2012-89
+CIN,Offensive Holding,12/13/2012,Philadelphia,J.Gresham,TE,15,2012,CIN-2012-90
+CIN,Offensive Holding,12/13/2012,Philadelphia,A.Smith,T,15,2012,CIN-2012-91
+CIN,Unnecessary Roughness,12/13/2012,Philadelphia,C.Dunlap,DE,15,2012,CIN-2012-92
+CIN,Offensive Holding,12/13/2012,Philadelphia,D.Roland,T,15,2012,CIN-2012-93
+CIN,Delay of Game,12/13/2012,Philadelphia,A.Dalton,QB,15,2012,CIN-2012-94
+CIN,Offensive Holding,12/13/2012,Philadelphia,K.Zeitler,G,15,2012,CIN-2012-95
+CIN,Illegal Blindside Block,12/13/2012,Philadelphia,D.Herron,RB,15,2012,CIN-2012-96
+CIN,Illegal Blindside Block,12/13/2012,Philadelphia,E.Lamur,OLB,15,2012,CIN-2012-97
+CIN,Offensive Holding,12/23/2012,Pittsburgh,J.Allen,DB,16,2012,CIN-2012-98
+CIN,Running Into the Kicker,12/23/2012,Pittsburgh,D.Skuta,LB,16,2012,CIN-2012-99
+CIN,False Start,12/23/2012,Pittsburgh,K.Zeitler,G,16,2012,CIN-2012-100
+CIN,Intentional Grounding,12/23/2012,Pittsburgh,A.Dalton,QB,16,2012,CIN-2012-101
+CIN,Illegal Touch Pass,12/23/2012,Pittsburgh,A.Smith,T,16,2012,CIN-2012-102
+CIN,Defensive Holding,12/23/2012,Pittsburgh,L.Hall,CB,16,2012,CIN-2012-103
+CIN,Offensive Holding,12/23/2012,Pittsburgh,O.Charles,TE,16,2012,CIN-2012-104
+CIN,Defensive Delay of Game,12/23/2012,Pittsburgh,V.Burfict,OLB,16,2012,CIN-2012-105
+CIN,Neutral Zone Infraction,12/30/2012,Baltimore,D.Herron,RB,17,2012,CIN-2012-106
+CIN,Illegal Use of Hands,12/30/2012,Baltimore,D.Peko,DT,17,2012,CIN-2012-107
+CIN,False Start,12/30/2012,Baltimore,B.Leonard,RB,17,2012,CIN-2012-108
+CIN,Defensive Pass Interference,12/30/2012,Baltimore,N.Clements,SS,17,2012,CIN-2012-109
+CIN,Defensive Pass Interference,01/05/2013,Houston,V.Burfict,OLB,18,2012,CIN-2012-110
+CIN,Defensive Offside,01/05/2013,Houston,G.Atkins,DT,18,2012,CIN-2012-111
+CIN,Fair Catch Interference,01/05/2013,Houston,C.Lewis-Harris,CB,18,2012,CIN-2012-112
+CIN,Defensive Holding,01/05/2013,Houston,M.Lawson,LB,18,2012,CIN-2012-113
+CIN,False Start,01/05/2013,Houston,K.Zeitler,G,18,2012,CIN-2012-114
+CIN,Unnecessary Roughness,01/05/2013,Houston,V.Burfict,OLB,18,2012,CIN-2012-115

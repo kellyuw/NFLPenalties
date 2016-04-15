@@ -1,0 +1,121 @@
+team,penalty,game,opponent,player,position,week,year,penaltyindex
+STL,Roughing the Passer,09/11/2011,Philadelphia,C.Ah You,DT,1,2011,STL-2011-0
+STL,Ineligible Downfield Kick,09/11/2011,Philadelphia,E.Sims,DE,1,2011,STL-2011-1
+STL,Offensive Holding,09/11/2011,Philadelphia,D.Curry,WR,1,2011,STL-2011-2
+STL,Defensive Holding,09/11/2011,Philadelphia,B.Fletcher,DB,1,2011,STL-2011-3
+STL,Illegal Contact,09/11/2011,Philadelphia,Q.Mikell,SS,1,2011,STL-2011-4
+STL,Illegal Use of Hands,09/11/2011,Philadelphia,R.Bartell,CB,1,2011,STL-2011-5
+STL,Offensive Holding,09/11/2011,Philadelphia,H.Dahl,G,1,2011,STL-2011-6
+STL,False Start,09/11/2011,Philadelphia,B.Bajema,TE,1,2011,STL-2011-7
+STL,Illegal Contact,09/11/2011,Philadelphia,R.Bartell,CB,1,2011,STL-2011-8
+STL,Illegal Block Above the Waist,09/11/2011,Philadelphia,H.Dahl,G,1,2011,STL-2011-9
+STL,False Start,09/11/2011,Philadelphia,B.Gibson,WR,1,2011,STL-2011-10
+STL,Defensive Pass Interference,09/19/2011,N.Y. Giants,B.Fletcher,DB,2,2011,STL-2011-11
+STL,False Start,09/19/2011,N.Y. Giants,R.Saffold,G,2,2011,STL-2011-12
+STL,Defensive Holding,09/19/2011,N.Y. Giants,J.King,DB,2,2011,STL-2011-13
+STL,Defensive Holding,09/19/2011,N.Y. Giants,B.Fletcher,DB,2,2011,STL-2011-14
+STL,Face Mask (15 Yards),09/19/2011,N.Y. Giants,B.Leber,OLB,2,2011,STL-2011-15
+STL,Encroachment,09/19/2011,N.Y. Giants,E.Sims,DE,2,2011,STL-2011-16
+STL,Defensive Pass Interference,09/19/2011,N.Y. Giants,J.King,DB,2,2011,STL-2011-17
+STL,Offensive Holding,09/19/2011,N.Y. Giants,R.Saffold,G,2,2011,STL-2011-18
+STL,Defensive Offside,09/25/2011,Baltimore,E.Sims,DE,3,2011,STL-2011-19
+STL,Defensive Offside,09/25/2011,Baltimore,D.Alexander,WR,3,2011,STL-2011-20
+STL,Unnecessary Roughness,09/25/2011,Baltimore,J.Smith,T,3,2011,STL-2011-21
+STL,Face Mask (15 Yards),09/25/2011,Baltimore,B.Fletcher,DB,3,2011,STL-2011-22
+STL,Chop Block,09/25/2011,Baltimore,J.Bell,G,3,2011,STL-2011-23
+STL,Personal Foul,09/25/2011,Baltimore,J.Smith,T,3,2011,STL-2011-24
+STL,Defensive Pass Interference,09/25/2011,Baltimore,B.Fletcher,DB,3,2011,STL-2011-25
+STL,False Start,10/02/2011,Washington,R.Saffold,G,4,2011,STL-2011-26
+STL,Personal Foul,10/02/2011,Washington,J.Smith,T,4,2011,STL-2011-27
+STL,Offensive Holding,10/02/2011,Washington,D.Alexander,WR,4,2011,STL-2011-28
+STL,Illegal Formation,10/02/2011,Washington,J.Smith,T,4,2011,STL-2011-29
+STL,False Start,10/02/2011,Washington,L.Kendricks,TE,4,2011,STL-2011-30
+STL,False Start,10/02/2011,Washington,Jason.Brown,C,4,2011,STL-2011-31
+STL,False Start,10/02/2011,Washington,D.Curry,WR,4,2011,STL-2011-32
+STL,Offensive Holding,10/02/2011,Washington,R.Saffold,G,4,2011,STL-2011-33
+STL,False Start,10/02/2011,Washington,L.Kendricks,TE,4,2011,STL-2011-34
+STL,Offensive Holding,10/02/2011,Washington,R.Saffold,G,4,2011,STL-2011-35
+STL,Offensive Holding,10/16/2011,Green Bay,R.Saffold,G,6,2011,STL-2011-36
+STL,False Start,10/16/2011,Green Bay,L.Kendricks,TE,6,2011,STL-2011-37
+STL,Offensive Holding,10/16/2011,Green Bay,M.Hoomanawanui,TE,6,2011,STL-2011-38
+STL,Illegal Contact,10/16/2011,Green Bay,J.King,DB,6,2011,STL-2011-39
+STL,False Start,10/16/2011,Green Bay,R.Saffold,G,6,2011,STL-2011-40
+STL,False Start,10/16/2011,Green Bay,J.Smith,T,6,2011,STL-2011-41
+STL,False Start,10/16/2011,Green Bay,R.Saffold,G,6,2011,STL-2011-42
+STL,Defensive Holding,10/23/2011,Dallas,B.Poppinga,ILB,7,2011,STL-2011-43
+STL,Delay of Game,10/23/2011,Dallas,A.Feeley,QB,7,2011,STL-2011-44
+STL,False Start,10/23/2011,Dallas,R.Saffold,G,7,2011,STL-2011-45
+STL,Unnecessary Roughness,10/30/2011,New Orleans,J.Butler,DB,8,2011,STL-2011-46
+STL,False Start,10/30/2011,New Orleans,H.Dahl,G,8,2011,STL-2011-47
+STL,Delay of Game,10/30/2011,New Orleans,A.Feeley,QB,8,2011,STL-2011-48
+STL,False Start,10/30/2011,New Orleans,J.Bell,G,8,2011,STL-2011-49
+STL,False Start,10/30/2011,New Orleans,J.Bell,G,8,2011,STL-2011-50
+STL,Chop Block,10/30/2011,New Orleans,B.Lloyd,WR,8,2011,STL-2011-51
+STL,False Start,10/30/2011,New Orleans,R.Saffold,G,8,2011,STL-2011-52
+STL,Fair Catch Interference,10/30/2011,New Orleans,B.Kehl,LB,8,2011,STL-2011-53
+STL,Personal Foul,11/06/2011,Arizona,B.Miller,FB,9,2011,STL-2011-54
+STL,Running Into the Kicker,11/06/2011,Arizona,J.Gordy,DB,9,2011,STL-2011-55
+STL,False Start,11/06/2011,Arizona,B.Miller,FB,9,2011,STL-2011-56
+STL,False Start,11/06/2011,Arizona,J.Bell,G,9,2011,STL-2011-57
+STL,Defensive Offside,11/06/2011,Arizona,C.Long,DE,9,2011,STL-2011-58
+STL,Offensive Holding,11/06/2011,Arizona,B.Bajema,TE,9,2011,STL-2011-59
+STL,Delay of Game,11/06/2011,Arizona,S.Bradford,QB,9,2011,STL-2011-60
+STL,Unsportsmanlike Conduct,11/06/2011,Arizona,H.Dahl,G,9,2011,STL-2011-61
+STL,Neutral Zone Infraction,11/06/2011,Arizona,E.Sims,DE,9,2011,STL-2011-62
+STL,Illegal Contact,11/06/2011,Arizona,J.Gordy,DB,9,2011,STL-2011-63
+STL,Defensive Offside,11/13/2011,Cleveland,J.Bannan,DT,10,2011,STL-2011-64
+STL,Offensive Holding,11/13/2011,Cleveland,B.Bajema,TE,10,2011,STL-2011-65
+STL,Encroachment,11/13/2011,Cleveland,F.Robbins,DT,10,2011,STL-2011-66
+STL,Defensive Holding,11/13/2011,Cleveland,J.King,DB,10,2011,STL-2011-67
+STL,Tripping,11/13/2011,Cleveland,A.Goldberg,T,10,2011,STL-2011-68
+STL,Delay of Game,11/13/2011,Cleveland,S.Bradford,QB,10,2011,STL-2011-69
+STL,Horse Collar Tackle,11/13/2011,Cleveland,F.Robbins,DT,10,2011,STL-2011-70
+STL,Ineligible Downfield Kick,11/20/2011,Seattle,J.McQuaide,LS,11,2011,STL-2011-71
+STL,Unnecessary Roughness,11/20/2011,Seattle,S.Spach,TE,11,2011,STL-2011-72
+STL,False Start,11/20/2011,Seattle,M.LeVoir,T,11,2011,STL-2011-73
+STL,Defensive Holding,11/20/2011,Seattle,J.King,DB,11,2011,STL-2011-74
+STL,Defensive Pass Interference,11/20/2011,Seattle,J.King,DB,11,2011,STL-2011-75
+STL,Ineligible Downfield Kick,11/20/2011,Seattle,B.Kehl,LB,11,2011,STL-2011-76
+STL,Illegal Use of Hands,11/20/2011,Seattle,K.Hughes,T,11,2011,STL-2011-77
+STL,False Start,11/27/2011,Arizona,Jason.Brown,C,12,2011,STL-2011-78
+STL,Illegal Formation,11/27/2011,Arizona,H.Dahl,G,12,2011,STL-2011-79
+STL,False Start,11/27/2011,Arizona,B.Lloyd,WR,12,2011,STL-2011-80
+STL,Defensive Holding,11/27/2011,Arizona,R.Hood,CB,12,2011,STL-2011-81
+STL,False Start,11/27/2011,Arizona,Jason.Brown,C,12,2011,STL-2011-82
+STL,Offensive Holding,11/27/2011,Arizona,B.Poppinga,ILB,12,2011,STL-2011-83
+STL,False Start,11/27/2011,Arizona,C.Ah You,DT,12,2011,STL-2011-84
+STL,Offensive Holding,11/27/2011,Arizona,Jason.Brown,C,12,2011,STL-2011-85
+STL,False Start,12/04/2011,San Francisco,T.Wragge,G,13,2011,STL-2011-86
+STL,Encroachment,12/04/2011,San Francisco,J.Bannan,DT,13,2011,STL-2011-87
+STL,Chop Block,12/04/2011,San Francisco,J.Norwood,RB,13,2011,STL-2011-88
+STL,Illegal Use of Hands,12/04/2011,San Francisco,C.Dahl,DB,13,2011,STL-2011-89
+STL,False Start,12/04/2011,San Francisco,Jason.Brown,C,13,2011,STL-2011-90
+STL,Roughing the Passer,12/04/2011,San Francisco,J.Laurinaitis,MLB,13,2011,STL-2011-91
+STL,Offensive Holding,12/04/2011,San Francisco,L.Kendricks,TE,13,2011,STL-2011-92
+STL,Illegal Formation,12/12/2011,Seattle,B.Bajema,TE,14,2011,STL-2011-93
+STL,False Start,12/12/2011,Seattle,T.Wragge,G,14,2011,STL-2011-94
+STL,Defensive Offside,12/12/2011,Seattle,J.Bannan,DT,14,2011,STL-2011-95
+STL,False Start,12/12/2011,Seattle,D.Alexander,WR,14,2011,STL-2011-96
+STL,Intentional Grounding,12/12/2011,Seattle,S.Bradford,QB,14,2011,STL-2011-97
+STL,Roughing the Passer,12/18/2011,Cincinnati,E.Sims,DE,15,2011,STL-2011-98
+STL,Defensive Offside,12/18/2011,Cincinnati,C.Long,DE,15,2011,STL-2011-99
+STL,Defensive Pass Interference,12/18/2011,Cincinnati,R.Hood,CB,15,2011,STL-2011-100
+STL,Unnecessary Roughness,12/18/2011,Cincinnati,J.Butler,DB,15,2011,STL-2011-101
+STL,Illegal Use of Hands,12/18/2011,Cincinnati,D.Stewart,DB,15,2011,STL-2011-102
+STL,Unsportsmanlike Conduct,12/18/2011,Cincinnati,H.Dahl,G,15,2011,STL-2011-103
+STL,Offensive Holding,12/18/2011,Cincinnati,H.Dahl,G,15,2011,STL-2011-104
+STL,Ineligible Downfield Pass,12/18/2011,Cincinnati,Jason.Brown,C,15,2011,STL-2011-105
+STL,Unnecessary Roughness,12/18/2011,Cincinnati,C.Chamberlain,LB,15,2011,STL-2011-106
+STL,Unnecessary Roughness,12/18/2011,Cincinnati,C.Chamberlain,LB,15,2011,STL-2011-107
+STL,Intentional Grounding,12/18/2011,Cincinnati,K.Clemens,QB,15,2011,STL-2011-108
+STL,False Start,12/24/2011,Pittsburgh,Jason.Brown,C,16,2011,STL-2011-109
+STL,False Start,12/24/2011,Pittsburgh,B.Mattison,DE,16,2011,STL-2011-110
+STL,Offensive Holding,12/24/2011,Pittsburgh,S.Spach,TE,16,2011,STL-2011-111
+STL,Defensive Offside,12/24/2011,Pittsburgh,C.Long,DE,16,2011,STL-2011-112
+STL,Illegal Use of Hands,12/24/2011,Pittsburgh,Q.Porter,RB,16,2011,STL-2011-113
+STL,False Start,01/01/2012,San Francisco,H.Dahl,G,17,2011,STL-2011-114
+STL,Offensive Holding,01/01/2012,San Francisco,D.Nixon,LB,17,2011,STL-2011-115
+STL,Offensive Holding,01/01/2012,San Francisco,T.Wragge,G,17,2011,STL-2011-116
+STL,Face Mask (15 Yards),01/01/2012,San Francisco,Q.Mikell,SS,17,2011,STL-2011-117
+STL,Unsportsmanlike Conduct,01/01/2012,San Francisco,Q.Mikell,SS,17,2011,STL-2011-118
+STL,Offensive Holding,01/01/2012,San Francisco,J.Norwood,RB,17,2011,STL-2011-119

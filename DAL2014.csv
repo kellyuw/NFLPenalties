@@ -1,0 +1,131 @@
+team,penalty,game,opponent,player,position,week,year,penaltyindex
+DAL,False Start,09/07/2014,San Francisco,T.Smith,T,1,2014,DAL-2014-0
+DAL,Offensive Holding,09/07/2014,San Francisco,D.Bryant,WR,1,2014,DAL-2014-1
+DAL,Defensive Pass Interference,09/07/2014,San Francisco,M.Claiborne,CB,1,2014,DAL-2014-2
+DAL,False Start,09/07/2014,San Francisco,R.Leary,G,1,2014,DAL-2014-3
+DAL,Offensive Holding,09/07/2014,San Francisco,C.Lawrence,LB,1,2014,DAL-2014-4
+DAL,False Start,09/07/2014,San Francisco,J.Witten,TE,1,2014,DAL-2014-5
+DAL,Defensive Holding,09/07/2014,San Francisco,B.Carter,LB,1,2014,DAL-2014-6
+DAL,Illegal Use of Hands,09/07/2014,San Francisco,Z.Martin,G,1,2014,DAL-2014-7
+DAL,Unnecessary Roughness,09/07/2014,San Francisco,T.Smith,T,1,2014,DAL-2014-8
+DAL,False Start,09/07/2014,San Francisco,Z.Martin,G,1,2014,DAL-2014-9
+DAL,Ineligible Downfield Pass,09/14/2014,Tennessee,T.Frederick,C,2,2014,DAL-2014-10
+DAL,Offensive Holding,09/14/2014,Tennessee,T.Frederick,C,2,2014,DAL-2014-11
+DAL,Illegal Substitution,09/14/2014,Tennessee,J.Parnell,T,2,2014,DAL-2014-12
+DAL,Defensive Holding,09/21/2014,St. Louis,B.Carter,LB,3,2014,DAL-2014-13
+DAL,Illegal Block Above the Waist,09/21/2014,St. Louis,J.Witten,TE,3,2014,DAL-2014-14
+DAL,Illegal Contact,09/21/2014,St. Louis,M.Claiborne,CB,3,2014,DAL-2014-15
+DAL,Defensive Holding,09/28/2014,New Orleans,O.Scandrick,CB,4,2014,DAL-2014-16
+DAL,Illegal Contact,09/28/2014,New Orleans,J.Durant,LB,4,2014,DAL-2014-17
+DAL,Offensive Holding,09/28/2014,New Orleans,D.Free,T,4,2014,DAL-2014-18
+DAL,Offensive Holding,09/28/2014,New Orleans,R.Leary,G,4,2014,DAL-2014-19
+DAL,Unnecessary Roughness,09/28/2014,New Orleans,D.Harris,WR,4,2014,DAL-2014-20
+DAL,Delay of Game,09/28/2014,New Orleans,T.Romo,QB,4,2014,DAL-2014-21
+DAL,Offensive Holding,10/05/2014,Houston,C.Spillman,DB,5,2014,DAL-2014-22
+DAL,Illegal Block Above the Waist,10/05/2014,Houston,C.Spillman,DB,5,2014,DAL-2014-23
+DAL,Offensive Holding,10/05/2014,Houston,A.Hitchens,OLB,5,2014,DAL-2014-24
+DAL,False Start,10/05/2014,Houston,T.Smith,T,5,2014,DAL-2014-25
+DAL,Offensive Holding,10/05/2014,Houston,T.Frederick,C,5,2014,DAL-2014-26
+DAL,Delay of Game,10/05/2014,Houston,T.Romo,QB,5,2014,DAL-2014-27
+DAL,Intentional Grounding,10/05/2014,Houston,T.Romo,QB,5,2014,DAL-2014-28
+DAL,Offensive Holding,10/05/2014,Houston,C.Spillman,DB,5,2014,DAL-2014-29
+DAL,Defensive Holding,10/12/2014,Seattle,O.Scandrick,CB,6,2014,DAL-2014-30
+DAL,Offensive Holding,10/12/2014,Seattle,D.Free,T,6,2014,DAL-2014-31
+DAL,Offensive Holding,10/12/2014,Seattle,B.Carr,CB,6,2014,DAL-2014-32
+DAL,Delay of Game,10/12/2014,Seattle,T.Williams,WR,6,2014,DAL-2014-33
+DAL,Defensive Holding,10/12/2014,Seattle,J.Mincey,DE,6,2014,DAL-2014-34
+DAL,Offensive Holding,10/12/2014,Seattle,R.Leary,G,6,2014,DAL-2014-35
+DAL,Offensive Holding,10/12/2014,Seattle,T.Frederick,C,6,2014,DAL-2014-36
+DAL,Offensive Holding,10/12/2014,Seattle,T.Smith,T,6,2014,DAL-2014-37
+DAL,Offensive Holding,10/19/2014,N.Y. Giants,R.Leary,G,7,2014,DAL-2014-38
+DAL,Defensive Pass Interference,10/19/2014,N.Y. Giants,J.Wilcox,FS,7,2014,DAL-2014-39
+DAL,Defensive Holding,10/19/2014,N.Y. Giants,B.Carr,CB,7,2014,DAL-2014-40
+DAL,Offensive Holding,10/19/2014,N.Y. Giants,T.Smith,T,7,2014,DAL-2014-41
+DAL,False Start,10/19/2014,N.Y. Giants,T.Frederick,C,7,2014,DAL-2014-42
+DAL,Delay of Game,10/19/2014,N.Y. Giants,C.Jones,P,7,2014,DAL-2014-43
+DAL,Defensive Pass Interference,10/19/2014,N.Y. Giants,B.Carr,CB,7,2014,DAL-2014-44
+DAL,Defensive Holding,10/19/2014,N.Y. Giants,J.Wilcox,FS,7,2014,DAL-2014-45
+DAL,Offensive Holding,10/27/2014,Washington,T.Frederick,C,8,2014,DAL-2014-46
+DAL,Unnecessary Roughness,10/27/2014,Washington,B.Carr,CB,8,2014,DAL-2014-47
+DAL,Unnecessary Roughness,10/27/2014,Washington,J.Mincey,DE,8,2014,DAL-2014-48
+DAL,Intentional Grounding,10/27/2014,Washington,T.Romo,QB,8,2014,DAL-2014-49
+DAL,False Start,11/02/2014,Arizona,T.Smith,T,9,2014,DAL-2014-50
+DAL,Illegal Use of Hands,11/02/2014,Arizona,R.McClain,MLB,9,2014,DAL-2014-51
+DAL,Offensive Holding,11/02/2014,Arizona,T.Clutts,FB,9,2014,DAL-2014-52
+DAL,Defensive Pass Interference,11/02/2014,Arizona,B.Carr,CB,9,2014,DAL-2014-53
+DAL,Tripping,11/02/2014,Arizona,Z.Martin,G,9,2014,DAL-2014-54
+DAL,Illegal Use of Hands,11/02/2014,Arizona,G.Selvie,DE,9,2014,DAL-2014-55
+DAL,False Start,11/09/2014,Jacksonville,T.Smith,T,10,2014,DAL-2014-56
+DAL,Offensive Pass Interference,11/09/2014,Jacksonville,D.Street,WR,10,2014,DAL-2014-57
+DAL,Personal Foul,11/09/2014,Jacksonville,A.Hitchens,OLB,10,2014,DAL-2014-58
+DAL,Offensive Holding,11/09/2014,Jacksonville,K.Wilber,OLB,10,2014,DAL-2014-59
+DAL,Defensive Pass Interference,11/09/2014,Jacksonville,S.Moore,DB,10,2014,DAL-2014-60
+DAL,Personal Foul,11/09/2014,Jacksonville,J.Wilcox,FS,10,2014,DAL-2014-61
+DAL,False Start,11/09/2014,Jacksonville,J.Witten,TE,10,2014,DAL-2014-62
+DAL,Defensive Holding,11/09/2014,Jacksonville,C.Lawrence,LB,10,2014,DAL-2014-63
+DAL,Defensive Holding,11/09/2014,Jacksonville,C.Spillman,DB,10,2014,DAL-2014-64
+DAL,Defensive Offside,11/09/2014,Jacksonville,A.Spencer,LB,10,2014,DAL-2014-65
+DAL,Defensive Pass Interference,11/09/2014,Jacksonville,J.Heath,SS,10,2014,DAL-2014-66
+DAL,Defensive Offside,11/23/2014,N.Y. Giants,O.Scandrick,CB,12,2014,DAL-2014-67
+DAL,Defensive Pass Interference,11/23/2014,N.Y. Giants,B.Carr,CB,12,2014,DAL-2014-68
+DAL,Unnecessary Roughness,11/23/2014,N.Y. Giants,J.Mincey,DE,12,2014,DAL-2014-69
+DAL,Unnecessary Roughness,11/23/2014,N.Y. Giants,R.Leary,G,12,2014,DAL-2014-70
+DAL,Offensive Holding,11/23/2014,N.Y. Giants,T.Smith,T,12,2014,DAL-2014-71
+DAL,Unsportsmanlike Conduct,11/23/2014,N.Y. Giants,O.Scandrick,CB,12,2014,DAL-2014-72
+DAL,Encroachment,11/23/2014,N.Y. Giants,J.Crawford,DT,12,2014,DAL-2014-73
+DAL,Defensive Holding,11/23/2014,N.Y. Giants,O.Scandrick,CB,12,2014,DAL-2014-74
+DAL,Offensive Holding,11/27/2014,Philadelphia,D.Lawrence,DE,13,2014,DAL-2014-75
+DAL,Illegal Use of Hands,11/27/2014,Philadelphia,O.Scandrick,CB,13,2014,DAL-2014-76
+DAL,Defensive Holding,11/27/2014,Philadelphia,J.Wilcox,FS,13,2014,DAL-2014-77
+DAL,Roughing the Passer,11/27/2014,Philadelphia,G.Selvie,DE,13,2014,DAL-2014-78
+DAL,Illegal Formation,11/27/2014,Philadelphia,G.Escobar,TE,13,2014,DAL-2014-79
+DAL,Unnecessary Roughness,11/27/2014,Philadelphia,D.Harris,WR,13,2014,DAL-2014-80
+DAL,Defensive Pass Interference,12/04/2014,Chicago,B.Carr,CB,14,2014,DAL-2014-81
+DAL,False Start,12/04/2014,Chicago,J.Hanna,TE,14,2014,DAL-2014-82
+DAL,False Start,12/04/2014,Chicago,D.Free,T,14,2014,DAL-2014-83
+DAL,Illegal Block Above the Waist,12/04/2014,Chicago,M.Pellerin,DB,14,2014,DAL-2014-84
+DAL,Defensive Holding,12/04/2014,Chicago,O.Scandrick,CB,14,2014,DAL-2014-85
+DAL,Defensive Pass Interference,12/04/2014,Chicago,S.Moore,DB,14,2014,DAL-2014-86
+DAL,Defensive Holding,12/04/2014,Chicago,A.Hitchens,OLB,14,2014,DAL-2014-87
+DAL,Roughing the Passer,12/04/2014,Chicago,T.Crawford,DT,14,2014,DAL-2014-88
+DAL,Offensive Holding,12/14/2014,Philadelphia,J.Witten,TE,15,2014,DAL-2014-89
+DAL,False Start,12/14/2014,Philadelphia,T.Smith,T,15,2014,DAL-2014-90
+DAL,Unsportsmanlike Conduct,12/14/2014,Philadelphia,B.Carr,CB,15,2014,DAL-2014-91
+DAL,Defensive Holding,12/14/2014,Philadelphia,B.Carr,CB,15,2014,DAL-2014-92
+DAL,Offensive Holding,12/14/2014,Philadelphia,D.Free,T,15,2014,DAL-2014-93
+DAL,Illegal Forward Pass,12/14/2014,Philadelphia,T.Romo,QB,15,2014,DAL-2014-94
+DAL,False Start,12/14/2014,Philadelphia,T.Williams,WR,15,2014,DAL-2014-95
+DAL,Offensive Pass Interference,12/14/2014,Philadelphia,T.Williams,WR,15,2014,DAL-2014-96
+DAL,Defensive Holding,12/14/2014,Philadelphia,B.Church,SS,15,2014,DAL-2014-97
+DAL,False Start,12/14/2014,Philadelphia,T.Romo,QB,15,2014,DAL-2014-98
+DAL,Personal Foul,12/14/2014,Philadelphia,T.McClain,DT,15,2014,DAL-2014-99
+DAL,Unsportsmanlike Conduct,12/14/2014,Philadelphia,R.McClain,MLB,15,2014,DAL-2014-100
+DAL,Offensive Holding,12/14/2014,Philadelphia,D.Murray,RB,15,2014,DAL-2014-101
+DAL,False Start,12/14/2014,Philadelphia,B.Carter,LB,15,2014,DAL-2014-102
+DAL,Illegal Motion,12/21/2014,Indianapolis,D.Murray,RB,16,2014,DAL-2014-103
+DAL,Illegal Use of Hands,12/21/2014,Indianapolis,S.Moore,DB,16,2014,DAL-2014-104
+DAL,Defensive Holding,12/21/2014,Indianapolis,B.Church,SS,16,2014,DAL-2014-105
+DAL,Defensive Pass Interference,12/21/2014,Indianapolis,S.Moore,DB,16,2014,DAL-2014-106
+DAL,Face Mask (15 Yards),12/21/2014,Indianapolis,T.Patmon,DB,16,2014,DAL-2014-107
+DAL,Illegal Use of Hands,12/21/2014,Indianapolis,T.Patmon,DB,16,2014,DAL-2014-108
+DAL,Defensive Pass Interference,12/21/2014,Indianapolis,B.Carr,CB,16,2014,DAL-2014-109
+DAL,Neutral Zone Infraction,12/21/2014,Indianapolis,A.Spencer,LB,16,2014,DAL-2014-110
+DAL,Defensive Holding,12/28/2014,Washington,T.Patmon,DB,17,2014,DAL-2014-111
+DAL,Offensive Holding,12/28/2014,Washington,J.Witten,TE,17,2014,DAL-2014-112
+DAL,Delay of Game,12/28/2014,Washington,T.Romo,QB,17,2014,DAL-2014-113
+DAL,Neutral Zone Infraction,12/28/2014,Washington,T.McClain,DT,17,2014,DAL-2014-114
+DAL,Illegal Block Above the Waist,12/28/2014,Washington,B.Carr,CB,17,2014,DAL-2014-115
+DAL,Face Mask (15 Yards),12/28/2014,Washington,J.Heath,SS,17,2014,DAL-2014-116
+DAL,Personal Foul,12/28/2014,Washington,D.Murray,RB,17,2014,DAL-2014-117
+DAL,Defensive Offside,01/04/2015,Detroit,O.Scandrick,CB,18,2014,DAL-2014-118
+DAL,Running Into the Kicker,01/04/2015,Detroit,D.Watson,LB,18,2014,DAL-2014-119
+DAL,Offensive Holding,01/04/2015,Detroit,D.Lawrence,DE,18,2014,DAL-2014-120
+DAL,Offensive Pass Interference,01/04/2015,Detroit,T.Williams,WR,18,2014,DAL-2014-121
+DAL,Taunting,01/04/2015,Detroit,D.Bryant,WR,18,2014,DAL-2014-122
+DAL,Offensive Holding,01/04/2015,Detroit,J.Witten,TE,18,2014,DAL-2014-123
+DAL,False Start,01/04/2015,Detroit,T.Williams,WR,18,2014,DAL-2014-124
+DAL,Offensive Holding,01/11/2015,Green Bay,Z.Martin,G,19,2014,DAL-2014-125
+DAL,Defensive Holding,01/11/2015,Green Bay,B.Carr,CB,19,2014,DAL-2014-126
+DAL,Defensive Offside,01/11/2015,Green Bay,A.Spencer,LB,19,2014,DAL-2014-127
+DAL,Illegal Block Above the Waist,01/11/2015,Green Bay,K.Wilber,OLB,19,2014,DAL-2014-128
+DAL,False Start,01/11/2015,Green Bay,L.Ladouceur,LS,19,2014,DAL-2014-129

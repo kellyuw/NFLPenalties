@@ -1,0 +1,132 @@
+team,penalty,game,opponent,player,position,week,year,penaltyindex
+PHI,Offensive Holding,09/07/2014,Jacksonville,T.Herremans,G,1,2014,PHI-2014-0
+PHI,Defensive Offside,09/07/2014,Jacksonville,C.Thornton,DE,1,2014,PHI-2014-1
+PHI,Horse Collar Tackle,09/07/2014,Jacksonville,F.Cox,DE,1,2014,PHI-2014-2
+PHI,Neutral Zone Infraction,09/07/2014,Jacksonville,T.Cole,LB,1,2014,PHI-2014-3
+PHI,Offensive Holding,09/07/2014,Jacksonville,A.Gardner,G,1,2014,PHI-2014-4
+PHI,Defensive Holding,09/07/2014,Jacksonville,B.Fletcher,DB,1,2014,PHI-2014-5
+PHI,Illegal Block Above the Waist,09/15/2014,Indianapolis,B.Braman,LB,2,2014,PHI-2014-6
+PHI,Neutral Zone Infraction,09/15/2014,Indianapolis,C.Barwin,OLB,2,2014,PHI-2014-7
+PHI,Neutral Zone Infraction,09/15/2014,Indianapolis,B.Graham,LB,2,2014,PHI-2014-8
+PHI,False Start,09/15/2014,Indianapolis,B.Braman,LB,2,2014,PHI-2014-9
+PHI,Unnecessary Roughness,09/15/2014,Indianapolis,C.Maragos,FS,2,2014,PHI-2014-10
+PHI,Encroachment,09/15/2014,Indianapolis,T.Cole,LB,2,2014,PHI-2014-11
+PHI,Defensive Holding,09/15/2014,Indianapolis,C.Barwin,OLB,2,2014,PHI-2014-12
+PHI,Offensive Holding,09/15/2014,Indianapolis,J.Matthews,WR,2,2014,PHI-2014-13
+PHI,Face Mask (15 Yards),09/15/2014,Indianapolis,C.Williams,DB,2,2014,PHI-2014-14
+PHI,Offside on Free Kick,09/15/2014,Indianapolis,E.Wolff,SS,2,2014,PHI-2014-15
+PHI,False Start,09/15/2014,Indianapolis,R.Cooper,WR,2,2014,PHI-2014-16
+PHI,Illegal Use of Hands,09/15/2014,Indianapolis,J.Kelce,C,2,2014,PHI-2014-17
+PHI,Unnecessary Roughness,09/21/2014,Washington,N.Allen,DB,3,2014,PHI-2014-18
+PHI,Illegal Use of Hands,09/21/2014,Washington,F.Cox,DE,3,2014,PHI-2014-19
+PHI,Encroachment,09/21/2014,Washington,C.Thornton,DE,3,2014,PHI-2014-20
+PHI,Offensive Holding,09/21/2014,Washington,J.Kelce,C,3,2014,PHI-2014-21
+PHI,Illegal Block Above the Waist,09/21/2014,Washington,J.Kelce,C,3,2014,PHI-2014-22
+PHI,False Start,09/21/2014,Washington,A.Gardner,G,3,2014,PHI-2014-23
+PHI,Defensive Holding,09/21/2014,Washington,B.Fletcher,DB,3,2014,PHI-2014-24
+PHI,Offensive Holding,09/21/2014,Washington,T.Herremans,G,3,2014,PHI-2014-25
+PHI,Disqualification,09/21/2014,Washington,J.Peters,T,3,2014,PHI-2014-26
+PHI,Disqualification,09/21/2014,Washington,J.Peters,T,3,2014,PHI-2014-27
+PHI,Offensive Holding,09/21/2014,Washington,D.Kelly,G,3,2014,PHI-2014-28
+PHI,Offensive Holding,09/21/2014,Washington,B.Smith,WR,3,2014,PHI-2014-29
+PHI,Illegal Contact,09/28/2014,San Francisco,N.Carroll,CB,4,2014,PHI-2014-30
+PHI,Illegal Use of Hands,09/28/2014,San Francisco,D.Ryans,ILB,4,2014,PHI-2014-31
+PHI,Offensive Holding,09/28/2014,San Francisco,D.Molk,C,4,2014,PHI-2014-32
+PHI,Offensive Pass Interference,09/28/2014,San Francisco,R.Cooper,WR,4,2014,PHI-2014-33
+PHI,Offensive Holding,09/28/2014,San Francisco,Z.Ertz,TE,4,2014,PHI-2014-34
+PHI,Defensive Holding,09/28/2014,San Francisco,C.Williams,DB,4,2014,PHI-2014-35
+PHI,Illegal Use of Hands,09/28/2014,San Francisco,B.Bair,DE,4,2014,PHI-2014-36
+PHI,Offensive Holding,09/28/2014,San Francisco,E.Acho,ILB,4,2014,PHI-2014-37
+PHI,Illegal Block Above the Waist,09/28/2014,San Francisco,B.Fletcher,DB,4,2014,PHI-2014-38
+PHI,Offensive Holding,09/28/2014,San Francisco,J.Peters,T,4,2014,PHI-2014-39
+PHI,False Start,10/05/2014,St. Louis,J.Peters,T,5,2014,PHI-2014-40
+PHI,Illegal Motion,10/05/2014,St. Louis,R.Cooper,WR,5,2014,PHI-2014-41
+PHI,False Start,10/05/2014,St. Louis,R.Cooper,WR,5,2014,PHI-2014-42
+PHI,Illegal Contact,10/05/2014,St. Louis,C.Matthews,LB,5,2014,PHI-2014-43
+PHI,Defensive Pass Interference,10/05/2014,St. Louis,B.Fletcher,DB,5,2014,PHI-2014-44
+PHI,Neutral Zone Infraction,10/12/2014,N.Y. Giants,T.Cole,LB,6,2014,PHI-2014-45
+PHI,Offensive Holding,10/12/2014,N.Y. Giants,L.Johnson,T,6,2014,PHI-2014-46
+PHI,Player Out of Bounds on Punt,10/12/2014,N.Y. Giants,J.Watkins,DB,6,2014,PHI-2014-47
+PHI,Roughing the Passer,10/12/2014,N.Y. Giants,B.Allen,DT,6,2014,PHI-2014-48
+PHI,Defensive Holding,10/26/2014,Arizona,B.Boykin,DB,8,2014,PHI-2014-49
+PHI,Encroachment,10/26/2014,Arizona,M.Kendricks,ILB,8,2014,PHI-2014-50
+PHI,Illegal Use of Hands,10/26/2014,Arizona,N.Allen,DB,8,2014,PHI-2014-51
+PHI,Defensive Pass Interference,10/26/2014,Arizona,B.Fletcher,DB,8,2014,PHI-2014-52
+PHI,Illegal Use of Hands,10/26/2014,Arizona,J.Peters,T,8,2014,PHI-2014-53
+PHI,Roughing the Passer,10/26/2014,Arizona,T.Cole,LB,8,2014,PHI-2014-54
+PHI,Illegal Use of Hands,10/26/2014,Arizona,J.Peters,T,8,2014,PHI-2014-55
+PHI,Low Block,10/26/2014,Arizona,J.Maehl,WR,8,2014,PHI-2014-56
+PHI,Offensive Pass Interference,10/26/2014,Arizona,J.Huff,WR,8,2014,PHI-2014-57
+PHI,False Start,10/26/2014,Arizona,J.Peters,T,8,2014,PHI-2014-58
+PHI,Ineligible Downfield Pass,10/26/2014,Arizona,L.Johnson,T,8,2014,PHI-2014-59
+PHI,Offensive Holding,10/26/2014,Arizona,T.Herremans,G,8,2014,PHI-2014-60
+PHI,Unsportsmanlike Conduct,11/02/2014,Houston,J.Maclin,WR,9,2014,PHI-2014-61
+PHI,Defensive Holding,11/02/2014,Houston,T.Cole,LB,9,2014,PHI-2014-62
+PHI,Face Mask (15 Yards),11/02/2014,Houston,B.Logan,NT,9,2014,PHI-2014-63
+PHI,Defensive Offside,11/02/2014,Houston,M.Jenkins,FS,9,2014,PHI-2014-64
+PHI,False Start,11/02/2014,Houston,A.Gardner,G,9,2014,PHI-2014-65
+PHI,False Start,11/02/2014,Houston,L.Johnson,T,9,2014,PHI-2014-66
+PHI,False Start,11/02/2014,Houston,L.Johnson,T,9,2014,PHI-2014-67
+PHI,False Start,11/10/2014,Carolina,E.Mathis,G,10,2014,PHI-2014-68
+PHI,False Start,11/10/2014,Carolina,J.Kelce,C,10,2014,PHI-2014-69
+PHI,Neutral Zone Infraction,11/10/2014,Carolina,V.Curry,DE,10,2014,PHI-2014-70
+PHI,Intentional Grounding,11/10/2014,Carolina,M.Sanchez,QB,10,2014,PHI-2014-71
+PHI,Unnecessary Roughness,11/10/2014,Carolina,N.Allen,DB,10,2014,PHI-2014-72
+PHI,Defensive Offside,11/16/2014,Green Bay,B.Logan,NT,11,2014,PHI-2014-73
+PHI,Defensive Offside,11/16/2014,Green Bay,T.Cole,LB,11,2014,PHI-2014-74
+PHI,Offensive Holding,11/16/2014,Green Bay,E.Mathis,G,11,2014,PHI-2014-75
+PHI,Defensive Offside,11/16/2014,Green Bay,C.Thornton,DE,11,2014,PHI-2014-76
+PHI,Encroachment,11/16/2014,Green Bay,B.Logan,NT,11,2014,PHI-2014-77
+PHI,Defensive Pass Interference,11/16/2014,Green Bay,B.Fletcher,DB,11,2014,PHI-2014-78
+PHI,False Start,11/16/2014,Green Bay,L.Johnson,T,11,2014,PHI-2014-79
+PHI,Low Block,11/16/2014,Green Bay,M.Sanchez,QB,11,2014,PHI-2014-80
+PHI,Offensive Pass Interference,11/23/2014,Tennessee,L.McCoy,RB,12,2014,PHI-2014-81
+PHI,Illegal Block Above the Waist,11/23/2014,Tennessee,B.Boykin,DB,12,2014,PHI-2014-82
+PHI,Face Mask (15 Yards),11/23/2014,Tennessee,V.Curry,DE,12,2014,PHI-2014-83
+PHI,Illegal Use of Hands,11/23/2014,Tennessee,E.Mathis,G,12,2014,PHI-2014-84
+PHI,Defensive Holding,11/23/2014,Tennessee,B.Fletcher,DB,12,2014,PHI-2014-85
+PHI,False Start,11/23/2014,Tennessee,J.Peters,T,12,2014,PHI-2014-86
+PHI,Offensive Holding,11/23/2014,Tennessee,J.Peters,T,12,2014,PHI-2014-87
+PHI,Unnecessary Roughness,11/23/2014,Tennessee,L.Johnson,T,12,2014,PHI-2014-88
+PHI,Defensive Holding,11/23/2014,Tennessee,C.Williams,DB,12,2014,PHI-2014-89
+PHI,Defensive Offside,11/23/2014,Tennessee,T.Cole,LB,12,2014,PHI-2014-90
+PHI,Encroachment,11/27/2014,Dallas,C.Thornton,DE,13,2014,PHI-2014-91
+PHI,Defensive Holding,11/27/2014,Dallas,C.Williams,DB,13,2014,PHI-2014-92
+PHI,Offensive Holding,11/27/2014,Dallas,N.Carroll,CB,13,2014,PHI-2014-93
+PHI,Defensive Holding,11/27/2014,Dallas,M.Jenkins,FS,13,2014,PHI-2014-94
+PHI,Defensive Holding,12/07/2014,Seattle,B.Boykin,DB,14,2014,PHI-2014-95
+PHI,Defensive Holding,12/07/2014,Seattle,C.Thornton,DE,14,2014,PHI-2014-96
+PHI,Neutral Zone Infraction,12/07/2014,Seattle,T.Cole,LB,14,2014,PHI-2014-97
+PHI,Defensive Pass Interference,12/07/2014,Seattle,B.Fletcher,DB,14,2014,PHI-2014-98
+PHI,Unsportsmanlike Conduct,12/07/2014,Seattle,J.Peters,T,14,2014,PHI-2014-99
+PHI,False Start,12/14/2014,Dallas,J.Peters,T,15,2014,PHI-2014-100
+PHI,Illegal Contact,12/14/2014,Dallas,C.Williams,DB,15,2014,PHI-2014-101
+PHI,Player Out of Bounds on Punt,12/14/2014,Dallas,J.Huff,WR,15,2014,PHI-2014-102
+PHI,Illegal Contact,12/14/2014,Dallas,C.Williams,DB,15,2014,PHI-2014-103
+PHI,Offensive Holding,12/14/2014,Dallas,C.Prosinski,SS,15,2014,PHI-2014-104
+PHI,Unsportsmanlike Conduct,12/14/2014,Dallas,J.Maclin,WR,15,2014,PHI-2014-105
+PHI,Defensive Holding,12/14/2014,Dallas,N.Carroll,CB,15,2014,PHI-2014-106
+PHI,Defensive Pass Interference,12/14/2014,Dallas,C.Williams,DB,15,2014,PHI-2014-107
+PHI,Unnecessary Roughness,12/14/2014,Dallas,N.Carroll,CB,15,2014,PHI-2014-108
+PHI,Offensive Holding,12/14/2014,Dallas,J.Kelce,C,15,2014,PHI-2014-109
+PHI,False Start,12/20/2014,Washington,J.Peters,T,16,2014,PHI-2014-110
+PHI,Unnecessary Roughness,12/20/2014,Washington,C.Williams,DB,16,2014,PHI-2014-111
+PHI,Encroachment,12/20/2014,Washington,F.Cox,DE,16,2014,PHI-2014-112
+PHI,Offensive Holding,12/20/2014,Washington,L.Johnson,T,16,2014,PHI-2014-113
+PHI,Offensive Holding,12/20/2014,Washington,J.Peters,T,16,2014,PHI-2014-114
+PHI,Offensive Holding,12/20/2014,Washington,L.Johnson,T,16,2014,PHI-2014-115
+PHI,Delay of Game,12/20/2014,Washington,D.Jones,P,16,2014,PHI-2014-116
+PHI,Roughing the Passer,12/20/2014,Washington,B.Graham,LB,16,2014,PHI-2014-117
+PHI,Roughing the Passer,12/20/2014,Washington,V.Curry,DE,16,2014,PHI-2014-118
+PHI,Defensive Pass Interference,12/20/2014,Washington,N.Allen,DB,16,2014,PHI-2014-119
+PHI,Offensive Holding,12/20/2014,Washington,E.Acho,ILB,16,2014,PHI-2014-120
+PHI,Offensive Holding,12/20/2014,Washington,A.Gardner,G,16,2014,PHI-2014-121
+PHI,Offensive Holding,12/20/2014,Washington,J.Kelce,C,16,2014,PHI-2014-122
+PHI,Roughing the Passer,12/20/2014,Washington,V.Curry,DE,16,2014,PHI-2014-123
+PHI,Defensive Offside,12/20/2014,Washington,C.Barwin,OLB,16,2014,PHI-2014-124
+PHI,False Start,12/28/2014,N.Y. Giants,A.Gardner,G,17,2014,PHI-2014-125
+PHI,False Start,12/28/2014,N.Y. Giants,Z.Ertz,TE,17,2014,PHI-2014-126
+PHI,False Start,12/28/2014,N.Y. Giants,J.Maclin,WR,17,2014,PHI-2014-127
+PHI,Face Mask (15 Yards),12/28/2014,N.Y. Giants,M.Jenkins,FS,17,2014,PHI-2014-128
+PHI,Delay of Game,12/28/2014,N.Y. Giants,M.Sanchez,QB,17,2014,PHI-2014-129
+PHI,Illegal Contact,12/28/2014,N.Y. Giants,B.Boykin,DB,17,2014,PHI-2014-130

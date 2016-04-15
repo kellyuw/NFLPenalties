@@ -1,0 +1,96 @@
+team,penalty,game,opponent,player,position,week,year,penaltyindex
+KC,False Start,09/07/2014,Tennessee,D.Avery,WR,1,2014,KC-2014-0
+KC,Offensive Pass Interference,09/07/2014,Tennessee,A.Fasano,TE,1,2014,KC-2014-1
+KC,Illegal Use of Hands,09/07/2014,Tennessee,A.Bailey,DE,1,2014,KC-2014-2
+KC,Defensive Offside,09/07/2014,Tennessee,D.Sorensen,DB,1,2014,KC-2014-3
+KC,Roughing the Passer,09/07/2014,Tennessee,J.Mauga,ILB,1,2014,KC-2014-4
+KC,Offensive Holding,09/14/2014,Denver,R.Harris,T,2,2014,KC-2014-5
+KC,Neutral Zone Infraction,09/14/2014,Denver,T.Hali,OLB,2,2014,KC-2014-6
+KC,Offensive Holding,09/14/2014,Denver,Z.Fulton,G,2,2014,KC-2014-7
+KC,Offensive Holding,09/14/2014,Denver,Z.Fulton,G,2,2014,KC-2014-8
+KC,Defensive Pass Interference,09/14/2014,Denver,M.Cooper,CB,2,2014,KC-2014-9
+KC,Offensive Holding,09/21/2014,Miami,C.Gray,RB,3,2014,KC-2014-10
+KC,Encroachment,09/21/2014,Miami,A.Bailey,DE,3,2014,KC-2014-11
+KC,Illegal Block Above the Waist,09/21/2014,Miami,J.Franklin,LB,3,2014,KC-2014-12
+KC,Illegal Block Above the Waist,09/21/2014,Miami,K.McCray,DB,3,2014,KC-2014-13
+KC,False Start,09/29/2014,New England,R.Hudson,C,4,2014,KC-2014-14
+KC,Illegal Use of Hands,09/29/2014,New England,C.Owens,DB,4,2014,KC-2014-15
+KC,Illegal Block Above the Waist,09/29/2014,New England,T.Kelce,TE,4,2014,KC-2014-16
+KC,Unnecessary Roughness,09/29/2014,New England,H.Abdullah,FS,4,2014,KC-2014-17
+KC,False Start,10/05/2014,San Francisco,R.Harris,T,5,2014,KC-2014-18
+KC,Roughing the Passer,10/05/2014,San Francisco,A.Bailey,DE,5,2014,KC-2014-19
+KC,Personal Foul,10/05/2014,San Francisco,J.Charles,RB,5,2014,KC-2014-20
+KC,Defensive Holding,10/19/2014,San Diego,R.Parker,SS,7,2014,KC-2014-21
+KC,Defensive Pass Interference,10/19/2014,San Diego,J.Fleming,CB,7,2014,KC-2014-22
+KC,Offensive Pass Interference,10/19/2014,San Diego,A.Fasano,TE,7,2014,KC-2014-23
+KC,Offensive Holding,10/19/2014,San Diego,R.Hudson,C,7,2014,KC-2014-24
+KC,Defensive Pass Interference,10/19/2014,San Diego,J.Fleming,CB,7,2014,KC-2014-25
+KC,Offensive Holding,10/19/2014,San Diego,A.Wilson,WR,7,2014,KC-2014-26
+KC,False Start,10/19/2014,San Diego,E.Fisher,T,7,2014,KC-2014-27
+KC,False Start,10/26/2014,St. Louis,Z.Fulton,G,8,2014,KC-2014-28
+KC,False Start,10/26/2014,St. Louis,E.Fisher,T,8,2014,KC-2014-29
+KC,Illegal Block Above the Waist,10/26/2014,St. Louis,C.Gray,RB,8,2014,KC-2014-30
+KC,Illegal Use of Hands,10/26/2014,St. Louis,E.Fisher,T,8,2014,KC-2014-31
+KC,Offensive Holding,10/26/2014,St. Louis,D.Bowe,WR,8,2014,KC-2014-32
+KC,Offensive Holding,10/26/2014,St. Louis,A.Wilson,WR,8,2014,KC-2014-33
+KC,Neutral Zone Infraction,11/02/2014,N.Y. Jets,J.Howard,DT,9,2014,KC-2014-34
+KC,Tripping,11/02/2014,N.Y. Jets,C.Santos,K,9,2014,KC-2014-35
+KC,False Start,11/02/2014,N.Y. Jets,M.McGlynn,G,9,2014,KC-2014-36
+KC,Offensive Holding,11/09/2014,Buffalo,A.Fasano,TE,10,2014,KC-2014-37
+KC,False Start,11/09/2014,Buffalo,E.Fisher,T,10,2014,KC-2014-38
+KC,Unnecessary Roughness,11/09/2014,Buffalo,J.Johnson,LB,10,2014,KC-2014-39
+KC,Illegal Use of Hands,11/09/2014,Buffalo,M.McGlynn,G,10,2014,KC-2014-40
+KC,Illegal Use of Hands,11/16/2014,Seattle,R.Parker,SS,11,2014,KC-2014-41
+KC,Illegal Use of Hands,11/16/2014,Seattle,P.Gaines,CB,11,2014,KC-2014-42
+KC,False Start,11/16/2014,Seattle,M.McGlynn,G,11,2014,KC-2014-43
+KC,Offensive Holding,11/20/2014,Oakland,E.Fisher,T,12,2014,KC-2014-44
+KC,False Start,11/20/2014,Oakland,R.Harris,T,12,2014,KC-2014-45
+KC,Illegal Block Above the Waist,11/20/2014,Oakland,D.Bowe,WR,12,2014,KC-2014-46
+KC,False Start,11/20/2014,Oakland,E.Fisher,T,12,2014,KC-2014-47
+KC,Offensive Holding,11/20/2014,Oakland,M.McGlynn,G,12,2014,KC-2014-48
+KC,Offensive Holding,11/20/2014,Oakland,E.Fisher,T,12,2014,KC-2014-49
+KC,Defensive Pass Interference,11/20/2014,Oakland,R.Parker,SS,12,2014,KC-2014-50
+KC,False Start,11/30/2014,Denver,T.Gafford,LS,13,2014,KC-2014-51
+KC,Personal Foul,11/30/2014,Denver,D.Stephenson,T,13,2014,KC-2014-52
+KC,Defensive Holding,11/30/2014,Denver,P.Gaines,CB,13,2014,KC-2014-53
+KC,False Start,11/30/2014,Denver,J.Avant,WR,13,2014,KC-2014-54
+KC,Delay of Game,11/30/2014,Denver,A.Smith,QB,13,2014,KC-2014-55
+KC,Roughing the Passer,12/07/2014,Arizona,T.Hali,OLB,14,2014,KC-2014-56
+KC,Offensive Holding,12/07/2014,Arizona,M.McGlynn,G,14,2014,KC-2014-57
+KC,Offensive Holding,12/07/2014,Arizona,M.McGlynn,G,14,2014,KC-2014-58
+KC,Offensive Holding,12/07/2014,Arizona,Z.Fulton,G,14,2014,KC-2014-59
+KC,False Start,12/07/2014,Arizona,T.Kelce,TE,14,2014,KC-2014-60
+KC,False Start,12/07/2014,Arizona,T.Kelce,TE,14,2014,KC-2014-61
+KC,Defensive Holding,12/07/2014,Arizona,H.Abdullah,FS,14,2014,KC-2014-62
+KC,Offensive Pass Interference,12/07/2014,Arizona,A.Fasano,TE,14,2014,KC-2014-63
+KC,Offensive Holding,12/07/2014,Arizona,D.Stephenson,T,14,2014,KC-2014-64
+KC,Offensive Holding,12/07/2014,Arizona,J.Martin,LB,14,2014,KC-2014-65
+KC,False Start,12/07/2014,Arizona,E.Fisher,T,14,2014,KC-2014-66
+KC,Offensive Pass Interference,12/14/2014,Oakland,A.Wilson,WR,15,2014,KC-2014-67
+KC,Offensive Holding,12/14/2014,Oakland,A.Fasano,TE,15,2014,KC-2014-68
+KC,Illegal Use of Hands,12/14/2014,Oakland,J.Linkenbach,T,15,2014,KC-2014-69
+KC,Offensive Holding,12/14/2014,Oakland,K.Davis,RB,15,2014,KC-2014-70
+KC,False Start,12/14/2014,Oakland,T.Kelce,TE,15,2014,KC-2014-71
+KC,False Start,12/14/2014,Oakland,J.Charles,RB,15,2014,KC-2014-72
+KC,Offensive Holding,12/14/2014,Oakland,J.Linkenbach,T,15,2014,KC-2014-73
+KC,Illegal Use of Hands,12/14/2014,Oakland,A.Fasano,TE,15,2014,KC-2014-74
+KC,Defensive Offside,12/14/2014,Oakland,T.Hali,OLB,15,2014,KC-2014-75
+KC,Offensive Holding,12/14/2014,Oakland,A.Fasano,TE,15,2014,KC-2014-76
+KC,Illegal Contact,12/14/2014,Oakland,M.Cooper,CB,15,2014,KC-2014-77
+KC,Defensive Pass Interference,12/14/2014,Oakland,M.Cooper,CB,15,2014,KC-2014-78
+KC,Illegal Use of Hands,12/14/2014,Oakland,J.Johnson,LB,15,2014,KC-2014-79
+KC,Unnecessary Roughness,12/14/2014,Oakland,D.Sorensen,DB,15,2014,KC-2014-80
+KC,Offensive Holding,12/21/2014,Pittsburgh,F.Zombo,OLB,16,2014,KC-2014-81
+KC,Personal Foul,12/21/2014,Pittsburgh,T.Kelce,TE,16,2014,KC-2014-82
+KC,Defensive Holding,12/21/2014,Pittsburgh,R.Parker,SS,16,2014,KC-2014-83
+KC,Illegal Contact,12/21/2014,Pittsburgh,C.Owens,DB,16,2014,KC-2014-84
+KC,Encroachment,12/21/2014,Pittsburgh,J.Howard,DT,16,2014,KC-2014-85
+KC,Defensive Pass Interference,12/21/2014,Pittsburgh,J.Fleming,CB,16,2014,KC-2014-86
+KC,Defensive Offside,12/21/2014,Pittsburgh,T.Hali,OLB,16,2014,KC-2014-87
+KC,False Start,12/28/2014,San Diego,R.Hudson,C,17,2014,KC-2014-88
+KC,Illegal Block Above the Waist,12/28/2014,San Diego,K.McCray,DB,17,2014,KC-2014-89
+KC,Offensive Holding,12/28/2014,San Diego,R.Gordon,TE,17,2014,KC-2014-90
+KC,Illegal Use of Hands,12/28/2014,San Diego,E.Fisher,T,17,2014,KC-2014-91
+KC,Illegal Contact,12/28/2014,San Diego,H.Abdullah,FS,17,2014,KC-2014-92
+KC,Offensive Holding,12/28/2014,San Diego,Z.Fulton,G,17,2014,KC-2014-93
+KC,Defensive Offside,12/28/2014,San Diego,A.Bailey,DE,17,2014,KC-2014-94

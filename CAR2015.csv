@@ -1,0 +1,136 @@
+team,penalty,game,opponent,player,position,week,year,penaltyindex
+CAR,Offensive Pass Interference,09/13/2015,Jacksonville,G.Olsen,TE,1,2015,CAR-2015-0
+CAR,Ineligible Downfield Pass,09/13/2015,Jacksonville,R.Kalil,C,1,2015,CAR-2015-1
+CAR,Illegal Block Above the Waist,09/13/2015,Jacksonville,T.Williams,DB,1,2015,CAR-2015-2
+CAR,False Start,09/20/2015,Houston,M.Remmers,T,2,2015,CAR-2015-3
+CAR,Personal Foul,09/20/2015,Houston,T.Williams,DB,2,2015,CAR-2015-4
+CAR,Defensive Offside,09/20/2015,Houston,M.Addison,DE,2,2015,CAR-2015-5
+CAR,Defensive Holding,09/20/2015,Houston,J.Norman,CB,2,2015,CAR-2015-6
+CAR,Face Mask (15 Yards),09/20/2015,Houston,C.Johnson,DE,2,2015,CAR-2015-7
+CAR,Unnecessary Roughness,09/20/2015,Houston,T.Davis,OLB,2,2015,CAR-2015-8
+CAR,Illegal Motion,09/20/2015,Houston,C.Newton,QB,2,2015,CAR-2015-9
+CAR,Offensive Holding,09/20/2015,Houston,B.Benwikere,CB,2,2015,CAR-2015-10
+CAR,Roughing the Passer,09/20/2015,Houston,K.Ealy,DE,2,2015,CAR-2015-11
+CAR,Defensive Offside,09/20/2015,Houston,K.Ealy,DE,2,2015,CAR-2015-12
+CAR,Tripping,09/27/2015,New Orleans,W.Horton,DE,3,2015,CAR-2015-13
+CAR,Defensive Holding,09/27/2015,New Orleans,A.Klein,OLB,3,2015,CAR-2015-14
+CAR,Offensive Holding,09/27/2015,New Orleans,G.Olsen,TE,3,2015,CAR-2015-15
+CAR,Offensive Pass Interference,09/27/2015,New Orleans,R.Brockel,TE,3,2015,CAR-2015-16
+CAR,Unnecessary Roughness,09/27/2015,New Orleans,T.Williams,DB,3,2015,CAR-2015-17
+CAR,Offensive Holding,09/27/2015,New Orleans,T.Turner,G,3,2015,CAR-2015-18
+CAR,Tripping,09/27/2015,New Orleans,T.Turner,G,3,2015,CAR-2015-19
+CAR,Illegal Use of Hands,09/27/2015,New Orleans,K.Ealy,DE,3,2015,CAR-2015-20
+CAR,Roughing the Passer,09/27/2015,New Orleans,K.Short,DT,3,2015,CAR-2015-21
+CAR,Defensive Offside,09/27/2015,New Orleans,M.Addison,DE,3,2015,CAR-2015-22
+CAR,Delay of Game,09/27/2015,New Orleans,B.Nortman,P,3,2015,CAR-2015-23
+CAR,Unsportsmanlike Conduct,10/04/2015,Tampa Bay,J.Norman,CB,4,2015,CAR-2015-24
+CAR,Defensive Holding,10/04/2015,Tampa Bay,C.Tillman,DB,4,2015,CAR-2015-25
+CAR,Unnecessary Roughness,10/04/2015,Tampa Bay,S.Thompson,OLB,4,2015,CAR-2015-26
+CAR,False Start,10/04/2015,Tampa Bay,M.Remmers,T,4,2015,CAR-2015-27
+CAR,Illegal Formation,10/04/2015,Tampa Bay,M.Oher,T,4,2015,CAR-2015-28
+CAR,Defensive Holding,10/04/2015,Tampa Bay,A.Klein,OLB,4,2015,CAR-2015-29
+CAR,Illegal Contact,10/04/2015,Tampa Bay,S.Thompson,OLB,4,2015,CAR-2015-30
+CAR,False Start,10/18/2015,Seattle,G.Olsen,TE,6,2015,CAR-2015-31
+CAR,False Start,10/18/2015,Seattle,G.Olsen,TE,6,2015,CAR-2015-32
+CAR,False Start,10/18/2015,Seattle,J.Cotchery,WR,6,2015,CAR-2015-33
+CAR,Defensive Delay of Game,10/18/2015,Seattle,J.Norman,CB,6,2015,CAR-2015-34
+CAR,Illegal Touch Pass,10/25/2015,Philadelphia,C.Brown,WR,7,2015,CAR-2015-35
+CAR,Defensive Pass Interference,10/25/2015,Philadelphia,B.Benwikere,CB,7,2015,CAR-2015-36
+CAR,False Start,10/25/2015,Philadelphia,M.Remmers,T,7,2015,CAR-2015-37
+CAR,Offensive Holding,10/25/2015,Philadelphia,E.Dickson,TE,7,2015,CAR-2015-38
+CAR,Offensive Holding,10/25/2015,Philadelphia,M.Oher,T,7,2015,CAR-2015-39
+CAR,Defensive Pass Interference,10/25/2015,Philadelphia,L.Kuechly,MLB,7,2015,CAR-2015-40
+CAR,False Start,11/02/2015,Indianapolis,M.Remmers,T,8,2015,CAR-2015-41
+CAR,Defensive Offside,11/02/2015,Indianapolis,K.Ealy,DE,8,2015,CAR-2015-42
+CAR,Unnecessary Roughness,11/02/2015,Indianapolis,F.Velasco,C,8,2015,CAR-2015-43
+CAR,Offensive Pass Interference,11/02/2015,Indianapolis,G.Olsen,TE,8,2015,CAR-2015-44
+CAR,Offensive Holding,11/02/2015,Indianapolis,T.Williams,DB,8,2015,CAR-2015-45
+CAR,Offensive Holding,11/02/2015,Indianapolis,G.Olsen,TE,8,2015,CAR-2015-46
+CAR,Illegal Block Above the Waist,11/08/2015,Green Bay,F.Whittaker,RB,9,2015,CAR-2015-47
+CAR,Unnecessary Roughness,11/08/2015,Green Bay,R.Harper,SS,9,2015,CAR-2015-48
+CAR,Defensive 12 On-field,11/08/2015,Green Bay,W.Horton,DE,9,2015,CAR-2015-49
+CAR,Defensive Holding,11/08/2015,Green Bay,C.Tillman,DB,9,2015,CAR-2015-50
+CAR,Defensive Holding,11/08/2015,Green Bay,R.Harper,SS,9,2015,CAR-2015-51
+CAR,Neutral Zone Infraction,11/08/2015,Green Bay,J.Allen,OLB,9,2015,CAR-2015-52
+CAR,Illegal Formation,11/15/2015,Tennessee,M.Remmers,T,10,2015,CAR-2015-53
+CAR,Ineligible Downfield Pass,11/15/2015,Tennessee,T.Turner,G,10,2015,CAR-2015-54
+CAR,Illegal Block Above the Waist,11/15/2015,Tennessee,J.Webb,QB,10,2015,CAR-2015-55
+CAR,Offensive Holding,11/15/2015,Tennessee,A.Klein,OLB,10,2015,CAR-2015-56
+CAR,Face Mask (15 Yards),11/15/2015,Tennessee,C.Newton,QB,10,2015,CAR-2015-57
+CAR,Player Out of Bounds on Punt,11/22/2015,Washington,T.Williams,DB,11,2015,CAR-2015-58
+CAR,Taunting,11/22/2015,Washington,J.Stewart,RB,11,2015,CAR-2015-59
+CAR,Illegal Use of Hands,11/22/2015,Washington,J.Norman,CB,11,2015,CAR-2015-60
+CAR,False Start,11/22/2015,Washington,M.Oher,T,11,2015,CAR-2015-61
+CAR,Offensive Holding,11/22/2015,Washington,R.Kalil,C,11,2015,CAR-2015-62
+CAR,Offensive Holding,11/22/2015,Washington,M.Oher,T,11,2015,CAR-2015-63
+CAR,Unnecessary Roughness,11/22/2015,Washington,B.Jacobs,LB,11,2015,CAR-2015-64
+CAR,False Start,11/22/2015,Washington,M.Remmers,T,11,2015,CAR-2015-65
+CAR,Illegal Block Above the Waist,11/22/2015,Washington,T.Williams,DB,11,2015,CAR-2015-66
+CAR,Defensive Delay of Game,11/22/2015,Washington,B.Nortman,P,11,2015,CAR-2015-67
+CAR,Offensive Holding,11/26/2015,Dallas,R.Kalil,C,12,2015,CAR-2015-68
+CAR,Delay of Game,11/26/2015,Dallas,C.Newton,QB,12,2015,CAR-2015-69
+CAR,Illegal Shift,11/26/2015,Dallas,T.Ginn,WR,12,2015,CAR-2015-70
+CAR,False Start,11/26/2015,Dallas,C.Scott,G,12,2015,CAR-2015-71
+CAR,Offensive Holding,11/26/2015,Dallas,T.Turner,G,12,2015,CAR-2015-72
+CAR,Offensive Holding,11/26/2015,Dallas,T.Turner,G,12,2015,CAR-2015-73
+CAR,Unsportsmanlike Conduct,11/26/2015,Dallas,J.Norman,CB,12,2015,CAR-2015-74
+CAR,Delay of Game,11/26/2015,Dallas,C.Newton,QB,12,2015,CAR-2015-75
+CAR,False Start,12/06/2015,New Orleans,M.Remmers,T,13,2015,CAR-2015-76
+CAR,Offensive Holding,12/06/2015,New Orleans,M.Remmers,T,13,2015,CAR-2015-77
+CAR,Neutral Zone Infraction,12/06/2015,New Orleans,K.Ealy,DE,13,2015,CAR-2015-78
+CAR,Neutral Zone Infraction,12/06/2015,New Orleans,K.Ealy,DE,13,2015,CAR-2015-79
+CAR,Defensive Pass Interference,12/06/2015,New Orleans,B.Benwikere,CB,13,2015,CAR-2015-80
+CAR,Offensive Holding,12/06/2015,New Orleans,M.Remmers,T,13,2015,CAR-2015-81
+CAR,Illegal Use of Hands,12/06/2015,New Orleans,K.Ealy,DE,13,2015,CAR-2015-82
+CAR,Offensive Holding,12/06/2015,New Orleans,T.Williams,DB,13,2015,CAR-2015-83
+CAR,Offensive Holding,12/13/2015,Atlanta,R.Kalil,C,14,2015,CAR-2015-84
+CAR,Defensive Offside,12/13/2015,Atlanta,K.Ealy,DE,14,2015,CAR-2015-85
+CAR,Unsportsmanlike Conduct,12/13/2015,Atlanta,R.Harper,SS,14,2015,CAR-2015-86
+CAR,Offensive Holding,12/13/2015,Atlanta,M.Remmers,T,14,2015,CAR-2015-87
+CAR,Illegal Use of Hands,12/13/2015,Atlanta,M.Remmers,T,14,2015,CAR-2015-88
+CAR,Defensive Holding,12/13/2015,Atlanta,C.Finnegan,CB,14,2015,CAR-2015-89
+CAR,Unnecessary Roughness,12/13/2015,Atlanta,B.Benwikere,CB,14,2015,CAR-2015-90
+CAR,Illegal Formation,12/13/2015,Atlanta,D.Funchess,WR,14,2015,CAR-2015-91
+CAR,Illegal Formation,12/13/2015,Atlanta,D.Funchess,WR,14,2015,CAR-2015-92
+CAR,Defensive Pass Interference,12/20/2015,N.Y. Giants,L.Kuechly,MLB,15,2015,CAR-2015-93
+CAR,Unnecessary Roughness,12/20/2015,N.Y. Giants,C.Finnegan,CB,15,2015,CAR-2015-94
+CAR,Offensive Holding,12/20/2015,N.Y. Giants,A.Klein,OLB,15,2015,CAR-2015-95
+CAR,Unsportsmanlike Conduct,12/20/2015,N.Y. Giants,T.Ginn,WR,15,2015,CAR-2015-96
+CAR,Unnecessary Roughness,12/20/2015,N.Y. Giants,J.Norman,CB,15,2015,CAR-2015-97
+CAR,Unnecessary Roughness,12/20/2015,N.Y. Giants,J.Norman,CB,15,2015,CAR-2015-98
+CAR,Defensive Offside,12/20/2015,N.Y. Giants,T.Davis,OLB,15,2015,CAR-2015-99
+CAR,False Start,12/20/2015,N.Y. Giants,M.Remmers,T,15,2015,CAR-2015-100
+CAR,Unnecessary Roughness,12/27/2015,Atlanta,C.Tillman,DB,16,2015,CAR-2015-101
+CAR,Encroachment,12/27/2015,Atlanta,S.Lotulelei,DT,16,2015,CAR-2015-102
+CAR,Horse Collar Tackle,12/27/2015,Atlanta,L.Kuechly,MLB,16,2015,CAR-2015-103
+CAR,False Start,12/27/2015,Atlanta,T.Turner,G,16,2015,CAR-2015-104
+CAR,Delay of Game,12/27/2015,Atlanta,B.Nortman,P,16,2015,CAR-2015-105
+CAR,Offensive Holding,12/27/2015,Atlanta,M.Remmers,T,16,2015,CAR-2015-106
+CAR,False Start,01/03/2016,Tampa Bay,T.Turner,G,17,2015,CAR-2015-107
+CAR,Defensive Offside,01/03/2016,Tampa Bay,K.Short,DT,17,2015,CAR-2015-108
+CAR,Defensive Holding,01/03/2016,Tampa Bay,J.Norman,CB,17,2015,CAR-2015-109
+CAR,Illegal Forward Pass,01/03/2016,Tampa Bay,C.Newton,QB,17,2015,CAR-2015-110
+CAR,Delay of Game,01/03/2016,Tampa Bay,C.Newton,QB,17,2015,CAR-2015-111
+CAR,Defensive Offside,01/03/2016,Tampa Bay,J.Norman,CB,17,2015,CAR-2015-112
+CAR,Illegal Shift,01/03/2016,Tampa Bay,C.Brown,WR,17,2015,CAR-2015-113
+CAR,False Start,01/17/2016,Seattle,M.Oher,T,19,2015,CAR-2015-114
+CAR,Unnecessary Roughness,01/17/2016,Seattle,C.Jones,DB,19,2015,CAR-2015-115
+CAR,Illegal Formation,01/17/2016,Seattle,D.Mayo,LB,19,2015,CAR-2015-116
+CAR,Unnecessary Roughness,01/24/2016,Arizona,C.Scott,G,20,2015,CAR-2015-117
+CAR,Neutral Zone Infraction,01/24/2016,Arizona,K.Short,DT,20,2015,CAR-2015-118
+CAR,Face Mask (15 Yards),01/24/2016,Arizona,M.Addison,DE,20,2015,CAR-2015-119
+CAR,Defensive Holding,01/24/2016,Arizona,C.Finnegan,CB,20,2015,CAR-2015-120
+CAR,False Start,01/24/2016,Arizona,M.Oher,T,20,2015,CAR-2015-121
+CAR,Defensive Holding,02/07/2016,Denver,J.Norman,CB,21,2015,CAR-2015-122
+CAR,Illegal Block Above the Waist,02/07/2016,Denver,T.Williams,DB,21,2015,CAR-2015-123
+CAR,False Start,02/07/2016,Denver,E.Dickson,TE,21,2015,CAR-2015-124
+CAR,False Start,02/07/2016,Denver,M.Oher,T,21,2015,CAR-2015-125
+CAR,Unnecessary Roughness,02/07/2016,Denver,T.Turner,G,21,2015,CAR-2015-126
+CAR,Neutral Zone Infraction,02/07/2016,Denver,C.Johnson,DE,21,2015,CAR-2015-127
+CAR,Illegal Blindside Block,02/07/2016,Denver,T.Boston,FS,21,2015,CAR-2015-128
+CAR,Delay of Game,02/07/2016,Denver,C.Newton,QB,21,2015,CAR-2015-129
+CAR,Unsportsmanlike Conduct,02/07/2016,Denver,T.Boston,FS,21,2015,CAR-2015-130
+CAR,False Start,02/07/2016,Denver,M.Oher,T,21,2015,CAR-2015-131
+CAR,False Start,02/07/2016,Denver,M.Remmers,T,21,2015,CAR-2015-132
+CAR,Defensive Holding,02/07/2016,Denver,J.Norman,CB,21,2015,CAR-2015-133
+CAR,Unnecessary Roughness,02/07/2016,Denver,J.Webb,QB,21,2015,CAR-2015-134

@@ -1,0 +1,149 @@
+team,penalty,game,opponent,player,position,week,year,penaltyindex
+BAL,Defensive Offside,09/10/2012,Cincinnati,P.McPhee,LB,1,2012,BAL-2012-0
+BAL,Illegal Block Above the Waist,09/10/2012,Cincinnati,T.Smith,WR,1,2012,BAL-2012-1
+BAL,Offensive Holding,09/10/2012,Cincinnati,S.Considine,DB,1,2012,BAL-2012-2
+BAL,False Start,09/10/2012,Cincinnati,T.Smith,WR,1,2012,BAL-2012-3
+BAL,Personal Foul,09/10/2012,Cincinnati,L.Webb,CB,1,2012,BAL-2012-4
+BAL,Roughing the Passer,09/16/2012,Philadelphia,E.Reed,FS,2,2012,BAL-2012-5
+BAL,Personal Foul,09/16/2012,Philadelphia,M.Yanda,G,2,2012,BAL-2012-6
+BAL,Personal Foul,09/16/2012,Philadelphia,C.Williams,DB,2,2012,BAL-2012-7
+BAL,Unnecessary Roughness,09/16/2012,Philadelphia,R.Rice,RB,2,2012,BAL-2012-8
+BAL,Offensive Holding,09/16/2012,Philadelphia,M.Birk,C,2,2012,BAL-2012-9
+BAL,Delay of Game,09/16/2012,Philadelphia,J.Flacco,QB,2,2012,BAL-2012-10
+BAL,Offensive Pass Interference,09/16/2012,Philadelphia,J.Jones,WR,2,2012,BAL-2012-11
+BAL,Roughing the Passer,09/16/2012,Philadelphia,A.Jones,DE,2,2012,BAL-2012-12
+BAL,Personal Foul,09/23/2012,New England,C.Upshaw,OLB,3,2012,BAL-2012-13
+BAL,Offensive Holding,09/23/2012,New England,A.Boldin,WR,3,2012,BAL-2012-14
+BAL,False Start,09/23/2012,New England,M.Yanda,G,3,2012,BAL-2012-15
+BAL,Defensive Holding,09/23/2012,New England,D.Ellerbe,LB,3,2012,BAL-2012-16
+BAL,Illegal Contact,09/23/2012,New England,C.Williams,DB,3,2012,BAL-2012-17
+BAL,Personal Foul,09/23/2012,New England,C.Upshaw,OLB,3,2012,BAL-2012-18
+BAL,Personal Foul,09/23/2012,New England,B.Pollard,SS,3,2012,BAL-2012-19
+BAL,False Start,09/23/2012,New England,T.Smith,WR,3,2012,BAL-2012-20
+BAL,Offensive Holding,09/23/2012,New England,M.Yanda,G,3,2012,BAL-2012-21
+BAL,Defensive Holding,09/23/2012,New England,J.Smith,CB,3,2012,BAL-2012-22
+BAL,Unnecessary Roughness,09/23/2012,New England,E.Reed,FS,3,2012,BAL-2012-23
+BAL,Offensive Holding,09/23/2012,New England,M.Yanda,G,3,2012,BAL-2012-24
+BAL,Illegal Contact,09/23/2012,New England,L.Webb,CB,3,2012,BAL-2012-25
+BAL,Offensive Holding,09/27/2012,Cleveland,M.Oher,T,4,2012,BAL-2012-26
+BAL,False Start,09/27/2012,Cleveland,K.Osemele,G,4,2012,BAL-2012-27
+BAL,Personal Foul,09/27/2012,Cleveland,J.Ihedigbo,SS,4,2012,BAL-2012-28
+BAL,False Start,09/27/2012,Cleveland,D.Pitta,TE,4,2012,BAL-2012-29
+BAL,Illegal Use of Hands,09/27/2012,Cleveland,J.Smith,CB,4,2012,BAL-2012-30
+BAL,False Start,09/27/2012,Cleveland,M.Oher,T,4,2012,BAL-2012-31
+BAL,Unnecessary Roughness,09/27/2012,Cleveland,B.Pollard,SS,4,2012,BAL-2012-32
+BAL,False Start,09/27/2012,Cleveland,D.Pitta,TE,4,2012,BAL-2012-33
+BAL,Illegal Use of Hands,09/27/2012,Cleveland,K.Osemele,G,4,2012,BAL-2012-34
+BAL,Fair Catch Interference,09/27/2012,Cleveland,A.Allen,RB,4,2012,BAL-2012-35
+BAL,Offensive Holding,09/27/2012,Cleveland,M.Oher,T,4,2012,BAL-2012-36
+BAL,Unnecessary Roughness,09/27/2012,Cleveland,P.Kruger,OLB,4,2012,BAL-2012-37
+BAL,Illegal Block Above the Waist,10/07/2012,Kansas City,A.Boldin,WR,5,2012,BAL-2012-38
+BAL,Defensive Holding,10/07/2012,Kansas City,J.Smith,CB,5,2012,BAL-2012-39
+BAL,False Start,10/07/2012,Kansas City,K.Osemele,G,5,2012,BAL-2012-40
+BAL,Defensive Pass Interference,10/07/2012,Kansas City,C.Williams,DB,5,2012,BAL-2012-41
+BAL,False Start,10/07/2012,Kansas City,K.Osemele,G,5,2012,BAL-2012-42
+BAL,Offensive Holding,10/07/2012,Kansas City,D.Thompson,WR,5,2012,BAL-2012-43
+BAL,Delay of Game,10/14/2012,Dallas,J.Flacco,QB,6,2012,BAL-2012-44
+BAL,Neutral Zone Infraction,10/14/2012,Dallas,J.McClain,MLB,6,2012,BAL-2012-45
+BAL,False Start,10/14/2012,Dallas,A.Boldin,WR,6,2012,BAL-2012-46
+BAL,False Start,10/14/2012,Dallas,M.Yanda,G,6,2012,BAL-2012-47
+BAL,Encroachment,10/14/2012,Dallas,J.Smith,CB,6,2012,BAL-2012-48
+BAL,Offensive Holding,10/14/2012,Dallas,S.Considine,DB,6,2012,BAL-2012-49
+BAL,Defensive Pass Interference,10/14/2012,Dallas,J.Smith,CB,6,2012,BAL-2012-50
+BAL,False Start,10/14/2012,Dallas,M.Oher,T,6,2012,BAL-2012-51
+BAL,Defensive Holding,10/14/2012,Dallas,J.Smith,CB,6,2012,BAL-2012-52
+BAL,Defensive Pass Interference,10/14/2012,Dallas,Ch.Brown,CB,6,2012,BAL-2012-53
+BAL,Face Mask (15 Yards),10/21/2012,Houston,B.Pollard,SS,7,2012,BAL-2012-54
+BAL,Face Mask (15 Yards),10/21/2012,Houston,D.Pitta,TE,7,2012,BAL-2012-55
+BAL,Unnecessary Roughness,10/21/2012,Houston,C.Thompson,FS,7,2012,BAL-2012-56
+BAL,Defensive Offside,10/21/2012,Houston,T.Suggs,OLB,7,2012,BAL-2012-57
+BAL,Defensive Holding,10/21/2012,Houston,C.Williams,DB,7,2012,BAL-2012-58
+BAL,Unnecessary Roughness,10/21/2012,Houston,B.Pollard,SS,7,2012,BAL-2012-59
+BAL,Illegal Formation,11/04/2012,Cleveland,T.Smith,WR,9,2012,BAL-2012-60
+BAL,Personal Foul,11/04/2012,Cleveland,B.Pierce,RB,9,2012,BAL-2012-61
+BAL,Illegal Contact,11/04/2012,Cleveland,J.McClain,MLB,9,2012,BAL-2012-62
+BAL,Offensive Holding,11/04/2012,Cleveland,S.Considine,DB,9,2012,BAL-2012-63
+BAL,Offensive Holding,11/04/2012,Cleveland,M.Oher,T,9,2012,BAL-2012-64
+BAL,Offensive Holding,11/04/2012,Cleveland,L.Williams,WR,9,2012,BAL-2012-65
+BAL,Unnecessary Roughness,11/04/2012,Cleveland,D.Ellerbe,LB,9,2012,BAL-2012-66
+BAL,Defensive Pass Interference,11/04/2012,Cleveland,J.Smith,CB,9,2012,BAL-2012-67
+BAL,False Start,11/04/2012,Cleveland,M.Yanda,G,9,2012,BAL-2012-68
+BAL,Offensive Holding,11/11/2012,Oakland,K.Osemele,G,10,2012,BAL-2012-69
+BAL,Illegal Use of Hands,11/11/2012,Oakland,J.Reid,T,10,2012,BAL-2012-70
+BAL,Offensive Holding,11/11/2012,Oakland,A.Allen,RB,10,2012,BAL-2012-71
+BAL,Offensive Holding,11/11/2012,Oakland,J.Smith,CB,10,2012,BAL-2012-72
+BAL,Defensive Pass Interference,11/18/2012,Pittsburgh,C.Williams,DB,11,2012,BAL-2012-73
+BAL,False Start,11/18/2012,Pittsburgh,J.Reid,T,11,2012,BAL-2012-74
+BAL,Offensive Holding,11/18/2012,Pittsburgh,B.Bajema,TE,11,2012,BAL-2012-75
+BAL,Unnecessary Roughness,11/18/2012,Pittsburgh,E.Reed,FS,11,2012,BAL-2012-76
+BAL,Defensive Offside,11/25/2012,San Diego,H.Ngata,DT,12,2012,BAL-2012-77
+BAL,False Start,11/25/2012,San Diego,J.Reid,T,12,2012,BAL-2012-78
+BAL,Illegal Block Above the Waist,11/25/2012,San Diego,A.Allen,RB,12,2012,BAL-2012-79
+BAL,Personal Foul,11/25/2012,San Diego,B.Pollard,SS,12,2012,BAL-2012-80
+BAL,Personal Foul,11/25/2012,San Diego,A.Boldin,WR,12,2012,BAL-2012-81
+BAL,Offensive Holding,11/25/2012,San Diego,M.Yanda,G,12,2012,BAL-2012-82
+BAL,Unnecessary Roughness,12/02/2012,Pittsburgh,M.Oher,T,13,2012,BAL-2012-83
+BAL,Offensive 12 On-field,12/02/2012,Pittsburgh,A.Boldin,WR,13,2012,BAL-2012-84
+BAL,Offensive Holding,12/02/2012,Pittsburgh,A.McClellan,OLB,13,2012,BAL-2012-85
+BAL,Defensive Offside,12/02/2012,Pittsburgh,H.Ngata,DT,13,2012,BAL-2012-86
+BAL,Offensive Pass Interference,12/02/2012,Pittsburgh,A.Boldin,WR,13,2012,BAL-2012-87
+BAL,False Start,12/02/2012,Pittsburgh,A.Boldin,WR,13,2012,BAL-2012-88
+BAL,False Start,12/02/2012,Pittsburgh,V.Leach,FB,13,2012,BAL-2012-89
+BAL,Roughing the Passer,12/02/2012,Pittsburgh,P.Kruger,OLB,13,2012,BAL-2012-90
+BAL,False Start,12/09/2012,Washington,J.Reid,T,14,2012,BAL-2012-91
+BAL,Offensive Holding,12/09/2012,Washington,A.Boldin,WR,14,2012,BAL-2012-92
+BAL,False Start,12/09/2012,Washington,K.Osemele,G,14,2012,BAL-2012-93
+BAL,Offensive Holding,12/09/2012,Washington,B.Bajema,TE,14,2012,BAL-2012-94
+BAL,Defensive Pass Interference,12/09/2012,Washington,J.McClain,MLB,14,2012,BAL-2012-95
+BAL,Offensive Holding,12/09/2012,Washington,L.Williams,WR,14,2012,BAL-2012-96
+BAL,Defensive Pass Interference,12/09/2012,Washington,C.Johnson,CB,14,2012,BAL-2012-97
+BAL,Defensive Offside,12/09/2012,Washington,A.McClellan,OLB,14,2012,BAL-2012-98
+BAL,Illegal Block Above the Waist,12/16/2012,Denver,L.Williams,WR,15,2012,BAL-2012-99
+BAL,Offensive Holding,12/16/2012,Denver,M.Birk,C,15,2012,BAL-2012-100
+BAL,Offensive Holding,12/16/2012,Denver,B.Williams,NT,15,2012,BAL-2012-101
+BAL,Unnecessary Roughness,12/16/2012,Denver,A.Boldin,WR,15,2012,BAL-2012-102
+BAL,Unnecessary Roughness,12/16/2012,Denver,C.Williams,DB,15,2012,BAL-2012-103
+BAL,Defensive Offside,12/23/2012,N.Y. Giants,T.Suggs,OLB,16,2012,BAL-2012-104
+BAL,Offensive Holding,12/23/2012,N.Y. Giants,A.Boldin,WR,16,2012,BAL-2012-105
+BAL,Illegal Block Above the Waist,12/23/2012,N.Y. Giants,B.Ayanbadejo,ILB,16,2012,BAL-2012-106
+BAL,Offensive Holding,12/23/2012,N.Y. Giants,J.Ihedigbo,SS,16,2012,BAL-2012-107
+BAL,Personal Foul,12/23/2012,N.Y. Giants,T.Smith,WR,16,2012,BAL-2012-108
+BAL,False Start,12/23/2012,N.Y. Giants,M.Oher,T,16,2012,BAL-2012-109
+BAL,Offensive Holding,12/23/2012,N.Y. Giants,M.Oher,T,16,2012,BAL-2012-110
+BAL,Personal Foul,12/23/2012,N.Y. Giants,M.Oher,T,16,2012,BAL-2012-111
+BAL,Personal Foul,12/23/2012,N.Y. Giants,E.Reed,FS,16,2012,BAL-2012-112
+BAL,Personal Foul,12/30/2012,Cincinnati,R.Rice,RB,17,2012,BAL-2012-113
+BAL,False Start,12/30/2012,Cincinnati,K.Osemele,G,17,2012,BAL-2012-114
+BAL,False Start,12/30/2012,Cincinnati,B.McKinnie,T,17,2012,BAL-2012-115
+BAL,False Start,12/30/2012,Cincinnati,B.Williams,NT,17,2012,BAL-2012-116
+BAL,Unsportsmanlike Conduct,12/30/2012,Cincinnati,B.Williams,NT,17,2012,BAL-2012-117
+BAL,Roughing the Passer,12/30/2012,Cincinnati,T.Cody,NT,17,2012,BAL-2012-118
+BAL,Defensive Pass Interference,12/30/2012,Cincinnati,J.Smith,CB,17,2012,BAL-2012-119
+BAL,Offensive Holding,12/30/2012,Cincinnati,G.Gradkowski,C,17,2012,BAL-2012-120
+BAL,Offensive Holding,12/30/2012,Cincinnati,B.Williams,NT,17,2012,BAL-2012-121
+BAL,Illegal Contact,01/06/2013,Indianapolis,Ch.Brown,CB,18,2012,BAL-2012-122
+BAL,Offensive Holding,01/06/2013,Indianapolis,Ch.Brown,CB,18,2012,BAL-2012-123
+BAL,Illegal Touch Kick,01/06/2013,Indianapolis,D.Reed,WR,18,2012,BAL-2012-124
+BAL,Offensive Pass Interference,01/06/2013,Indianapolis,A.Boldin,WR,18,2012,BAL-2012-125
+BAL,False Start,01/06/2013,Indianapolis,M.Oher,T,18,2012,BAL-2012-126
+BAL,Defensive 12 On-field,01/06/2013,Indianapolis,T.Cody,NT,18,2012,BAL-2012-127
+BAL,Neutral Zone Infraction,01/06/2013,Indianapolis,P.Kruger,OLB,18,2012,BAL-2012-128
+BAL,Unnecessary Roughness,01/06/2013,Indianapolis,B.Pollard,SS,18,2012,BAL-2012-129
+BAL,Taunting,01/06/2013,Indianapolis,B.Pollard,SS,18,2012,BAL-2012-130
+BAL,Illegal Use of Hands,01/12/2013,Denver,T.Cody,NT,19,2012,BAL-2012-131
+BAL,Face Mask (15 Yards),01/12/2013,Denver,D.Ellerbe,LB,19,2012,BAL-2012-132
+BAL,Defensive Pass Interference,01/12/2013,Denver,R.Lewis,MLB,19,2012,BAL-2012-133
+BAL,Illegal Use of Hands,01/12/2013,Denver,T.Suggs,OLB,19,2012,BAL-2012-134
+BAL,Illegal Use of Hands,01/12/2013,Denver,C.Williams,DB,19,2012,BAL-2012-135
+BAL,Unnecessary Roughness,01/12/2013,Denver,Ch.Brown,CB,19,2012,BAL-2012-136
+BAL,Defensive Holding,01/12/2013,Denver,C.Williams,DB,19,2012,BAL-2012-137
+BAL,False Start,01/12/2013,Denver,K.Osemele,G,19,2012,BAL-2012-138
+BAL,Delay of Game,01/12/2013,Denver,J.Flacco,QB,19,2012,BAL-2012-139
+BAL,Illegal Block Above the Waist,01/20/2013,New England,J.Bynes,LB,20,2012,BAL-2012-140
+BAL,False Start,01/20/2013,New England,R.Rice,RB,20,2012,BAL-2012-141
+BAL,Unnecessary Roughness,01/20/2013,New England,R.Lewis,MLB,20,2012,BAL-2012-142
+BAL,Unnecessary Roughness,01/20/2013,New England,D.Ellerbe,LB,20,2012,BAL-2012-143
+BAL,Unnecessary Roughness,01/20/2013,New England,B.Pollard,SS,20,2012,BAL-2012-144
+BAL,Unnecessary Roughness,02/03/2013,San Francisco,C.Graham,CB,21,2012,BAL-2012-145
+BAL,Roughing the Passer,02/03/2013,San Francisco,H.Ngata,DT,21,2012,BAL-2012-146
+BAL,Running Into the Kicker,02/03/2013,San Francisco,Ch.Brown,CB,21,2012,BAL-2012-147

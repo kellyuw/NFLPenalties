@@ -1,0 +1,129 @@
+team,penalty,game,opponent,player,position,week,year,penaltyindex
+SF,False Start,09/08/2013,Green Bay,J.Goodwin,C,1,2013,SF-2013-0
+SF,Illegal Formation,09/08/2013,Green Bay,A.Snyder,G,1,2013,SF-2013-1
+SF,Delay of Game,09/08/2013,Green Bay,C.Kaepernick,QB,1,2013,SF-2013-2
+SF,Neutral Zone Infraction,09/08/2013,Green Bay,A.Smith,QB,1,2013,SF-2013-3
+SF,Roughing the Passer,09/08/2013,Green Bay,A.Brooks,OLB,1,2013,SF-2013-4
+SF,Defensive Offside,09/08/2013,Green Bay,A.Smith,QB,1,2013,SF-2013-5
+SF,False Start,09/08/2013,Green Bay,J.Staley,T,1,2013,SF-2013-6
+SF,False Start,09/08/2013,Green Bay,T.Brock,CB,1,2013,SF-2013-7
+SF,Unsportsmanlike Conduct,09/08/2013,Green Bay,N.Bowman,ILB,1,2013,SF-2013-8
+SF,False Start,09/08/2013,Green Bay,J.Goodwin,C,1,2013,SF-2013-9
+SF,Offensive Holding,09/08/2013,Green Bay,T.Brock,CB,1,2013,SF-2013-10
+SF,Unnecessary Roughness,09/08/2013,Green Bay,T.Brock,CB,1,2013,SF-2013-11
+SF,False Start,09/15/2013,Seattle,A.Boldin,WR,2,2013,SF-2013-12
+SF,Delay of Game,09/15/2013,Seattle,C.Kaepernick,QB,2,2013,SF-2013-13
+SF,Defensive Pass Interference,09/15/2013,Seattle,C.Rogers,CB,2,2013,SF-2013-14
+SF,Offensive Holding,09/15/2013,Seattle,B.Miller,FB,2,2013,SF-2013-15
+SF,Offensive Holding,09/15/2013,Seattle,T.Brock,CB,2,2013,SF-2013-16
+SF,Face Mask (15 Yards),09/15/2013,Seattle,A.Brooks,OLB,2,2013,SF-2013-17
+SF,False Start,09/15/2013,Seattle,M.Iupati,G,2,2013,SF-2013-18
+SF,Defensive Pass Interference,09/15/2013,Seattle,N.Asomugha,CB,2,2013,SF-2013-19
+SF,Unnecessary Roughness,09/15/2013,Seattle,A.Smith,QB,2,2013,SF-2013-20
+SF,Unsportsmanlike Conduct,09/15/2013,Seattle,V.McDonald,TE,2,2013,SF-2013-21
+SF,Offensive Holding,09/15/2013,Seattle,P.Cox,DB,2,2013,SF-2013-22
+SF,Unnecessary Roughness,09/15/2013,Seattle,A.Davis,T,2,2013,SF-2013-23
+SF,Unnecessary Roughness,09/22/2013,Indianapolis,D.Whitner,SS,3,2013,SF-2013-24
+SF,Defensive Pass Interference,09/22/2013,Indianapolis,T.Brown,DB,3,2013,SF-2013-25
+SF,False Start,09/22/2013,Indianapolis,A.Davis,T,3,2013,SF-2013-26
+SF,Defensive Holding,09/22/2013,Indianapolis,T.Brown,DB,3,2013,SF-2013-27
+SF,Defensive Pass Interference,09/22/2013,Indianapolis,T.Brown,DB,3,2013,SF-2013-28
+SF,Face Mask (15 Yards),09/26/2013,St. Louis,J.Smith,DE,4,2013,SF-2013-29
+SF,Offensive Pass Interference,09/26/2013,St. Louis,A.Boldin,WR,4,2013,SF-2013-30
+SF,Illegal Formation,09/26/2013,St. Louis,M.Wilhoite,ILB,4,2013,SF-2013-31
+SF,Defensive Offside,09/26/2013,St. Louis,C.Lemonier,OLB,4,2013,SF-2013-32
+SF,Offensive Holding,09/26/2013,St. Louis,B.Miller,FB,4,2013,SF-2013-33
+SF,Unnecessary Roughness,09/26/2013,St. Louis,A.Boone,G,4,2013,SF-2013-34
+SF,Defensive Pass Interference,09/26/2013,St. Louis,T.Brown,DB,4,2013,SF-2013-35
+SF,Offside on Free Kick,09/26/2013,St. Louis,C.Lemonier,OLB,4,2013,SF-2013-36
+SF,Illegal Block Above the Waist,09/26/2013,St. Louis,C.Spillman,DB,4,2013,SF-2013-37
+SF,Offensive Holding,09/26/2013,St. Louis,A.Boone,G,4,2013,SF-2013-38
+SF,Unnecessary Roughness,09/26/2013,St. Louis,D.Whitner,SS,4,2013,SF-2013-39
+SF,False Start,09/26/2013,St. Louis,G.Celek,TE,4,2013,SF-2013-40
+SF,Defensive Pass Interference,10/06/2013,Houston,T.Brown,DB,5,2013,SF-2013-41
+SF,Delay of Game,10/06/2013,Houston,A.Lee,P,5,2013,SF-2013-42
+SF,Defensive Offside,10/06/2013,Houston,A.Brooks,OLB,5,2013,SF-2013-43
+SF,Offensive Holding,10/13/2013,Arizona,G.Celek,TE,6,2013,SF-2013-44
+SF,Clipping,10/13/2013,Arizona,A.Davis,T,6,2013,SF-2013-45
+SF,False Start,10/13/2013,Arizona,V.Davis,TE,6,2013,SF-2013-46
+SF,Personal Foul,10/13/2013,Arizona,A.Boone,G,6,2013,SF-2013-47
+SF,Personal Foul,10/13/2013,Arizona,A.Boldin,WR,6,2013,SF-2013-48
+SF,Defensive Offside,10/13/2013,Arizona,A.Brooks,OLB,6,2013,SF-2013-49
+SF,Offensive Holding,10/20/2013,Tennessee,C.Lemonier,OLB,7,2013,SF-2013-50
+SF,False Start,10/20/2013,Tennessee,B.Miller,FB,7,2013,SF-2013-51
+SF,Illegal Block Above the Waist,10/20/2013,Tennessee,D.Morris,DB,7,2013,SF-2013-52
+SF,False Start,10/20/2013,Tennessee,M.Iupati,G,7,2013,SF-2013-53
+SF,Defensive Offside,10/20/2013,Tennessee,C.Lemonier,OLB,7,2013,SF-2013-54
+SF,Encroachment,10/20/2013,Tennessee,D.Dobbs,DE,7,2013,SF-2013-55
+SF,Defensive Pass Interference,10/20/2013,Tennessee,T.Brown,DB,7,2013,SF-2013-56
+SF,Defensive Holding,10/27/2013,Jacksonville,C.Rogers,CB,8,2013,SF-2013-57
+SF,Encroachment,10/27/2013,Jacksonville,R.McDonald,DE,8,2013,SF-2013-58
+SF,Offensive Holding,10/27/2013,Jacksonville,M.Iupati,G,8,2013,SF-2013-59
+SF,Unnecessary Roughness,10/27/2013,Jacksonville,D.Skuta,LB,8,2013,SF-2013-60
+SF,Face Mask (15 Yards),11/10/2013,Carolina,C.Kaepernick,QB,10,2013,SF-2013-61
+SF,Delay of Game,11/10/2013,Carolina,C.Kaepernick,QB,10,2013,SF-2013-62
+SF,False Start,11/10/2013,Carolina,A.Davis,T,10,2013,SF-2013-63
+SF,Offensive Holding,11/10/2013,Carolina,A.Boone,G,10,2013,SF-2013-64
+SF,False Start,11/10/2013,Carolina,A.Boldin,WR,10,2013,SF-2013-65
+SF,Offensive Pass Interference,11/10/2013,Carolina,A.Boldin,WR,10,2013,SF-2013-66
+SF,Defensive Holding,11/17/2013,New Orleans,J.Smith,DE,11,2013,SF-2013-67
+SF,Delay of Game,11/17/2013,New Orleans,C.Kaepernick,QB,11,2013,SF-2013-68
+SF,Delay of Game,11/17/2013,New Orleans,A.Lee,P,11,2013,SF-2013-69
+SF,Personal Foul,11/17/2013,New Orleans,A.Brooks,OLB,11,2013,SF-2013-70
+SF,Fair Catch Interference,11/17/2013,New Orleans,K.Osgood,WR,11,2013,SF-2013-71
+SF,Offensive Holding,11/25/2013,Washington,M.Wilhoite,ILB,12,2013,SF-2013-72
+SF,False Start,11/25/2013,Washington,A.Boldin,WR,12,2013,SF-2013-73
+SF,Delay of Game,11/25/2013,Washington,C.Kaepernick,QB,12,2013,SF-2013-74
+SF,False Start,11/25/2013,Washington,A.Snyder,G,12,2013,SF-2013-75
+SF,Illegal Block Above the Waist,12/01/2013,St. Louis,M.Crabtree,WR,13,2013,SF-2013-76
+SF,Offensive Pass Interference,12/01/2013,St. Louis,M.Crabtree,WR,13,2013,SF-2013-77
+SF,Offensive Holding,12/01/2013,St. Louis,J.Goodwin,C,13,2013,SF-2013-78
+SF,Personal Foul,12/01/2013,St. Louis,A.Snyder,G,13,2013,SF-2013-79
+SF,Defensive Holding,12/01/2013,St. Louis,C.Rogers,CB,13,2013,SF-2013-80
+SF,Offensive Holding,12/01/2013,St. Louis,J.Looney,G,13,2013,SF-2013-81
+SF,Personal Foul,12/01/2013,St. Louis,C.Spillman,DB,13,2013,SF-2013-82
+SF,False Start,12/01/2013,St. Louis,A.Davis,T,13,2013,SF-2013-83
+SF,Defensive Offside,12/08/2013,Seattle,A.Brooks,OLB,14,2013,SF-2013-84
+SF,Defensive Holding,12/08/2013,Seattle,N.Bowman,ILB,14,2013,SF-2013-85
+SF,False Start,12/08/2013,Seattle,A.Boone,G,14,2013,SF-2013-86
+SF,Offensive Pass Interference,12/08/2013,Seattle,A.Boldin,WR,14,2013,SF-2013-87
+SF,Taunting,12/08/2013,Seattle,D.Whitner,SS,14,2013,SF-2013-88
+SF,Unnecessary Roughness,12/08/2013,Seattle,N.Bowman,ILB,14,2013,SF-2013-89
+SF,Offensive Holding,12/08/2013,Seattle,T.Brock,CB,14,2013,SF-2013-90
+SF,Illegal Use of Hands,12/08/2013,Seattle,A.Boone,G,14,2013,SF-2013-91
+SF,Delay of Game,12/15/2013,Tampa Bay,C.Kaepernick,QB,15,2013,SF-2013-92
+SF,Offensive Holding,12/15/2013,Tampa Bay,C.Spillman,DB,15,2013,SF-2013-93
+SF,Neutral Zone Infraction,12/15/2013,Tampa Bay,A.Brooks,OLB,15,2013,SF-2013-94
+SF,Encroachment,12/15/2013,Tampa Bay,R.McDonald,DE,15,2013,SF-2013-95
+SF,Illegal Formation,12/15/2013,Tampa Bay,A.Davis,T,15,2013,SF-2013-96
+SF,Unnecessary Roughness,12/15/2013,Tampa Bay,D.Whitner,SS,15,2013,SF-2013-97
+SF,False Start,12/15/2013,Tampa Bay,V.Davis,TE,15,2013,SF-2013-98
+SF,Unsportsmanlike Conduct,12/15/2013,Tampa Bay,M.Crabtree,WR,15,2013,SF-2013-99
+SF,Ineligible Downfield Pass,12/23/2013,Atlanta,A.Boone,G,16,2013,SF-2013-100
+SF,False Start,12/23/2013,Atlanta,J.Staley,T,16,2013,SF-2013-101
+SF,Offensive Pass Interference,12/23/2013,Atlanta,M.Crabtree,WR,16,2013,SF-2013-102
+SF,Unsportsmanlike Conduct,12/23/2013,Atlanta,D.Whitner,SS,16,2013,SF-2013-103
+SF,Unnecessary Roughness,12/23/2013,Atlanta,D.Whitner,SS,16,2013,SF-2013-104
+SF,Illegal Use of Hands,12/23/2013,Atlanta,T.Brock,CB,16,2013,SF-2013-105
+SF,Roughing the Passer,12/23/2013,Atlanta,A.Brooks,OLB,16,2013,SF-2013-106
+SF,Defensive Holding,12/23/2013,Atlanta,D.Whitner,SS,16,2013,SF-2013-107
+SF,Defensive Offside,12/23/2013,Atlanta,C.Lemonier,OLB,16,2013,SF-2013-108
+SF,False Start,12/29/2013,Arizona,A.Boone,G,17,2013,SF-2013-109
+SF,Neutral Zone Infraction,12/29/2013,Arizona,T.Brown,DB,17,2013,SF-2013-110
+SF,Delay of Game,12/29/2013,Arizona,J.Smith,DE,17,2013,SF-2013-111
+SF,Delay of Game,12/29/2013,Arizona,C.Kaepernick,QB,17,2013,SF-2013-112
+SF,Defensive Offside,01/05/2014,Green Bay,A.Brooks,OLB,18,2013,SF-2013-113
+SF,Delay of Game,01/05/2014,Green Bay,A.Lee,P,18,2013,SF-2013-114
+SF,Face Mask (15 Yards),01/12/2014,Carolina,F.Gore,RB,19,2013,SF-2013-115
+SF,Encroachment,01/12/2014,Carolina,A.Brooks,OLB,19,2013,SF-2013-116
+SF,Defensive Holding,01/12/2014,Carolina,T.Brock,CB,19,2013,SF-2013-117
+SF,Roughing the Passer,01/12/2014,Carolina,D.Skuta,LB,19,2013,SF-2013-118
+SF,Offensive Holding,01/19/2014,Seattle,M.Wilhoite,ILB,20,2013,SF-2013-119
+SF,False Start,01/19/2014,Seattle,V.Davis,TE,20,2013,SF-2013-120
+SF,Defensive Offside,01/19/2014,Seattle,A.Smith,QB,20,2013,SF-2013-121
+SF,Unnecessary Roughness,01/19/2014,Seattle,D.Whitner,SS,20,2013,SF-2013-122
+SF,Offensive Holding,01/19/2014,Seattle,V.McDonald,TE,20,2013,SF-2013-123
+SF,Unnecessary Roughness,01/19/2014,Seattle,C.Rogers,CB,20,2013,SF-2013-124
+SF,Defensive Offside,01/19/2014,Seattle,A.Smith,QB,20,2013,SF-2013-125
+SF,Offensive Holding,01/19/2014,Seattle,D.Kilgore,C,20,2013,SF-2013-126
+SF,Delay of Game,01/19/2014,Seattle,C.Kaepernick,QB,20,2013,SF-2013-127

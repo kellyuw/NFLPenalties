@@ -1,0 +1,165 @@
+team,penalty,game,opponent,player,position,week,year,penaltyindex
+SEA,Defensive Offside,09/04/2014,Green Bay,M.Bennett,DE,1,2014,SEA-2014-0
+SEA,Offensive Holding,09/04/2014,Green Bay,J.Britt,T,1,2014,SEA-2014-1
+SEA,Defensive Pass Interference,09/04/2014,Green Bay,B.Wagner,MLB,1,2014,SEA-2014-2
+SEA,Offensive Holding,09/04/2014,Green Bay,Z.Miller,TE,1,2014,SEA-2014-3
+SEA,Illegal Block Above the Waist,09/14/2014,San Diego,J.Johnson,DB,2,2014,SEA-2014-4
+SEA,Defensive Offside,09/14/2014,San Diego,M.Bennett,DE,2,2014,SEA-2014-5
+SEA,Defensive Holding,09/14/2014,San Diego,M.Smith,LB,2,2014,SEA-2014-6
+SEA,Defensive Holding,09/14/2014,San Diego,M.Smith,LB,2,2014,SEA-2014-7
+SEA,False Start,09/14/2014,San Diego,Z.Miller,TE,2,2014,SEA-2014-8
+SEA,Offensive Pass Interference,09/14/2014,San Diego,Z.Miller,TE,2,2014,SEA-2014-9
+SEA,Offensive Holding,09/14/2014,San Diego,K.Wright,OLB,2,2014,SEA-2014-10
+SEA,Personal Foul,09/14/2014,San Diego,B.Irvin,OLB,2,2014,SEA-2014-11
+SEA,False Start,09/14/2014,San Diego,J.Sweezy,G,2,2014,SEA-2014-12
+SEA,Personal Foul,09/14/2014,San Diego,Z.Miller,TE,2,2014,SEA-2014-13
+SEA,Encroachment,09/21/2014,Denver,M.Bennett,DE,3,2014,SEA-2014-14
+SEA,False Start,09/21/2014,Denver,J.Britt,T,3,2014,SEA-2014-15
+SEA,Defensive Holding,09/21/2014,Denver,B.Maxwell,DB,3,2014,SEA-2014-16
+SEA,Offensive Pass Interference,09/21/2014,Denver,R.Lockette,WR,3,2014,SEA-2014-17
+SEA,False Start,09/21/2014,Denver,R.Okung,T,3,2014,SEA-2014-18
+SEA,Encroachment,09/21/2014,Denver,B.Mebane,DT,3,2014,SEA-2014-19
+SEA,Offensive Holding,09/21/2014,Denver,R.Okung,T,3,2014,SEA-2014-20
+SEA,Neutral Zone Infraction,10/06/2014,Washington,T.McDaniel,DT,5,2014,SEA-2014-21
+SEA,Neutral Zone Infraction,10/06/2014,Washington,M.Bennett,DE,5,2014,SEA-2014-22
+SEA,Offensive Holding,10/06/2014,Washington,R.Okung,T,5,2014,SEA-2014-23
+SEA,False Start,10/06/2014,Washington,R.Okung,T,5,2014,SEA-2014-24
+SEA,False Start,10/06/2014,Washington,M.Unger,C,5,2014,SEA-2014-25
+SEA,Offensive Holding,10/06/2014,Washington,J.Carpenter,G,5,2014,SEA-2014-26
+SEA,False Start,10/06/2014,Washington,P.Harvin,WR,5,2014,SEA-2014-27
+SEA,False Start,10/06/2014,Washington,M.Unger,C,5,2014,SEA-2014-28
+SEA,Illegal Use of Hands,10/06/2014,Washington,C.Avril,DE,5,2014,SEA-2014-29
+SEA,Offensive Holding,10/06/2014,Washington,R.Okung,T,5,2014,SEA-2014-30
+SEA,Unnecessary Roughness,10/06/2014,Washington,J.Carpenter,G,5,2014,SEA-2014-31
+SEA,Delay of Game,10/06/2014,Washington,R.Wilson,QB,5,2014,SEA-2014-32
+SEA,Defensive Offside,10/06/2014,Washington,C.Avril,DE,5,2014,SEA-2014-33
+SEA,False Start,10/12/2014,Dallas,R.Okung,T,6,2014,SEA-2014-34
+SEA,Defensive Holding,10/12/2014,Dallas,B.Maxwell,DB,6,2014,SEA-2014-35
+SEA,Neutral Zone Infraction,10/12/2014,Dallas,M.Bennett,DE,6,2014,SEA-2014-36
+SEA,False Start,10/12/2014,Dallas,S.Schilling,C,6,2014,SEA-2014-37
+SEA,Tripping,10/12/2014,Dallas,R.Sherman,CB,6,2014,SEA-2014-38
+SEA,Defensive Pass Interference,10/12/2014,Dallas,R.Sherman,CB,6,2014,SEA-2014-39
+SEA,False Start,10/12/2014,Dallas,R.Okung,T,6,2014,SEA-2014-40
+SEA,Illegal Use of Hands,10/12/2014,Dallas,T.McDaniel,DT,6,2014,SEA-2014-41
+SEA,Defensive Pass Interference,10/19/2014,St. Louis,T.Simon,CB,7,2014,SEA-2014-42
+SEA,Encroachment,10/19/2014,St. Louis,B.Mebane,DT,7,2014,SEA-2014-43
+SEA,Face Mask (15 Yards),10/19/2014,St. Louis,T.Simon,CB,7,2014,SEA-2014-44
+SEA,False Start,10/19/2014,St. Louis,J.Britt,T,7,2014,SEA-2014-45
+SEA,Delay of Game,10/19/2014,St. Louis,R.Wilson,QB,7,2014,SEA-2014-46
+SEA,Illegal Block Above the Waist,10/19/2014,St. Louis,R.Turbin,RB,7,2014,SEA-2014-47
+SEA,Offensive Holding,10/19/2014,St. Louis,J.Sweezy,G,7,2014,SEA-2014-48
+SEA,Offensive Holding,10/19/2014,St. Louis,A.Bailey,G,7,2014,SEA-2014-49
+SEA,Offensive Holding,10/19/2014,St. Louis,J.Carpenter,G,7,2014,SEA-2014-50
+SEA,Defensive Offside,10/26/2014,Carolina,K.Wright,OLB,8,2014,SEA-2014-51
+SEA,Illegal Contact,10/26/2014,Carolina,K.Chancellor,SS,8,2014,SEA-2014-52
+SEA,Defensive Offside,10/26/2014,Carolina,B.Irvin,OLB,8,2014,SEA-2014-53
+SEA,Offensive Holding,10/26/2014,Carolina,L.Willson,TE,8,2014,SEA-2014-54
+SEA,Offensive Holding,10/26/2014,Carolina,T.Simon,CB,8,2014,SEA-2014-55
+SEA,False Start,10/26/2014,Carolina,J.Carpenter,G,8,2014,SEA-2014-56
+SEA,Offensive Holding,11/02/2014,Oakland,J.Carpenter,G,9,2014,SEA-2014-57
+SEA,Offensive Holding,11/02/2014,Oakland,P.Richardson,WR,9,2014,SEA-2014-58
+SEA,Illegal Motion,11/02/2014,Oakland,G.Gilliam,T,9,2014,SEA-2014-59
+SEA,False Start,11/02/2014,Oakland,A.Bailey,G,9,2014,SEA-2014-60
+SEA,False Start,11/02/2014,Oakland,P.Lewis,C,9,2014,SEA-2014-61
+SEA,Ineligible Downfield Pass,11/02/2014,Oakland,G.Gilliam,T,9,2014,SEA-2014-62
+SEA,Ineligible Downfield Pass,11/02/2014,Oakland,A.Bailey,G,9,2014,SEA-2014-63
+SEA,Face Mask (15 Yards),11/02/2014,Oakland,M.Bennett,DE,9,2014,SEA-2014-64
+SEA,Defensive Holding,11/09/2014,N.Y. Giants,J.Lane,CB,10,2014,SEA-2014-65
+SEA,Unnecessary Roughness,11/09/2014,N.Y. Giants,M.Bennett,DE,10,2014,SEA-2014-66
+SEA,Defensive Holding,11/09/2014,N.Y. Giants,T.Simon,CB,10,2014,SEA-2014-67
+SEA,Unnecessary Roughness,11/09/2014,N.Y. Giants,T.McDaniel,DT,10,2014,SEA-2014-68
+SEA,Neutral Zone Infraction,11/09/2014,N.Y. Giants,T.Simon,CB,10,2014,SEA-2014-69
+SEA,False Start,11/09/2014,N.Y. Giants,M.Lynch,RB,10,2014,SEA-2014-70
+SEA,Illegal Forward Pass,11/09/2014,N.Y. Giants,R.Wilson,QB,10,2014,SEA-2014-71
+SEA,Defensive Holding,11/09/2014,N.Y. Giants,B.Maxwell,DB,10,2014,SEA-2014-72
+SEA,Defensive Offside,11/16/2014,Kansas City,M.Bennett,DE,11,2014,SEA-2014-73
+SEA,Illegal Use of Hands,11/16/2014,Kansas City,M.Bennett,DE,11,2014,SEA-2014-74
+SEA,False Start,11/16/2014,Kansas City,J.Sweezy,G,11,2014,SEA-2014-75
+SEA,Defensive Offside,11/16/2014,Kansas City,B.Irvin,OLB,11,2014,SEA-2014-76
+SEA,Intentional Grounding,11/16/2014,Kansas City,R.Wilson,QB,11,2014,SEA-2014-77
+SEA,Neutral Zone Infraction,11/16/2014,Kansas City,T.McDaniel,DT,11,2014,SEA-2014-78
+SEA,Unnecessary Roughness,11/16/2014,Kansas City,R.Lockette,WR,11,2014,SEA-2014-79
+SEA,Illegal Use of Hands,11/16/2014,Kansas City,T.Simon,CB,11,2014,SEA-2014-80
+SEA,Defensive Holding,11/16/2014,Kansas City,B.Maxwell,DB,11,2014,SEA-2014-81
+SEA,Unnecessary Roughness,11/16/2014,Kansas City,B.Irvin,OLB,11,2014,SEA-2014-82
+SEA,Delay of Game,11/16/2014,Kansas City,R.Wilson,QB,11,2014,SEA-2014-83
+SEA,Defensive Pass Interference,11/23/2014,Arizona,B.Maxwell,DB,12,2014,SEA-2014-84
+SEA,Ineligible Downfield Pass,11/23/2014,Arizona,P.Lewis,C,12,2014,SEA-2014-85
+SEA,Offensive Holding,11/23/2014,Arizona,J.Kearse,WR,12,2014,SEA-2014-86
+SEA,Illegal Use of Hands,11/23/2014,Arizona,B.Maxwell,DB,12,2014,SEA-2014-87
+SEA,Defensive Offside,11/23/2014,Arizona,M.Bennett,DE,12,2014,SEA-2014-88
+SEA,False Start,11/23/2014,Arizona,J.Sweezy,G,12,2014,SEA-2014-89
+SEA,False Start,11/23/2014,Arizona,A.Bailey,G,12,2014,SEA-2014-90
+SEA,False Start,11/23/2014,Arizona,J.Britt,T,12,2014,SEA-2014-91
+SEA,Clipping,11/27/2014,San Francisco,J.Britt,T,13,2014,SEA-2014-92
+SEA,Neutral Zone Infraction,11/27/2014,San Francisco,D.Baldwin,WR,13,2014,SEA-2014-93
+SEA,Illegal Formation,11/27/2014,San Francisco,G.Gilliam,T,13,2014,SEA-2014-94
+SEA,Offensive Holding,11/27/2014,San Francisco,T.Simon,CB,13,2014,SEA-2014-95
+SEA,Illegal Use of Hands,11/27/2014,San Francisco,J.Carpenter,G,13,2014,SEA-2014-96
+SEA,Taunting,11/27/2014,San Francisco,M.Lynch,RB,13,2014,SEA-2014-97
+SEA,Defensive Holding,11/27/2014,San Francisco,T.Simon,CB,13,2014,SEA-2014-98
+SEA,Offensive Pass Interference,11/27/2014,San Francisco,R.Turbin,RB,13,2014,SEA-2014-99
+SEA,Defensive Holding,11/27/2014,San Francisco,C.Avril,DE,13,2014,SEA-2014-100
+SEA,Defensive Holding,11/27/2014,San Francisco,R.Sherman,CB,13,2014,SEA-2014-101
+SEA,Defensive Offside,11/27/2014,San Francisco,C.Avril,DE,13,2014,SEA-2014-102
+SEA,Defensive Holding,11/27/2014,San Francisco,B.Maxwell,DB,13,2014,SEA-2014-103
+SEA,Neutral Zone Infraction,11/27/2014,San Francisco,M.Bennett,DE,13,2014,SEA-2014-104
+SEA,Unsportsmanlike Conduct,11/27/2014,San Francisco,T.Simon,CB,13,2014,SEA-2014-105
+SEA,Illegal Contact,11/27/2014,San Francisco,T.Simon,CB,13,2014,SEA-2014-106
+SEA,False Start,12/07/2014,Philadelphia,R.Okung,T,14,2014,SEA-2014-107
+SEA,Illegal Block Above the Waist,12/07/2014,Philadelphia,R.Lockette,WR,14,2014,SEA-2014-108
+SEA,Intentional Grounding,12/07/2014,Philadelphia,R.Wilson,QB,14,2014,SEA-2014-109
+SEA,Delay of Game,12/07/2014,Philadelphia,R.Wilson,QB,14,2014,SEA-2014-110
+SEA,Defensive Pass Interference,12/07/2014,Philadelphia,B.Wagner,MLB,14,2014,SEA-2014-111
+SEA,Offensive Holding,12/07/2014,Philadelphia,T.Simon,CB,14,2014,SEA-2014-112
+SEA,False Start,12/07/2014,Philadelphia,L.Jeanpierre,C,14,2014,SEA-2014-113
+SEA,Delay of Game,12/07/2014,Philadelphia,R.Wilson,QB,14,2014,SEA-2014-114
+SEA,False Start,12/14/2014,San Francisco,J.Carpenter,G,15,2014,SEA-2014-115
+SEA,Offensive Holding,12/14/2014,San Francisco,J.Britt,T,15,2014,SEA-2014-116
+SEA,False Start,12/14/2014,San Francisco,R.Okung,T,15,2014,SEA-2014-117
+SEA,False Start,12/14/2014,San Francisco,J.Sweezy,G,15,2014,SEA-2014-118
+SEA,Illegal Motion,12/14/2014,San Francisco,R.Lockette,WR,15,2014,SEA-2014-119
+SEA,Clipping,12/14/2014,San Francisco,J.Britt,T,15,2014,SEA-2014-120
+SEA,False Start,12/21/2014,Arizona,J.Kearse,WR,16,2014,SEA-2014-121
+SEA,Illegal Use of Hands,12/21/2014,Arizona,B.Irvin,OLB,16,2014,SEA-2014-122
+SEA,Offensive Holding,12/21/2014,Arizona,M.Morgan,OLB,16,2014,SEA-2014-123
+SEA,False Start,12/21/2014,Arizona,A.Bailey,G,16,2014,SEA-2014-124
+SEA,Defensive Pass Interference,12/21/2014,Arizona,B.Maxwell,DB,16,2014,SEA-2014-125
+SEA,Offensive Holding,12/21/2014,Arizona,J.Lane,CB,16,2014,SEA-2014-126
+SEA,Defensive Offside,12/21/2014,Arizona,M.Bennett,DE,16,2014,SEA-2014-127
+SEA,Defensive Offside,12/21/2014,Arizona,M.Bennett,DE,16,2014,SEA-2014-128
+SEA,Illegal Use of Hands,12/21/2014,Arizona,J.Hill,DT,16,2014,SEA-2014-129
+SEA,Defensive Holding,12/21/2014,Arizona,B.Maxwell,DB,16,2014,SEA-2014-130
+SEA,Unnecessary Roughness,12/21/2014,Arizona,B.Coyle,MLB,16,2014,SEA-2014-131
+SEA,Ineligible Downfield Pass,12/21/2014,Arizona,J.Carpenter,G,16,2014,SEA-2014-132
+SEA,False Start,12/21/2014,Arizona,J.Britt,T,16,2014,SEA-2014-133
+SEA,Unnecessary Roughness,12/28/2014,St. Louis,R.Lockette,WR,17,2014,SEA-2014-134
+SEA,False Start,12/28/2014,St. Louis,J.Carpenter,G,17,2014,SEA-2014-135
+SEA,Offensive Holding,12/28/2014,St. Louis,R.Okung,T,17,2014,SEA-2014-136
+SEA,Unnecessary Roughness,01/10/2015,Carolina,J.Lane,CB,19,2014,SEA-2014-137
+SEA,False Start,01/10/2015,Carolina,J.Sweezy,G,19,2014,SEA-2014-138
+SEA,Taunting,01/10/2015,Carolina,R.Lockette,WR,19,2014,SEA-2014-139
+SEA,Face Mask (15 Yards),01/10/2015,Carolina,T.McDaniel,DT,19,2014,SEA-2014-140
+SEA,Taunting,01/10/2015,Carolina,R.Okung,T,19,2014,SEA-2014-141
+SEA,Running Into the Kicker,01/10/2015,Carolina,K.Chancellor,SS,19,2014,SEA-2014-142
+SEA,Defensive Offside,01/10/2015,Carolina,T.Simon,CB,19,2014,SEA-2014-143
+SEA,Neutral Zone Infraction,01/10/2015,Carolina,K.Wright,OLB,19,2014,SEA-2014-144
+SEA,Defensive Offside,01/18/2015,Green Bay,M.Bennett,DE,20,2014,SEA-2014-145
+SEA,Defensive 12 On-field,01/18/2015,Green Bay,B.Irvin,OLB,20,2014,SEA-2014-146
+SEA,Illegal Use of Hands,01/18/2015,Green Bay,C.Avril,DE,20,2014,SEA-2014-147
+SEA,Defensive Offside,01/18/2015,Green Bay,M.Bennett,DE,20,2014,SEA-2014-148
+SEA,False Start,01/18/2015,Green Bay,J.Carpenter,G,20,2014,SEA-2014-149
+SEA,Defensive Offside,01/18/2015,Green Bay,T.McDaniel,DT,20,2014,SEA-2014-150
+SEA,Illegal Use of Hands,01/18/2015,Green Bay,C.Avril,DE,20,2014,SEA-2014-151
+SEA,Defensive Pass Interference,01/18/2015,Green Bay,B.Maxwell,DB,20,2014,SEA-2014-152
+SEA,False Start,01/18/2015,Green Bay,R.Turbin,RB,20,2014,SEA-2014-153
+SEA,False Start,01/18/2015,Green Bay,A.Bailey,G,20,2014,SEA-2014-154
+SEA,Unnecessary Roughness,01/18/2015,Green Bay,J.Sweezy,G,20,2014,SEA-2014-155
+SEA,Running Into the Kicker,02/01/2015,New England,J.Johnson,DB,21,2014,SEA-2014-156
+SEA,False Start,02/01/2015,New England,L.Willson,TE,21,2014,SEA-2014-157
+SEA,Neutral Zone Infraction,02/01/2015,New England,C.Avril,DE,21,2014,SEA-2014-158
+SEA,Illegal Block Above the Waist,02/01/2015,New England,R.Sherman,CB,21,2014,SEA-2014-159
+SEA,Unsportsmanlike Conduct,02/01/2015,New England,D.Baldwin,WR,21,2014,SEA-2014-160
+SEA,Unnecessary Roughness,02/01/2015,New England,E.Thomas,FS,21,2014,SEA-2014-161
+SEA,Encroachment,02/01/2015,New England,M.Bennett,DE,21,2014,SEA-2014-162
+SEA,Disqualification,02/01/2015,New England,B.Irvin,OLB,21,2014,SEA-2014-163

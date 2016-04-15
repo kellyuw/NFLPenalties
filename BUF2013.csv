@@ -1,0 +1,117 @@
+team,penalty,game,opponent,player,position,week,year,penaltyindex
+BUF,Neutral Zone Infraction,09/08/2013,New England,M.Dareus,DT,1,2013,BUF-2013-0
+BUF,False Start,09/08/2013,New England,S.Chandler,TE,1,2013,BUF-2013-1
+BUF,Face Mask (15 Yards),09/08/2013,New England,A.Moats,OLB,1,2013,BUF-2013-2
+BUF,Illegal Use of Hands,09/08/2013,New England,C.Glenn,T,1,2013,BUF-2013-3
+BUF,Defensive Offside,09/08/2013,New England,J.Hughes,DE,1,2013,BUF-2013-4
+BUF,Neutral Zone Infraction,09/08/2013,New England,Ky.Williams,DT,1,2013,BUF-2013-5
+BUF,Illegal Block Above the Waist,09/08/2013,New England,S.Chandler,TE,1,2013,BUF-2013-6
+BUF,Defensive Offside,09/08/2013,New England,J.Hughes,DE,1,2013,BUF-2013-7
+BUF,Illegal Use of Hands,09/08/2013,New England,K.Urbik,G,1,2013,BUF-2013-8
+BUF,Offensive Holding,09/08/2013,New England,T.Graham,WR,1,2013,BUF-2013-9
+BUF,False Start,09/15/2013,Carolina,C.Brown,G,2,2013,BUF-2013-10
+BUF,Neutral Zone Infraction,09/15/2013,Carolina,M.Lawson,LB,2,2013,BUF-2013-11
+BUF,Offensive Holding,09/15/2013,Carolina,L.Smith,TE,2,2013,BUF-2013-12
+BUF,Defensive Holding,09/15/2013,Carolina,D.Searcy,DB,2,2013,BUF-2013-13
+BUF,Offensive Pass Interference,09/15/2013,Carolina,R.Woods,WR,2,2013,BUF-2013-14
+BUF,Defensive Pass Interference,09/15/2013,Carolina,L.McKelvin,CB,2,2013,BUF-2013-15
+BUF,Defensive Holding,09/15/2013,Carolina,F.Summers,FB,2,2013,BUF-2013-16
+BUF,Unnecessary Roughness,09/15/2013,Carolina,A.Williams,FS,2,2013,BUF-2013-17
+BUF,Defensive Offside,09/22/2013,N.Y. Jets,J.Hughes,DE,3,2013,BUF-2013-18
+BUF,Defensive Offside,09/22/2013,N.Y. Jets,M.Dareus,DT,3,2013,BUF-2013-19
+BUF,Defensive Pass Interference,09/22/2013,N.Y. Jets,D.Williams,SS,3,2013,BUF-2013-20
+BUF,Offensive Holding,09/22/2013,N.Y. Jets,E.Wood,C,3,2013,BUF-2013-21
+BUF,Defensive Pass Interference,09/22/2013,N.Y. Jets,J.Rogers,DB,3,2013,BUF-2013-22
+BUF,Offensive Holding,09/22/2013,N.Y. Jets,E.Wood,C,3,2013,BUF-2013-23
+BUF,Defensive Pass Interference,09/22/2013,N.Y. Jets,N.Robey,DB,3,2013,BUF-2013-24
+BUF,Offensive Holding,09/22/2013,N.Y. Jets,C.Glenn,T,3,2013,BUF-2013-25
+BUF,Unnecessary Roughness,09/29/2013,Baltimore,C.Glenn,T,4,2013,BUF-2013-26
+BUF,False Start,09/29/2013,Baltimore,M.Easley,WR,4,2013,BUF-2013-27
+BUF,Offensive Holding,09/29/2013,Baltimore,E.Wood,C,4,2013,BUF-2013-28
+BUF,False Start,09/29/2013,Baltimore,D.Williams,SS,4,2013,BUF-2013-29
+BUF,Encroachment,09/29/2013,Baltimore,A.Branch,NT,4,2013,BUF-2013-30
+BUF,Horse Collar Tackle,09/29/2013,Baltimore,A.Williams,FS,4,2013,BUF-2013-31
+BUF,Offensive Holding,09/29/2013,Baltimore,C.Glenn,T,4,2013,BUF-2013-32
+BUF,Neutral Zone Infraction,09/29/2013,Baltimore,J.Westerman,LB,4,2013,BUF-2013-33
+BUF,Offensive Holding,09/29/2013,Baltimore,S.Johnson,WR,4,2013,BUF-2013-34
+BUF,Offensive Holding,09/29/2013,Baltimore,E.Wood,C,4,2013,BUF-2013-35
+BUF,Personal Foul,09/29/2013,Baltimore,J.Leonhard,FS,4,2013,BUF-2013-36
+BUF,Unnecessary Roughness,10/03/2013,Cleveland,A.Williams,FS,5,2013,BUF-2013-37
+BUF,Encroachment,10/03/2013,Cleveland,Ky.Williams,DT,5,2013,BUF-2013-38
+BUF,Illegal Contact,10/03/2013,Cleveland,D.Searcy,DB,5,2013,BUF-2013-39
+BUF,Unsportsmanlike Conduct,10/03/2013,Cleveland,F.Jackson,RB,5,2013,BUF-2013-40
+BUF,False Start,10/03/2013,Cleveland,A.Moats,OLB,5,2013,BUF-2013-41
+BUF,Taunting,10/03/2013,Cleveland,F.Summers,FB,5,2013,BUF-2013-42
+BUF,Neutral Zone Infraction,10/03/2013,Cleveland,Ky.Williams,DT,5,2013,BUF-2013-43
+BUF,Taunting,10/13/2013,Cincinnati,Ky.Williams,DT,6,2013,BUF-2013-44
+BUF,Face Mask (15 Yards),10/13/2013,Cincinnati,Ky.Williams,DT,6,2013,BUF-2013-45
+BUF,Defensive Holding,10/13/2013,Cincinnati,N.Robey,DB,6,2013,BUF-2013-46
+BUF,False Start,10/13/2013,Cincinnati,C.Glenn,T,6,2013,BUF-2013-47
+BUF,Offensive Holding,10/20/2013,Miami,C.Hogan,WR,7,2013,BUF-2013-48
+BUF,Personal Foul,10/20/2013,Miami,K.Alonso,LB,7,2013,BUF-2013-49
+BUF,Offensive Holding,10/20/2013,Miami,D.Legursky,C,7,2013,BUF-2013-50
+BUF,False Start,10/20/2013,Miami,T.Graham,WR,7,2013,BUF-2013-51
+BUF,Offensive Holding,10/20/2013,Miami,J.Westerman,LB,7,2013,BUF-2013-52
+BUF,Defensive Holding,10/20/2013,Miami,S.Gilmore,CB,7,2013,BUF-2013-53
+BUF,Personal Foul,10/27/2013,New Orleans,J.Westerman,LB,8,2013,BUF-2013-54
+BUF,Illegal Contact,10/27/2013,New Orleans,N.Robey,DB,8,2013,BUF-2013-55
+BUF,Defensive Holding,10/27/2013,New Orleans,J.Hughes,DE,8,2013,BUF-2013-56
+BUF,Offensive Holding,10/27/2013,New Orleans,S.Chandler,TE,8,2013,BUF-2013-57
+BUF,Running Into the Kicker,10/27/2013,New Orleans,L.McKelvin,CB,8,2013,BUF-2013-58
+BUF,Illegal Block Above the Waist,11/03/2013,Kansas City,N.Bradham,OLB,9,2013,BUF-2013-59
+BUF,Unnecessary Roughness,11/03/2013,Kansas City,J.Byrd,FS,9,2013,BUF-2013-60
+BUF,False Start,11/03/2013,Kansas City,E.Wood,C,9,2013,BUF-2013-61
+BUF,Defensive Pass Interference,11/03/2013,Kansas City,S.Gilmore,CB,9,2013,BUF-2013-62
+BUF,Offensive Holding,11/03/2013,Kansas City,E.Pears,T,9,2013,BUF-2013-63
+BUF,False Start,11/03/2013,Kansas City,S.Chandler,TE,9,2013,BUF-2013-64
+BUF,Defensive Holding,11/10/2013,Pittsburgh,S.Gilmore,CB,10,2013,BUF-2013-65
+BUF,Encroachment,11/10/2013,Pittsburgh,M.Dareus,DT,10,2013,BUF-2013-66
+BUF,Illegal Use of Hands,11/10/2013,Pittsburgh,E.Pears,T,10,2013,BUF-2013-67
+BUF,Intentional Grounding,11/10/2013,Pittsburgh,E.Manuel,QB,10,2013,BUF-2013-68
+BUF,Illegal Block Above the Waist,11/17/2013,N.Y. Jets,R.Brooks,CB,11,2013,BUF-2013-69
+BUF,False Start,11/17/2013,N.Y. Jets,L.Smith,TE,11,2013,BUF-2013-70
+BUF,Illegal Block Above the Waist,11/17/2013,N.Y. Jets,F.Summers,FB,11,2013,BUF-2013-71
+BUF,False Start,11/17/2013,N.Y. Jets,T.Graham,WR,11,2013,BUF-2013-72
+BUF,Illegal Block Above the Waist,11/17/2013,N.Y. Jets,A.Branch,NT,11,2013,BUF-2013-73
+BUF,Ineligible Downfield Kick,11/17/2013,N.Y. Jets,N.Bradham,OLB,11,2013,BUF-2013-74
+BUF,Interference with Opportunity to Catch,11/17/2013,N.Y. Jets,R.Brooks,CB,11,2013,BUF-2013-75
+BUF,Defensive Holding,11/17/2013,N.Y. Jets,A.Williams,FS,11,2013,BUF-2013-76
+BUF,Roughing the Passer,12/01/2013,Atlanta,Ma.Williams,DE,13,2013,BUF-2013-77
+BUF,Illegal Use of Hands,12/01/2013,Atlanta,Ky.Williams,DT,13,2013,BUF-2013-78
+BUF,Illegal Use of Hands,12/01/2013,Atlanta,S.Gilmore,CB,13,2013,BUF-2013-79
+BUF,Delay of Game,12/01/2013,Atlanta,E.Manuel,QB,13,2013,BUF-2013-80
+BUF,Defensive Offside,12/01/2013,Atlanta,J.Hughes,DE,13,2013,BUF-2013-81
+BUF,Illegal Contact,12/01/2013,Atlanta,A.Williams,FS,13,2013,BUF-2013-82
+BUF,Defensive Pass Interference,12/01/2013,Atlanta,N.Robey,DB,13,2013,BUF-2013-83
+BUF,Defensive Pass Interference,12/08/2013,Tampa Bay,N.Robey,DB,14,2013,BUF-2013-84
+BUF,Offensive Holding,12/08/2013,Tampa Bay,M.Goodwin,WR,14,2013,BUF-2013-85
+BUF,Neutral Zone Infraction,12/08/2013,Tampa Bay,J.Hughes,DE,14,2013,BUF-2013-86
+BUF,Roughing the Passer,12/08/2013,Tampa Bay,J.Byrd,FS,14,2013,BUF-2013-87
+BUF,Offensive Holding,12/08/2013,Tampa Bay,K.Urbik,G,14,2013,BUF-2013-88
+BUF,Defensive Pass Interference,12/08/2013,Tampa Bay,L.McKelvin,CB,14,2013,BUF-2013-89
+BUF,False Start,12/08/2013,Tampa Bay,E.Wood,C,14,2013,BUF-2013-90
+BUF,False Start,12/08/2013,Tampa Bay,E.Pears,T,14,2013,BUF-2013-91
+BUF,Offensive Holding,12/08/2013,Tampa Bay,C.Glenn,T,14,2013,BUF-2013-92
+BUF,Offensive Holding,12/08/2013,Tampa Bay,R.Woods,WR,14,2013,BUF-2013-93
+BUF,Offensive Holding,12/08/2013,Tampa Bay,E.Wood,C,14,2013,BUF-2013-94
+BUF,Defensive Holding,12/08/2013,Tampa Bay,S.Gilmore,CB,14,2013,BUF-2013-95
+BUF,Offensive Holding,12/15/2013,Jacksonville,E.Pears,T,15,2013,BUF-2013-96
+BUF,Offensive Holding,12/15/2013,Jacksonville,M.Easley,WR,15,2013,BUF-2013-97
+BUF,Personal Foul,12/15/2013,Jacksonville,C.Spiller,RB,15,2013,BUF-2013-98
+BUF,Offensive Holding,12/15/2013,Jacksonville,D.Legursky,C,15,2013,BUF-2013-99
+BUF,Face Mask (15 Yards),12/15/2013,Jacksonville,D.Searcy,DB,15,2013,BUF-2013-100
+BUF,False Start,12/15/2013,Jacksonville,E.Pears,T,15,2013,BUF-2013-101
+BUF,Defensive Pass Interference,12/15/2013,Jacksonville,L.McKelvin,CB,15,2013,BUF-2013-102
+BUF,Illegal Use of Hands,12/15/2013,Jacksonville,E.Wood,C,15,2013,BUF-2013-103
+BUF,Defensive Offside,12/15/2013,Jacksonville,Ky.Williams,DT,15,2013,BUF-2013-104
+BUF,Illegal Motion,12/22/2013,Miami,C.Hogan,WR,16,2013,BUF-2013-105
+BUF,Defensive Offside,12/22/2013,Miami,Ma.Williams,DE,16,2013,BUF-2013-106
+BUF,Offensive Holding,12/22/2013,Miami,E.Wood,C,16,2013,BUF-2013-107
+BUF,Disqualification,12/22/2013,Miami,R.Woods,WR,16,2013,BUF-2013-108
+BUF,Offensive Holding,12/22/2013,Miami,E.Wood,C,16,2013,BUF-2013-109
+BUF,Defensive Holding,12/29/2013,New England,S.Gilmore,CB,17,2013,BUF-2013-110
+BUF,Defensive Pass Interference,12/29/2013,New England,R.Brooks,CB,17,2013,BUF-2013-111
+BUF,Unsportsmanlike Conduct,12/29/2013,New England,J.Hughes,DE,17,2013,BUF-2013-112
+BUF,Unsportsmanlike Conduct,12/29/2013,New England,A.Branch,NT,17,2013,BUF-2013-113
+BUF,Encroachment,12/29/2013,New England,M.Dareus,DT,17,2013,BUF-2013-114
+BUF,False Start,12/29/2013,New England,L.Smith,TE,17,2013,BUF-2013-115

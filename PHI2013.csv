@@ -1,0 +1,103 @@
+team,penalty,game,opponent,player,position,week,year,penaltyindex
+PHI,Offensive Pass Interference,09/09/2013,Washington,J.Avant,WR,1,2013,PHI-2013-0
+PHI,False Start,09/09/2013,Washington,J.Peters,T,1,2013,PHI-2013-1
+PHI,Offensive Holding,09/09/2013,Washington,E.Mathis,G,1,2013,PHI-2013-2
+PHI,Illegal Use of Hands,09/09/2013,Washington,C.Thornton,DE,1,2013,PHI-2013-3
+PHI,False Start,09/09/2013,Washington,L.Johnson,T,1,2013,PHI-2013-4
+PHI,Offensive Holding,09/09/2013,Washington,B.Celek,TE,1,2013,PHI-2013-5
+PHI,Unsportsmanlike Conduct,09/09/2013,Washington,B.Celek,TE,1,2013,PHI-2013-6
+PHI,Offensive Holding,09/09/2013,Washington,J.Kelce,C,1,2013,PHI-2013-7
+PHI,Defensive Offside,09/09/2013,Washington,C.Barwin,OLB,1,2013,PHI-2013-8
+PHI,Delay of Game,09/09/2013,Washington,M.Vick,QB,1,2013,PHI-2013-9
+PHI,Face Mask (15 Yards),09/15/2013,San Diego,N.Allen,DB,2,2013,PHI-2013-10
+PHI,Defensive Pass Interference,09/15/2013,San Diego,C.Williams,DB,2,2013,PHI-2013-11
+PHI,Defensive Pass Interference,09/15/2013,San Diego,C.Williams,DB,2,2013,PHI-2013-12
+PHI,Defensive Pass Interference,09/15/2013,San Diego,C.Williams,DB,2,2013,PHI-2013-13
+PHI,Illegal Formation,09/15/2013,San Diego,L.Johnson,T,2,2013,PHI-2013-14
+PHI,Defensive Holding,09/15/2013,San Diego,P.Chung,SS,2,2013,PHI-2013-15
+PHI,False Start,09/15/2013,San Diego,B.Brown,RB,2,2013,PHI-2013-16
+PHI,Unnecessary Roughness,09/15/2013,San Diego,D.Jackson,WR,2,2013,PHI-2013-17
+PHI,Illegal Forward Pass,09/15/2013,San Diego,M.Vick,QB,2,2013,PHI-2013-18
+PHI,False Start,09/19/2013,Kansas City,E.Mathis,G,3,2013,PHI-2013-19
+PHI,False Start,09/19/2013,Kansas City,R.Cooper,WR,3,2013,PHI-2013-20
+PHI,Face Mask (15 Yards),09/19/2013,Kansas City,A.Henery,K,3,2013,PHI-2013-21
+PHI,Horse Collar Tackle,09/19/2013,Kansas City,A.Henery,K,3,2013,PHI-2013-22
+PHI,False Start,09/19/2013,Kansas City,J.Peters,T,3,2013,PHI-2013-23
+PHI,Offensive Holding,09/19/2013,Kansas City,T.Herremans,G,3,2013,PHI-2013-24
+PHI,Encroachment,09/29/2013,Denver,C.Barwin,OLB,4,2013,PHI-2013-25
+PHI,Offensive Holding,09/29/2013,Denver,L.Johnson,T,4,2013,PHI-2013-26
+PHI,Encroachment,09/29/2013,Denver,F.Cox,DE,4,2013,PHI-2013-27
+PHI,Offensive Holding,09/29/2013,Denver,E.Mathis,G,4,2013,PHI-2013-28
+PHI,Neutral Zone Infraction,09/29/2013,Denver,T.Herremans,G,4,2013,PHI-2013-29
+PHI,Defensive Pass Interference,09/29/2013,Denver,B.Fletcher,DB,4,2013,PHI-2013-30
+PHI,Defensive Pass Interference,09/29/2013,Denver,B.Fletcher,DB,4,2013,PHI-2013-31
+PHI,False Start,10/06/2013,N.Y. Giants,L.Johnson,T,5,2013,PHI-2013-32
+PHI,Offensive Holding,10/06/2013,N.Y. Giants,J.Kelce,C,5,2013,PHI-2013-33
+PHI,Defensive Offside,10/06/2013,N.Y. Giants,B.Boykin,DB,5,2013,PHI-2013-34
+PHI,False Start,10/06/2013,N.Y. Giants,J.Peters,T,5,2013,PHI-2013-35
+PHI,Fair Catch Interference,10/06/2013,N.Y. Giants,B.Boykin,DB,5,2013,PHI-2013-36
+PHI,Defensive Pass Interference,10/06/2013,N.Y. Giants,B.Boykin,DB,5,2013,PHI-2013-37
+PHI,False Start,10/06/2013,N.Y. Giants,B.Graham,LB,5,2013,PHI-2013-38
+PHI,False Start,10/06/2013,N.Y. Giants,A.Barbre,T,5,2013,PHI-2013-39
+PHI,Offensive Holding,10/06/2013,N.Y. Giants,C.Matthews,LB,5,2013,PHI-2013-40
+PHI,Offensive Holding,10/13/2013,Tampa Bay,T.Herremans,G,6,2013,PHI-2013-41
+PHI,Defensive Pass Interference,10/13/2013,Tampa Bay,R.Carmichael,DB,6,2013,PHI-2013-42
+PHI,Intentional Grounding,10/20/2013,Dallas,N.Foles,QB,7,2013,PHI-2013-43
+PHI,Defensive Offside,10/20/2013,Dallas,F.Cox,DE,7,2013,PHI-2013-44
+PHI,Illegal Use of Hands,10/20/2013,Dallas,T.Herremans,G,7,2013,PHI-2013-45
+PHI,Illegal Contact,10/20/2013,Dallas,B.Boykin,DB,7,2013,PHI-2013-46
+PHI,Defensive Pass Interference,10/20/2013,Dallas,B.Fletcher,DB,7,2013,PHI-2013-47
+PHI,Offensive Holding,10/20/2013,Dallas,E.Mathis,G,7,2013,PHI-2013-48
+PHI,Intentional Grounding,10/27/2013,N.Y. Giants,M.Vick,QB,8,2013,PHI-2013-49
+PHI,Defensive Pass Interference,10/27/2013,N.Y. Giants,B.Fletcher,DB,8,2013,PHI-2013-50
+PHI,False Start,10/27/2013,N.Y. Giants,J.Kelce,C,8,2013,PHI-2013-51
+PHI,Offensive Pass Interference,10/27/2013,N.Y. Giants,J.Avant,WR,8,2013,PHI-2013-52
+PHI,Running Into the Kicker,11/03/2013,Oakland,K.Coleman,DB,9,2013,PHI-2013-53
+PHI,Offensive Holding,11/03/2013,Oakland,T.Herremans,G,9,2013,PHI-2013-54
+PHI,Face Mask (15 Yards),11/03/2013,Oakland,D.Jackson,WR,9,2013,PHI-2013-55
+PHI,Defensive Offside,11/03/2013,Oakland,D.Square,DE,9,2013,PHI-2013-56
+PHI,Offensive Holding,11/03/2013,Oakland,E.Mathis,G,9,2013,PHI-2013-57
+PHI,False Start,11/03/2013,Oakland,E.Mathis,G,9,2013,PHI-2013-58
+PHI,Defensive Pass Interference,11/03/2013,Oakland,D.Ryans,ILB,9,2013,PHI-2013-59
+PHI,Offensive Holding,11/10/2013,Green Bay,A.Barbre,T,10,2013,PHI-2013-60
+PHI,Defensive Offside,11/10/2013,Green Bay,C.Barwin,OLB,10,2013,PHI-2013-61
+PHI,Defensive Pass Interference,11/10/2013,Green Bay,B.Boykin,DB,10,2013,PHI-2013-62
+PHI,Roughing the Passer,11/10/2013,Green Bay,N.Goode,ILB,10,2013,PHI-2013-63
+PHI,False Start,11/10/2013,Green Bay,L.Johnson,T,10,2013,PHI-2013-64
+PHI,Roughing the Passer,11/17/2013,Washington,F.Cox,DE,11,2013,PHI-2013-65
+PHI,Offensive Holding,11/17/2013,Washington,L.Johnson,T,11,2013,PHI-2013-66
+PHI,Illegal Forward Pass,11/17/2013,Washington,F.Cox,DE,11,2013,PHI-2013-67
+PHI,Offensive Holding,11/17/2013,Washington,J.Kelce,C,11,2013,PHI-2013-68
+PHI,Taunting,11/17/2013,Washington,L.McCoy,RB,11,2013,PHI-2013-69
+PHI,Illegal Use of Hands,11/17/2013,Washington,J.Peters,T,11,2013,PHI-2013-70
+PHI,Defensive Offside,11/17/2013,Washington,C.Barwin,OLB,11,2013,PHI-2013-71
+PHI,Offensive Holding,11/17/2013,Washington,T.Herremans,G,11,2013,PHI-2013-72
+PHI,Neutral Zone Infraction,11/17/2013,Washington,C.Thornton,DE,11,2013,PHI-2013-73
+PHI,Defensive Holding,11/17/2013,Washington,N.Goode,ILB,11,2013,PHI-2013-74
+PHI,Unnecessary Roughness,12/01/2013,Arizona,B.Fletcher,DB,13,2013,PHI-2013-75
+PHI,Illegal Use of Hands,12/01/2013,Arizona,C.Thornton,DE,13,2013,PHI-2013-76
+PHI,Offensive Holding,12/01/2013,Arizona,J.Dorenbos,LS,13,2013,PHI-2013-77
+PHI,Illegal Block Above the Waist,12/01/2013,Arizona,J.Avant,WR,13,2013,PHI-2013-78
+PHI,Defensive Pass Interference,12/01/2013,Arizona,R.Carmichael,DB,13,2013,PHI-2013-79
+PHI,False Start,12/08/2013,Detroit,E.Mathis,G,14,2013,PHI-2013-80
+PHI,Offensive Pass Interference,12/15/2013,Minnesota,J.Avant,WR,15,2013,PHI-2013-81
+PHI,Low Block,12/15/2013,Minnesota,N.Foles,QB,15,2013,PHI-2013-82
+PHI,Neutral Zone Infraction,12/15/2013,Minnesota,T.Cole,LB,15,2013,PHI-2013-83
+PHI,Defensive Pass Interference,12/15/2013,Minnesota,B.Fletcher,DB,15,2013,PHI-2013-84
+PHI,Taunting,12/15/2013,Minnesota,R.Carmichael,DB,15,2013,PHI-2013-85
+PHI,Unnecessary Roughness,12/15/2013,Minnesota,P.Chung,SS,15,2013,PHI-2013-86
+PHI,Unnecessary Roughness,12/15/2013,Minnesota,C.Williams,DB,15,2013,PHI-2013-87
+PHI,Delay of Game,12/15/2013,Minnesota,N.Foles,QB,15,2013,PHI-2013-88
+PHI,Defensive Pass Interference,12/15/2013,Minnesota,R.Carmichael,DB,15,2013,PHI-2013-89
+PHI,Offensive Holding,12/22/2013,Chicago,J.Kelce,C,16,2013,PHI-2013-90
+PHI,Defensive Holding,12/22/2013,Chicago,M.Kendricks,ILB,16,2013,PHI-2013-91
+PHI,Encroachment,12/29/2013,Dallas,C.Thornton,DE,17,2013,PHI-2013-92
+PHI,Offensive Holding,12/29/2013,Dallas,L.Johnson,T,17,2013,PHI-2013-93
+PHI,Intentional Grounding,12/29/2013,Dallas,N.Foles,QB,17,2013,PHI-2013-94
+PHI,Encroachment,12/29/2013,Dallas,B.Logan,NT,17,2013,PHI-2013-95
+PHI,Fair Catch Interference,12/29/2013,Dallas,B.Boykin,DB,17,2013,PHI-2013-96
+PHI,Defensive Offside,12/29/2013,Dallas,F.Cox,DE,17,2013,PHI-2013-97
+PHI,Defensive Holding,01/04/2014,New Orleans,F.Cox,DE,18,2013,PHI-2013-98
+PHI,Intentional Grounding,01/04/2014,New Orleans,N.Foles,QB,18,2013,PHI-2013-99
+PHI,False Start,01/04/2014,New Orleans,M.Tobin,G,18,2013,PHI-2013-100
+PHI,Horse Collar Tackle,01/04/2014,New Orleans,C.Williams,DB,18,2013,PHI-2013-101

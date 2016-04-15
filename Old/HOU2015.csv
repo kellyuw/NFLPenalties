@@ -1,0 +1,124 @@
+PenaltyIndex,team,penalty,game,opponent,player,position,week
+HOU-2015-0,HOU,Defensive Offside,09/13/2015,Kansas City,V.Wilfork,NT,1-2015
+HOU-2015-1,HOU,Defensive Offside,09/13/2015,Kansas City,K.Jackson,CB,1-2015
+HOU-2015-2,HOU,False Start,09/13/2015,Kansas City,B.Jones,C,1-2015
+HOU-2015-3,HOU,Offensive Holding,09/13/2015,Kansas City,E.Pleasant,DB,1-2015
+HOU-2015-4,HOU,Intentional Grounding,09/13/2015,Kansas City,B.Hoyer,QB,1-2015
+HOU-2015-5,HOU,False Start,09/13/2015,Kansas City,D.Brown,T,1-2015
+HOU-2015-6,HOU,Neutral Zone Infraction,09/20/2015,Carolina,B.Cushing,ILB,2-2015
+HOU-2015-7,HOU,Illegal Block Above the Waist,09/20/2015,Carolina,J.Tuggle,ILB,2-2015
+HOU-2015-8,HOU,Illegal Block Above the Waist,09/20/2015,Carolina,D.Morris,DB,2-2015
+HOU-2015-9,HOU,Defensive Holding,09/20/2015,Carolina,K.Jackson,CB,2-2015
+HOU-2015-10,HOU,Illegal Block Above the Waist,09/20/2015,Carolina,E.Pleasant,DB,2-2015
+HOU-2015-11,HOU,Illegal Use of Hands,09/20/2015,Carolina,J.Adams,T,2-2015
+HOU-2015-12,HOU,Delay of Game,09/20/2015,Carolina,R.Mallett,QB,2-2015
+HOU-2015-13,HOU,Illegal Contact,09/20/2015,Carolina,J.Joseph,CB,2-2015
+HOU-2015-14,HOU,Defensive Holding,09/20/2015,Carolina,Q.Demps,DB,2-2015
+HOU-2015-15,HOU,Neutral Zone Infraction,09/20/2015,Carolina,J.Clowney,OLB,2-2015
+HOU-2015-16,HOU,Intentional Grounding,09/20/2015,Carolina,R.Mallett,QB,2-2015
+HOU-2015-17,HOU,Offensive Holding,09/27/2015,Tampa Bay,B.Brooks,G,3-2015
+HOU-2015-18,HOU,Unnecessary Roughness,09/27/2015,Tampa Bay,A.Dent,ILB,3-2015
+HOU-2015-19,HOU,Roughing the Passer,09/27/2015,Tampa Bay,J.Simon,LB,3-2015
+HOU-2015-20,HOU,False Start,09/27/2015,Tampa Bay,C.Clark,T,3-2015
+HOU-2015-21,HOU,False Start,09/27/2015,Tampa Bay,D.Newton,T,3-2015
+HOU-2015-22,HOU,Offensive Holding,09/27/2015,Tampa Bay,K.Johnson,CB,3-2015
+HOU-2015-23,HOU,Illegal Use of Hands,10/04/2015,Atlanta,J.Clowney,OLB,4-2015
+HOU-2015-24,HOU,Illegal Contact,10/04/2015,Atlanta,K.Johnson,CB,4-2015
+HOU-2015-25,HOU,Illegal Use of Hands,10/04/2015,Atlanta,E.Pleasant,DB,4-2015
+HOU-2015-26,HOU,False Start,10/04/2015,Atlanta,G.Graham,TE,4-2015
+HOU-2015-27,HOU,Defensive Holding,10/04/2015,Atlanta,E.Pleasant,DB,4-2015
+HOU-2015-28,HOU,Unnecessary Roughness,10/04/2015,Atlanta,E.Pleasant,DB,4-2015
+HOU-2015-29,HOU,Illegal Shift,10/08/2015,Indianapolis,D.Hopkins,WR,5-2015
+HOU-2015-30,HOU,Player Out of Bounds on Punt,10/08/2015,Indianapolis,K.Johnson,CB,5-2015
+HOU-2015-31,HOU,Face Mask (15 Yards),10/08/2015,Indianapolis,A.Bouye,CB,5-2015
+HOU-2015-32,HOU,Roughing the Passer,10/08/2015,Indianapolis,J.Watt,DE,5-2015
+HOU-2015-33,HOU,Chop Block,10/08/2015,Indianapolis,O.Aboushi,G,5-2015
+HOU-2015-34,HOU,Offensive Holding,10/08/2015,Indianapolis,J.Rolle,DB,5-2015
+HOU-2015-35,HOU,False Start,10/08/2015,Indianapolis,D.Brown,T,5-2015
+HOU-2015-36,HOU,Offensive Pass Interference,10/08/2015,Indianapolis,D.Hopkins,WR,5-2015
+HOU-2015-37,HOU,Defensive Holding,10/08/2015,Indianapolis,J.Joseph,CB,5-2015
+HOU-2015-38,HOU,Face Mask (15 Yards),10/08/2015,Indianapolis,J.Clowney,OLB,5-2015
+HOU-2015-39,HOU,Defensive Holding,10/08/2015,Indianapolis,E.Pleasant,DB,5-2015
+HOU-2015-40,HOU,Defensive Pass Interference,10/08/2015,Indianapolis,K.Jackson,CB,5-2015
+HOU-2015-41,HOU,Offensive Holding,10/08/2015,Indianapolis,O.Aboushi,G,5-2015
+HOU-2015-42,HOU,Unsportsmanlike Conduct,10/08/2015,Indianapolis,D.Hopkins,WR,5-2015
+HOU-2015-43,HOU,Defensive Holding,10/18/2015,Jacksonville,K.Jackson,CB,6-2015
+HOU-2015-44,HOU,Offensive Holding,10/18/2015,Jacksonville,B.Brooks,G,6-2015
+HOU-2015-45,HOU,Offensive Holding,10/18/2015,Jacksonville,D.Newton,T,6-2015
+HOU-2015-46,HOU,Defensive Offside,10/18/2015,Jacksonville,J.Watt,DE,6-2015
+HOU-2015-47,HOU,Face Mask (15 Yards),10/18/2015,Jacksonville,K.Johnson,CB,6-2015
+HOU-2015-48,HOU,Offensive Pass Interference,10/18/2015,Jacksonville,G.Graham,TE,6-2015
+HOU-2015-49,HOU,Offensive Pass Interference,10/18/2015,Jacksonville,D.Hopkins,WR,6-2015
+HOU-2015-50,HOU,Roughing the Passer,10/18/2015,Jacksonville,J.Watt,DE,6-2015
+HOU-2015-51,HOU,Unnecessary Roughness,10/18/2015,Jacksonville,E.Pleasant,DB,6-2015
+HOU-2015-52,HOU,False Start,10/18/2015,Jacksonville,K.Lamm,T,6-2015
+HOU-2015-53,HOU,Defensive Offside,10/25/2015,Miami,J.Clowney,OLB,7-2015
+HOU-2015-54,HOU,Illegal Use of Hands,10/25/2015,Miami,C.Clark,T,7-2015
+HOU-2015-55,HOU,Illegal Contact,10/25/2015,Miami,A.Hal,DB,7-2015
+HOU-2015-56,HOU,Player Out of Bounds on Punt,10/25/2015,Miami,C.James,DB,7-2015
+HOU-2015-57,HOU,Defensive Pass Interference,10/25/2015,Miami,A.Bouye,CB,7-2015
+HOU-2015-58,HOU,Roughing the Passer,10/25/2015,Miami,J.Clowney,OLB,7-2015
+HOU-2015-59,HOU,Roughing the Passer,11/01/2015,Tennessee,B.Cushing,ILB,8-2015
+HOU-2015-60,HOU,Illegal Formation,11/01/2015,Tennessee,D.Newton,T,8-2015
+HOU-2015-61,HOU,False Start,11/01/2015,Tennessee,B.Jones,C,8-2015
+HOU-2015-62,HOU,Offensive Holding,11/01/2015,Tennessee,B.Jones,C,8-2015
+HOU-2015-63,HOU,Offensive Holding,11/01/2015,Tennessee,B.Brooks,G,8-2015
+HOU-2015-64,HOU,Roughing the Passer,11/01/2015,Tennessee,W.Mercilus,OLB,8-2015
+HOU-2015-65,HOU,Intentional Grounding,11/01/2015,Tennessee,B.Hoyer,QB,8-2015
+HOU-2015-66,HOU,Roughing the Passer,11/01/2015,Tennessee,J.Watt,DE,8-2015
+HOU-2015-67,HOU,Offensive Pass Interference,11/16/2015,Cincinnati,D.Hopkins,WR,10-2015
+HOU-2015-68,HOU,Defensive Pass Interference,11/16/2015,Cincinnati,K.Johnson,CB,10-2015
+HOU-2015-69,HOU,Offensive Holding,11/16/2015,Cincinnati,J.Prosch,FB,10-2015
+HOU-2015-70,HOU,Defensive Holding,11/16/2015,Cincinnati,K.Johnson,CB,10-2015
+HOU-2015-71,HOU,Delay of Game,11/16/2015,Cincinnati,S.Lechler,P,10-2015
+HOU-2015-72,HOU,Defensive Offside,11/22/2015,N.Y. Jets,J.Watt,DE,11-2015
+HOU-2015-73,HOU,Defensive Pass Interference,11/22/2015,N.Y. Jets,Q.Demps,DB,11-2015
+HOU-2015-74,HOU,Defensive Holding,11/22/2015,N.Y. Jets,B.McKinney,ILB,11-2015
+HOU-2015-75,HOU,Illegal Contact,11/22/2015,N.Y. Jets,K.Johnson,CB,11-2015
+HOU-2015-76,HOU,Defensive Holding,11/22/2015,N.Y. Jets,K.Johnson,CB,11-2015
+HOU-2015-77,HOU,False Start,11/22/2015,N.Y. Jets,B.Jones,C,11-2015
+HOU-2015-78,HOU,False Start,11/29/2015,New Orleans,B.Brooks,G,12-2015
+HOU-2015-79,HOU,Offensive Holding,11/29/2015,New Orleans,D.Brown,T,12-2015
+HOU-2015-80,HOU,Offensive Holding,11/29/2015,New Orleans,X.Su'a,G,12-2015
+HOU-2015-81,HOU,False Start,11/29/2015,New Orleans,C.Fiedorowicz,TE,12-2015
+HOU-2015-82,HOU,Defensive Holding,11/29/2015,New Orleans,B.Cushing,ILB,12-2015
+HOU-2015-83,HOU,Illegal Use of Hands,12/06/2015,Buffalo,D.Brown,T,13-2015
+HOU-2015-84,HOU,Illegal Touch Kick,12/06/2015,Buffalo,C.James,DB,13-2015
+HOU-2015-85,HOU,Offensive Holding,12/06/2015,Buffalo,O.Aboushi,G,13-2015
+HOU-2015-86,HOU,Ineligible Downfield Kick,12/06/2015,Buffalo,A.Blue,RB,13-2015
+HOU-2015-87,HOU,Illegal Block Above the Waist,12/06/2015,Buffalo,R.Griffin,TE,13-2015
+HOU-2015-88,HOU,Unsportsmanlike Conduct,12/06/2015,Buffalo,D.Hopkins,WR,13-2015
+HOU-2015-89,HOU,Chop Block,12/06/2015,Buffalo,R.Griffin,TE,13-2015
+HOU-2015-90,HOU,Ineligible Downfield Kick,12/06/2015,Buffalo,J.Prosch,FB,13-2015
+HOU-2015-91,HOU,Offensive Holding,12/06/2015,Buffalo,C.Fiedorowicz,TE,13-2015
+HOU-2015-92,HOU,Illegal Formation,12/06/2015,Buffalo,K.Lamm,T,13-2015
+HOU-2015-93,HOU,Ineligible Downfield Kick,12/06/2015,Buffalo,A.Blue,RB,13-2015
+HOU-2015-94,HOU,Illegal Use of Hands,12/13/2015,New England,E.Pleasant,DB,14-2015
+HOU-2015-95,HOU,Roughing the Passer,12/13/2015,New England,J.Watt,DE,14-2015
+HOU-2015-96,HOU,Unnecessary Roughness,12/13/2015,New England,D.Brown,T,14-2015
+HOU-2015-97,HOU,False Start,12/13/2015,New England,C.Fiedorowicz,TE,14-2015
+HOU-2015-98,HOU,Neutral Zone Infraction,12/13/2015,New England,J.Watt,DE,14-2015
+HOU-2015-99,HOU,Neutral Zone Infraction,12/20/2015,Indianapolis,J.Watt,DE,15-2015
+,HOU,Offensive Holding,12/20/2015,Indianapolis,C.Shorts III,15-2015,HOU-2015-100
+HOU-2015-101,HOU,Offensive Holding,12/20/2015,Indianapolis,D.Brown,T,15-2015
+HOU-2015-102,HOU,Defensive Holding,12/20/2015,Indianapolis,A.Bouye,CB,15-2015
+HOU-2015-103,HOU,Running Into the Kicker,12/20/2015,Indianapolis,W.Mercilus,OLB,15-2015
+HOU-2015-104,HOU,Offensive Holding,12/20/2015,Indianapolis,C.Fiedorowicz,TE,15-2015
+HOU-2015-105,HOU,Offensive Holding,12/20/2015,Indianapolis,R.Griffin,TE,15-2015
+HOU-2015-106,HOU,False Start,12/27/2015,Tennessee,D.Brown,T,16-2015
+HOU-2015-107,HOU,Offensive Holding,12/27/2015,Tennessee,A.Bouye,CB,16-2015
+HOU-2015-108,HOU,Offensive Pass Interference,12/27/2015,Tennessee,R.Griffin,TE,16-2015
+HOU-2015-109,HOU,Offensive Holding,12/27/2015,Tennessee,D.Newton,T,16-2015
+HOU-2015-110,HOU,Neutral Zone Infraction,01/03/2016,Jacksonville,W.Mercilus,OLB,17-2015
+HOU-2015-111,HOU,False Start,01/03/2016,Jacksonville,B.Brooks,G,17-2015
+,HOU,Illegal Block Above the Waist,01/03/2016,Jacksonville,C.Moore,17-2015,HOU-2015-112
+,HOU,Illegal Shift,01/03/2016,Jacksonville,A.Hunt,17-2015,HOU-2015-113
+HOU-2015-114,HOU,False Start,01/03/2016,Jacksonville,K.Mumphery,WR,17-2015
+HOU-2015-115,HOU,False Start,01/03/2016,Jacksonville,B.Jones,C,17-2015
+HOU-2015-116,HOU,Offensive Holding,01/03/2016,Jacksonville,D.Newton,T,17-2015
+HOU-2015-117,HOU,False Start,01/03/2016,Jacksonville,B.Jones,C,17-2015
+HOU-2015-118,HOU,False Start,01/03/2016,Jacksonville,B.Brooks,G,17-2015
+HOU-2015-119,HOU,Neutral Zone Infraction,01/09/2016,Kansas City,W.Mercilus,OLB,18-2015
+HOU-2015-120,HOU,Unnecessary Roughness,01/09/2016,Kansas City,B.Dunn,DT,18-2015
+HOU-2015-121,HOU,Unnecessary Roughness,01/09/2016,Kansas City,J.Crick,DE,18-2015
+HOU-2015-122,HOU,Offensive Pass Interference,01/09/2016,Kansas City,D.Hopkins,WR,18-2015

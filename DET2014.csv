@@ -1,0 +1,134 @@
+team,penalty,game,opponent,player,position,week,year,penaltyindex
+DET,Illegal Touch Pass,09/08/2014,N.Y. Giants,C.Johnson,WR,1,2014,DET-2014-0
+DET,False Start,09/08/2014,N.Y. Giants,C.Hilliard,T,1,2014,DET-2014-1
+DET,Defensive Pass Interference,09/08/2014,N.Y. Giants,D.Bentley,CB,1,2014,DET-2014-2
+DET,Ineligible Downfield Kick,09/08/2014,N.Y. Giants,T.Lewis,LB,1,2014,DET-2014-3
+DET,Illegal Use of Hands,09/08/2014,N.Y. Giants,N.Fairley,DT,1,2014,DET-2014-4
+DET,Roughing the Kicker,09/08/2014,N.Y. Giants,J.Couplin,DB,1,2014,DET-2014-5
+DET,Defensive Pass Interference,09/08/2014,N.Y. Giants,D.Slay,CB,1,2014,DET-2014-6
+DET,Face Mask (15 Yards),09/08/2014,N.Y. Giants,D.Raiola,C,1,2014,DET-2014-7
+DET,Offensive Holding,09/14/2014,Carolina,R.Sims,G,2,2014,DET-2014-8
+DET,Delay of Game,09/14/2014,Carolina,M.Stafford,QB,2,2014,DET-2014-9
+DET,Offensive Holding,09/14/2014,Carolina,J.Collins,FB,2,2014,DET-2014-10
+DET,Illegal Use of Hands,09/14/2014,Carolina,N.Fairley,DT,2,2014,DET-2014-11
+DET,Defensive Holding,09/14/2014,Carolina,R.Mathis,CB,2,2014,DET-2014-12
+DET,Tripping,09/14/2014,Carolina,D.Taylor,DE,2,2014,DET-2014-13
+DET,Offensive Holding,09/14/2014,Carolina,G.Reynolds,T,2,2014,DET-2014-14
+DET,Low Block,09/21/2014,Green Bay,J.Bell,RB,3,2014,DET-2014-15
+DET,Illegal Use of Hands,09/21/2014,Green Bay,D.Gorrer,DB,3,2014,DET-2014-16
+DET,Defensive Holding,09/21/2014,Green Bay,M.Seisay,DB,3,2014,DET-2014-17
+DET,Offside on Free Kick,09/21/2014,Green Bay,A.Palmer,LB,3,2014,DET-2014-18
+DET,False Start,09/28/2014,N.Y. Jets,G.Reynolds,T,4,2014,DET-2014-19
+DET,Intentional Grounding,09/28/2014,N.Y. Jets,M.Stafford,QB,4,2014,DET-2014-20
+DET,Defensive Offside,09/28/2014,N.Y. Jets,N.Suh,DT,4,2014,DET-2014-21
+DET,Illegal Contact,09/28/2014,N.Y. Jets,R.Mathis,CB,4,2014,DET-2014-22
+DET,Offensive Holding,10/05/2014,Buffalo,L.Waddle,T,5,2014,DET-2014-23
+DET,Offensive Holding,10/05/2014,Buffalo,D.Raiola,C,5,2014,DET-2014-24
+DET,Neutral Zone Infraction,10/05/2014,Buffalo,N.Fairley,DT,5,2014,DET-2014-25
+DET,Offensive Holding,10/05/2014,Buffalo,J.Stanford,LB,5,2014,DET-2014-26
+DET,Running Into the Kicker,10/05/2014,Buffalo,I.Abdul,SS,5,2014,DET-2014-27
+DET,Offensive Holding,10/05/2014,Buffalo,L.Waddle,T,5,2014,DET-2014-28
+DET,False Start,10/05/2014,Buffalo,B.Pettigrew,TE,5,2014,DET-2014-29
+DET,Roughing the Passer,10/05/2014,Buffalo,N.Fairley,DT,5,2014,DET-2014-30
+DET,Illegal Use of Hands,10/05/2014,Buffalo,L.Waddle,T,5,2014,DET-2014-31
+DET,Illegal Use of Hands,10/05/2014,Buffalo,J.Jones,DE,5,2014,DET-2014-32
+DET,Defensive Offside,10/05/2014,Buffalo,J.Jones,DE,5,2014,DET-2014-33
+DET,Offensive Holding,10/12/2014,Minnesota,R.Sims,G,6,2014,DET-2014-34
+DET,Illegal Use of Hands,10/12/2014,Minnesota,R.Mathis,CB,6,2014,DET-2014-35
+DET,Offensive Holding,10/12/2014,Minnesota,J.Bell,RB,6,2014,DET-2014-36
+DET,Offensive Pass Interference,10/12/2014,Minnesota,E.Ebron,TE,6,2014,DET-2014-37
+DET,Offensive Holding,10/12/2014,Minnesota,J.Bynes,LB,6,2014,DET-2014-38
+DET,Illegal Use of Hands,10/12/2014,Minnesota,J.Stanford,LB,6,2014,DET-2014-39
+DET,Defensive Holding,10/12/2014,Minnesota,D.Slay,CB,6,2014,DET-2014-40
+DET,Defensive Holding,10/19/2014,New Orleans,D.Gorrer,DB,7,2014,DET-2014-41
+DET,Defensive Offside,10/19/2014,New Orleans,N.Suh,DT,7,2014,DET-2014-42
+DET,Unnecessary Roughness,10/19/2014,New Orleans,G.Quin,FS,7,2014,DET-2014-43
+DET,Defensive Pass Interference,10/19/2014,New Orleans,D.Slay,CB,7,2014,DET-2014-44
+DET,Defensive Offside,10/19/2014,New Orleans,E.Ansah,DE,7,2014,DET-2014-45
+DET,Defensive Holding,10/19/2014,New Orleans,R.Mathis,CB,7,2014,DET-2014-46
+DET,Unnecessary Roughness,10/19/2014,New Orleans,T.Whitehead,MLB,7,2014,DET-2014-47
+DET,Running Into the Kicker,10/19/2014,New Orleans,D.Carey,SS,7,2014,DET-2014-48
+DET,Offensive Holding,10/19/2014,New Orleans,J.Stanford,LB,7,2014,DET-2014-49
+DET,Offensive Holding,10/19/2014,New Orleans,L.Warford,G,7,2014,DET-2014-50
+DET,False Start,10/19/2014,New Orleans,B.Pettigrew,TE,7,2014,DET-2014-51
+DET,Illegal Use of Hands,10/19/2014,New Orleans,D.Tapp,DE,7,2014,DET-2014-52
+DET,Encroachment,10/26/2014,Atlanta,N.Fairley,DT,8,2014,DET-2014-53
+DET,Offensive Holding,10/26/2014,Atlanta,R.Sims,G,8,2014,DET-2014-54
+DET,Defensive Pass Interference,10/26/2014,Atlanta,D.Slay,CB,8,2014,DET-2014-55
+DET,Unnecessary Roughness,10/26/2014,Atlanta,J.Ihedigbo,SS,8,2014,DET-2014-56
+DET,Defensive Pass Interference,10/26/2014,Atlanta,R.Mathis,CB,8,2014,DET-2014-57
+DET,Offensive Holding,10/26/2014,Atlanta,G.Reynolds,T,8,2014,DET-2014-58
+DET,Illegal Blindside Block,10/26/2014,Atlanta,G.Reynolds,T,8,2014,DET-2014-59
+DET,Illegal Contact,10/26/2014,Atlanta,R.Mathis,CB,8,2014,DET-2014-60
+DET,False Start,11/09/2014,Miami,B.Pettigrew,TE,10,2014,DET-2014-61
+DET,Ineligible Downfield Pass,11/09/2014,Miami,D.Raiola,C,10,2014,DET-2014-62
+DET,Offensive Pass Interference,11/09/2014,Miami,C.Johnson,WR,10,2014,DET-2014-63
+DET,Roughing the Passer,11/09/2014,Miami,T.Whitehead,MLB,10,2014,DET-2014-64
+DET,Face Mask (15 Yards),11/09/2014,Miami,J.Ihedigbo,SS,10,2014,DET-2014-65
+DET,Face Mask (15 Yards),11/09/2014,Miami,N.Suh,DT,10,2014,DET-2014-66
+DET,Personal Foul,11/09/2014,Miami,I.Abdul,SS,10,2014,DET-2014-67
+DET,Offensive Holding,11/09/2014,Miami,T.Swanson,C,10,2014,DET-2014-68
+DET,Offensive Holding,11/09/2014,Miami,B.Pettigrew,TE,10,2014,DET-2014-69
+DET,Defensive Holding,11/09/2014,Miami,D.Slay,CB,10,2014,DET-2014-70
+DET,Defensive Pass Interference,11/09/2014,Miami,J.Bynes,LB,10,2014,DET-2014-71
+DET,Offensive Holding,11/09/2014,Miami,K.Davis,TE,10,2014,DET-2014-72
+DET,Defensive Offside,11/16/2014,Arizona,C.Mosley,DT,11,2014,DET-2014-73
+DET,Defensive Pass Interference,11/16/2014,Arizona,C.Vaughn,DB,11,2014,DET-2014-74
+DET,Illegal Contact,11/16/2014,Arizona,R.Mathis,CB,11,2014,DET-2014-75
+DET,Face Mask (15 Yards),11/16/2014,Arizona,R.Sims,G,11,2014,DET-2014-76
+DET,Offensive Holding,11/16/2014,Arizona,L.Waddle,T,11,2014,DET-2014-77
+DET,Offensive Holding,11/16/2014,Arizona,M.Seisay,DB,11,2014,DET-2014-78
+DET,Offensive Pass Interference,11/16/2014,Arizona,E.Ebron,TE,11,2014,DET-2014-79
+DET,Offensive Holding,11/16/2014,Arizona,G.Johnson,DE,11,2014,DET-2014-80
+DET,Encroachment,11/16/2014,Arizona,J.Jones,DE,11,2014,DET-2014-81
+DET,Encroachment,11/23/2014,New England,N.Suh,DT,12,2014,DET-2014-82
+DET,Neutral Zone Infraction,11/23/2014,New England,J.Jones,DE,12,2014,DET-2014-83
+DET,Defensive Holding,11/23/2014,New England,D.Slay,CB,12,2014,DET-2014-84
+DET,Defensive Holding,11/23/2014,New England,C.Vaughn,DB,12,2014,DET-2014-85
+DET,Defensive Holding,11/23/2014,New England,D.Levy,OLB,12,2014,DET-2014-86
+DET,False Start,11/23/2014,New England,D.Raiola,C,12,2014,DET-2014-87
+DET,Illegal Use of Hands,11/23/2014,New England,C.Lucas,T,12,2014,DET-2014-88
+DET,Personal Foul,11/23/2014,New England,C.Mosley,DT,12,2014,DET-2014-89
+DET,False Start,11/23/2014,New England,L.Waddle,T,12,2014,DET-2014-90
+DET,Personal Foul,11/23/2014,New England,C.Lucas,T,12,2014,DET-2014-91
+DET,Illegal Contact,11/27/2014,Chicago,R.Mathis,CB,13,2014,DET-2014-92
+DET,Offensive Holding,11/27/2014,Chicago,D.Raiola,C,13,2014,DET-2014-93
+DET,Offensive Holding,11/27/2014,Chicago,L.Waddle,T,13,2014,DET-2014-94
+DET,Offensive Holding,11/27/2014,Chicago,D.Tapp,DE,13,2014,DET-2014-95
+DET,Defensive Pass Interference,11/27/2014,Chicago,T.Whitehead,MLB,13,2014,DET-2014-96
+DET,Roughing the Passer,12/07/2014,Tampa Bay,N.Suh,DT,14,2014,DET-2014-97
+DET,Face Mask (15 Yards),12/07/2014,Tampa Bay,J.Jones,DE,14,2014,DET-2014-98
+DET,Defensive Offside,12/07/2014,Tampa Bay,E.Ansah,DE,14,2014,DET-2014-99
+DET,False Start,12/07/2014,Tampa Bay,G.Tate,WR,14,2014,DET-2014-100
+DET,Defensive Pass Interference,12/07/2014,Tampa Bay,D.Slay,CB,14,2014,DET-2014-101
+DET,Interference with Opportunity to Catch,12/07/2014,Tampa Bay,I.Abdul,SS,14,2014,DET-2014-102
+DET,Defensive Pass Interference,12/07/2014,Tampa Bay,D.Slay,CB,14,2014,DET-2014-103
+DET,Offensive Holding,12/07/2014,Tampa Bay,D.Taylor,DE,14,2014,DET-2014-104
+DET,Defensive Offside,12/14/2014,Minnesota,N.Suh,DT,15,2014,DET-2014-105
+DET,Offensive Holding,12/14/2014,Minnesota,J.Ross,WR,15,2014,DET-2014-106
+DET,Offensive Holding,12/14/2014,Minnesota,B.Pettigrew,TE,15,2014,DET-2014-107
+DET,False Start,12/14/2014,Minnesota,E.Ebron,TE,15,2014,DET-2014-108
+DET,Offensive Holding,12/21/2014,Chicago,J.Bynes,LB,16,2014,DET-2014-109
+DET,Encroachment,12/21/2014,Chicago,E.Ansah,DE,16,2014,DET-2014-110
+DET,Ineligible Downfield Pass,12/21/2014,Chicago,C.Lucas,T,16,2014,DET-2014-111
+DET,Illegal Use of Hands,12/21/2014,Chicago,D.Carey,SS,16,2014,DET-2014-112
+DET,Roughing the Kicker,12/21/2014,Chicago,J.Stanford,LB,16,2014,DET-2014-113
+DET,False Start,12/21/2014,Chicago,J.Collins,FB,16,2014,DET-2014-114
+DET,Unnecessary Roughness,12/21/2014,Chicago,E.Ansah,DE,16,2014,DET-2014-115
+DET,Defensive Pass Interference,12/28/2014,Green Bay,J.Ihedigbo,SS,17,2014,DET-2014-116
+DET,False Start,12/28/2014,Green Bay,J.Collins,FB,17,2014,DET-2014-117
+DET,Offensive Holding,12/28/2014,Green Bay,J.Collins,FB,17,2014,DET-2014-118
+DET,Defensive Holding,12/28/2014,Green Bay,G.Quin,FS,17,2014,DET-2014-119
+DET,Neutral Zone Infraction,12/28/2014,Green Bay,J.Jones,DE,17,2014,DET-2014-120
+DET,Defensive Offside,12/28/2014,Green Bay,N.Suh,DT,17,2014,DET-2014-121
+DET,Face Mask (15 Yards),12/28/2014,Green Bay,D.Levy,OLB,17,2014,DET-2014-122
+DET,Offensive Holding,12/28/2014,Green Bay,M.Seisay,DB,17,2014,DET-2014-123
+DET,Intentional Grounding,12/28/2014,Green Bay,M.Stafford,QB,17,2014,DET-2014-124
+DET,Unnecessary Roughness,01/04/2015,Dallas,M.Seisay,DB,18,2014,DET-2014-125
+DET,False Start,01/04/2015,Dallas,C.Lucas,T,18,2014,DET-2014-126
+DET,Delay of Game,01/04/2015,Dallas,M.Stafford,QB,18,2014,DET-2014-127
+DET,Unnecessary Roughness,01/04/2015,Dallas,T.Whitehead,MLB,18,2014,DET-2014-128
+DET,Delay of Game,01/04/2015,Dallas,M.Stafford,QB,18,2014,DET-2014-129
+DET,Defensive Holding,01/04/2015,Dallas,D.Carey,SS,18,2014,DET-2014-130
+DET,Defensive Holding,01/04/2015,Dallas,D.Levy,OLB,18,2014,DET-2014-131
+DET,False Start,01/04/2015,Dallas,C.Johnson,WR,18,2014,DET-2014-132

@@ -1,0 +1,99 @@
+team,penalty,game,opponent,player,position,week,year,penaltyindex
+KC,Unnecessary Roughness,09/09/2012,Atlanta,S.Draughn,RB,1,2012,KC-2012-0
+KC,Face Mask (15 Yards),09/09/2012,Atlanta,S.Draughn,RB,1,2012,KC-2012-1
+KC,Delay of Game,09/16/2012,Buffalo,M.Cassel,QB,2,2012,KC-2012-2
+KC,Face Mask (15 Yards),09/16/2012,Buffalo,E.Jones,DE,2,2012,KC-2012-3
+KC,False Start,09/16/2012,Buffalo,E.Winston,T,2,2012,KC-2012-4
+KC,Chop Block,09/16/2012,Buffalo,P.Hillis,RB,2,2012,KC-2012-5
+KC,Intentional Grounding,09/16/2012,Buffalo,M.Cassel,QB,2,2012,KC-2012-6
+KC,Offensive Holding,09/16/2012,Buffalo,E.Winston,T,2,2012,KC-2012-7
+KC,Offensive Holding,09/23/2012,New Orleans,R.Lilja,C,3,2012,KC-2012-8
+KC,Defensive Offside,09/23/2012,New Orleans,T.Jackson,DE,3,2012,KC-2012-9
+KC,Offensive Holding,09/23/2012,New Orleans,R.Lilja,C,3,2012,KC-2012-10
+KC,False Start,09/23/2012,New Orleans,B.Albert,T,3,2012,KC-2012-11
+KC,False Start,09/23/2012,New Orleans,B.Albert,T,3,2012,KC-2012-12
+KC,False Start,09/23/2012,New Orleans,E.Winston,T,3,2012,KC-2012-13
+KC,Offensive Holding,09/23/2012,New Orleans,J.Brown,DB,3,2012,KC-2012-14
+KC,Defensive Pass Interference,09/30/2012,San Diego,E.Berry,SS,4,2012,KC-2012-15
+KC,Defensive Pass Interference,09/30/2012,San Diego,E.Berry,SS,4,2012,KC-2012-16
+KC,False Start,09/30/2012,San Diego,T.Moeaki,TE,4,2012,KC-2012-17
+KC,Illegal Formation,09/30/2012,San Diego,E.Winston,T,4,2012,KC-2012-18
+KC,Defensive Pass Interference,09/30/2012,San Diego,S.Routt,CB,4,2012,KC-2012-19
+KC,False Start,09/30/2012,San Diego,T.Moeaki,TE,4,2012,KC-2012-20
+KC,Illegal Touch Pass,09/30/2012,San Diego,D.Bowe,WR,4,2012,KC-2012-21
+KC,Offensive Holding,09/30/2012,San Diego,E.Winston,T,4,2012,KC-2012-22
+KC,Offensive Holding,09/30/2012,San Diego,T.Hartman,FS,4,2012,KC-2012-23
+KC,Delay of Game,09/30/2012,San Diego,M.Cassel,QB,4,2012,KC-2012-24
+KC,Offensive Holding,10/07/2012,Baltimore,E.Jones,DE,5,2012,KC-2012-25
+KC,False Start,10/07/2012,Baltimore,B.Albert,T,5,2012,KC-2012-26
+KC,Defensive Holding,10/07/2012,Baltimore,S.Routt,CB,5,2012,KC-2012-27
+KC,False Start,10/07/2012,Baltimore,S.Maneri,TE,5,2012,KC-2012-28
+KC,Delay of Game,10/07/2012,Baltimore,M.Cassel,QB,5,2012,KC-2012-29
+KC,Defensive Holding,10/07/2012,Baltimore,S.Routt,CB,5,2012,KC-2012-30
+KC,Offensive Pass Interference,10/07/2012,Baltimore,D.Bowe,WR,5,2012,KC-2012-31
+KC,Offensive Holding,10/07/2012,Baltimore,C.Greenwood,LB,5,2012,KC-2012-32
+KC,Offensive Pass Interference,10/07/2012,Baltimore,D.McCluster,RB,5,2012,KC-2012-33
+KC,Offensive Holding,10/14/2012,Tampa Bay,B.Siler,ILB,6,2012,KC-2012-34
+KC,Illegal Block Above the Waist,10/14/2012,Tampa Bay,T.Hali,OLB,6,2012,KC-2012-35
+KC,Offensive Holding,10/14/2012,Tampa Bay,E.Jones,DE,6,2012,KC-2012-36
+KC,Offensive Holding,10/14/2012,Tampa Bay,E.Winston,T,6,2012,KC-2012-37
+KC,False Start,10/14/2012,Tampa Bay,J.Brown,DB,6,2012,KC-2012-38
+KC,Defensive Holding,10/14/2012,Tampa Bay,B.Flowers,CB,6,2012,KC-2012-39
+KC,Unnecessary Roughness,10/14/2012,Tampa Bay,J.Belcher,ILB,6,2012,KC-2012-40
+KC,Illegal Contact,10/28/2012,Oakland,S.Routt,CB,8,2012,KC-2012-41
+KC,Offensive Holding,10/28/2012,Oakland,J.Allen,T,8,2012,KC-2012-42
+KC,Offensive Holding,10/28/2012,Oakland,A.Bailey,DE,8,2012,KC-2012-43
+KC,Offensive Holding,10/28/2012,Oakland,T.Moeaki,TE,8,2012,KC-2012-44
+KC,Defensive Offside,10/28/2012,Oakland,J.Brown,DB,8,2012,KC-2012-45
+KC,Offside on Free Kick,10/28/2012,Oakland,J.Houston,OLB,8,2012,KC-2012-46
+KC,Neutral Zone Infraction,11/01/2012,San Diego,J.Houston,OLB,9,2012,KC-2012-47
+KC,Unnecessary Roughness,11/01/2012,San Diego,E.Jones,DE,9,2012,KC-2012-48
+KC,Unnecessary Roughness,11/01/2012,San Diego,J.Arenas,DB,9,2012,KC-2012-49
+KC,False Start,11/01/2012,San Diego,E.Winston,T,9,2012,KC-2012-50
+KC,Face Mask (15 Yards),11/01/2012,San Diego,D.Stephenson,T,9,2012,KC-2012-51
+KC,False Start,11/01/2012,San Diego,E.Winston,T,9,2012,KC-2012-52
+KC,False Start,11/12/2012,Pittsburgh,S.Maneri,TE,10,2012,KC-2012-53
+KC,Offensive Holding,11/12/2012,Pittsburgh,B.Albert,T,10,2012,KC-2012-54
+KC,Illegal Formation,11/12/2012,Pittsburgh,J.Baldwin,WR,10,2012,KC-2012-55
+KC,Defensive Pass Interference,11/12/2012,Pittsburgh,J.Arenas,DB,10,2012,KC-2012-56
+KC,Roughing the Passer,11/12/2012,Pittsburgh,T.Hali,OLB,10,2012,KC-2012-57
+KC,Defensive Holding,11/12/2012,Pittsburgh,A.Elam,FS,10,2012,KC-2012-58
+KC,Offensive Pass Interference,11/12/2012,Pittsburgh,T.Moeaki,TE,10,2012,KC-2012-59
+KC,Player Out of Bounds on Punt,11/18/2012,Cincinnati,N.Thorpe,DB,11,2012,KC-2012-60
+KC,Unnecessary Roughness,11/18/2012,Cincinnati,A.Elam,FS,11,2012,KC-2012-61
+KC,Player Out of Bounds on Punt,11/18/2012,Cincinnati,D.McCluster,RB,11,2012,KC-2012-62
+KC,Defensive Pass Interference,11/18/2012,Cincinnati,J.Brown,DB,11,2012,KC-2012-63
+KC,False Start,11/18/2012,Cincinnati,R.Hochstein,C,11,2012,KC-2012-64
+KC,False Start,11/25/2012,Denver,E.Winston,T,12,2012,KC-2012-65
+KC,False Start,11/25/2012,Denver,S.Maneri,TE,12,2012,KC-2012-66
+KC,Offensive Holding,11/25/2012,Denver,J.Allen,T,12,2012,KC-2012-67
+KC,Illegal Use of Hands,11/25/2012,Denver,T.Jackson,DE,12,2012,KC-2012-68
+KC,Clipping,11/25/2012,Denver,D.Stephenson,T,12,2012,KC-2012-69
+KC,False Start,11/25/2012,Denver,J.Charles,RB,12,2012,KC-2012-70
+KC,Offensive Holding,11/25/2012,Denver,J.Asamoah,G,12,2012,KC-2012-71
+KC,False Start,11/25/2012,Denver,J.Asamoah,G,12,2012,KC-2012-72
+KC,Offensive Holding,11/25/2012,Denver,D.Stephenson,T,12,2012,KC-2012-73
+KC,Delay of Game,12/02/2012,Carolina,B.Quinn,QB,13,2012,KC-2012-74
+KC,False Start,12/09/2012,Cleveland,R.Hochstein,C,14,2012,KC-2012-75
+KC,False Start,12/09/2012,Cleveland,B.Albert,T,14,2012,KC-2012-76
+KC,Horse Collar Tackle,12/09/2012,Cleveland,B.Flowers,CB,14,2012,KC-2012-77
+KC,Face Mask (15 Yards),12/16/2012,Oakland,J.Allen,T,15,2012,KC-2012-78
+KC,Horse Collar Tackle,12/16/2012,Oakland,J.Brown,DB,15,2012,KC-2012-79
+KC,Offensive Holding,12/16/2012,Oakland,E.Jones,DE,15,2012,KC-2012-80
+KC,Offensive Holding,12/16/2012,Oakland,J.Asamoah,G,15,2012,KC-2012-81
+KC,Illegal Touch Kick,12/16/2012,Oakland,J.Bellamy,WR,15,2012,KC-2012-82
+KC,Delay of Game,12/16/2012,Oakland,B.Quinn,QB,15,2012,KC-2012-83
+KC,Defensive Holding,12/16/2012,Oakland,J.Brown,DB,15,2012,KC-2012-84
+KC,Offensive Pass Interference,12/16/2012,Oakland,T.Moeaki,TE,15,2012,KC-2012-85
+KC,False Start,12/23/2012,Indianapolis,D.Stephenson,T,16,2012,KC-2012-86
+KC,Offensive Holding,12/23/2012,Indianapolis,J.Allen,T,16,2012,KC-2012-87
+KC,Illegal Use of Hands,12/23/2012,Indianapolis,D.Stephenson,T,16,2012,KC-2012-88
+KC,Offensive Holding,12/23/2012,Indianapolis,D.Stephenson,T,16,2012,KC-2012-89
+KC,Roughing the Passer,12/23/2012,Indianapolis,D.Johnson,ILB,16,2012,KC-2012-90
+KC,Offensive Holding,12/23/2012,Indianapolis,A.Studebaker,LB,16,2012,KC-2012-91
+KC,False Start,12/23/2012,Indianapolis,J.Allen,T,16,2012,KC-2012-92
+KC,False Start,12/23/2012,Indianapolis,E.Winston,T,16,2012,KC-2012-93
+KC,Defensive Offside,12/23/2012,Indianapolis,R.Pitoitua,DE,16,2012,KC-2012-94
+KC,Offensive Holding,12/30/2012,Denver,N.Thorpe,DB,17,2012,KC-2012-95
+KC,Defensive Pass Interference,12/30/2012,Denver,T.Hartman,FS,17,2012,KC-2012-96
+KC,Encroachment,12/30/2012,Denver,J.Powe,NT,17,2012,KC-2012-97

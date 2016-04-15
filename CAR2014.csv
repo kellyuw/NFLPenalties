@@ -1,0 +1,112 @@
+team,penalty,game,opponent,player,position,week,year,penaltyindex
+CAR,Offensive Holding,09/07/2014,Tampa Bay,J.Norman,CB,1,2014,CAR-2014-0
+CAR,Intentional Grounding,09/07/2014,Tampa Bay,D.Anderson,QB,1,2014,CAR-2014-1
+CAR,Illegal Contact,09/07/2014,Tampa Bay,A.Cason,CB,1,2014,CAR-2014-2
+CAR,Illegal Block Above the Waist,09/07/2014,Tampa Bay,K.Benjamin,WR,1,2014,CAR-2014-3
+CAR,Roughing the Passer,09/07/2014,Tampa Bay,T.DeCoud,FS,1,2014,CAR-2014-4
+CAR,False Start,09/07/2014,Tampa Bay,A.Silatolu,G,1,2014,CAR-2014-5
+CAR,Illegal Contact,09/14/2014,Detroit,A.Cason,CB,2,2014,CAR-2014-6
+CAR,Offensive Holding,09/14/2014,Detroit,B.Bell,T,2,2014,CAR-2014-7
+CAR,Offensive Holding,09/14/2014,Detroit,K.Benjamin,WR,2,2014,CAR-2014-8
+CAR,Illegal Use of Hands,09/14/2014,Detroit,T.Turner,G,2,2014,CAR-2014-9
+CAR,Unnecessary Roughness,09/14/2014,Detroit,D.Edwards,DT,2,2014,CAR-2014-10
+CAR,Defensive Offside,09/21/2014,Pittsburgh,C.Johnson,DE,3,2014,CAR-2014-11
+CAR,Defensive Pass Interference,09/21/2014,Pittsburgh,T.DeCoud,FS,3,2014,CAR-2014-12
+CAR,Offensive Holding,09/21/2014,Pittsburgh,M.Tolbert,FB,3,2014,CAR-2014-13
+CAR,Face Mask (15 Yards),09/21/2014,Pittsburgh,B.Bell,T,3,2014,CAR-2014-14
+CAR,Defensive Pass Interference,09/21/2014,Pittsburgh,A.Cason,CB,3,2014,CAR-2014-15
+CAR,Offensive Holding,09/21/2014,Pittsburgh,B.Bell,T,3,2014,CAR-2014-16
+CAR,Offensive Holding,09/21/2014,Pittsburgh,R.Brockel,TE,3,2014,CAR-2014-17
+CAR,Encroachment,09/21/2014,Pittsburgh,W.Horton,DE,3,2014,CAR-2014-18
+CAR,Defensive Holding,09/21/2014,Pittsburgh,L.Kuechly,MLB,3,2014,CAR-2014-19
+CAR,Illegal Contact,09/21/2014,Pittsburgh,M.White,CB,3,2014,CAR-2014-20
+CAR,Defensive Offside,09/21/2014,Pittsburgh,K.Ealy,DE,3,2014,CAR-2014-21
+CAR,Offensive 12 On-field,09/28/2014,Baltimore,K.Benjamin,WR,4,2014,CAR-2014-22
+CAR,Offensive Pass Interference,09/28/2014,Baltimore,K.Benjamin,WR,4,2014,CAR-2014-23
+CAR,False Start,09/28/2014,Baltimore,A.Silatolu,G,4,2014,CAR-2014-24
+CAR,Defensive Pass Interference,09/28/2014,Baltimore,M.White,CB,4,2014,CAR-2014-25
+CAR,False Start,09/28/2014,Baltimore,G.Olsen,TE,4,2014,CAR-2014-26
+CAR,Defensive Pass Interference,09/28/2014,Baltimore,A.Cason,CB,4,2014,CAR-2014-27
+CAR,Defensive Pass Interference,09/28/2014,Baltimore,A.Cason,CB,4,2014,CAR-2014-28
+CAR,Defensive Pass Interference,10/05/2014,Chicago,J.Norman,CB,5,2014,CAR-2014-29
+CAR,Defensive Offside,10/05/2014,Chicago,W.Horton,DE,5,2014,CAR-2014-30
+CAR,Roughing the Passer,10/05/2014,Chicago,K.Short,DT,5,2014,CAR-2014-31
+CAR,Illegal Use of Hands,10/05/2014,Chicago,B.Bell,T,5,2014,CAR-2014-32
+CAR,False Start,10/12/2014,Cincinnati,G.Olsen,TE,6,2014,CAR-2014-33
+CAR,False Start,10/12/2014,Cincinnati,B.Folkerts,C,6,2014,CAR-2014-34
+CAR,False Start,10/12/2014,Cincinnati,T.Turner,G,6,2014,CAR-2014-35
+CAR,Defensive Holding,10/12/2014,Cincinnati,A.Cason,CB,6,2014,CAR-2014-36
+CAR,Defensive Holding,10/12/2014,Cincinnati,C.Godfrey,FS,6,2014,CAR-2014-37
+CAR,Offensive Pass Interference,10/12/2014,Cincinnati,K.Benjamin,WR,6,2014,CAR-2014-38
+CAR,Offensive Holding,10/12/2014,Cincinnati,B.Williams,TE,6,2014,CAR-2014-39
+CAR,Roughing the Passer,10/12/2014,Cincinnati,C.Johnson,DE,6,2014,CAR-2014-40
+CAR,Neutral Zone Infraction,10/19/2014,Green Bay,W.Horton,DE,7,2014,CAR-2014-41
+CAR,Defensive Holding,10/19/2014,Green Bay,T.DeCoud,FS,7,2014,CAR-2014-42
+CAR,Defensive Offside,10/19/2014,Green Bay,L.Kuechly,MLB,7,2014,CAR-2014-43
+CAR,Unnecessary Roughness,10/19/2014,Green Bay,T.DeCoud,FS,7,2014,CAR-2014-44
+CAR,Offensive Pass Interference,10/19/2014,Green Bay,E.Dickson,TE,7,2014,CAR-2014-45
+CAR,False Start,10/19/2014,Green Bay,T.DeCoud,FS,7,2014,CAR-2014-46
+CAR,Neutral Zone Infraction,10/19/2014,Green Bay,K.Ealy,DE,7,2014,CAR-2014-47
+CAR,Delay of Game,10/19/2014,Green Bay,C.Newton,QB,7,2014,CAR-2014-48
+CAR,Disqualification,10/19/2014,Green Bay,L.Kuechly,MLB,7,2014,CAR-2014-49
+CAR,Illegal Block Above the Waist,10/19/2014,Green Bay,B.Williams,TE,7,2014,CAR-2014-50
+CAR,Offensive Holding,10/19/2014,Green Bay,B.Williams,TE,7,2014,CAR-2014-51
+CAR,Encroachment,10/26/2014,Seattle,C.Johnson,DE,8,2014,CAR-2014-52
+CAR,Defensive Holding,10/26/2014,Seattle,J.Norman,CB,8,2014,CAR-2014-53
+CAR,False Start,10/26/2014,Seattle,B.Bell,T,8,2014,CAR-2014-54
+CAR,False Start,10/26/2014,Seattle,J.Cotchery,WR,8,2014,CAR-2014-55
+CAR,Illegal Use of Hands,10/30/2014,New Orleans,M.Addison,DE,9,2014,CAR-2014-56
+CAR,Illegal Use of Hands,10/30/2014,New Orleans,K.Ealy,DE,9,2014,CAR-2014-57
+CAR,Offensive Holding,10/30/2014,New Orleans,N.Chandler,T,9,2014,CAR-2014-58
+CAR,Defensive Pass Interference,10/30/2014,New Orleans,A.Cason,CB,9,2014,CAR-2014-59
+CAR,Offensive Holding,10/30/2014,New Orleans,K.Benjamin,WR,9,2014,CAR-2014-60
+CAR,Neutral Zone Infraction,10/30/2014,New Orleans,T.Davis,OLB,9,2014,CAR-2014-61
+CAR,Offensive Holding,11/10/2014,Philadelphia,J.Dockery,DB,10,2014,CAR-2014-62
+CAR,False Start,11/10/2014,Philadelphia,A.Silatolu,G,10,2014,CAR-2014-63
+CAR,Face Mask (15 Yards),11/10/2014,Philadelphia,J.Stewart,RB,10,2014,CAR-2014-64
+CAR,False Start,11/10/2014,Philadelphia,A.Silatolu,G,10,2014,CAR-2014-65
+CAR,Unnecessary Roughness,11/16/2014,Atlanta,R.Harper,SS,11,2014,CAR-2014-66
+CAR,False Start,11/30/2014,Minnesota,B.Bell,T,13,2014,CAR-2014-67
+CAR,Taunting,11/30/2014,Minnesota,J.Norman,CB,13,2014,CAR-2014-68
+CAR,False Start,11/30/2014,Minnesota,M.Remmers,T,13,2014,CAR-2014-69
+CAR,Illegal Use of Hands,11/30/2014,Minnesota,B.Bell,T,13,2014,CAR-2014-70
+CAR,Personal Foul,12/07/2014,New Orleans,B.Williams,TE,14,2014,CAR-2014-71
+CAR,Personal Foul,12/07/2014,New Orleans,K.Benjamin,WR,14,2014,CAR-2014-72
+CAR,Defensive Offside,12/07/2014,New Orleans,J.Norman,CB,14,2014,CAR-2014-73
+CAR,Offensive Holding,12/07/2014,New Orleans,R.Kalil,C,14,2014,CAR-2014-74
+CAR,Offensive Holding,12/07/2014,New Orleans,B.Jacobs,LB,14,2014,CAR-2014-75
+CAR,Offensive Holding,12/07/2014,New Orleans,B.Jacobs,LB,14,2014,CAR-2014-76
+CAR,False Start,12/07/2014,New Orleans,G.Olsen,TE,14,2014,CAR-2014-77
+CAR,Defensive Offside,12/07/2014,New Orleans,C.Johnson,DE,14,2014,CAR-2014-78
+CAR,False Start,12/14/2014,Tampa Bay,G.Olsen,TE,15,2014,CAR-2014-79
+CAR,False Start,12/14/2014,Tampa Bay,A.Norwell,G,15,2014,CAR-2014-80
+CAR,Offensive Holding,12/14/2014,Tampa Bay,B.Bell,T,15,2014,CAR-2014-81
+CAR,Offensive Holding,12/14/2014,Tampa Bay,M.Tolbert,FB,15,2014,CAR-2014-82
+CAR,False Start,12/14/2014,Tampa Bay,G.Olsen,TE,15,2014,CAR-2014-83
+CAR,Personal Foul,12/21/2014,Cleveland,J.Norman,CB,16,2014,CAR-2014-84
+CAR,False Start,12/21/2014,Cleveland,T.Turner,G,16,2014,CAR-2014-85
+CAR,Illegal Block Above the Waist,12/21/2014,Cleveland,K.Reddick,LB,16,2014,CAR-2014-86
+CAR,Personal Foul,12/21/2014,Cleveland,C.Brown,WR,16,2014,CAR-2014-87
+CAR,Illegal Contact,12/28/2014,Atlanta,J.Norman,CB,17,2014,CAR-2014-88
+CAR,False Start,12/28/2014,Atlanta,M.Remmers,T,17,2014,CAR-2014-89
+CAR,Illegal Contact,12/28/2014,Atlanta,T.Davis,OLB,17,2014,CAR-2014-90
+CAR,Unsportsmanlike Conduct,12/28/2014,Atlanta,J.Norman,CB,17,2014,CAR-2014-91
+CAR,Defensive Offside,12/28/2014,Atlanta,C.Johnson,DE,17,2014,CAR-2014-92
+CAR,Delay of Game,12/28/2014,Atlanta,C.Newton,QB,17,2014,CAR-2014-93
+CAR,Unnecessary Roughness,01/03/2015,Arizona,C.Johnson,DE,18,2014,CAR-2014-94
+CAR,False Start,01/03/2015,Arizona,B.Bell,T,18,2014,CAR-2014-95
+CAR,Offensive Holding,01/03/2015,Arizona,B.Williams,TE,18,2014,CAR-2014-96
+CAR,Delay of Game,01/03/2015,Arizona,B.Nortman,P,18,2014,CAR-2014-97
+CAR,Running Into the Kicker,01/03/2015,Arizona,B.Williams,TE,18,2014,CAR-2014-98
+CAR,Offensive Holding,01/03/2015,Arizona,B.Bell,T,18,2014,CAR-2014-99
+CAR,Offensive Holding,01/03/2015,Arizona,T.Turner,G,18,2014,CAR-2014-100
+CAR,Illegal Block Above the Waist,01/03/2015,Arizona,J.Cotchery,WR,18,2014,CAR-2014-101
+CAR,Offensive Holding,01/03/2015,Arizona,M.Remmers,T,18,2014,CAR-2014-102
+CAR,Face Mask (15 Yards),01/03/2015,Arizona,M.Addison,DE,18,2014,CAR-2014-103
+CAR,Offensive Holding,01/03/2015,Arizona,B.Jacobs,LB,18,2014,CAR-2014-104
+CAR,Offensive Holding,01/10/2015,Seattle,C.Byndom,DB,19,2014,CAR-2014-105
+CAR,Unnecessary Roughness,01/10/2015,Seattle,T.Turner,G,19,2014,CAR-2014-106
+CAR,False Start,01/10/2015,Seattle,C.Scott,G,19,2014,CAR-2014-107
+CAR,Encroachment,01/10/2015,Seattle,K.Short,DT,19,2014,CAR-2014-108
+CAR,Defensive Holding,01/10/2015,Seattle,R.Harper,SS,19,2014,CAR-2014-109
+CAR,Illegal Use of Hands,01/10/2015,Seattle,M.Remmers,T,19,2014,CAR-2014-110

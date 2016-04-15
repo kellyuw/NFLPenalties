@@ -1,0 +1,93 @@
+team,penalty,game,opponent,player,position,week,year,penaltyindex
+CAR,Personal Foul,09/08/2013,Seattle,F.Alexander,DE,1,2013,CAR-2013-0
+CAR,Disqualification,09/08/2013,Seattle,F.Alexander,DE,1,2013,CAR-2013-1
+CAR,Unsportsmanlike Conduct,09/08/2013,Seattle,A.Smith,RB,1,2013,CAR-2013-2
+CAR,Offensive Holding,09/08/2013,Seattle,C.Scott,G,1,2013,CAR-2013-3
+CAR,Player Out of Bounds on Punt,09/08/2013,Seattle,A.Smith,RB,1,2013,CAR-2013-4
+CAR,Face Mask (15 Yards),09/15/2013,Buffalo,J.Beason,MLB,2,2013,CAR-2013-5
+CAR,Defensive Holding,09/15/2013,Buffalo,C.Munnerlyn,CB,2,2013,CAR-2013-6
+CAR,Defensive Pass Interference,09/15/2013,Buffalo,L.Kuechly,MLB,2,2013,CAR-2013-7
+CAR,Personal Foul,09/22/2013,N.Y. Giants,T.Wharton,G,3,2013,CAR-2013-8
+CAR,Illegal Block Above the Waist,09/22/2013,N.Y. Giants,G.Hardy,DE,3,2013,CAR-2013-9
+CAR,Defensive Pass Interference,09/22/2013,N.Y. Giants,D.Florence,DB,3,2013,CAR-2013-10
+CAR,Unnecessary Roughness,10/06/2013,Arizona,K.Short,DT,5,2013,CAR-2013-11
+CAR,Defensive Pass Interference,10/06/2013,Arizona,C.Munnerlyn,CB,5,2013,CAR-2013-12
+CAR,Defensive Offside,10/06/2013,Arizona,A.Smith,RB,5,2013,CAR-2013-13
+CAR,Offensive Holding,10/06/2013,Arizona,B.Hartsock,TE,5,2013,CAR-2013-14
+CAR,Offensive Holding,10/06/2013,Arizona,A.Silatolu,G,5,2013,CAR-2013-15
+CAR,Personal Foul,10/06/2013,Arizona,M.Mitchell,FS,5,2013,CAR-2013-16
+CAR,Defensive Holding,10/06/2013,Arizona,D.Florence,DB,5,2013,CAR-2013-17
+CAR,Personal Foul,10/06/2013,Arizona,J.Senn,LB,5,2013,CAR-2013-18
+CAR,Offensive Pass Interference,10/06/2013,Arizona,S.Smith,WR,5,2013,CAR-2013-19
+CAR,Defensive Holding,10/06/2013,Arizona,C.Munnerlyn,CB,5,2013,CAR-2013-20
+CAR,Defensive Offside,10/13/2013,Minnesota,F.Alexander,DE,6,2013,CAR-2013-21
+CAR,Illegal Use of Hands,10/13/2013,Minnesota,R.Kalil,C,6,2013,CAR-2013-22
+CAR,False Start,10/13/2013,Minnesota,C.Scott,G,6,2013,CAR-2013-23
+CAR,Offensive Holding,10/13/2013,Minnesota,B.Bell,T,6,2013,CAR-2013-24
+CAR,Defensive Offside,10/13/2013,Minnesota,C.Cole,DT,6,2013,CAR-2013-25
+CAR,False Start,10/13/2013,Minnesota,B.Hartsock,TE,6,2013,CAR-2013-26
+CAR,Illegal Use of Hands,10/13/2013,Minnesota,J.Senn,LB,6,2013,CAR-2013-27
+CAR,Defensive Offside,10/20/2013,St. Louis,C.Johnson,DE,7,2013,CAR-2013-28
+CAR,False Start,10/20/2013,St. Louis,R.Kalil,C,7,2013,CAR-2013-29
+CAR,Personal Foul,10/20/2013,St. Louis,M.Tolbert,FB,7,2013,CAR-2013-30
+CAR,Offensive Holding,10/20/2013,St. Louis,J.Senn,LB,7,2013,CAR-2013-31
+CAR,Illegal Contact,10/20/2013,St. Louis,D.Florence,DB,7,2013,CAR-2013-32
+CAR,Roughing the Passer,10/20/2013,St. Louis,G.Hardy,DE,7,2013,CAR-2013-33
+CAR,Personal Foul,10/24/2013,Tampa Bay,M.Tolbert,FB,8,2013,CAR-2013-34
+CAR,Defensive Holding,10/24/2013,Tampa Bay,C.Munnerlyn,CB,8,2013,CAR-2013-35
+CAR,False Start,10/24/2013,Tampa Bay,C.Newton,QB,8,2013,CAR-2013-36
+CAR,Unnecessary Roughness,10/24/2013,Tampa Bay,T.Davis,OLB,8,2013,CAR-2013-37
+CAR,Encroachment,10/24/2013,Tampa Bay,G.Hardy,DE,8,2013,CAR-2013-38
+CAR,Unnecessary Roughness,10/24/2013,Tampa Bay,K.Short,DT,8,2013,CAR-2013-39
+CAR,False Start,11/03/2013,Atlanta,G.Olsen,TE,9,2013,CAR-2013-40
+CAR,Offensive Holding,11/03/2013,Atlanta,T.Wharton,G,9,2013,CAR-2013-41
+CAR,Delay of Game,11/10/2013,San Francisco,C.Newton,QB,10,2013,CAR-2013-42
+CAR,Neutral Zone Infraction,11/10/2013,San Francisco,G.Hardy,DE,10,2013,CAR-2013-43
+CAR,Unnecessary Roughness,11/10/2013,San Francisco,Q.Mikell,SS,10,2013,CAR-2013-44
+CAR,Illegal Formation,11/18/2013,New England,B.LaFell,WR,11,2013,CAR-2013-45
+CAR,Illegal Use of Hands,11/18/2013,New England,M.White,CB,11,2013,CAR-2013-46
+CAR,Face Mask (15 Yards),11/18/2013,New England,G.Hardy,DE,11,2013,CAR-2013-47
+CAR,Defensive Holding,11/18/2013,New England,M.White,CB,11,2013,CAR-2013-48
+CAR,False Start,11/18/2013,New England,B.Bell,T,11,2013,CAR-2013-49
+CAR,Defensive Pass Interference,11/18/2013,New England,M.White,CB,11,2013,CAR-2013-50
+CAR,Offensive Holding,11/24/2013,Miami,A.Klein,OLB,12,2013,CAR-2013-51
+CAR,Defensive Offside,11/24/2013,Miami,W.Horton,DE,12,2013,CAR-2013-52
+CAR,Defensive Offside,11/24/2013,Miami,C.Munnerlyn,CB,12,2013,CAR-2013-53
+CAR,Unnecessary Roughness,11/24/2013,Miami,B.Bell,T,12,2013,CAR-2013-54
+CAR,False Start,11/24/2013,Miami,T.Ginn,WR,12,2013,CAR-2013-55
+CAR,False Start,11/24/2013,Miami,B.LaFell,WR,12,2013,CAR-2013-56
+CAR,Defensive Offside,11/24/2013,Miami,F.Alexander,DE,12,2013,CAR-2013-57
+CAR,Offensive Holding,11/24/2013,Miami,G.Olsen,TE,12,2013,CAR-2013-58
+CAR,Illegal Formation,11/24/2013,Miami,S.Smith,WR,12,2013,CAR-2013-59
+CAR,Offensive Holding,12/01/2013,Tampa Bay,J.Norman,CB,13,2013,CAR-2013-60
+CAR,Illegal Contact,12/01/2013,Tampa Bay,L.Kuechly,MLB,13,2013,CAR-2013-61
+CAR,Offensive Holding,12/01/2013,Tampa Bay,N.Chandler,T,13,2013,CAR-2013-62
+CAR,Defensive Offside,12/08/2013,New Orleans,C.Blackburn,OLB,14,2013,CAR-2013-63
+CAR,Defensive Holding,12/08/2013,New Orleans,C.Munnerlyn,CB,14,2013,CAR-2013-64
+CAR,Defensive Pass Interference,12/08/2013,New Orleans,D.Florence,DB,14,2013,CAR-2013-65
+CAR,Defensive Pass Interference,12/08/2013,New Orleans,M.Mitchell,FS,14,2013,CAR-2013-66
+CAR,Defensive Holding,12/08/2013,New Orleans,C.Johnson,DE,14,2013,CAR-2013-67
+CAR,Illegal Use of Hands,12/08/2013,New Orleans,B.Bell,T,14,2013,CAR-2013-68
+CAR,Defensive Holding,12/08/2013,New Orleans,C.Munnerlyn,CB,14,2013,CAR-2013-69
+CAR,Offensive Holding,12/08/2013,New Orleans,D.Hixon,WR,14,2013,CAR-2013-70
+CAR,Offensive Holding,12/15/2013,N.Y. Jets,J.Thomas,DB,15,2013,CAR-2013-71
+CAR,Defensive Holding,12/15/2013,N.Y. Jets,G.Hardy,DE,15,2013,CAR-2013-72
+CAR,Defensive Pass Interference,12/15/2013,N.Y. Jets,M.White,CB,15,2013,CAR-2013-73
+CAR,Offensive Holding,12/15/2013,N.Y. Jets,R.Kalil,C,15,2013,CAR-2013-74
+CAR,Offensive Holding,12/15/2013,N.Y. Jets,T.Wharton,G,15,2013,CAR-2013-75
+CAR,Unsportsmanlike Conduct,12/15/2013,N.Y. Jets,C.Munnerlyn,CB,15,2013,CAR-2013-76
+CAR,Illegal Contact,12/15/2013,N.Y. Jets,M.White,CB,15,2013,CAR-2013-77
+CAR,False Start,12/22/2013,New Orleans,B.Hartsock,TE,16,2013,CAR-2013-78
+CAR,Defensive Pass Interference,12/22/2013,New Orleans,D.Florence,DB,16,2013,CAR-2013-79
+CAR,Illegal Formation,12/22/2013,New Orleans,R.Lester,SS,16,2013,CAR-2013-80
+CAR,Personal Foul,12/29/2013,Atlanta,C.Munnerlyn,CB,17,2013,CAR-2013-81
+CAR,Offensive Holding,12/29/2013,Atlanta,B.LaFell,WR,17,2013,CAR-2013-82
+CAR,Roughing the Passer,12/29/2013,Atlanta,D.Edwards,DT,17,2013,CAR-2013-83
+CAR,Neutral Zone Infraction,12/29/2013,Atlanta,W.Horton,DE,17,2013,CAR-2013-84
+CAR,Unnecessary Roughness,01/12/2014,San Francisco,M.Mitchell,FS,19,2013,CAR-2013-85
+CAR,Defensive Holding,01/12/2014,San Francisco,L.Kuechly,MLB,19,2013,CAR-2013-86
+CAR,Unnecessary Roughness,01/12/2014,San Francisco,C.Munnerlyn,CB,19,2013,CAR-2013-87
+CAR,Delay of Game,01/12/2014,San Francisco,B.Nortman,P,19,2013,CAR-2013-88
+CAR,Defensive Pass Interference,01/12/2014,San Francisco,D.Florence,DB,19,2013,CAR-2013-89
+CAR,Illegal Formation,01/12/2014,San Francisco,G.Olsen,TE,19,2013,CAR-2013-90
+CAR,Unsportsmanlike Conduct,01/12/2014,San Francisco,J.Thomas,DB,19,2013,CAR-2013-91

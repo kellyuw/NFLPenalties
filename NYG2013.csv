@@ -1,0 +1,108 @@
+team,penalty,game,opponent,player,position,week,year,penaltyindex
+NYG,Illegal Shift,09/08/2013,Dallas,H.Hynoski,FB,1,2013,NYG-2013-0
+NYG,False Start,09/08/2013,Dallas,W.Beatty,T,1,2013,NYG-2013-1
+NYG,Offensive Holding,09/08/2013,Dallas,T.McBride,CB,1,2013,NYG-2013-2
+NYG,Roughing the Passer,09/08/2013,Dallas,L.Joseph,DT,1,2013,NYG-2013-3
+NYG,Unnecessary Roughness,09/08/2013,Dallas,C.Taylor,DB,1,2013,NYG-2013-4
+NYG,Defensive Pass Interference,09/08/2013,Dallas,A.Ross,DB,1,2013,NYG-2013-5
+NYG,Offensive Holding,09/08/2013,Dallas,C.Snee,G,1,2013,NYG-2013-6
+NYG,Illegal Touch Pass,09/15/2013,Denver,V.Cruz,WR,2,2013,NYG-2013-7
+NYG,Neutral Zone Infraction,09/15/2013,Denver,J.Pierre-Paul,DE,2,2013,NYG-2013-8
+NYG,Illegal Use of Hands,09/15/2013,Denver,C.Webster,CB,2,2013,NYG-2013-9
+NYG,Neutral Zone Infraction,09/15/2013,Denver,M.Kiwanuka,DE,2,2013,NYG-2013-10
+NYG,Illegal Touch Kick,09/15/2013,Denver,L.Donnell,TE,2,2013,NYG-2013-11
+NYG,Offensive Holding,09/22/2013,Carolina,J.Williams,OLB,3,2013,NYG-2013-12
+NYG,Delay of Game,09/22/2013,Carolina,D.Wilson,RB,3,2013,NYG-2013-13
+NYG,Offensive Holding,09/22/2013,Carolina,W.Beatty,T,3,2013,NYG-2013-14
+NYG,Offensive Holding,09/22/2013,Carolina,W.Beatty,T,3,2013,NYG-2013-15
+NYG,Neutral Zone Infraction,09/22/2013,Carolina,J.Tuck,DE,3,2013,NYG-2013-16
+NYG,Defensive Offside,09/22/2013,Carolina,S.Rogers,DT,3,2013,NYG-2013-17
+NYG,Offensive Holding,09/22/2013,Carolina,D.Baas,C,3,2013,NYG-2013-18
+NYG,Defensive Offside,09/22/2013,Carolina,D.Moore,DE,3,2013,NYG-2013-19
+NYG,Illegal Block Above the Waist,09/29/2013,Kansas City,J.Trattou,DE,4,2013,NYG-2013-20
+NYG,Delay of Game,09/29/2013,Kansas City,E.Manning,QB,4,2013,NYG-2013-21
+NYG,Offensive Holding,09/29/2013,Kansas City,J.Cordle,C,4,2013,NYG-2013-22
+NYG,Defensive Pass Interference,09/29/2013,Kansas City,A.Ross,DB,4,2013,NYG-2013-23
+NYG,Intentional Grounding,09/29/2013,Kansas City,E.Manning,QB,4,2013,NYG-2013-24
+NYG,Offensive Holding,09/29/2013,Kansas City,W.Beatty,T,4,2013,NYG-2013-25
+NYG,Illegal Formation,09/29/2013,Kansas City,Unnamed,LB,4,2013,NYG-2013-26
+NYG,Unnecessary Roughness,10/06/2013,Philadelphia,W.Hill,SS,5,2013,NYG-2013-27
+NYG,Intentional Grounding,10/06/2013,Philadelphia,E.Manning,QB,5,2013,NYG-2013-28
+NYG,False Start,10/06/2013,Philadelphia,J.Cordle,C,5,2013,NYG-2013-29
+NYG,Unnecessary Roughness,10/06/2013,Philadelphia,A.Rolle,DB,5,2013,NYG-2013-30
+NYG,Neutral Zone Infraction,10/06/2013,Philadelphia,J.Pierre-Paul,DE,5,2013,NYG-2013-31
+NYG,Defensive Holding,10/06/2013,Philadelphia,A.Rolle,DB,5,2013,NYG-2013-32
+NYG,Illegal Motion,10/06/2013,Philadelphia,V.Cruz,WR,5,2013,NYG-2013-33
+NYG,Defensive Pass Interference,10/06/2013,Philadelphia,P.Amukamara,CB,5,2013,NYG-2013-34
+NYG,Intentional Grounding,10/06/2013,Philadelphia,E.Manning,QB,5,2013,NYG-2013-35
+NYG,Offensive Holding,10/06/2013,Philadelphia,K.Boothe,G,5,2013,NYG-2013-36
+NYG,Intentional Grounding,10/06/2013,Philadelphia,E.Manning,QB,5,2013,NYG-2013-37
+NYG,Face Mask (15 Yards),10/06/2013,Philadelphia,S.Paysinger,LB,5,2013,NYG-2013-38
+NYG,Defensive Offside,10/10/2013,Chicago,S.Rogers,DT,6,2013,NYG-2013-39
+NYG,Unnecessary Roughness,10/10/2013,Chicago,W.Hill,SS,6,2013,NYG-2013-40
+NYG,False Start,10/10/2013,Chicago,L.Donnell,TE,6,2013,NYG-2013-41
+NYG,Defensive Holding,10/10/2013,Chicago,P.Amukamara,CB,6,2013,NYG-2013-42
+NYG,Defensive Holding,10/10/2013,Chicago,A.Rolle,DB,6,2013,NYG-2013-43
+NYG,Unnecessary Roughness,10/21/2013,Minnesota,D.Moore,DE,7,2013,NYG-2013-44
+NYG,Horse Collar Tackle,10/21/2013,Minnesota,S.Weatherford,P,7,2013,NYG-2013-45
+NYG,Offensive Holding,10/21/2013,Minnesota,J.Williams,OLB,7,2013,NYG-2013-46
+NYG,Unnecessary Roughness,10/21/2013,Minnesota,A.Rolle,DB,7,2013,NYG-2013-47
+NYG,Defensive Holding,10/21/2013,Minnesota,P.Amukamara,CB,7,2013,NYG-2013-48
+NYG,Defensive Offside,10/21/2013,Minnesota,P.Amukamara,CB,7,2013,NYG-2013-49
+NYG,Defensive Pass Interference,10/21/2013,Minnesota,P.Amukamara,CB,7,2013,NYG-2013-50
+NYG,Unsportsmanlike Conduct,10/27/2013,Philadelphia,Unnamed,LB,8,2013,NYG-2013-51
+NYG,Illegal Formation,10/27/2013,Philadelphia,J.Pugh,G,8,2013,NYG-2013-52
+NYG,False Start,10/27/2013,Philadelphia,Z.DeOssie,LS,8,2013,NYG-2013-53
+NYG,Defensive Offside,10/27/2013,Philadelphia,M.Kiwanuka,DE,8,2013,NYG-2013-54
+NYG,Defensive Offside,10/27/2013,Philadelphia,Unnamed,LB,8,2013,NYG-2013-55
+NYG,Roughing the Passer,10/27/2013,Philadelphia,M.Kiwanuka,DE,8,2013,NYG-2013-56
+NYG,Defensive Pass Interference,10/27/2013,Philadelphia,J.Beason,MLB,8,2013,NYG-2013-57
+NYG,Illegal Formation,10/27/2013,Philadelphia,J.Pugh,G,8,2013,NYG-2013-58
+NYG,Intentional Grounding,10/27/2013,Philadelphia,E.Manning,QB,8,2013,NYG-2013-59
+NYG,Illegal Motion,10/27/2013,Philadelphia,J.Conner,RB,8,2013,NYG-2013-60
+NYG,Delay of Game,10/27/2013,Philadelphia,Unnamed,LB,8,2013,NYG-2013-61
+NYG,Delay of Game,10/27/2013,Philadelphia,Unnamed,LB,8,2013,NYG-2013-62
+NYG,Neutral Zone Infraction,11/10/2013,Oakland,M.Patterson,DT,10,2013,NYG-2013-63
+NYG,Face Mask (15 Yards),11/17/2013,Green Bay,J.Pugh,G,11,2013,NYG-2013-64
+NYG,Offensive Holding,11/17/2013,Green Bay,K.Boothe,G,11,2013,NYG-2013-65
+NYG,Running Into the Kicker,11/17/2013,Green Bay,L.Murphy,WR,11,2013,NYG-2013-66
+NYG,Illegal Use of Hands,11/17/2013,Green Bay,W.Beatty,T,11,2013,NYG-2013-67
+NYG,Defensive Offside,11/17/2013,Green Bay,J.Tuck,DE,11,2013,NYG-2013-68
+NYG,Illegal Use of Hands,11/24/2013,Dallas,L.Joseph,DT,12,2013,NYG-2013-69
+NYG,False Start,11/24/2013,Dallas,J.Williams,OLB,12,2013,NYG-2013-70
+NYG,Delay of Game,11/24/2013,Dallas,E.Manning,QB,12,2013,NYG-2013-71
+NYG,False Start,11/24/2013,Dallas,A.Brown,RB,12,2013,NYG-2013-72
+NYG,Offensive Holding,11/24/2013,Dallas,W.Beatty,T,12,2013,NYG-2013-73
+NYG,Roughing the Passer,11/24/2013,Dallas,M.Kiwanuka,DE,12,2013,NYG-2013-74
+NYG,Unnecessary Roughness,11/24/2013,Dallas,A.Rolle,DB,12,2013,NYG-2013-75
+NYG,Fair Catch Interference,11/24/2013,Dallas,W.Hill,SS,12,2013,NYG-2013-76
+NYG,Unnecessary Roughness,11/24/2013,Dallas,M.Kiwanuka,DE,12,2013,NYG-2013-77
+NYG,Illegal Contact,11/24/2013,Dallas,T.McBride,CB,12,2013,NYG-2013-78
+NYG,Defensive Holding,11/24/2013,Dallas,P.Amukamara,CB,12,2013,NYG-2013-79
+NYG,Illegal Block Above the Waist,11/24/2013,Dallas,D.Moore,DE,12,2013,NYG-2013-80
+NYG,Defensive Offside,12/01/2013,Washington,Unnamed,LB,13,2013,NYG-2013-81
+NYG,Offensive Holding,12/01/2013,Washington,W.Beatty,T,13,2013,NYG-2013-82
+NYG,Defensive Offside,12/08/2013,San Diego,D.Moore,DE,14,2013,NYG-2013-83
+NYG,Delay of Game,12/08/2013,San Diego,E.Manning,QB,14,2013,NYG-2013-84
+NYG,Defensive Offside,12/08/2013,San Diego,C.James,DB,14,2013,NYG-2013-85
+NYG,Offensive Holding,12/08/2013,San Diego,R.Mundy,SS,14,2013,NYG-2013-86
+NYG,Defensive Offside,12/08/2013,San Diego,J.Tuck,DE,14,2013,NYG-2013-87
+NYG,Defensive Pass Interference,12/08/2013,San Diego,S.Paysinger,LB,14,2013,NYG-2013-88
+NYG,Defensive Offside,12/08/2013,San Diego,Unnamed,LB,14,2013,NYG-2013-89
+NYG,Unnecessary Roughness,12/08/2013,San Diego,M.Kiwanuka,DE,14,2013,NYG-2013-90
+NYG,False Start,12/08/2013,San Diego,W.Beatty,T,14,2013,NYG-2013-91
+NYG,Running Into the Kicker,12/15/2013,Seattle,R.Mundy,SS,15,2013,NYG-2013-92
+NYG,False Start,12/15/2013,Seattle,E.Manning,QB,15,2013,NYG-2013-93
+NYG,Offensive Holding,12/15/2013,Seattle,J.Brewer,T,15,2013,NYG-2013-94
+NYG,Player Out of Bounds on Punt,12/15/2013,Seattle,M.Cox,RB,15,2013,NYG-2013-95
+NYG,Defensive Holding,12/15/2013,Seattle,K.Rivers,OLB,15,2013,NYG-2013-96
+NYG,Face Mask (15 Yards),12/15/2013,Seattle,B.Mosley,G,15,2013,NYG-2013-97
+NYG,Offensive Holding,12/22/2013,Detroit,B.Myers,TE,16,2013,NYG-2013-98
+NYG,Delay of Game,12/22/2013,Detroit,E.Manning,QB,16,2013,NYG-2013-99
+NYG,Defensive Offside,12/22/2013,Detroit,D.Moore,DE,16,2013,NYG-2013-100
+NYG,Illegal Substitution,12/22/2013,Detroit,Unnamed,LB,16,2013,NYG-2013-101
+NYG,Illegal Use of Hands,12/22/2013,Detroit,M.Patterson,DT,16,2013,NYG-2013-102
+NYG,Offensive Holding,12/22/2013,Detroit,W.Beatty,T,16,2013,NYG-2013-103
+NYG,Neutral Zone Infraction,12/29/2013,Washington,D.Moore,DE,17,2013,NYG-2013-104
+NYG,Offensive Pass Interference,12/29/2013,Washington,H.Nicks,WR,17,2013,NYG-2013-105
+NYG,Neutral Zone Infraction,12/29/2013,Washington,P.Amukamara,CB,17,2013,NYG-2013-106

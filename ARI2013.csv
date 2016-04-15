@@ -1,0 +1,99 @@
+team,penalty,game,opponent,player,position,week,year,penaltyindex
+ARI,Defensive Pass Interference,09/08/2013,St. Louis,T.Mathieu,FS,1,2013,ARI-2013-0
+ARI,Encroachment,09/08/2013,St. Louis,D.Williams,DT,1,2013,ARI-2013-1
+ARI,Defensive Offside,09/08/2013,St. Louis,C.Campbell,DE,1,2013,ARI-2013-2
+ARI,Neutral Zone Infraction,09/08/2013,St. Louis,P.Peterson,CB,1,2013,ARI-2013-3
+ARI,Offensive Holding,09/08/2013,St. Louis,L.Brown,T,1,2013,ARI-2013-4
+ARI,Encroachment,09/08/2013,St. Louis,Y.Bell,SS,1,2013,ARI-2013-5
+ARI,Running Into the Kicker,09/15/2013,Detroit,J.Bethel,CB,2,2013,ARI-2013-6
+ARI,Offensive Holding,09/15/2013,Detroit,J.Dray,TE,2,2013,ARI-2013-7
+ARI,False Start,09/15/2013,Detroit,E.Winston,T,2,2013,ARI-2013-8
+ARI,Encroachment,09/15/2013,Detroit,F.Rucker,DE,2,2013,ARI-2013-9
+ARI,Defensive Holding,09/15/2013,Detroit,P.Peterson,CB,2,2013,ARI-2013-10
+ARI,Delay of Game,09/15/2013,Detroit,C.Palmer,QB,2,2013,ARI-2013-11
+ARI,False Start,09/15/2013,Detroit,M.Floyd,WR,2,2013,ARI-2013-12
+ARI,Ineligible Downfield Pass,09/22/2013,New Orleans,L.Sendlein,C,3,2013,ARI-2013-13
+ARI,Defensive Pass Interference,09/22/2013,New Orleans,T.Mathieu,FS,3,2013,ARI-2013-14
+ARI,Illegal Shift,09/22/2013,New Orleans,L.Fitzgerald,WR,3,2013,ARI-2013-15
+ARI,Neutral Zone Infraction,09/22/2013,New Orleans,J.Abraham,OLB,3,2013,ARI-2013-16
+ARI,False Start,09/29/2013,Tampa Bay,E.Winston,T,4,2013,ARI-2013-17
+ARI,Illegal Formation,09/29/2013,Tampa Bay,K.Dansby,ILB,4,2013,ARI-2013-18
+ARI,Encroachment,09/29/2013,Tampa Bay,C.Campbell,DE,4,2013,ARI-2013-19
+ARI,Unnecessary Roughness,09/29/2013,Tampa Bay,Y.Bell,SS,4,2013,ARI-2013-20
+ARI,Intentional Grounding,09/29/2013,Tampa Bay,C.Palmer,QB,4,2013,ARI-2013-21
+ARI,False Start,09/29/2013,Tampa Bay,L.Brown,T,4,2013,ARI-2013-22
+ARI,Taunting,09/29/2013,Tampa Bay,D.Dockett,DT,4,2013,ARI-2013-23
+ARI,False Start,09/29/2013,Tampa Bay,E.Winston,T,4,2013,ARI-2013-24
+ARI,Horse Collar Tackle,09/29/2013,Tampa Bay,D.Dockett,DT,4,2013,ARI-2013-25
+ARI,Offensive Pass Interference,09/29/2013,Tampa Bay,R.Housler,TE,4,2013,ARI-2013-26
+ARI,Roughing the Passer,10/06/2013,Carolina,K.Dansby,ILB,5,2013,ARI-2013-27
+ARI,Offensive Holding,10/06/2013,Carolina,D.Colledge,G,5,2013,ARI-2013-28
+ARI,Offensive Holding,10/13/2013,San Francisco,M.Benard,LB,6,2013,ARI-2013-29
+ARI,False Start,10/13/2013,San Francisco,E.Winston,T,6,2013,ARI-2013-30
+ARI,Neutral Zone Infraction,10/13/2013,San Francisco,D.Moch,LB,6,2013,ARI-2013-31
+ARI,Delay of Game,10/13/2013,San Francisco,C.Palmer,QB,6,2013,ARI-2013-32
+ARI,Defensive Offside,10/13/2013,San Francisco,A.Ta'amu,NT,6,2013,ARI-2013-33
+ARI,Unnecessary Roughness,10/13/2013,San Francisco,D.Dockett,DT,6,2013,ARI-2013-34
+ARI,Offensive Pass Interference,10/13/2013,San Francisco,M.Floyd,WR,6,2013,ARI-2013-35
+ARI,Personal Foul,10/13/2013,San Francisco,T.Mathieu,FS,6,2013,ARI-2013-36
+ARI,Roughing the Passer,10/17/2013,Seattle,J.Abraham,OLB,7,2013,ARI-2013-37
+ARI,Neutral Zone Infraction,10/17/2013,Seattle,J.Bethel,CB,7,2013,ARI-2013-38
+ARI,Defensive Offside,10/17/2013,Seattle,M.Benard,LB,7,2013,ARI-2013-39
+ARI,Offensive Holding,10/17/2013,Seattle,B.Sowell,T,7,2013,ARI-2013-40
+ARI,False Start,10/27/2013,Atlanta,B.Sowell,T,8,2013,ARI-2013-41
+ARI,Offensive Holding,10/27/2013,Atlanta,L.Sendlein,C,8,2013,ARI-2013-42
+ARI,False Start,10/27/2013,Atlanta,L.Sendlein,C,8,2013,ARI-2013-43
+ARI,Defensive Offside,10/27/2013,Atlanta,J.Abraham,OLB,8,2013,ARI-2013-44
+ARI,Defensive Holding,10/27/2013,Atlanta,J.Powers,CB,8,2013,ARI-2013-45
+ARI,Defensive Pass Interference,10/27/2013,Atlanta,D.Washington,ILB,8,2013,ARI-2013-46
+ARI,Neutral Zone Infraction,10/27/2013,Atlanta,D.Dockett,DT,8,2013,ARI-2013-47
+ARI,Defensive Pass Interference,10/27/2013,Atlanta,T.Mathieu,FS,8,2013,ARI-2013-48
+ARI,Delay of Game,10/27/2013,Atlanta,C.Palmer,QB,8,2013,ARI-2013-49
+ARI,False Start,11/10/2013,Houston,E.Winston,T,10,2013,ARI-2013-50
+ARI,Illegal Block Above the Waist,11/10/2013,Houston,JA.Brown,WR,10,2013,ARI-2013-51
+ARI,False Start,11/10/2013,Houston,E.Winston,T,10,2013,ARI-2013-52
+ARI,Offensive Pass Interference,11/10/2013,Houston,L.Fitzgerald,WR,10,2013,ARI-2013-53
+ARI,False Start,11/10/2013,Houston,D.Colledge,G,10,2013,ARI-2013-54
+ARI,Face Mask (15 Yards),11/17/2013,Jacksonville,D.Washington,ILB,11,2013,ARI-2013-55
+ARI,Unsportsmanlike Conduct,11/17/2013,Jacksonville,Y.Bell,SS,11,2013,ARI-2013-56
+ARI,False Start,11/17/2013,Jacksonville,J.Dray,TE,11,2013,ARI-2013-57
+ARI,Offensive Holding,11/17/2013,Jacksonville,A.Roberts,WR,11,2013,ARI-2013-58
+ARI,Intentional Grounding,11/17/2013,Jacksonville,C.Palmer,QB,11,2013,ARI-2013-59
+ARI,False Start,11/24/2013,Indianapolis,D.Colledge,G,12,2013,ARI-2013-60
+ARI,Illegal Block Above the Waist,11/24/2013,Indianapolis,JA.Brown,WR,12,2013,ARI-2013-61
+ARI,Defensive Holding,11/24/2013,Indianapolis,K.Dansby,ILB,12,2013,ARI-2013-62
+ARI,Defensive Pass Interference,11/24/2013,Indianapolis,P.Peterson,CB,12,2013,ARI-2013-63
+ARI,Offensive Holding,11/24/2013,Indianapolis,A.Cason,DB,12,2013,ARI-2013-64
+ARI,False Start,11/24/2013,Indianapolis,B.Sowell,T,12,2013,ARI-2013-65
+ARI,Offensive Holding,11/24/2013,Indianapolis,D.Colledge,G,12,2013,ARI-2013-66
+ARI,Defensive Offside,11/24/2013,Indianapolis,M.Shaughnessy,OLB,12,2013,ARI-2013-67
+ARI,Offensive Holding,11/24/2013,Indianapolis,J.Dray,TE,12,2013,ARI-2013-68
+ARI,Offensive Holding,12/01/2013,Philadelphia,L.Sendlein,C,13,2013,ARI-2013-69
+ARI,Defensive Pass Interference,12/01/2013,Philadelphia,J.Powers,CB,13,2013,ARI-2013-70
+ARI,Offensive Holding,12/01/2013,Philadelphia,P.Fanaika,G,13,2013,ARI-2013-71
+ARI,Defensive Offside,12/01/2013,Philadelphia,D.Williams,DT,13,2013,ARI-2013-72
+ARI,Defensive Holding,12/01/2013,Philadelphia,T.Mathieu,FS,13,2013,ARI-2013-73
+ARI,Defensive Holding,12/01/2013,Philadelphia,M.Shaughnessy,OLB,13,2013,ARI-2013-74
+ARI,Unsportsmanlike Conduct,12/01/2013,Philadelphia,D.Washington,ILB,13,2013,ARI-2013-75
+ARI,False Start,12/08/2013,St. Louis,L.Sendlein,C,14,2013,ARI-2013-76
+ARI,Defensive Pass Interference,12/08/2013,St. Louis,P.Peterson,CB,14,2013,ARI-2013-77
+ARI,False Start,12/08/2013,St. Louis,E.Winston,T,14,2013,ARI-2013-78
+ARI,Defensive Holding,12/08/2013,St. Louis,R.Johnson,FS,14,2013,ARI-2013-79
+ARI,Unnecessary Roughness,12/08/2013,St. Louis,K.Dansby,ILB,14,2013,ARI-2013-80
+ARI,Defensive Pass Interference,12/08/2013,St. Louis,J.Powers,CB,14,2013,ARI-2013-81
+ARI,Illegal Contact,12/15/2013,Tennessee,B.McCann,DB,15,2013,ARI-2013-82
+ARI,Illegal Use of Hands,12/15/2013,Tennessee,A.Cason,DB,15,2013,ARI-2013-83
+ARI,Roughing the Passer,12/15/2013,Tennessee,M.Benard,LB,15,2013,ARI-2013-84
+ARI,Unnecessary Roughness,12/15/2013,Tennessee,R.Johnson,FS,15,2013,ARI-2013-85
+ARI,Unsportsmanlike Conduct,12/15/2013,Tennessee,D.Washington,ILB,15,2013,ARI-2013-86
+ARI,Unnecessary Roughness,12/15/2013,Tennessee,D.Williams,DT,15,2013,ARI-2013-87
+ARI,False Start,12/15/2013,Tennessee,E.Winston,T,15,2013,ARI-2013-88
+ARI,Roughing the Passer,12/15/2013,Tennessee,C.Campbell,DE,15,2013,ARI-2013-89
+ARI,False Start,12/22/2013,Seattle,D.Colledge,G,16,2013,ARI-2013-90
+ARI,Unsportsmanlike Conduct,12/22/2013,Seattle,F.Rucker,DE,16,2013,ARI-2013-91
+ARI,Offensive Pass Interference,12/22/2013,Seattle,M.Floyd,WR,16,2013,ARI-2013-92
+ARI,Defensive Holding,12/22/2013,Seattle,D.Washington,ILB,16,2013,ARI-2013-93
+ARI,Offensive Holding,12/22/2013,Seattle,A.Cason,DB,16,2013,ARI-2013-94
+ARI,Roughing the Passer,12/29/2013,San Francisco,D.Williams,DT,17,2013,ARI-2013-95
+ARI,False Start,12/29/2013,San Francisco,J.Ballard,TE,17,2013,ARI-2013-96
+ARI,Offensive Holding,12/29/2013,San Francisco,J.Dray,TE,17,2013,ARI-2013-97

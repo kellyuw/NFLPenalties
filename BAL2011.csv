@@ -1,0 +1,103 @@
+team,penalty,game,opponent,player,position,week,year,penaltyindex
+BAL,Horse Collar Tackle,09/11/2011,Pittsburgh,B.Ayanbadejo,ILB,1,2011,BAL-2011-0
+BAL,Offensive Holding,09/11/2011,Pittsburgh,B.Grubbs,G,1,2011,BAL-2011-1
+BAL,Offensive Holding,09/11/2011,Pittsburgh,B.McKinnie,T,1,2011,BAL-2011-2
+BAL,Illegal Receiver Pass,09/11/2011,Pittsburgh,E.Dickson,TE,1,2011,BAL-2011-3
+BAL,Unsportsmanlike Conduct,09/11/2011,Pittsburgh,C.Redding,DE,1,2011,BAL-2011-4
+BAL,Offensive Holding,09/11/2011,Pittsburgh,M.Birk,C,1,2011,BAL-2011-5
+BAL,Offensive Pass Interference,09/11/2011,Pittsburgh,A.Boldin,WR,1,2011,BAL-2011-6
+BAL,Offensive Holding,09/18/2011,Tennessee,C.Williams,DB,2,2011,BAL-2011-7
+BAL,Face Mask (15 Yards),09/18/2011,Tennessee,E.Reed,FS,2,2011,BAL-2011-8
+BAL,False Start,09/18/2011,Tennessee,M.Oher,T,2,2011,BAL-2011-9
+BAL,Illegal Use of Hands,09/18/2011,Tennessee,C.Williams,DB,2,2011,BAL-2011-10
+BAL,False Start,09/18/2011,Tennessee,M.Oher,T,2,2011,BAL-2011-11
+BAL,Delay of Game,09/18/2011,Tennessee,J.Flacco,QB,2,2011,BAL-2011-12
+BAL,Offensive Holding,09/25/2011,St. Louis,M.Oher,T,3,2011,BAL-2011-13
+BAL,Illegal Use of Hands,09/25/2011,St. Louis,M.Oher,T,3,2011,BAL-2011-14
+BAL,Defensive Pass Interference,09/25/2011,St. Louis,C.Williams,DB,3,2011,BAL-2011-15
+BAL,False Start,09/25/2011,St. Louis,E.Dickson,TE,3,2011,BAL-2011-16
+BAL,Offensive Pass Interference,09/25/2011,St. Louis,L.Williams,WR,3,2011,BAL-2011-17
+BAL,False Start,09/25/2011,St. Louis,J.Reid,T,3,2011,BAL-2011-18
+BAL,Intentional Grounding,10/02/2011,N.Y. Jets,J.Flacco,QB,4,2011,BAL-2011-19
+BAL,Offensive Holding,10/02/2011,N.Y. Jets,P.Burgess,LB,4,2011,BAL-2011-20
+BAL,Offensive Holding,10/02/2011,N.Y. Jets,A.Gurode,C,4,2011,BAL-2011-21
+BAL,False Start,10/02/2011,N.Y. Jets,M.Birk,C,4,2011,BAL-2011-22
+BAL,Defensive Offside,10/02/2011,N.Y. Jets,B.Pollard,SS,4,2011,BAL-2011-23
+BAL,Defensive Offside,10/02/2011,N.Y. Jets,T.Suggs,OLB,4,2011,BAL-2011-24
+BAL,Offensive Holding,10/02/2011,N.Y. Jets,D.Pitta,TE,4,2011,BAL-2011-25
+BAL,False Start,10/16/2011,Houston,A.Gurode,C,6,2011,BAL-2011-26
+BAL,False Start,10/16/2011,Houston,D.Pitta,TE,6,2011,BAL-2011-27
+BAL,Defensive Holding,10/16/2011,Houston,R.Lewis,MLB,6,2011,BAL-2011-28
+BAL,Delay of Game,10/16/2011,Houston,J.Flacco,QB,6,2011,BAL-2011-29
+BAL,Defensive Holding,10/16/2011,Houston,L.Webb,CB,6,2011,BAL-2011-30
+BAL,Defensive Offside,10/16/2011,Houston,J.Johnson,LB,6,2011,BAL-2011-31
+BAL,Face Mask (15 Yards),10/24/2011,Jacksonville,P.Burgess,LB,7,2011,BAL-2011-32
+BAL,Offensive Holding,10/24/2011,Jacksonville,M.Oher,T,7,2011,BAL-2011-33
+BAL,Offensive Holding,10/24/2011,Jacksonville,M.Oher,T,7,2011,BAL-2011-34
+BAL,Running Into the Kicker,10/24/2011,Jacksonville,P.Kruger,OLB,7,2011,BAL-2011-35
+BAL,Offensive Holding,10/24/2011,Jacksonville,P.Burgess,LB,7,2011,BAL-2011-36
+BAL,False Start,10/24/2011,Jacksonville,A.Gurode,C,7,2011,BAL-2011-37
+BAL,Unnecessary Roughness,10/24/2011,Jacksonville,B.Pollard,SS,7,2011,BAL-2011-38
+BAL,Defensive Holding,10/24/2011,Jacksonville,D.Gorrer,DB,7,2011,BAL-2011-39
+BAL,Disqualification,10/24/2011,Jacksonville,B.Ayanbadejo,ILB,7,2011,BAL-2011-40
+BAL,Illegal Touch Kick,10/24/2011,Jacksonville,H.Nakamura,FS,7,2011,BAL-2011-41
+BAL,Unnecessary Roughness,10/24/2011,Jacksonville,M.Yanda,G,7,2011,BAL-2011-42
+BAL,Defensive Holding,10/30/2011,Arizona,C.Williams,DB,8,2011,BAL-2011-43
+BAL,False Start,10/30/2011,Arizona,B.McKinnie,T,8,2011,BAL-2011-44
+BAL,Unsportsmanlike Conduct,10/30/2011,Arizona,B.Pollard,SS,8,2011,BAL-2011-45
+BAL,Illegal Formation,10/30/2011,Arizona,B.McKinnie,T,8,2011,BAL-2011-46
+BAL,False Start,10/30/2011,Arizona,A.Gurode,C,8,2011,BAL-2011-47
+BAL,Offensive Holding,10/30/2011,Arizona,J.Smith,CB,8,2011,BAL-2011-48
+BAL,Player Out of Bounds on Punt,10/30/2011,Arizona,L.Williams,WR,8,2011,BAL-2011-49
+BAL,Illegal Use of Hands,10/30/2011,Arizona,A.Gurode,C,8,2011,BAL-2011-50
+BAL,Defensive Holding,10/30/2011,Arizona,C.Williams,DB,8,2011,BAL-2011-51
+BAL,Defensive Pass Interference,10/30/2011,Arizona,L.Webb,CB,8,2011,BAL-2011-52
+BAL,Unsportsmanlike Conduct,10/30/2011,Arizona,R.Rice,RB,8,2011,BAL-2011-53
+BAL,False Start,10/30/2011,Arizona,M.Birk,C,8,2011,BAL-2011-54
+BAL,Offensive Holding,11/06/2011,Pittsburgh,T.Smith,WR,9,2011,BAL-2011-55
+BAL,False Start,11/06/2011,Pittsburgh,B.Grubbs,G,9,2011,BAL-2011-56
+BAL,Encroachment,11/06/2011,Pittsburgh,C.Redding,DE,9,2011,BAL-2011-57
+BAL,Illegal Substitution,11/13/2011,Seattle,J.Reid,T,10,2011,BAL-2011-58
+BAL,Unsportsmanlike Conduct,11/13/2011,Seattle,D.Reed,WR,10,2011,BAL-2011-59
+BAL,Horse Collar Tackle,11/13/2011,Seattle,J.Flacco,QB,10,2011,BAL-2011-60
+BAL,Unsportsmanlike Conduct,11/13/2011,Seattle,A.Jones,DE,10,2011,BAL-2011-61
+BAL,Defensive Pass Interference,11/20/2011,Cincinnati,C.Carr,DB,11,2011,BAL-2011-62
+BAL,Delay of Game,11/20/2011,Cincinnati,J.Flacco,QB,11,2011,BAL-2011-63
+BAL,False Start,11/20/2011,Cincinnati,D.Pitta,TE,11,2011,BAL-2011-64
+BAL,Illegal Crackback,11/20/2011,Cincinnati,T.Smith,WR,11,2011,BAL-2011-65
+BAL,Offensive Holding,11/20/2011,Cincinnati,M.Oher,T,11,2011,BAL-2011-66
+BAL,Defensive Pass Interference,11/20/2011,Cincinnati,L.Webb,CB,11,2011,BAL-2011-67
+BAL,Defensive Offside,11/24/2011,San Francisco,T.Suggs,OLB,12,2011,BAL-2011-68
+BAL,Illegal Block Above the Waist,11/24/2011,San Francisco,K.Wilson,TE,12,2011,BAL-2011-69
+BAL,Defensive 12 On-field,11/24/2011,San Francisco,T.Zbikowski,SS,12,2011,BAL-2011-70
+BAL,False Start,12/04/2011,Cleveland,B.McKinnie,T,13,2011,BAL-2011-71
+BAL,Defensive Holding,12/04/2011,Cleveland,B.Ayanbadejo,ILB,13,2011,BAL-2011-72
+BAL,Delay of Game,12/04/2011,Cleveland,J.Flacco,QB,13,2011,BAL-2011-73
+BAL,Defensive Pass Interference,12/04/2011,Cleveland,P.Kruger,OLB,13,2011,BAL-2011-74
+BAL,Face Mask (15 Yards),12/11/2011,Indianapolis,L.Webb,CB,14,2011,BAL-2011-75
+BAL,False Start,12/11/2011,Indianapolis,D.Pitta,TE,14,2011,BAL-2011-76
+BAL,Offensive Holding,12/11/2011,Indianapolis,E.Jones,DE,14,2011,BAL-2011-77
+BAL,False Start,12/11/2011,Indianapolis,V.Leach,FB,14,2011,BAL-2011-78
+BAL,Illegal Use of Hands,12/11/2011,Indianapolis,C.Williams,DB,14,2011,BAL-2011-79
+BAL,Unnecessary Roughness,12/18/2011,San Diego,T.Suggs,OLB,15,2011,BAL-2011-80
+BAL,False Start,12/18/2011,San Diego,B.McKinnie,T,15,2011,BAL-2011-81
+BAL,Defensive Offside,12/18/2011,San Diego,T.Suggs,OLB,15,2011,BAL-2011-82
+BAL,Illegal Touch Kick,12/18/2011,San Diego,D.Reed,WR,15,2011,BAL-2011-83
+BAL,False Start,12/24/2011,Cleveland,M.Birk,C,16,2011,BAL-2011-84
+BAL,False Start,12/24/2011,Cleveland,V.Leach,FB,16,2011,BAL-2011-85
+BAL,Defensive Pass Interference,12/24/2011,Cleveland,C.Carr,DB,16,2011,BAL-2011-86
+BAL,Defensive Pass Interference,12/24/2011,Cleveland,R.Lewis,MLB,16,2011,BAL-2011-87
+BAL,False Start,12/24/2011,Cleveland,M.Oher,T,16,2011,BAL-2011-88
+BAL,False Start,01/01/2012,Cincinnati,B.McKinnie,T,17,2011,BAL-2011-89
+BAL,Unnecessary Roughness,01/01/2012,Cincinnati,J.Johnson,LB,17,2011,BAL-2011-90
+BAL,False Start,01/01/2012,Cincinnati,M.Oher,T,17,2011,BAL-2011-91
+BAL,Offensive Holding,01/01/2012,Cincinnati,M.Oher,T,17,2011,BAL-2011-92
+BAL,Roughing the Passer,01/01/2012,Cincinnati,H.Ngata,DT,17,2011,BAL-2011-93
+BAL,Defensive Offside,01/01/2012,Cincinnati,T.Suggs,OLB,17,2011,BAL-2011-94
+BAL,False Start,01/01/2012,Cincinnati,M.Yanda,G,17,2011,BAL-2011-95
+BAL,Illegal Contact,01/22/2012,New England,L.Webb,CB,20,2011,BAL-2011-96
+BAL,Face Mask (15 Yards),01/22/2012,New England,D.Ellerbe,LB,20,2011,BAL-2011-97
+BAL,False Start,01/22/2012,New England,M.Oher,T,20,2011,BAL-2011-98
+BAL,False Start,01/22/2012,New England,M.Yanda,G,20,2011,BAL-2011-99
+BAL,Defensive Offside,01/22/2012,New England,T.Suggs,OLB,20,2011,BAL-2011-100
+BAL,False Start,01/22/2012,New England,E.Dickson,TE,20,2011,BAL-2011-101

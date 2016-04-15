@@ -1,0 +1,123 @@
+team,penalty,game,opponent,player,position,week,year,penaltyindex
+JAC,Illegal Use of Hands,09/13/2015,Carolina,B.Linder,G,1,2015,JAC-2015-0
+JAC,Illegal Block Above the Waist,09/13/2015,Carolina,A.Colvin,CB,1,2015,JAC-2015-1
+JAC,Defensive Holding,09/13/2015,Carolina,A.Colvin,CB,1,2015,JAC-2015-2
+JAC,Offensive Holding,09/13/2015,Carolina,L.Joeckel,T,1,2015,JAC-2015-3
+JAC,Offensive Holding,09/13/2015,Carolina,S.Young,T,1,2015,JAC-2015-4
+JAC,Offensive Holding,09/20/2015,Miami,S.Wisniewski,C,2,2015,JAC-2015-5
+JAC,Offensive Holding,09/20/2015,Miami,J.Lotulelei,LB,2,2015,JAC-2015-6
+JAC,Offensive Holding,09/20/2015,Miami,S.Wisniewski,C,2,2015,JAC-2015-7
+JAC,Face Mask (15 Yards),09/20/2015,Miami,D.Skuta,LB,2,2015,JAC-2015-8
+JAC,Defensive Offside,09/20/2015,Miami,C.Smith,DE,2,2015,JAC-2015-9
+JAC,Offensive Pass Interference,09/20/2015,Miami,A.Robinson,WR,2,2015,JAC-2015-10
+JAC,Roughing the Passer,09/20/2015,Miami,T.Alualu,DE,2,2015,JAC-2015-11
+JAC,Illegal Use of Hands,09/20/2015,Miami,J.Parnell,T,2,2015,JAC-2015-12
+JAC,Offensive Holding,09/20/2015,Miami,D.Skuta,LB,2,2015,JAC-2015-13
+JAC,Offensive Holding,09/20/2015,Miami,L.Reynolds,OLB,2,2015,JAC-2015-14
+JAC,Offensive Pass Interference,09/20/2015,Miami,M.Lee,WR,2,2015,JAC-2015-15
+JAC,Offensive Holding,09/27/2015,New England,B.Linder,G,3,2015,JAC-2015-16
+JAC,Offensive Holding,09/27/2015,New England,B.Linder,G,3,2015,JAC-2015-17
+JAC,Roughing the Passer,09/27/2015,New England,D.Skuta,LB,3,2015,JAC-2015-18
+JAC,Delay of Game,09/27/2015,New England,B.Anger,P,3,2015,JAC-2015-19
+JAC,Defensive Pass Interference,09/27/2015,New England,P.Thompson,CB,3,2015,JAC-2015-20
+JAC,Defensive Pass Interference,09/27/2015,New England,J.Sample,SS,3,2015,JAC-2015-21
+JAC,Horse Collar Tackle,09/27/2015,New England,P.Thompson,CB,3,2015,JAC-2015-22
+JAC,False Start,10/04/2015,Indianapolis,L.Joeckel,T,4,2015,JAC-2015-23
+JAC,Defensive Pass Interference,10/04/2015,Indianapolis,J.Sample,SS,4,2015,JAC-2015-24
+JAC,Roughing the Passer,10/04/2015,Indianapolis,C.Clemons,DE,4,2015,JAC-2015-25
+JAC,Face Mask (15 Yards),10/04/2015,Indianapolis,A.Colvin,CB,4,2015,JAC-2015-26
+JAC,Defensive Pass Interference,10/04/2015,Indianapolis,D.House,DB,4,2015,JAC-2015-27
+JAC,Defensive 12 On-field,10/04/2015,Indianapolis,J.Sample,SS,4,2015,JAC-2015-28
+JAC,False Start,10/04/2015,Indianapolis,J.Parnell,T,4,2015,JAC-2015-29
+JAC,Offensive Holding,10/04/2015,Indianapolis,J.Parnell,T,4,2015,JAC-2015-30
+JAC,Defensive Holding,10/04/2015,Indianapolis,D.House,DB,4,2015,JAC-2015-31
+JAC,Neutral Zone Infraction,10/04/2015,Indianapolis,A.Branch,DE,4,2015,JAC-2015-32
+JAC,Player Out of Bounds on Punt,10/04/2015,Indianapolis,N.Marshall,CB,4,2015,JAC-2015-33
+JAC,Unnecessary Roughness,10/04/2015,Indianapolis,T.Smith,OLB,4,2015,JAC-2015-34
+JAC,Delay of Game,10/04/2015,Indianapolis,B.Anger,P,4,2015,JAC-2015-35
+JAC,Illegal Use of Hands,10/11/2015,Tampa Bay,A.Cann,G,5,2015,JAC-2015-36
+JAC,False Start,10/11/2015,Tampa Bay,J.Parnell,T,5,2015,JAC-2015-37
+JAC,Illegal Formation,10/11/2015,Tampa Bay,N.Jacobs,TE,5,2015,JAC-2015-38
+JAC,Defensive Holding,10/11/2015,Tampa Bay,J.Cyprien,SS,5,2015,JAC-2015-39
+JAC,Unnecessary Roughness,10/18/2015,Houston,J.Evans,FS,6,2015,JAC-2015-40
+JAC,Defensive Offside,10/18/2015,Houston,C.Clemons,DE,6,2015,JAC-2015-41
+JAC,Unnecessary Roughness,10/18/2015,Houston,P.Thompson,CB,6,2015,JAC-2015-42
+JAC,Defensive Holding,10/18/2015,Houston,D.House,DB,6,2015,JAC-2015-43
+JAC,Unnecessary Roughness,10/18/2015,Houston,J.Cyprien,SS,6,2015,JAC-2015-44
+JAC,Offensive Holding,10/18/2015,Houston,A.Cann,G,6,2015,JAC-2015-45
+JAC,False Start,10/18/2015,Houston,J.Parnell,T,6,2015,JAC-2015-46
+JAC,Offside on Free Kick,10/18/2015,Houston,A.Hurns,WR,6,2015,JAC-2015-47
+JAC,Kickoff Out of Bounds,10/18/2015,Houston,J.Myers,K,6,2015,JAC-2015-48
+JAC,Offensive Holding,10/25/2015,Buffalo,L.Joeckel,T,7,2015,JAC-2015-49
+JAC,Offensive Holding,10/25/2015,Buffalo,A.Cann,G,7,2015,JAC-2015-50
+JAC,Ineligible Downfield Pass,10/25/2015,Buffalo,A.Cann,G,7,2015,JAC-2015-51
+JAC,Offensive Pass Interference,10/25/2015,Buffalo,M.Lewis,TE,7,2015,JAC-2015-52
+JAC,Neutral Zone Infraction,10/25/2015,Buffalo,R.Davis,DE,7,2015,JAC-2015-53
+JAC,Illegal Use of Hands,10/25/2015,Buffalo,A.Branch,DE,7,2015,JAC-2015-54
+JAC,Tripping,10/25/2015,Buffalo,J.Evans,FS,7,2015,JAC-2015-55
+JAC,Roughing the Passer,10/25/2015,Buffalo,A.Branch,DE,7,2015,JAC-2015-56
+JAC,Player Out of Bounds on Punt,10/25/2015,Buffalo,N.Marshall,CB,7,2015,JAC-2015-57
+JAC,Defensive Pass Interference,10/25/2015,Buffalo,D.Gratz,CB,7,2015,JAC-2015-58
+JAC,False Start,10/25/2015,Buffalo,L.Joeckel,T,7,2015,JAC-2015-59
+JAC,Delay of Game,10/25/2015,Buffalo,B.Bortles,QB,7,2015,JAC-2015-60
+JAC,Neutral Zone Infraction,11/08/2015,N.Y. Jets,J.Odrick,DE,9,2015,JAC-2015-61
+JAC,Encroachment,11/08/2015,N.Y. Jets,T.Smith,OLB,9,2015,JAC-2015-62
+JAC,Offensive Holding,11/08/2015,N.Y. Jets,A.Cann,G,9,2015,JAC-2015-63
+JAC,Defensive Pass Interference,11/08/2015,N.Y. Jets,D.House,DB,9,2015,JAC-2015-64
+JAC,Offensive Holding,11/08/2015,N.Y. Jets,J.Parnell,T,9,2015,JAC-2015-65
+JAC,Delay of Game,11/15/2015,Baltimore,B.Bortles,QB,10,2015,JAC-2015-66
+JAC,Offensive Holding,11/15/2015,Baltimore,M.Lewis,TE,10,2015,JAC-2015-67
+JAC,Illegal Block Above the Waist,11/15/2015,Baltimore,D.Gratz,CB,10,2015,JAC-2015-68
+JAC,Defensive Holding,11/15/2015,Baltimore,J.Cyprien,SS,10,2015,JAC-2015-69
+JAC,False Start,11/15/2015,Baltimore,Z.Beadles,G,10,2015,JAC-2015-70
+JAC,Defensive Holding,11/19/2015,Tennessee,A.Colvin,CB,11,2015,JAC-2015-71
+JAC,Offensive Holding,11/19/2015,Tennessee,L.Joeckel,T,11,2015,JAC-2015-72
+JAC,Running Into the Kicker,11/19/2015,Tennessee,S.Brown,FS,11,2015,JAC-2015-73
+JAC,Defensive Holding,11/19/2015,Tennessee,D.Gratz,CB,11,2015,JAC-2015-74
+JAC,Offensive Holding,11/19/2015,Tennessee,M.Lewis,TE,11,2015,JAC-2015-75
+JAC,Defensive Pass Interference,11/19/2015,Tennessee,D.House,DB,11,2015,JAC-2015-76
+JAC,Defensive Pass Interference,11/19/2015,Tennessee,A.Colvin,CB,11,2015,JAC-2015-77
+JAC,Defensive Holding,11/19/2015,Tennessee,R.Miller,DT,11,2015,JAC-2015-78
+JAC,Defensive Offside,11/29/2015,San Diego,C.Clemons,DE,12,2015,JAC-2015-79
+JAC,Defensive Offside,11/29/2015,San Diego,A.Branch,DE,12,2015,JAC-2015-80
+JAC,Illegal Forward Pass,11/29/2015,San Diego,B.Bortles,QB,12,2015,JAC-2015-81
+JAC,Defensive Offside,11/29/2015,San Diego,C.Clemons,DE,12,2015,JAC-2015-82
+JAC,Offensive Holding,11/29/2015,San Diego,L.Joeckel,T,12,2015,JAC-2015-83
+JAC,Illegal Forward Pass,11/29/2015,San Diego,B.Bortles,QB,12,2015,JAC-2015-84
+JAC,Neutral Zone Infraction,12/06/2015,Tennessee,J.Odrick,DE,13,2015,JAC-2015-85
+JAC,Encroachment,12/06/2015,Tennessee,R.Miller,DT,13,2015,JAC-2015-86
+JAC,Defensive Holding,12/06/2015,Tennessee,D.House,DB,13,2015,JAC-2015-87
+JAC,Defensive Holding,12/06/2015,Tennessee,J.Cyprien,SS,13,2015,JAC-2015-88
+JAC,Encroachment,12/06/2015,Tennessee,M.Bennett,DT,13,2015,JAC-2015-89
+JAC,Defensive Pass Interference,12/06/2015,Tennessee,A.Branch,DE,13,2015,JAC-2015-90
+JAC,Tripping,12/13/2015,Indianapolis,J.Parnell,T,14,2015,JAC-2015-91
+JAC,Encroachment,12/13/2015,Indianapolis,R.Miller,DT,14,2015,JAC-2015-92
+JAC,False Start,12/13/2015,Indianapolis,Z.Beadles,G,14,2015,JAC-2015-93
+JAC,Offensive Holding,12/13/2015,Indianapolis,M.Lewis,TE,14,2015,JAC-2015-94
+JAC,False Start,12/13/2015,Indianapolis,A.Robinson,WR,14,2015,JAC-2015-95
+JAC,Taunting,12/13/2015,Indianapolis,M.Lee,WR,14,2015,JAC-2015-96
+JAC,Roughing the Passer,12/13/2015,Indianapolis,A.Branch,DE,14,2015,JAC-2015-97
+JAC,Unnecessary Roughness,12/20/2015,Atlanta,P.Posluszny,MLB,15,2015,JAC-2015-98
+JAC,Illegal Contact,12/20/2015,Atlanta,A.Colvin,CB,15,2015,JAC-2015-99
+JAC,Offensive Holding,12/20/2015,Atlanta,L.Joeckel,T,15,2015,JAC-2015-100
+JAC,Offensive Holding,12/20/2015,Atlanta,A.Cann,G,15,2015,JAC-2015-101
+JAC,Defensive Holding,12/20/2015,Atlanta,D.House,DB,15,2015,JAC-2015-102
+JAC,Offensive Holding,12/20/2015,Atlanta,C.Harbor,TE,15,2015,JAC-2015-103
+JAC,Defensive Pass Interference,12/20/2015,Atlanta,D.House,DB,15,2015,JAC-2015-104
+JAC,Defensive Pass Interference,12/20/2015,Atlanta,T.Smith,OLB,15,2015,JAC-2015-105
+JAC,Offensive Holding,12/27/2015,New Orleans,M.Lewis,TE,16,2015,JAC-2015-106
+JAC,False Start,12/27/2015,New Orleans,C.Harbor,TE,16,2015,JAC-2015-107
+JAC,Defensive Holding,12/27/2015,New Orleans,D.House,DB,16,2015,JAC-2015-108
+JAC,Defensive Offside,12/27/2015,New Orleans,C.Clemons,DE,16,2015,JAC-2015-109
+JAC,Defensive Offside,12/27/2015,New Orleans,M.Bennett,DT,16,2015,JAC-2015-110
+JAC,Defensive Holding,12/27/2015,New Orleans,R.Davis,DE,16,2015,JAC-2015-111
+JAC,Offensive Holding,12/27/2015,New Orleans,Z.Beadles,G,16,2015,JAC-2015-112
+JAC,Offensive Holding,12/27/2015,New Orleans,Z.Beadles,G,16,2015,JAC-2015-113
+JAC,Offensive Holding,01/03/2016,Houston,S.Young,T,17,2015,JAC-2015-114
+JAC,Offensive Pass Interference,01/03/2016,Houston,A.Robinson,WR,17,2015,JAC-2015-115
+JAC,Roughing the Passer,01/03/2016,Houston,A.Branch,DE,17,2015,JAC-2015-116
+JAC,Encroachment,01/03/2016,Houston,J.Odrick,DE,17,2015,JAC-2015-117
+JAC,Offensive Holding,01/03/2016,Houston,J.Bartu,OLB,17,2015,JAC-2015-118
+JAC,Encroachment,01/03/2016,Houston,R.Miller,DT,17,2015,JAC-2015-119
+JAC,Offensive Holding,01/03/2016,Houston,S.Young,T,17,2015,JAC-2015-120
+JAC,Offensive Holding,01/03/2016,Houston,L.Joeckel,T,17,2015,JAC-2015-121

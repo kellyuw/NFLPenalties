@@ -1,0 +1,84 @@
+team,penalty,game,opponent,player,position,week,year,penaltyindex
+PIT,Illegal Block Above the Waist,09/08/2013,Tennessee,J.Worilds,OLB,1,2013,PIT-2013-0
+PIT,Defensive Offside,09/08/2013,Tennessee,T.Polamalu,SS,1,2013,PIT-2013-1
+PIT,Offensive Holding,09/08/2013,Tennessee,S.Thomas,SS,1,2013,PIT-2013-2
+PIT,Defensive Pass Interference,09/08/2013,Tennessee,R.Clark,FS,1,2013,PIT-2013-3
+PIT,Defensive Offside,09/16/2013,Cincinnati,W.Gay,CB,2,2013,PIT-2013-4
+PIT,Tripping,09/16/2013,Cincinnati,M.Gilbert,T,2,2013,PIT-2013-5
+PIT,Defensive Offside,09/16/2013,Cincinnati,L.Woodley,LB,2,2013,PIT-2013-6
+PIT,Unnecessary Roughness,09/16/2013,Cincinnati,L.Woodley,LB,2,2013,PIT-2013-7
+PIT,Defensive Pass Interference,09/22/2013,Chicago,I.Taylor,CB,3,2013,PIT-2013-8
+PIT,Offensive Holding,09/22/2013,Chicago,C.Carter,LB,3,2013,PIT-2013-9
+PIT,Illegal Contact,09/22/2013,Chicago,W.Gay,CB,3,2013,PIT-2013-10
+PIT,Face Mask (15 Yards),09/22/2013,Chicago,A.Brown,WR,3,2013,PIT-2013-11
+PIT,Offensive Holding,09/22/2013,Chicago,R.Foster,G,3,2013,PIT-2013-12
+PIT,Unnecessary Roughness,09/22/2013,Chicago,A.Brown,WR,3,2013,PIT-2013-13
+PIT,Face Mask (15 Yards),09/29/2013,Minnesota,A.Woods,NT,4,2013,PIT-2013-14
+PIT,Offensive Holding,09/29/2013,Minnesota,M.Adams,T,4,2013,PIT-2013-15
+PIT,Unnecessary Roughness,09/29/2013,Minnesota,L.Woodley,LB,4,2013,PIT-2013-16
+PIT,Offensive Holding,09/29/2013,Minnesota,K.Wilson,LB,4,2013,PIT-2013-17
+PIT,Offensive Holding,10/13/2013,N.Y. Jets,M.Gilbert,T,6,2013,PIT-2013-18
+PIT,Offensive Holding,10/13/2013,N.Y. Jets,K.Beachum,T,6,2013,PIT-2013-19
+PIT,False Start,10/13/2013,N.Y. Jets,M.Gilbert,T,6,2013,PIT-2013-20
+PIT,False Start,10/13/2013,N.Y. Jets,K.Beachum,T,6,2013,PIT-2013-21
+PIT,Offensive Holding,10/13/2013,N.Y. Jets,K.Beachum,T,6,2013,PIT-2013-22
+PIT,Delay of Game,10/13/2013,N.Y. Jets,Z.Mesko,P,6,2013,PIT-2013-23
+PIT,False Start,10/20/2013,Baltimore,M.Gilbert,T,7,2013,PIT-2013-24
+PIT,Face Mask (15 Yards),10/20/2013,Baltimore,L.Bell,RB,7,2013,PIT-2013-25
+PIT,Defensive Holding,10/20/2013,Baltimore,I.Taylor,CB,7,2013,PIT-2013-26
+PIT,Neutral Zone Infraction,10/20/2013,Baltimore,T.Polamalu,SS,7,2013,PIT-2013-27
+PIT,Offensive Holding,10/20/2013,Baltimore,E.Sanders,WR,7,2013,PIT-2013-28
+PIT,False Start,10/20/2013,Baltimore,A.Brown,WR,7,2013,PIT-2013-29
+PIT,Defensive Offside,10/20/2013,Baltimore,T.Polamalu,SS,7,2013,PIT-2013-30
+PIT,False Start,10/27/2013,Oakland,E.Sanders,WR,8,2013,PIT-2013-31
+PIT,Illegal Forward Pass,10/27/2013,Oakland,B.Roethlisberger,QB,8,2013,PIT-2013-32
+PIT,Offensive Holding,10/27/2013,Oakland,L.Bell,RB,8,2013,PIT-2013-33
+PIT,Offensive Pass Interference,10/27/2013,Oakland,E.Sanders,WR,8,2013,PIT-2013-34
+PIT,Offensive Holding,10/27/2013,Oakland,C.Allen,CB,8,2013,PIT-2013-35
+PIT,Defensive Offside,11/03/2013,New England,T.Polamalu,SS,9,2013,PIT-2013-36
+PIT,Defensive Offside,11/03/2013,New England,T.Polamalu,SS,9,2013,PIT-2013-37
+PIT,False Start,11/03/2013,New England,M.Gilbert,T,9,2013,PIT-2013-38
+PIT,Chop Block,11/03/2013,New England,L.Bell,RB,9,2013,PIT-2013-39
+PIT,Unnecessary Roughness,11/03/2013,New England,T.Polamalu,SS,9,2013,PIT-2013-40
+PIT,Defensive Pass Interference,11/03/2013,New England,T.Polamalu,SS,9,2013,PIT-2013-41
+PIT,Defensive Pass Interference,11/03/2013,New England,S.Thomas,SS,9,2013,PIT-2013-42
+PIT,Illegal Block Above the Waist,11/03/2013,New England,F.Velasco,C,9,2013,PIT-2013-43
+PIT,Defensive Pass Interference,11/03/2013,New England,W.Gay,CB,9,2013,PIT-2013-44
+PIT,Defensive Pass Interference,11/10/2013,Buffalo,W.Gay,CB,10,2013,PIT-2013-45
+PIT,Defensive Pass Interference,11/10/2013,Buffalo,C.Allen,CB,10,2013,PIT-2013-46
+PIT,Offside on Free Kick,11/10/2013,Buffalo,M.Wheaton,WR,10,2013,PIT-2013-47
+PIT,Unnecessary Roughness,11/10/2013,Buffalo,J.Jones,OLB,10,2013,PIT-2013-48
+PIT,Offensive Holding,11/10/2013,Buffalo,W.Johnson,FB,10,2013,PIT-2013-49
+PIT,Illegal Formation,11/10/2013,Buffalo,A.Brown,WR,10,2013,PIT-2013-50
+PIT,Defensive Holding,11/10/2013,Buffalo,I.Taylor,CB,10,2013,PIT-2013-51
+PIT,Unnecessary Roughness,11/10/2013,Buffalo,S.McLendon,NT,10,2013,PIT-2013-52
+PIT,False Start,11/17/2013,Detroit,K.Beachum,T,11,2013,PIT-2013-53
+PIT,Offensive Holding,11/17/2013,Detroit,G.Whimper,T,11,2013,PIT-2013-54
+PIT,Offensive Holding,11/17/2013,Detroit,G.Whimper,T,11,2013,PIT-2013-55
+PIT,Defensive Holding,11/17/2013,Detroit,I.Taylor,CB,11,2013,PIT-2013-56
+PIT,Defensive Pass Interference,11/17/2013,Detroit,I.Taylor,CB,11,2013,PIT-2013-57
+PIT,Offensive Holding,11/24/2013,Cleveland,C.Brown,DB,12,2013,PIT-2013-58
+PIT,Illegal Formation,11/24/2013,Cleveland,M.Gilbert,T,12,2013,PIT-2013-59
+PIT,False Start,11/28/2013,Baltimore,D.DeCastro,G,13,2013,PIT-2013-60
+PIT,Defensive Pass Interference,11/28/2013,Baltimore,I.Taylor,CB,13,2013,PIT-2013-61
+PIT,Personal Foul,11/28/2013,Baltimore,M.Adams,T,13,2013,PIT-2013-62
+PIT,Illegal Touch Kick,11/28/2013,Baltimore,J.Cotchery,WR,13,2013,PIT-2013-63
+PIT,Delay of Game,12/08/2013,Miami,M.McBriar,P,14,2013,PIT-2013-64
+PIT,Offensive Holding,12/08/2013,Miami,M.Gilbert,T,14,2013,PIT-2013-65
+PIT,Delay of Game,12/08/2013,Miami,B.Roethlisberger,QB,14,2013,PIT-2013-66
+PIT,Personal Foul,12/08/2013,Miami,R.Clark,FS,14,2013,PIT-2013-67
+PIT,Offensive Holding,12/08/2013,Miami,D.DeCastro,G,14,2013,PIT-2013-68
+PIT,Defensive Holding,12/15/2013,Cincinnati,L.Timmons,ILB,15,2013,PIT-2013-69
+PIT,Offensive Holding,12/15/2013,Cincinnati,M.Spaeth,TE,15,2013,PIT-2013-70
+PIT,False Start,12/15/2013,Cincinnati,G.Whimper,T,15,2013,PIT-2013-71
+PIT,False Start,12/15/2013,Cincinnati,C.Wallace,G,15,2013,PIT-2013-72
+PIT,False Start,12/22/2013,Green Bay,M.Gilbert,T,16,2013,PIT-2013-73
+PIT,Delay of Game,12/22/2013,Green Bay,B.Roethlisberger,QB,16,2013,PIT-2013-74
+PIT,Roughing the Passer,12/22/2013,Green Bay,C.Heyward,DE,16,2013,PIT-2013-75
+PIT,Offensive Holding,12/22/2013,Green Bay,G.Warren,LS,16,2013,PIT-2013-76
+PIT,Illegal Use of Hands,12/22/2013,Green Bay,C.Heyward,DE,16,2013,PIT-2013-77
+PIT,Defensive Holding,12/22/2013,Green Bay,J.Worilds,OLB,16,2013,PIT-2013-78
+PIT,Illegal Bat,12/22/2013,Green Bay,E.Hood,DE,16,2013,PIT-2013-79
+PIT,Unnecessary Roughness,12/22/2013,Green Bay,M.Spaeth,TE,16,2013,PIT-2013-80
+PIT,Defensive Holding,12/29/2013,Cleveland,C.Allen,CB,17,2013,PIT-2013-81
+PIT,Offensive Holding,12/29/2013,Cleveland,H.Miller,TE,17,2013,PIT-2013-82

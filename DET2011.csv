@@ -1,0 +1,145 @@
+team,penalty,game,opponent,player,position,week,year,penaltyindex
+DET,Unnecessary Roughness,09/11/2011,Tampa Bay,S.Peterman,G,1,2011,DET-2011-0
+DET,Neutral Zone Infraction,09/11/2011,Tampa Bay,L.Jackson,DE,1,2011,DET-2011-1
+DET,Chop Block,09/18/2011,Kansas City,J.Best,RB,2,2011,DET-2011-2
+DET,Offensive Holding,09/18/2011,Kansas City,S.Peterman,G,2,2011,DET-2011-3
+DET,Illegal Contact,09/18/2011,Kansas City,E.Wright,DB,2,2011,DET-2011-4
+DET,Defensive Offside,09/18/2011,Kansas City,C.Avril,DE,2,2011,DET-2011-5
+DET,False Start,09/18/2011,Kansas City,C.Hilliard,T,2,2011,DET-2011-6
+DET,Offensive Holding,09/25/2011,Minnesota,J.Backus,T,3,2011,DET-2011-7
+DET,Roughing the Passer,09/25/2011,Minnesota,SamL.Hill,NT,3,2011,DET-2011-8
+DET,Offensive Holding,09/25/2011,Minnesota,R.Sims,G,3,2011,DET-2011-9
+DET,False Start,09/25/2011,Minnesota,A.Palmer,LB,3,2011,DET-2011-10
+DET,Face Mask (15 Yards),09/25/2011,Minnesota,R.Donahue,P,3,2011,DET-2011-11
+DET,Unnecessary Roughness,09/25/2011,Minnesota,J.Wendling,FS,3,2011,DET-2011-12
+DET,Defensive Offside,09/25/2011,Minnesota,C.Williams,DT,3,2011,DET-2011-13
+DET,False Start,09/25/2011,Minnesota,J.Backus,T,3,2011,DET-2011-14
+DET,False Start,09/25/2011,Minnesota,J.Backus,T,3,2011,DET-2011-15
+DET,Encroachment,10/02/2011,Dallas,C.Williams,DT,4,2011,DET-2011-16
+DET,False Start,10/02/2011,Dallas,J.Backus,T,4,2011,DET-2011-17
+DET,Delay of Game,10/02/2011,Dallas,M.Stafford,QB,4,2011,DET-2011-18
+DET,Offensive Holding,10/02/2011,Dallas,D.Raiola,C,4,2011,DET-2011-19
+DET,Encroachment,10/02/2011,Dallas,C.Williams,DT,4,2011,DET-2011-20
+DET,Defensive Offside,10/02/2011,Dallas,C.Williams,DT,4,2011,DET-2011-21
+DET,Roughing the Passer,10/02/2011,Dallas,N.Suh,DT,4,2011,DET-2011-22
+DET,Offensive Holding,10/02/2011,Dallas,J.Backus,T,4,2011,DET-2011-23
+DET,Offensive Holding,10/02/2011,Dallas,S.Peterman,G,4,2011,DET-2011-24
+DET,Delay of Game,10/02/2011,Dallas,M.Stafford,QB,4,2011,DET-2011-25
+DET,Illegal Block Above the Waist,10/02/2011,Dallas,N.Burleson,WR,4,2011,DET-2011-26
+DET,Offensive Pass Interference,10/02/2011,Dallas,N.Burleson,WR,4,2011,DET-2011-27
+DET,False Start,10/10/2011,Chicago,R.Sims,G,5,2011,DET-2011-28
+DET,Face Mask (15 Yards),10/10/2011,Chicago,C.Avril,DE,5,2011,DET-2011-29
+DET,Illegal Use of Hands,10/10/2011,Chicago,W.Young,LB,5,2011,DET-2011-30
+DET,Neutral Zone Infraction,10/10/2011,Chicago,N.Suh,DT,5,2011,DET-2011-31
+DET,Roughing the Passer,10/10/2011,Chicago,W.Young,LB,5,2011,DET-2011-32
+DET,Neutral Zone Infraction,10/10/2011,Chicago,C.Avril,DE,5,2011,DET-2011-33
+DET,Neutral Zone Infraction,10/10/2011,Chicago,W.Young,LB,5,2011,DET-2011-34
+DET,Illegal Use of Hands,10/10/2011,Chicago,S.Peterman,G,5,2011,DET-2011-35
+DET,Illegal Block Above the Waist,10/10/2011,Chicago,K.Williams,RB,5,2011,DET-2011-36
+DET,Illegal Block Above the Waist,10/10/2011,Chicago,D.Raiola,C,5,2011,DET-2011-37
+DET,Defensive Holding,10/10/2011,Chicago,A.Berry,DB,5,2011,DET-2011-38
+DET,Neutral Zone Infraction,10/10/2011,Chicago,L.Jackson,DE,5,2011,DET-2011-39
+DET,False Start,10/16/2011,San Francisco,T.Young,WR,6,2011,DET-2011-40
+DET,False Start,10/16/2011,San Francisco,T.Young,WR,6,2011,DET-2011-41
+DET,Chop Block,10/16/2011,San Francisco,B.Pettigrew,TE,6,2011,DET-2011-42
+DET,Horse Collar Tackle,10/16/2011,San Francisco,C.Houston,CB,6,2011,DET-2011-43
+DET,Intentional Grounding,10/16/2011,San Francisco,M.Stafford,QB,6,2011,DET-2011-44
+DET,False Start,10/16/2011,San Francisco,B.Pettigrew,TE,6,2011,DET-2011-45
+DET,Personal Foul,10/23/2011,Atlanta,D.Levy,OLB,7,2011,DET-2011-46
+DET,Face Mask (15 Yards),10/23/2011,Atlanta,N.Suh,DT,7,2011,DET-2011-47
+DET,Offensive Holding,10/23/2011,Atlanta,R.Sims,G,7,2011,DET-2011-48
+DET,Defensive Pass Interference,10/23/2011,Atlanta,B.Carpenter,LB,7,2011,DET-2011-49
+DET,Defensive Pass Interference,10/23/2011,Atlanta,S.Tulloch,MLB,7,2011,DET-2011-50
+DET,Personal Foul,10/23/2011,Atlanta,C.Williams,DT,7,2011,DET-2011-51
+DET,Encroachment,10/23/2011,Atlanta,C.Williams,DT,7,2011,DET-2011-52
+DET,Roughing the Passer,10/23/2011,Atlanta,K.Vanden Bosch,DE,7,2011,DET-2011-53
+DET,Defensive Holding,10/23/2011,Atlanta,L.Delmas,FS,7,2011,DET-2011-54
+DET,Face Mask (15 Yards),10/23/2011,Atlanta,E.Wright,DB,7,2011,DET-2011-55
+DET,Offensive Holding,10/23/2011,Atlanta,G.Cherilus,T,7,2011,DET-2011-56
+DET,Offensive Holding,10/30/2011,Denver,J.Backus,T,8,2011,DET-2011-57
+DET,Defensive Pass Interference,10/30/2011,Denver,E.Wright,DB,8,2011,DET-2011-58
+DET,Offensive Holding,10/30/2011,Denver,W.Heller,TE,8,2011,DET-2011-59
+DET,Player Out of Bounds on Punt,10/30/2011,Denver,B.McDonald,DB,8,2011,DET-2011-60
+DET,Offensive Pass Interference,10/30/2011,Denver,M.Stovall,WR,8,2011,DET-2011-61
+DET,Neutral Zone Infraction,10/30/2011,Denver,L.Jackson,DE,8,2011,DET-2011-62
+DET,Offensive Holding,11/13/2011,Chicago,J.Backus,T,10,2011,DET-2011-63
+DET,Unnecessary Roughness,11/13/2011,Chicago,K.Vanden Bosch,DE,10,2011,DET-2011-64
+DET,Face Mask (15 Yards),11/13/2011,Chicago,C.Avril,DE,10,2011,DET-2011-65
+DET,Roughing the Passer,11/13/2011,Chicago,N.Fairley,DT,10,2011,DET-2011-66
+DET,Offensive Holding,11/13/2011,Chicago,J.Backus,T,10,2011,DET-2011-67
+DET,Chop Block,11/13/2011,Chicago,D.Raiola,C,10,2011,DET-2011-68
+DET,Illegal Contact,11/20/2011,Carolina,E.Wright,DB,11,2011,DET-2011-69
+DET,False Start,11/20/2011,Carolina,T.Young,WR,11,2011,DET-2011-70
+DET,Illegal Use of Hands,11/20/2011,Carolina,A.Fluellen,DT,11,2011,DET-2011-71
+DET,Illegal Contact,11/20/2011,Carolina,E.Wright,DB,11,2011,DET-2011-72
+DET,Illegal Use of Hands,11/20/2011,Carolina,N.Suh,DT,11,2011,DET-2011-73
+DET,False Start,11/20/2011,Carolina,B.Pettigrew,TE,11,2011,DET-2011-74
+DET,Horse Collar Tackle,11/20/2011,Carolina,C.Avril,DE,11,2011,DET-2011-75
+DET,Defensive Offside,11/20/2011,Carolina,K.Vanden Bosch,DE,11,2011,DET-2011-76
+DET,Offensive Pass Interference,11/20/2011,Carolina,T.Young,WR,11,2011,DET-2011-77
+DET,Horse Collar Tackle,11/20/2011,Carolina,C.Avril,DE,11,2011,DET-2011-78
+DET,Offensive Holding,11/24/2011,Green Bay,N.Burleson,WR,12,2011,DET-2011-79
+DET,Illegal Use of Hands,11/24/2011,Green Bay,J.Backus,T,12,2011,DET-2011-80
+DET,Offensive Holding,11/24/2011,Green Bay,B.Pettigrew,TE,12,2011,DET-2011-81
+DET,Chop Block,11/24/2011,Green Bay,M.Morris,RB,12,2011,DET-2011-82
+DET,Neutral Zone Infraction,11/24/2011,Green Bay,C.Avril,DE,12,2011,DET-2011-83
+DET,Defensive Pass Interference,11/24/2011,Green Bay,E.Wright,DB,12,2011,DET-2011-84
+DET,Illegal Use of Hands,11/24/2011,Green Bay,K.Vanden Bosch,DE,12,2011,DET-2011-85
+DET,Defensive Pass Interference,11/24/2011,Green Bay,B.McDonald,DB,12,2011,DET-2011-86
+DET,Roughing the Passer,11/24/2011,Green Bay,K.Vanden Bosch,DE,12,2011,DET-2011-87
+DET,Disqualification,11/24/2011,Green Bay,N.Suh,DT,12,2011,DET-2011-88
+DET,Encroachment,11/24/2011,Green Bay,A.Fluellen,DT,12,2011,DET-2011-89
+DET,Offside on Free Kick,11/24/2011,Green Bay,A.Berry,DB,12,2011,DET-2011-90
+DET,Offensive Holding,12/04/2011,New Orleans,R.Davis,WR,13,2011,DET-2011-91
+DET,Encroachment,12/04/2011,New Orleans,N.Fairley,DT,13,2011,DET-2011-92
+DET,Illegal Formation,12/04/2011,New Orleans,T.Young,WR,13,2011,DET-2011-93
+DET,Offensive Holding,12/04/2011,New Orleans,K.Smith,RB,13,2011,DET-2011-94
+DET,Defensive Pass Interference,12/04/2011,New Orleans,E.Wright,DB,13,2011,DET-2011-95
+DET,Face Mask (15 Yards),12/04/2011,New Orleans,N.Burleson,WR,13,2011,DET-2011-96
+DET,Unnecessary Roughness,12/04/2011,New Orleans,T.Young,WR,13,2011,DET-2011-97
+DET,Offensive Pass Interference,12/04/2011,New Orleans,N.Burleson,WR,13,2011,DET-2011-98
+DET,Unsportsmanlike Conduct,12/04/2011,New Orleans,S.Logan,WR,13,2011,DET-2011-99
+DET,Offensive Pass Interference,12/04/2011,New Orleans,N.Burleson,WR,13,2011,DET-2011-100
+DET,Offensive Pass Interference,12/04/2011,New Orleans,N.Burleson,WR,13,2011,DET-2011-101
+DET,Unnecessary Roughness,12/04/2011,New Orleans,B.Pettigrew,TE,13,2011,DET-2011-102
+DET,False Start,12/11/2011,Minnesota,G.Cherilus,T,14,2011,DET-2011-103
+DET,Neutral Zone Infraction,12/11/2011,Minnesota,C.Williams,DT,14,2011,DET-2011-104
+DET,False Start,12/11/2011,Minnesota,B.Pettigrew,TE,14,2011,DET-2011-105
+DET,Offensive Holding,12/11/2011,Minnesota,G.Cherilus,T,14,2011,DET-2011-106
+DET,Offensive Holding,12/11/2011,Minnesota,M.Stovall,WR,14,2011,DET-2011-107
+DET,Personal Foul,12/11/2011,Minnesota,S.Tulloch,MLB,14,2011,DET-2011-108
+DET,Offensive Holding,12/11/2011,Minnesota,B.Pettigrew,TE,14,2011,DET-2011-109
+DET,Offensive Holding,12/11/2011,Minnesota,R.Silva,DB,14,2011,DET-2011-110
+DET,Defensive Offside,12/11/2011,Minnesota,C.Avril,DE,14,2011,DET-2011-111
+DET,False Start,12/18/2011,Oakland,D.Hogue,LB,15,2011,DET-2011-112
+DET,Horse Collar Tackle,12/18/2011,Oakland,C.Avril,DE,15,2011,DET-2011-113
+DET,Illegal Contact,12/18/2011,Oakland,C.Houston,CB,15,2011,DET-2011-114
+DET,Personal Foul,12/18/2011,Oakland,S.Tulloch,MLB,15,2011,DET-2011-115
+DET,Defensive Offside,12/18/2011,Oakland,C.Williams,DT,15,2011,DET-2011-116
+DET,Defensive Offside,12/18/2011,Oakland,N.Suh,DT,15,2011,DET-2011-117
+DET,Offensive Pass Interference,12/18/2011,Oakland,C.Johnson,WR,15,2011,DET-2011-118
+DET,Defensive Offside,12/18/2011,Oakland,C.Avril,DE,15,2011,DET-2011-119
+DET,Offensive Holding,12/18/2011,Oakland,J.Backus,T,15,2011,DET-2011-120
+DET,Offensive Holding,12/24/2011,San Diego,T.Young,WR,16,2011,DET-2011-121
+DET,False Start,12/24/2011,San Diego,B.Pettigrew,TE,16,2011,DET-2011-122
+DET,False Start,12/24/2011,San Diego,B.Pettigrew,TE,16,2011,DET-2011-123
+DET,Personal Foul,01/01/2012,Green Bay,A.Palmer,LB,17,2011,DET-2011-124
+DET,False Start,01/01/2012,Green Bay,D.Raiola,C,17,2011,DET-2011-125
+DET,Illegal Block Above the Waist,01/01/2012,Green Bay,D.Carey,SS,17,2011,DET-2011-126
+DET,Defensive Pass Interference,01/01/2012,Green Bay,E.Wright,DB,17,2011,DET-2011-127
+DET,Defensive Offside,01/01/2012,Green Bay,A.Fluellen,DT,17,2011,DET-2011-128
+DET,Clipping,01/01/2012,Green Bay,D.Raiola,C,17,2011,DET-2011-129
+DET,False Start,01/01/2012,Green Bay,S.Peterman,G,17,2011,DET-2011-130
+DET,False Start,01/01/2012,Green Bay,B.Pettigrew,TE,17,2011,DET-2011-131
+DET,Encroachment,01/01/2012,Green Bay,K.Vanden Bosch,DE,17,2011,DET-2011-132
+DET,Defensive Holding,01/01/2012,Green Bay,D.Levy,OLB,17,2011,DET-2011-133
+DET,False Start,01/01/2012,Green Bay,B.Pettigrew,TE,17,2011,DET-2011-134
+DET,Offensive Pass Interference,01/01/2012,Green Bay,C.Johnson,WR,17,2011,DET-2011-135
+DET,Encroachment,01/01/2012,Green Bay,N.Suh,DT,17,2011,DET-2011-136
+DET,Illegal Block Above the Waist,01/07/2012,New Orleans,W.Heller,TE,18,2011,DET-2011-137
+DET,Defensive Offside,01/07/2012,New Orleans,A.Berry,DB,18,2011,DET-2011-138
+DET,Defensive Offside,01/07/2012,New Orleans,C.Avril,DE,18,2011,DET-2011-139
+DET,Unnecessary Roughness,01/07/2012,New Orleans,A.Spievey,SS,18,2011,DET-2011-140
+DET,Offensive Holding,01/07/2012,New Orleans,G.Cherilus,T,18,2011,DET-2011-141
+DET,Illegal Use of Hands,01/07/2012,New Orleans,N.Fairley,DT,18,2011,DET-2011-142
+DET,Defensive Pass Interference,01/07/2012,New Orleans,A.Berry,DB,18,2011,DET-2011-143

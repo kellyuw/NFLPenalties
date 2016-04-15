@@ -1,0 +1,93 @@
+team,penalty,game,opponent,player,position,week,year,penaltyindex
+MIA,Offensive Holding,09/09/2012,Houston,J.Freeny,LB,1,2012,MIA-2012-0
+MIA,Offensive Holding,09/09/2012,Houston,J.Long,T,1,2012,MIA-2012-1
+MIA,Unnecessary Roughness,09/09/2012,Houston,M.Pouncey,C,1,2012,MIA-2012-2
+MIA,False Start,09/09/2012,Houston,A.Fasano,TE,1,2012,MIA-2012-3
+MIA,Defensive Pass Interference,09/09/2012,Houston,R.Marshall,CB,1,2012,MIA-2012-4
+MIA,Offensive Holding,09/09/2012,Houston,R.Incognito,C,1,2012,MIA-2012-5
+MIA,Offensive Holding,09/09/2012,Houston,R.Incognito,C,1,2012,MIA-2012-6
+MIA,Illegal Formation,09/16/2012,Oakland,J.Long,T,2,2012,MIA-2012-7
+MIA,Roughing the Passer,09/16/2012,Oakland,J.Wilson,DB,2,2012,MIA-2012-8
+MIA,Defensive Pass Interference,09/16/2012,Oakland,N.Carroll,CB,2,2012,MIA-2012-9
+MIA,Offside on Free Kick,09/16/2012,Oakland,M.Thigpen,WR,2,2012,MIA-2012-10
+MIA,Defensive Pass Interference,09/23/2012,N.Y. Jets,N.Carroll,CB,3,2012,MIA-2012-11
+MIA,Illegal Contact,09/23/2012,N.Y. Jets,S.Smith,CB,3,2012,MIA-2012-12
+MIA,Illegal Block Above the Waist,09/23/2012,N.Y. Jets,N.Carroll,CB,3,2012,MIA-2012-13
+MIA,Illegal Contact,09/23/2012,N.Y. Jets,R.Marshall,CB,3,2012,MIA-2012-14
+MIA,Unsportsmanlike Conduct,09/23/2012,N.Y. Jets,J.Martin,T,3,2012,MIA-2012-15
+MIA,Illegal Block Above the Waist,09/23/2012,N.Y. Jets,T.Nolan,DB,3,2012,MIA-2012-16
+MIA,Defensive Pass Interference,09/23/2012,N.Y. Jets,R.Marshall,CB,3,2012,MIA-2012-17
+MIA,False Start,09/23/2012,N.Y. Jets,J.Jerry,G,3,2012,MIA-2012-18
+MIA,Offensive Pass Interference,09/23/2012,N.Y. Jets,B.Hartline,WR,3,2012,MIA-2012-19
+MIA,Delay of Game,09/23/2012,N.Y. Jets,R.Tannehill,QB,3,2012,MIA-2012-20
+MIA,Defensive Holding,09/23/2012,N.Y. Jets,R.Marshall,CB,3,2012,MIA-2012-21
+MIA,False Start,09/30/2012,Arizona,J.Martin,T,4,2012,MIA-2012-22
+MIA,Illegal Shift,09/30/2012,Arizona,D.Bess,WR,4,2012,MIA-2012-23
+MIA,Offensive Holding,09/30/2012,Arizona,R.Jones,SS,4,2012,MIA-2012-24
+MIA,Defensive Pass Interference,09/30/2012,Arizona,S.Smith,CB,4,2012,MIA-2012-25
+MIA,Offensive Pass Interference,09/30/2012,Arizona,R.Bush,RB,4,2012,MIA-2012-26
+MIA,Defensive Holding,10/07/2012,Cincinnati,S.Smith,CB,5,2012,MIA-2012-27
+MIA,Illegal Shift,10/07/2012,Cincinnati,J.Lane,FB,5,2012,MIA-2012-28
+MIA,Offensive Holding,10/14/2012,St. Louis,R.Incognito,C,6,2012,MIA-2012-29
+MIA,Illegal Use of Hands,10/14/2012,St. Louis,J.Long,T,6,2012,MIA-2012-30
+MIA,Offensive Holding,10/14/2012,St. Louis,J.Long,T,6,2012,MIA-2012-31
+MIA,Unnecessary Roughness,10/14/2012,St. Louis,R.Incognito,C,6,2012,MIA-2012-32
+MIA,False Start,10/14/2012,St. Louis,J.Jerry,G,6,2012,MIA-2012-33
+MIA,Illegal Use of Hands,10/14/2012,St. Louis,J.Trusnik,LB,6,2012,MIA-2012-34
+MIA,Offensive Holding,10/28/2012,N.Y. Jets,R.Incognito,C,8,2012,MIA-2012-35
+MIA,Clipping,10/28/2012,N.Y. Jets,J.Martin,T,8,2012,MIA-2012-36
+MIA,False Start,10/28/2012,N.Y. Jets,M.Moore,QB,8,2012,MIA-2012-37
+MIA,Defensive Holding,10/28/2012,N.Y. Jets,K.Burnett,LB,8,2012,MIA-2012-38
+MIA,Defensive Holding,10/28/2012,N.Y. Jets,J.Wilson,DB,8,2012,MIA-2012-39
+MIA,Defensive Pass Interference,11/04/2012,Indianapolis,K.Misi,OLB,9,2012,MIA-2012-40
+MIA,False Start,11/04/2012,Indianapolis,J.Long,T,9,2012,MIA-2012-41
+MIA,Illegal Shift,11/04/2012,Indianapolis,D.Bess,WR,9,2012,MIA-2012-42
+MIA,Defensive Offside,11/04/2012,Indianapolis,J.Odrick,DT,9,2012,MIA-2012-43
+MIA,Defensive 12 On-field,11/04/2012,Indianapolis,D.Shelby,DE,9,2012,MIA-2012-44
+MIA,False Start,11/04/2012,Indianapolis,M.Pouncey,C,9,2012,MIA-2012-45
+MIA,Offensive Holding,11/04/2012,Indianapolis,A.Fasano,TE,9,2012,MIA-2012-46
+MIA,False Start,11/04/2012,Indianapolis,R.Incognito,C,9,2012,MIA-2012-47
+MIA,Offensive Holding,11/04/2012,Indianapolis,M.Moore,QB,9,2012,MIA-2012-48
+MIA,False Start,11/04/2012,Indianapolis,M.Pouncey,C,9,2012,MIA-2012-49
+MIA,Offensive Holding,11/04/2012,Indianapolis,J.Long,T,9,2012,MIA-2012-50
+MIA,Offensive Holding,11/11/2012,Tennessee,A.Fasano,TE,10,2012,MIA-2012-51
+MIA,Offensive Holding,11/11/2012,Tennessee,J.Long,T,10,2012,MIA-2012-52
+MIA,Player Out of Bounds on Punt,11/11/2012,Tennessee,M.Moore,QB,10,2012,MIA-2012-53
+MIA,Unnecessary Roughness,11/11/2012,Tennessee,R.Incognito,C,10,2012,MIA-2012-54
+MIA,Illegal Block Above the Waist,11/11/2012,Tennessee,J.Wilson,DB,10,2012,MIA-2012-55
+MIA,Illegal Block Above the Waist,11/11/2012,Tennessee,B.McCann,DB,10,2012,MIA-2012-56
+MIA,Illegal Block Above the Waist,11/11/2012,Tennessee,O.Vernon,DE,10,2012,MIA-2012-57
+MIA,Offensive Holding,11/11/2012,Tennessee,M.Pouncey,C,10,2012,MIA-2012-58
+MIA,Running Into the Kicker,11/11/2012,Tennessee,M.Moore,QB,10,2012,MIA-2012-59
+MIA,Defensive Pass Interference,11/15/2012,Buffalo,N.Carroll,CB,11,2012,MIA-2012-60
+MIA,Defensive Pass Interference,11/15/2012,Buffalo,N.Carroll,CB,11,2012,MIA-2012-61
+MIA,Illegal Contact,11/15/2012,Buffalo,N.Carroll,CB,11,2012,MIA-2012-62
+MIA,Defensive Pass Interference,11/15/2012,Buffalo,S.Smith,CB,11,2012,MIA-2012-63
+MIA,Defensive Holding,11/15/2012,Buffalo,N.Carroll,CB,11,2012,MIA-2012-64
+MIA,Offensive Pass Interference,11/15/2012,Buffalo,B.Hartline,WR,11,2012,MIA-2012-65
+MIA,Offensive Holding,11/25/2012,Seattle,M.Pouncey,C,12,2012,MIA-2012-66
+MIA,Illegal Motion,11/25/2012,Seattle,R.Matthews,WR,12,2012,MIA-2012-67
+MIA,Low Block,12/02/2012,New England,R.Bush,RB,13,2012,MIA-2012-68
+MIA,Offensive Holding,12/02/2012,New England,J.Jerry,G,13,2012,MIA-2012-69
+MIA,Roughing the Kicker,12/02/2012,New England,J.Wilson,DB,13,2012,MIA-2012-70
+MIA,Defensive Pass Interference,12/02/2012,New England,R.Jones,SS,13,2012,MIA-2012-71
+MIA,Offensive Holding,12/02/2012,New England,A.Fasano,TE,13,2012,MIA-2012-72
+MIA,False Start,12/02/2012,New England,B.Hartline,WR,13,2012,MIA-2012-73
+MIA,Defensive Pass Interference,12/02/2012,New England,K.Dansby,ILB,13,2012,MIA-2012-74
+MIA,Face Mask (15 Yards),12/02/2012,New England,C.Clemons,DB,13,2012,MIA-2012-75
+MIA,False Start,12/09/2012,San Francisco,J.Martin,T,14,2012,MIA-2012-76
+MIA,False Start,12/09/2012,San Francisco,N.Garner,G,14,2012,MIA-2012-77
+MIA,Unnecessary Roughness,12/09/2012,San Francisco,C.Clemons,DB,14,2012,MIA-2012-78
+MIA,Offensive Holding,12/09/2012,San Francisco,R.Bush,RB,14,2012,MIA-2012-79
+MIA,Defensive Pass Interference,12/09/2012,San Francisco,S.Smith,CB,14,2012,MIA-2012-80
+MIA,False Start,12/16/2012,Jacksonville,N.Garner,G,15,2012,MIA-2012-81
+MIA,Defensive Pass Interference,12/16/2012,Jacksonville,S.Smith,CB,15,2012,MIA-2012-82
+MIA,Defensive Offside,12/16/2012,Jacksonville,J.Odrick,DT,15,2012,MIA-2012-83
+MIA,False Start,12/16/2012,Jacksonville,J.Lane,FB,15,2012,MIA-2012-84
+MIA,Offensive Holding,12/16/2012,Jacksonville,L.Miller,RB,15,2012,MIA-2012-85
+MIA,Neutral Zone Infraction,12/23/2012,Buffalo,R.Starks,DT,16,2012,MIA-2012-86
+MIA,Roughing the Passer,12/23/2012,Buffalo,J.Odrick,DT,16,2012,MIA-2012-87
+MIA,Defensive Offside,12/23/2012,Buffalo,J.Odrick,DT,16,2012,MIA-2012-88
+MIA,Offensive Holding,12/30/2012,New England,J.Amaya,DB,17,2012,MIA-2012-89
+MIA,Offensive Holding,12/30/2012,New England,N.Garner,G,17,2012,MIA-2012-90
+MIA,Defensive Holding,12/30/2012,New England,S.Smith,CB,17,2012,MIA-2012-91

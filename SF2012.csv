@@ -1,0 +1,133 @@
+team,penalty,game,opponent,player,position,week,year,penaltyindex
+SF,Illegal Block Above the Waist,09/09/2012,Green Bay,C.Spillman,DB,1,2012,SF-2012-0
+SF,Unsportsmanlike Conduct,09/09/2012,Green Bay,Ald.Smith,DE,1,2012,SF-2012-1
+SF,Defensive Offside,09/09/2012,Green Bay,Ald.Smith,DE,1,2012,SF-2012-2
+SF,Defensive Pass Interference,09/09/2012,Green Bay,D.Goldson,DB,1,2012,SF-2012-3
+SF,False Start,09/09/2012,Green Bay,W.Tukuafu,FB,1,2012,SF-2012-4
+SF,Offensive Holding,09/09/2012,Green Bay,J.Staley,T,1,2012,SF-2012-5
+SF,Defensive Pass Interference,09/09/2012,Green Bay,C.Rogers,CB,1,2012,SF-2012-6
+SF,Neutral Zone Infraction,09/09/2012,Green Bay,A.Brooks,OLB,1,2012,SF-2012-7
+SF,Offensive Offside,09/16/2012,Detroit,D.Dobbs,DE,2,2012,SF-2012-8
+SF,Defensive Pass Interference,09/16/2012,Detroit,C.Culliver,DB,2,2012,SF-2012-9
+SF,Offensive Holding,09/16/2012,Detroit,D.Kilgore,C,2,2012,SF-2012-10
+SF,Defensive Holding,09/16/2012,Detroit,C.Rogers,CB,2,2012,SF-2012-11
+SF,Offensive Holding,09/16/2012,Detroit,D.Walker,TE,2,2012,SF-2012-12
+SF,Face Mask (15 Yards),09/23/2012,Minnesota,C.Culliver,DB,3,2012,SF-2012-13
+SF,Delay of Game,09/23/2012,Minnesota,A.Smith,QB,3,2012,SF-2012-14
+SF,Unnecessary Roughness,09/23/2012,Minnesota,D.Goldson,DB,3,2012,SF-2012-15
+SF,Illegal Touch Kick,09/30/2012,N.Y. Jets,C.Spillman,DB,4,2012,SF-2012-16
+SF,Illegal Block Above the Waist,09/30/2012,N.Y. Jets,A.Dixon,RB,4,2012,SF-2012-17
+SF,False Start,09/30/2012,N.Y. Jets,L.Davis,G,4,2012,SF-2012-18
+SF,Unnecessary Roughness,09/30/2012,N.Y. Jets,A.Davis,T,4,2012,SF-2012-19
+SF,Unnecessary Roughness,09/30/2012,N.Y. Jets,Ald.Smith,DE,4,2012,SF-2012-20
+SF,Illegal Use of Hands,09/30/2012,N.Y. Jets,C.Rogers,CB,4,2012,SF-2012-21
+SF,Defensive Holding,09/30/2012,N.Y. Jets,T.Brown,DB,4,2012,SF-2012-22
+SF,Offensive Holding,10/07/2012,Buffalo,M.Iupati,G,5,2012,SF-2012-23
+SF,False Start,10/07/2012,Buffalo,J.Staley,T,5,2012,SF-2012-24
+SF,Chop Block,10/07/2012,Buffalo,F.Gore,RB,5,2012,SF-2012-25
+SF,False Start,10/07/2012,Buffalo,M.Iupati,G,5,2012,SF-2012-26
+SF,Tripping,10/07/2012,Buffalo,D.Walker,TE,5,2012,SF-2012-27
+SF,False Start,10/07/2012,Buffalo,F.Gore,RB,5,2012,SF-2012-28
+SF,Offensive Holding,10/07/2012,Buffalo,C.Spillman,DB,5,2012,SF-2012-29
+SF,False Start,10/14/2012,N.Y. Giants,J.Goodwin,C,6,2012,SF-2012-30
+SF,Offensive Holding,10/14/2012,N.Y. Giants,M.Iupati,G,6,2012,SF-2012-31
+SF,Delay of Game,10/14/2012,N.Y. Giants,A.Lee,P,6,2012,SF-2012-32
+SF,Defensive Pass Interference,10/14/2012,N.Y. Giants,T.Brown,DB,6,2012,SF-2012-33
+SF,False Start,10/14/2012,N.Y. Giants,L.Davis,G,6,2012,SF-2012-34
+SF,Delay of Game,10/14/2012,N.Y. Giants,A.Smith,QB,6,2012,SF-2012-35
+SF,Defensive Offside,10/14/2012,N.Y. Giants,T.Brown,DB,6,2012,SF-2012-36
+SF,Defensive Offside,10/18/2012,Seattle,R.McDonald,DE,7,2012,SF-2012-37
+SF,Unsportsmanlike Conduct,10/18/2012,Seattle,D.Goldson,DB,7,2012,SF-2012-38
+SF,False Start,10/18/2012,Seattle,J.Staley,T,7,2012,SF-2012-39
+SF,Unnecessary Roughness,10/18/2012,Seattle,L.Grant,LB,7,2012,SF-2012-40
+SF,Illegal Formation,10/18/2012,Seattle,D.Dobbs,DE,7,2012,SF-2012-41
+SF,Tripping,10/18/2012,Seattle,A.Davis,T,7,2012,SF-2012-42
+SF,Face Mask (15 Yards),10/29/2012,Arizona,A.Boone,G,8,2012,SF-2012-43
+SF,Delay of Game,10/29/2012,Arizona,A.Smith,QB,8,2012,SF-2012-44
+SF,Unsportsmanlike Conduct,10/29/2012,Arizona,C.Spillman,DB,8,2012,SF-2012-45
+SF,Offensive Holding,10/29/2012,Arizona,G.Celek,TE,8,2012,SF-2012-46
+SF,False Start,10/29/2012,Arizona,M.Iupati,G,8,2012,SF-2012-47
+SF,Defensive Offside,10/29/2012,Arizona,Ald.Smith,DE,8,2012,SF-2012-48
+SF,Defensive Offside,10/29/2012,Arizona,A.Brooks,OLB,8,2012,SF-2012-49
+SF,Offensive Holding,10/29/2012,Arizona,L.Grant,LB,8,2012,SF-2012-50
+SF,Illegal Block Above the Waist,10/29/2012,Arizona,A.Dixon,RB,8,2012,SF-2012-51
+SF,Delay of Game,10/29/2012,Arizona,A.Smith,QB,8,2012,SF-2012-52
+SF,Defensive Offside,10/29/2012,Arizona,A.Brooks,OLB,8,2012,SF-2012-53
+SF,Face Mask (15 Yards),11/11/2012,St. Louis,R.McDonald,DE,10,2012,SF-2012-54
+SF,Illegal Formation,11/11/2012,St. Louis,K.Williams,WR,10,2012,SF-2012-55
+SF,Offensive Holding,11/11/2012,St. Louis,C.Culliver,DB,10,2012,SF-2012-56
+SF,Offensive Holding,11/11/2012,St. Louis,J.Goodwin,C,10,2012,SF-2012-57
+SF,Unsportsmanlike Conduct,11/11/2012,St. Louis,D.Goldson,DB,10,2012,SF-2012-58
+SF,Roughing the Passer,11/11/2012,St. Louis,R.McDonald,DE,10,2012,SF-2012-59
+SF,Neutral Zone Infraction,11/11/2012,St. Louis,A.Brooks,OLB,10,2012,SF-2012-60
+SF,Defensive Holding,11/11/2012,St. Louis,P.Willis,ILB,10,2012,SF-2012-61
+SF,Offensive Holding,11/19/2012,Chicago,D.Dobbs,DE,11,2012,SF-2012-62
+SF,False Start,11/19/2012,Chicago,M.Iupati,G,11,2012,SF-2012-63
+SF,Unnecessary Roughness,11/19/2012,Chicago,C.Spillman,DB,11,2012,SF-2012-64
+SF,Illegal Block Above the Waist,11/19/2012,Chicago,A.Dixon,RB,11,2012,SF-2012-65
+SF,Illegal Use of Hands,11/19/2012,Chicago,Ald.Smith,DE,11,2012,SF-2012-66
+SF,Offensive Holding,11/25/2012,New Orleans,J.Goodwin,C,12,2012,SF-2012-67
+SF,Neutral Zone Infraction,11/25/2012,New Orleans,Ald.Smith,DE,12,2012,SF-2012-68
+SF,Illegal Contact,11/25/2012,New Orleans,T.Brown,DB,12,2012,SF-2012-69
+SF,Offensive Holding,11/25/2012,New Orleans,A.Davis,T,12,2012,SF-2012-70
+SF,Defensive Pass Interference,11/25/2012,New Orleans,T.Brown,DB,12,2012,SF-2012-71
+SF,Defensive Holding,11/25/2012,New Orleans,C.Culliver,DB,12,2012,SF-2012-72
+SF,Offensive Holding,11/25/2012,New Orleans,L.Davis,G,12,2012,SF-2012-73
+SF,Defensive Holding,11/25/2012,New Orleans,C.Culliver,DB,12,2012,SF-2012-74
+SF,Offensive Holding,11/25/2012,New Orleans,M.Iupati,G,12,2012,SF-2012-75
+SF,Unnecessary Roughness,12/02/2012,St. Louis,N.Bowman,ILB,13,2012,SF-2012-76
+SF,Offensive Holding,12/02/2012,St. Louis,J.Staley,T,13,2012,SF-2012-77
+SF,Defensive Holding,12/02/2012,St. Louis,N.Bowman,ILB,13,2012,SF-2012-78
+SF,False Start,12/02/2012,St. Louis,C.Spillman,DB,13,2012,SF-2012-79
+SF,Intentional Grounding,12/02/2012,St. Louis,C.Kaepernick,QB,13,2012,SF-2012-80
+SF,Defensive Holding,12/02/2012,St. Louis,J.Smith,DE,13,2012,SF-2012-81
+SF,Offensive Holding,12/02/2012,St. Louis,M.Iupati,G,13,2012,SF-2012-82
+SF,Illegal Motion,12/02/2012,St. Louis,W.Tukuafu,FB,13,2012,SF-2012-83
+SF,Offensive Holding,12/02/2012,St. Louis,D.Walker,TE,13,2012,SF-2012-84
+SF,Unnecessary Roughness,12/02/2012,St. Louis,D.Goldson,DB,13,2012,SF-2012-85
+SF,Offensive Holding,12/02/2012,St. Louis,D.Kilgore,C,13,2012,SF-2012-86
+SF,False Start,12/02/2012,St. Louis,T.Brock,CB,13,2012,SF-2012-87
+SF,False Start,12/09/2012,Miami,A.Boone,G,14,2012,SF-2012-88
+SF,Defensive Holding,12/09/2012,Miami,T.Brown,DB,14,2012,SF-2012-89
+SF,Offensive Holding,12/09/2012,Miami,M.Iupati,G,14,2012,SF-2012-90
+SF,Illegal Contact,12/09/2012,Miami,T.Brown,DB,14,2012,SF-2012-91
+SF,Neutral Zone Infraction,12/09/2012,Miami,Ald.Smith,DE,14,2012,SF-2012-92
+SF,Defensive Pass Interference,12/09/2012,Miami,C.Culliver,DB,14,2012,SF-2012-93
+SF,Roughing the Passer,12/09/2012,Miami,N.Bowman,ILB,14,2012,SF-2012-94
+SF,Illegal Touch Pass,12/16/2012,New England,M.Crabtree,WR,15,2012,SF-2012-95
+SF,Offensive Holding,12/16/2012,New England,M.Wilhoite,ILB,15,2012,SF-2012-96
+SF,Offensive Pass Interference,12/16/2012,New England,R.Moss,WR,15,2012,SF-2012-97
+SF,Unnecessary Roughness,12/16/2012,New England,D.Goldson,DB,15,2012,SF-2012-98
+SF,Defensive Pass Interference,12/16/2012,New England,T.Brown,DB,15,2012,SF-2012-99
+SF,Illegal Use of Hands,12/16/2012,New England,A.Boone,G,15,2012,SF-2012-100
+SF,Encroachment,12/16/2012,New England,R.Jean Francois,DT,15,2012,SF-2012-101
+SF,Unnecessary Roughness,12/23/2012,Seattle,T.Brock,CB,16,2012,SF-2012-102
+SF,Delay of Game,12/23/2012,Seattle,C.Kaepernick,QB,16,2012,SF-2012-103
+SF,Delay of Game,12/23/2012,Seattle,C.Kaepernick,QB,16,2012,SF-2012-104
+SF,Ineligible Downfield Pass,12/23/2012,Seattle,J.Staley,T,16,2012,SF-2012-105
+SF,Unnecessary Roughness,12/23/2012,Seattle,C.Culliver,DB,16,2012,SF-2012-106
+SF,Defensive Offside,12/23/2012,Seattle,A.Brooks,OLB,16,2012,SF-2012-107
+SF,Defensive Holding,12/23/2012,Seattle,T.Brown,DB,16,2012,SF-2012-108
+SF,Unnecessary Roughness,12/23/2012,Seattle,A.Davis,T,16,2012,SF-2012-109
+SF,False Start,12/30/2012,Arizona,M.Crabtree,WR,17,2012,SF-2012-110
+SF,False Start,12/30/2012,Arizona,M.Iupati,G,17,2012,SF-2012-111
+SF,Unnecessary Roughness,12/30/2012,Arizona,Ald.Smith,DE,17,2012,SF-2012-112
+SF,Offensive Holding,01/12/2013,Green Bay,C.Culliver,DB,19,2012,SF-2012-113
+SF,False Start,01/12/2013,Green Bay,V.Davis,TE,19,2012,SF-2012-114
+SF,Defensive Pass Interference,01/12/2013,Green Bay,C.Culliver,DB,19,2012,SF-2012-115
+SF,Taunting,01/12/2013,Green Bay,C.Kaepernick,QB,19,2012,SF-2012-116
+SF,Unnecessary Roughness,01/12/2013,Green Bay,D.Goldson,DB,19,2012,SF-2012-117
+SF,Defensive Offside,01/12/2013,Green Bay,J.Smith,DE,19,2012,SF-2012-118
+SF,Offensive Holding,01/12/2013,Green Bay,B.Miller,FB,19,2012,SF-2012-119
+SF,Defensive Pass Interference,01/12/2013,Green Bay,T.Brown,DB,19,2012,SF-2012-120
+SF,Delay of Game,01/20/2013,Atlanta,C.Kaepernick,QB,20,2012,SF-2012-121
+SF,Delay of Game,01/20/2013,Atlanta,C.Kaepernick,QB,20,2012,SF-2012-122
+SF,Offensive Holding,01/20/2013,Atlanta,M.Iupati,G,20,2012,SF-2012-123
+SF,Illegal Contact,01/20/2013,Atlanta,C.Culliver,DB,20,2012,SF-2012-124
+SF,Illegal Formation,02/03/2013,Baltimore,V.Davis,TE,21,2012,SF-2012-125
+SF,Defensive Offside,02/03/2013,Baltimore,A.Brooks,OLB,21,2012,SF-2012-126
+SF,Face Mask (15 Yards),02/03/2013,Baltimore,D.Whitner,SS,21,2012,SF-2012-127
+SF,Unnecessary Roughness,02/03/2013,Baltimore,J.Staley,T,21,2012,SF-2012-128
+SF,Defensive Pass Interference,02/03/2013,Baltimore,C.Culliver,DB,21,2012,SF-2012-129
+SF,Defensive Offside,02/03/2013,Baltimore,Ald.Smith,DE,21,2012,SF-2012-130
+SF,Defensive Offside,02/03/2013,Baltimore,A.Brooks,OLB,21,2012,SF-2012-131

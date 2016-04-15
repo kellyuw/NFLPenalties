@@ -1,0 +1,134 @@
+team,penalty,game,opponent,player,position,week,year,penaltyindex
+CHI,Offensive Holding,09/07/2014,Buffalo,R.Garza,C,1,2014,CHI-2014-0
+CHI,Offensive Pass Interference,09/07/2014,Buffalo,M.Mulligan,TE,1,2014,CHI-2014-1
+CHI,Illegal Use of Hands,09/07/2014,Buffalo,A.Jeffery,WR,1,2014,CHI-2014-2
+CHI,Illegal Use of Hands,09/07/2014,Buffalo,R.Garza,C,1,2014,CHI-2014-3
+CHI,Offensive Holding,09/07/2014,Buffalo,J.Morgan,WR,1,2014,CHI-2014-4
+CHI,Offensive Pass Interference,09/07/2014,Buffalo,S.Holmes,WR,1,2014,CHI-2014-5
+CHI,Horse Collar Tackle,09/07/2014,Buffalo,B.Marshall,WR,1,2014,CHI-2014-6
+CHI,Offensive Holding,09/14/2014,San Francisco,S.Draughn,RB,2,2014,CHI-2014-7
+CHI,Neutral Zone Infraction,09/14/2014,San Francisco,W.Young,LB,2,2014,CHI-2014-8
+CHI,Defensive Holding,09/14/2014,San Francisco,K.Fuller,CB,2,2014,CHI-2014-9
+CHI,Defensive Holding,09/14/2014,San Francisco,L.Houston,LB,2,2014,CHI-2014-10
+CHI,Offensive Holding,09/14/2014,San Francisco,C.Jones,ILB,2,2014,CHI-2014-11
+CHI,Offensive Holding,09/14/2014,San Francisco,J.Mills,T,2,2014,CHI-2014-12
+CHI,Player Out of Bounds on Punt,09/14/2014,San Francisco,S.Perry,RB,2,2014,CHI-2014-13
+CHI,Offensive Holding,09/14/2014,San Francisco,S.Draughn,RB,2,2014,CHI-2014-14
+CHI,Illegal Use of Hands,09/14/2014,San Francisco,J.Bostic,OLB,2,2014,CHI-2014-15
+CHI,Delay of Game,09/14/2014,San Francisco,P.O'Donnell,P,2,2014,CHI-2014-16
+CHI,Illegal Touch Pass,09/14/2014,San Francisco,M.Forte,RB,2,2014,CHI-2014-17
+CHI,Defensive Offside,09/14/2014,San Francisco,E.Ferguson,DT,2,2014,CHI-2014-18
+CHI,Delay of Game,09/14/2014,San Francisco,J.Cutler,QB,2,2014,CHI-2014-19
+CHI,False Start,09/14/2014,San Francisco,J.Mills,T,2,2014,CHI-2014-20
+CHI,Illegal Use of Hands,09/14/2014,San Francisco,R.Mundy,SS,2,2014,CHI-2014-21
+CHI,Unnecessary Roughness,09/22/2014,N.Y. Jets,W.Sutton,DT,3,2014,CHI-2014-22
+CHI,False Start,09/22/2014,N.Y. Jets,R.Mundy,SS,3,2014,CHI-2014-23
+CHI,Unsportsmanlike Conduct,09/22/2014,N.Y. Jets,L.Houston,LB,3,2014,CHI-2014-24
+CHI,Unnecessary Roughness,09/22/2014,N.Y. Jets,D.McCray,DB,3,2014,CHI-2014-25
+CHI,Illegal Use of Hands,09/22/2014,N.Y. Jets,M.Ola,T,3,2014,CHI-2014-26
+CHI,Illegal Block Above the Waist,09/22/2014,N.Y. Jets,C.Jones,ILB,3,2014,CHI-2014-27
+CHI,False Start,09/22/2014,N.Y. Jets,J.Bushrod,T,3,2014,CHI-2014-28
+CHI,Unnecessary Roughness,09/22/2014,N.Y. Jets,T.Manning,OLB,3,2014,CHI-2014-29
+CHI,Defensive Holding,09/22/2014,N.Y. Jets,J.Bostic,OLB,3,2014,CHI-2014-30
+CHI,False Start,09/28/2014,Green Bay,K.Long,G,4,2014,CHI-2014-31
+CHI,Unnecessary Roughness,09/28/2014,Green Bay,D.Williams,LB,4,2014,CHI-2014-32
+CHI,Unnecessary Roughness,09/28/2014,Green Bay,K.Long,G,4,2014,CHI-2014-33
+CHI,Defensive Holding,09/28/2014,Green Bay,J.Bostic,OLB,4,2014,CHI-2014-34
+CHI,Personal Foul,10/05/2014,Carolina,T.Manning,OLB,5,2014,CHI-2014-35
+CHI,Interference with Opportunity to Catch,10/05/2014,Carolina,T.Williams,DB,5,2014,CHI-2014-36
+CHI,Offensive Holding,10/05/2014,Carolina,B.De La Puente,C,5,2014,CHI-2014-37
+CHI,False Start,10/05/2014,Carolina,A.Jeffery,WR,5,2014,CHI-2014-38
+CHI,Face Mask (15 Yards),10/05/2014,Carolina,C.Jones,ILB,5,2014,CHI-2014-39
+CHI,Defensive Pass Interference,10/05/2014,Carolina,K.Fuller,CB,5,2014,CHI-2014-40
+CHI,Personal Foul,10/05/2014,Carolina,A.Jeffery,WR,5,2014,CHI-2014-41
+CHI,False Start,10/05/2014,Carolina,D.Rosario,TE,5,2014,CHI-2014-42
+CHI,False Start,10/05/2014,Carolina,K.Long,G,5,2014,CHI-2014-43
+CHI,False Start,10/12/2014,Atlanta,J.Mills,T,6,2014,CHI-2014-44
+CHI,Illegal Formation,10/12/2014,Atlanta,J.Mills,T,6,2014,CHI-2014-45
+CHI,False Start,10/12/2014,Atlanta,S.Holmes,WR,6,2014,CHI-2014-46
+CHI,Offensive Holding,10/12/2014,Atlanta,E.Britton,T,6,2014,CHI-2014-47
+CHI,False Start,10/12/2014,Atlanta,J.Mills,T,6,2014,CHI-2014-48
+CHI,Offensive Holding,10/12/2014,Atlanta,T.Williams,DB,6,2014,CHI-2014-49
+CHI,Illegal Use of Hands,10/12/2014,Atlanta,J.Allen,LB,6,2014,CHI-2014-50
+CHI,Defensive Holding,10/12/2014,Atlanta,W.Young,LB,6,2014,CHI-2014-51
+CHI,Offensive Holding,10/12/2014,Atlanta,S.Perry,RB,6,2014,CHI-2014-52
+CHI,Illegal Touch Pass,10/12/2014,Atlanta,A.Jeffery,WR,6,2014,CHI-2014-53
+CHI,Offensive Holding,10/19/2014,Miami,J.Mills,T,7,2014,CHI-2014-54
+CHI,Defensive Holding,10/19/2014,Miami,K.Fuller,CB,7,2014,CHI-2014-55
+CHI,Offensive Pass Interference,10/19/2014,Miami,B.Marshall,WR,7,2014,CHI-2014-56
+CHI,False Start,10/19/2014,Miami,J.Mills,T,7,2014,CHI-2014-57
+CHI,Offensive Holding,10/26/2014,New England,M.Bennett,TE,8,2014,CHI-2014-58
+CHI,False Start,10/26/2014,New England,M.Slauson,G,8,2014,CHI-2014-59
+CHI,Defensive Pass Interference,10/26/2014,New England,A.Louis,DB,8,2014,CHI-2014-60
+CHI,Unnecessary Roughness,10/26/2014,New England,K.Long,G,8,2014,CHI-2014-61
+CHI,Offensive Holding,10/26/2014,New England,T.Scott,DE,8,2014,CHI-2014-62
+CHI,Illegal Block Above the Waist,11/09/2014,Green Bay,C.Jones,ILB,10,2014,CHI-2014-63
+CHI,False Start,11/09/2014,Green Bay,J.Bushrod,T,10,2014,CHI-2014-64
+CHI,Delay of Game,11/09/2014,Green Bay,J.Cutler,QB,10,2014,CHI-2014-65
+CHI,Unnecessary Roughness,11/09/2014,Green Bay,J.Mills,T,10,2014,CHI-2014-66
+CHI,Defensive Pass Interference,11/09/2014,Green Bay,T.Jennings,DB,10,2014,CHI-2014-67
+CHI,Unnecessary Roughness,11/09/2014,Green Bay,K.Fuller,CB,10,2014,CHI-2014-68
+CHI,Offensive Holding,11/09/2014,Green Bay,A.Dixon,SS,10,2014,CHI-2014-69
+CHI,Personal Foul,11/09/2014,Green Bay,T.Williams,DB,10,2014,CHI-2014-70
+CHI,False Start,11/09/2014,Green Bay,J.Bushrod,T,10,2014,CHI-2014-71
+CHI,Defensive Pass Interference,11/09/2014,Green Bay,K.Fuller,CB,10,2014,CHI-2014-72
+CHI,Offensive Holding,11/09/2014,Green Bay,K.Long,G,10,2014,CHI-2014-73
+CHI,Delay of Game,11/09/2014,Green Bay,J.Clausen,QB,10,2014,CHI-2014-74
+CHI,Defensive Offside,11/16/2014,Minnesota,W.Young,LB,11,2014,CHI-2014-75
+CHI,Illegal Formation,11/16/2014,Minnesota,M.Bennett,TE,11,2014,CHI-2014-76
+CHI,False Start,11/16/2014,Minnesota,K.Long,G,11,2014,CHI-2014-77
+CHI,Unsportsmanlike Conduct,11/16/2014,Minnesota,J.Cutler,QB,11,2014,CHI-2014-78
+CHI,Offensive Pass Interference,11/16/2014,Minnesota,M.Bennett,TE,11,2014,CHI-2014-79
+CHI,Illegal Block Above the Waist,11/16/2014,Minnesota,C.Jones,ILB,11,2014,CHI-2014-80
+CHI,Offensive Holding,11/16/2014,Minnesota,B.De La Puente,C,11,2014,CHI-2014-81
+CHI,False Start,11/23/2014,Tampa Bay,B.Marshall,WR,12,2014,CHI-2014-82
+CHI,Illegal Block Above the Waist,11/23/2014,Tampa Bay,B.Marshall,WR,12,2014,CHI-2014-83
+CHI,Illegal Block Above the Waist,11/23/2014,Tampa Bay,B.Marshall,WR,12,2014,CHI-2014-84
+CHI,Offensive Holding,11/23/2014,Tampa Bay,R.Mundy,SS,12,2014,CHI-2014-85
+CHI,Illegal Block Above the Waist,11/23/2014,Tampa Bay,B.Vereen,FS,12,2014,CHI-2014-86
+CHI,False Start,11/23/2014,Tampa Bay,A.Jeffery,WR,12,2014,CHI-2014-87
+CHI,Defensive Offside,11/23/2014,Tampa Bay,J.Allen,LB,12,2014,CHI-2014-88
+CHI,False Start,11/23/2014,Tampa Bay,C.Jones,ILB,12,2014,CHI-2014-89
+CHI,Encroachment,11/27/2014,Detroit,E.Ferguson,DT,13,2014,CHI-2014-90
+CHI,Offensive Holding,11/27/2014,Detroit,R.Garza,C,13,2014,CHI-2014-91
+CHI,Unnecessary Roughness,11/27/2014,Detroit,T.Jennings,DB,13,2014,CHI-2014-92
+CHI,Offensive Holding,11/27/2014,Detroit,R.Garza,C,13,2014,CHI-2014-93
+CHI,Roughing the Passer,11/27/2014,Detroit,W.Young,LB,13,2014,CHI-2014-94
+CHI,Illegal Forward Pass,11/27/2014,Detroit,B.Marshall,WR,13,2014,CHI-2014-95
+CHI,Illegal Touch Kick,12/04/2014,Dallas,S.Perry,RB,14,2014,CHI-2014-96
+CHI,False Start,12/04/2014,Dallas,A.Jeffery,WR,14,2014,CHI-2014-97
+CHI,Offensive Holding,12/04/2014,Dallas,M.Ola,T,14,2014,CHI-2014-98
+CHI,False Start,12/04/2014,Dallas,C.Jones,ILB,14,2014,CHI-2014-99
+CHI,Defensive Holding,12/04/2014,Dallas,A.Louis,DB,14,2014,CHI-2014-100
+CHI,Illegal Block Above the Waist,12/04/2014,Dallas,A.Walters,DB,14,2014,CHI-2014-101
+CHI,Illegal Use of Hands,12/04/2014,Dallas,R.Mundy,SS,14,2014,CHI-2014-102
+CHI,Offside on Free Kick,12/04/2014,Dallas,A.Walters,DB,14,2014,CHI-2014-103
+CHI,Ineligible Downfield Pass,12/04/2014,Dallas,K.Long,G,14,2014,CHI-2014-104
+CHI,Offside on Free Kick,12/04/2014,Dallas,D.Lattimore,ILB,14,2014,CHI-2014-105
+CHI,Offensive Holding,12/15/2014,New Orleans,S.Perry,RB,15,2014,CHI-2014-106
+CHI,Defensive Holding,12/15/2014,New Orleans,J.Allen,LB,15,2014,CHI-2014-107
+CHI,Offensive Holding,12/15/2014,New Orleans,M.Bennett,TE,15,2014,CHI-2014-108
+CHI,Defensive Pass Interference,12/15/2014,New Orleans,K.Fuller,CB,15,2014,CHI-2014-109
+CHI,False Start,12/15/2014,New Orleans,J.Mills,T,15,2014,CHI-2014-110
+CHI,Tripping,12/15/2014,New Orleans,S.McClellin,OLB,15,2014,CHI-2014-111
+CHI,Illegal Use of Hands,12/15/2014,New Orleans,W.Young,LB,15,2014,CHI-2014-112
+CHI,False Start,12/15/2014,New Orleans,A.Jeffery,WR,15,2014,CHI-2014-113
+CHI,False Start,12/15/2014,New Orleans,M.Wilson,WR,15,2014,CHI-2014-114
+CHI,Illegal Block Above the Waist,12/15/2014,New Orleans,D.McCray,DB,15,2014,CHI-2014-115
+CHI,Offensive Pass Interference,12/15/2014,New Orleans,M.Bennett,TE,15,2014,CHI-2014-116
+CHI,Defensive Pass Interference,12/21/2014,Detroit,K.Fuller,CB,16,2014,CHI-2014-117
+CHI,Offensive Pass Interference,12/21/2014,Detroit,M.Bennett,TE,16,2014,CHI-2014-118
+CHI,Unsportsmanlike Conduct,12/21/2014,Detroit,M.Bennett,TE,16,2014,CHI-2014-119
+CHI,Neutral Zone Infraction,12/21/2014,Detroit,J.Allen,LB,16,2014,CHI-2014-120
+CHI,False Start,12/21/2014,Detroit,M.Ola,T,16,2014,CHI-2014-121
+CHI,Offensive Holding,12/21/2014,Detroit,M.Forte,RB,16,2014,CHI-2014-122
+CHI,Defensive Pass Interference,12/21/2014,Detroit,T.Jennings,DB,16,2014,CHI-2014-123
+CHI,False Start,12/28/2014,Minnesota,J.Bushrod,T,17,2014,CHI-2014-124
+CHI,Delay of Game,12/28/2014,Minnesota,J.Cutler,QB,17,2014,CHI-2014-125
+CHI,Defensive Offside,12/28/2014,Minnesota,D.Bass,LB,17,2014,CHI-2014-126
+CHI,False Start,12/28/2014,Minnesota,R.Groy,G,17,2014,CHI-2014-127
+CHI,Unsportsmanlike Conduct,12/28/2014,Minnesota,K.Fuller,CB,17,2014,CHI-2014-128
+CHI,Delay of Game,12/28/2014,Minnesota,J.Cutler,QB,17,2014,CHI-2014-129
+CHI,False Start,12/28/2014,Minnesota,A.Jeffery,WR,17,2014,CHI-2014-130
+CHI,Illegal Touch Pass,12/28/2014,Minnesota,J.Morgan,WR,17,2014,CHI-2014-131
+CHI,False Start,12/28/2014,Minnesota,J.Bushrod,T,17,2014,CHI-2014-132

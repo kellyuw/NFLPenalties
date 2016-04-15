@@ -1,0 +1,123 @@
+team,penalty,game,opponent,player,position,week,year,penaltyindex
+TEN,Offensive Holding,09/09/2012,New England,A.Afalava,SS,1,2012,TEN-2012-0
+TEN,Interference with Opportunity to Catch,09/09/2012,New England,T.Campbell,DB,1,2012,TEN-2012-1
+TEN,Offensive Holding,09/09/2012,New England,S.Hutchinson,G,1,2012,TEN-2012-2
+TEN,Defensive Holding,09/16/2012,San Diego,J.McCourty,CB,2,2012,TEN-2012-3
+TEN,Defensive Offside,09/16/2012,San Diego,S.Hutchinson,G,2,2012,TEN-2012-4
+TEN,Neutral Zone Infraction,09/16/2012,San Diego,M.Martin,FS,2,2012,TEN-2012-5
+TEN,Roughing the Passer,09/16/2012,San Diego,K.Wimbley,OLB,2,2012,TEN-2012-6
+TEN,Illegal Block Above the Waist,09/16/2012,San Diego,Q.Johnson,FB,2,2012,TEN-2012-7
+TEN,False Start,09/16/2012,San Diego,F.Velasco,C,2,2012,TEN-2012-8
+TEN,False Start,09/16/2012,San Diego,M.Roos,T,2,2012,TEN-2012-9
+TEN,Offensive Holding,09/16/2012,San Diego,M.Griffin,FS,2,2012,TEN-2012-10
+TEN,Offensive Holding,09/16/2012,San Diego,J.McCourty,CB,2,2012,TEN-2012-11
+TEN,Neutral Zone Infraction,09/16/2012,San Diego,M.Martin,FS,2,2012,TEN-2012-12
+TEN,Defensive Holding,09/23/2012,Detroit,R.Mouton,DB,3,2012,TEN-2012-13
+TEN,Delay of Game,09/23/2012,Detroit,J.Locker,QB,3,2012,TEN-2012-14
+TEN,Illegal Formation,09/23/2012,Detroit,D.Stewart,T,3,2012,TEN-2012-15
+TEN,Roughing the Passer,09/23/2012,Detroit,S.Solomon,LB,3,2012,TEN-2012-16
+TEN,Illegal Motion,09/23/2012,Detroit,C.Stevens,TE,3,2012,TEN-2012-17
+TEN,Roughing the Passer,09/23/2012,Detroit,A.Ayers,LB,3,2012,TEN-2012-18
+TEN,False Start,09/23/2012,Detroit,L.Harris,C,3,2012,TEN-2012-19
+TEN,Illegal Block Above the Waist,09/30/2012,Houston,T.Campbell,DB,4,2012,TEN-2012-20
+TEN,Illegal Block Above the Waist,09/30/2012,Houston,T.Campbell,DB,4,2012,TEN-2012-21
+TEN,Offensive Pass Interference,09/30/2012,Houston,J.Cook,TE,4,2012,TEN-2012-22
+TEN,Defensive Holding,09/30/2012,Houston,A.Ayers,LB,4,2012,TEN-2012-23
+TEN,Offensive Holding,09/30/2012,Houston,D.Stewart,T,4,2012,TEN-2012-24
+TEN,Offensive Holding,09/30/2012,Houston,T.Thompson,TE,4,2012,TEN-2012-25
+TEN,Personal Foul,09/30/2012,Houston,D.Stewart,T,4,2012,TEN-2012-26
+TEN,Personal Foul,09/30/2012,Houston,D.Stewart,T,4,2012,TEN-2012-27
+TEN,Delay of Game,09/30/2012,Houston,M.Hasselbeck,QB,4,2012,TEN-2012-28
+TEN,False Start,10/07/2012,Minnesota,S.Hutchinson,G,5,2012,TEN-2012-29
+TEN,Unnecessary Roughness,10/07/2012,Minnesota,C.Sensabaugh,CB,5,2012,TEN-2012-30
+TEN,False Start,10/07/2012,Minnesota,D.Stewart,T,5,2012,TEN-2012-31
+TEN,False Start,10/07/2012,Minnesota,J.Cook,TE,5,2012,TEN-2012-32
+TEN,Offensive Holding,10/07/2012,Minnesota,M.Roos,T,5,2012,TEN-2012-33
+TEN,Unnecessary Roughness,10/07/2012,Minnesota,M.Griffin,FS,5,2012,TEN-2012-34
+TEN,Offensive Holding,10/07/2012,Minnesota,D.Stewart,T,5,2012,TEN-2012-35
+TEN,Kickoff Out of Bounds,10/07/2012,Minnesota,R.Bironas,K,5,2012,TEN-2012-36
+TEN,Neutral Zone Infraction,10/07/2012,Minnesota,K.Klug,DE,5,2012,TEN-2012-37
+TEN,False Start,10/07/2012,Minnesota,M.Roos,T,5,2012,TEN-2012-38
+TEN,False Start,10/11/2012,Pittsburgh,L.Harris,C,6,2012,TEN-2012-39
+TEN,Offensive Holding,10/11/2012,Pittsburgh,C.Stevens,TE,6,2012,TEN-2012-40
+TEN,Offensive Holding,10/11/2012,Pittsburgh,D.Stewart,T,6,2012,TEN-2012-41
+TEN,False Start,10/11/2012,Pittsburgh,K.Wright,WR,6,2012,TEN-2012-42
+TEN,Illegal Formation,10/11/2012,Pittsburgh,C.Stevens,TE,6,2012,TEN-2012-43
+TEN,Unnecessary Roughness,10/11/2012,Pittsburgh,A.Ayers,LB,6,2012,TEN-2012-44
+TEN,Defensive Pass Interference,10/11/2012,Pittsburgh,R.Mouton,DB,6,2012,TEN-2012-45
+TEN,Defensive Offside,10/11/2012,Pittsburgh,D.Morgan,OLB,6,2012,TEN-2012-46
+TEN,Neutral Zone Infraction,10/21/2012,Buffalo,D.Morgan,OLB,7,2012,TEN-2012-47
+TEN,Unnecessary Roughness,10/21/2012,Buffalo,M.Griffin,FS,7,2012,TEN-2012-48
+TEN,Delay of Game,10/21/2012,Buffalo,M.Hasselbeck,QB,7,2012,TEN-2012-49
+TEN,False Start,10/28/2012,Indianapolis,M.Otto,T,8,2012,TEN-2012-50
+TEN,Offensive Pass Interference,10/28/2012,Indianapolis,K.Britt,WR,8,2012,TEN-2012-51
+TEN,False Start,10/28/2012,Indianapolis,K.Matthews,C,8,2012,TEN-2012-52
+TEN,Defensive Offside,10/28/2012,Indianapolis,M.Martin,FS,8,2012,TEN-2012-53
+TEN,Offensive Pass Interference,10/28/2012,Indianapolis,K.Wright,WR,8,2012,TEN-2012-54
+TEN,Offensive Pass Interference,10/28/2012,Indianapolis,K.Britt,WR,8,2012,TEN-2012-55
+TEN,Roughing the Passer,10/28/2012,Indianapolis,M.Martin,FS,8,2012,TEN-2012-56
+TEN,Illegal Use of Hands,10/28/2012,Indianapolis,A.Ayers,LB,8,2012,TEN-2012-57
+TEN,Illegal Block Above the Waist,11/04/2012,Chicago,J.Harper,RB,9,2012,TEN-2012-58
+TEN,False Start,11/04/2012,Chicago,A.Afalava,SS,9,2012,TEN-2012-59
+TEN,Unnecessary Roughness,11/04/2012,Chicago,T.Wilson,DB,9,2012,TEN-2012-60
+TEN,Horse Collar Tackle,11/04/2012,Chicago,M.Griffin,FS,9,2012,TEN-2012-61
+TEN,Defensive Pass Interference,11/04/2012,Chicago,J.McCourty,CB,9,2012,TEN-2012-62
+TEN,False Start,11/04/2012,Chicago,K.Britt,WR,9,2012,TEN-2012-63
+TEN,Defensive Holding,11/04/2012,Chicago,D.Morgan,OLB,9,2012,TEN-2012-64
+TEN,Horse Collar Tackle,11/04/2012,Chicago,M.Hasselbeck,QB,9,2012,TEN-2012-65
+TEN,Defensive Pass Interference,11/11/2012,Miami,C.Sensabaugh,CB,10,2012,TEN-2012-66
+TEN,Offensive Holding,11/11/2012,Miami,D.Stewart,T,10,2012,TEN-2012-67
+TEN,False Start,11/11/2012,Miami,M.Roos,T,10,2012,TEN-2012-68
+TEN,Encroachment,11/25/2012,Jacksonville,S.Marks,DT,12,2012,TEN-2012-69
+TEN,Defensive Pass Interference,11/25/2012,Jacksonville,C.Sensabaugh,CB,12,2012,TEN-2012-70
+TEN,False Start,11/25/2012,Jacksonville,M.Roos,T,12,2012,TEN-2012-71
+TEN,Offensive Holding,11/25/2012,Jacksonville,T.Wilson,DB,12,2012,TEN-2012-72
+TEN,Delay of Game,11/25/2012,Jacksonville,J.Locker,QB,12,2012,TEN-2012-73
+TEN,Defensive Pass Interference,11/25/2012,Jacksonville,A.Ayers,LB,12,2012,TEN-2012-74
+TEN,Roughing the Passer,11/25/2012,Jacksonville,M.Griffin,FS,12,2012,TEN-2012-75
+TEN,Defensive Offside,12/02/2012,Houston,D.Morgan,OLB,13,2012,TEN-2012-76
+TEN,Delay of Game,12/02/2012,Houston,J.Locker,QB,13,2012,TEN-2012-77
+TEN,Illegal Block Above the Waist,12/02/2012,Houston,M.Griffin,FS,13,2012,TEN-2012-78
+TEN,Offensive Holding,12/02/2012,Houston,D.Lutui,G,13,2012,TEN-2012-79
+TEN,Offensive Holding,12/02/2012,Houston,K.Matthews,C,13,2012,TEN-2012-80
+TEN,Offensive Holding,12/02/2012,Houston,K.Matthews,C,13,2012,TEN-2012-81
+TEN,Offensive Holding,12/09/2012,Indianapolis,C.Stevens,TE,14,2012,TEN-2012-82
+TEN,Offensive Pass Interference,12/09/2012,Indianapolis,K.Britt,WR,14,2012,TEN-2012-83
+TEN,Intentional Grounding,12/09/2012,Indianapolis,J.Locker,QB,14,2012,TEN-2012-84
+TEN,Defensive Offside,12/09/2012,Indianapolis,J.Casey,DT,14,2012,TEN-2012-85
+TEN,Defensive Pass Interference,12/09/2012,Indianapolis,J.Babineaux,SS,14,2012,TEN-2012-86
+TEN,False Start,12/09/2012,Indianapolis,C.Stevens,TE,14,2012,TEN-2012-87
+TEN,Neutral Zone Infraction,12/09/2012,Indianapolis,D.Morgan,OLB,14,2012,TEN-2012-88
+TEN,False Start,12/09/2012,Indianapolis,F.Velasco,C,14,2012,TEN-2012-89
+TEN,False Start,12/09/2012,Indianapolis,F.Velasco,C,14,2012,TEN-2012-90
+TEN,Defensive Offside,12/09/2012,Indianapolis,W.Witherspoon,OLB,14,2012,TEN-2012-91
+TEN,Defensive Holding,12/17/2012,N.Y. Jets,J.Babineaux,SS,15,2012,TEN-2012-92
+TEN,Defensive Pass Interference,12/17/2012,N.Y. Jets,A.Verner,CB,15,2012,TEN-2012-93
+TEN,Face Mask (15 Yards),12/17/2012,N.Y. Jets,J.Babineaux,SS,15,2012,TEN-2012-94
+TEN,Encroachment,12/17/2012,N.Y. Jets,S.Marks,DT,15,2012,TEN-2012-95
+TEN,Offensive Holding,12/17/2012,N.Y. Jets,D.Lutui,G,15,2012,TEN-2012-96
+TEN,Encroachment,12/17/2012,N.Y. Jets,S.Marks,DT,15,2012,TEN-2012-97
+TEN,Offside on Free Kick,12/17/2012,N.Y. Jets,T.Wilson,DB,15,2012,TEN-2012-98
+TEN,Offensive Holding,12/17/2012,N.Y. Jets,F.Velasco,C,15,2012,TEN-2012-99
+TEN,Encroachment,12/17/2012,N.Y. Jets,J.Wynn,DT,15,2012,TEN-2012-100
+TEN,Offensive Holding,12/17/2012,N.Y. Jets,T.Campbell,DB,15,2012,TEN-2012-101
+TEN,Offensive Holding,12/17/2012,N.Y. Jets,J.Babineaux,SS,15,2012,TEN-2012-102
+TEN,Offensive Holding,12/17/2012,N.Y. Jets,A.Afalava,SS,15,2012,TEN-2012-103
+TEN,Offensive Holding,12/17/2012,N.Y. Jets,D.Lutui,G,15,2012,TEN-2012-104
+TEN,Roughing the Passer,12/17/2012,N.Y. Jets,W.Witherspoon,OLB,15,2012,TEN-2012-105
+TEN,Delay of Game,12/23/2012,Green Bay,J.Locker,QB,16,2012,TEN-2012-106
+TEN,Face Mask (15 Yards),12/23/2012,Green Bay,M.Petrus,G,16,2012,TEN-2012-107
+TEN,Intentional Grounding,12/23/2012,Green Bay,J.Locker,QB,16,2012,TEN-2012-108
+TEN,Offensive Holding,12/23/2012,Green Bay,D.Lutui,G,16,2012,TEN-2012-109
+TEN,Neutral Zone Infraction,12/23/2012,Green Bay,A.Ayers,LB,16,2012,TEN-2012-110
+TEN,Offensive Holding,12/23/2012,Green Bay,K.DeVan,C,16,2012,TEN-2012-111
+TEN,Face Mask (15 Yards),12/23/2012,Green Bay,S.Marks,DT,16,2012,TEN-2012-112
+TEN,Offside on Free Kick,12/23/2012,Green Bay,M.Preston,WR,16,2012,TEN-2012-113
+TEN,Illegal Bat,12/30/2012,Jacksonville,D.Reynaud,WR,17,2012,TEN-2012-114
+TEN,Offensive Holding,12/30/2012,Jacksonville,B.Barden,TE,17,2012,TEN-2012-115
+TEN,Illegal Motion,12/30/2012,Jacksonville,N.Washington,WR,17,2012,TEN-2012-116
+TEN,Defensive Pass Interference,12/30/2012,Jacksonville,C.Sensabaugh,CB,17,2012,TEN-2012-117
+TEN,Illegal Block Above the Waist,12/30/2012,Jacksonville,M.Martin,FS,17,2012,TEN-2012-118
+TEN,Offensive Holding,12/30/2012,Jacksonville,Q.Johnson,FB,17,2012,TEN-2012-119
+TEN,Illegal Forward Pass,12/30/2012,Jacksonville,J.Locker,QB,17,2012,TEN-2012-120
+TEN,Face Mask (15 Yards),12/30/2012,Jacksonville,J.Wynn,DT,17,2012,TEN-2012-121
